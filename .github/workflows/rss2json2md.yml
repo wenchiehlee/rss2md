@@ -17,6 +17,6 @@ jobs:
           sortOrder: desc
       - uses: actions/upload-artifact@v3
         with:
-        name: test-json
-        path: feed.json
-        if: always()
+          name: test-json
+          path: feed.json
+          if: always()
