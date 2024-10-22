@@ -19,8 +19,9 @@ jobs:
             https://wenchiehlee.github.io/feed.xml
             https://www.google.com/alerts/feeds/12063940936216578696/8793798168837785642
             https://www.google.com/alerts/feeds/12063940936216578696/8793798168837786674
-      - uses: actions/upload-artifact@v3
-        with:
-          name: verify README
-          path: README.md
-          if: always()
+      #- uses: actions/upload-artifact@v3
+      #  with:
+      #    name: verify README
+      #    path: README.md
+      #    if: always()
+      - uses: sarisia/actions-commit@master
