@@ -24,4 +24,5 @@ jobs:
       #    name: verify README
       #    path: README.md
       #    if: always()
-      - uses: sarisia/actions-commit@master
+      - if: ${{ steps.feed.outputs.changed == true }}
+        uses: sarisia/actions-commit@master
