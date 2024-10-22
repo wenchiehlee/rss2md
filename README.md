@@ -1,1 +1,1 @@
-# rss2json2md
+# rss2md
