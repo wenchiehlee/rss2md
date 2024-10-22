@@ -15,3 +15,9 @@ jobs:
           target: feeds.json # An optional parameter to specify the target. Defaults to feeds.json
           sortBy: isoDate
           sortOrder: desc
+          - name: Upload test summary
+      - uses: actions/upload-artifact@v3
+        with:
+        name: test-json
+        path: feed.json
+        if: always()
