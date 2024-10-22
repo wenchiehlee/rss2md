@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: I-Valchev/rss-to-json@1.0.0
         with:
-          source: feeds.yaml # An optional parameter to specify the source. Defaults to feeds.yaml
+          source: ../../feeds.yaml # An optional parameter to specify the source. Defaults to feeds.yaml
           target: feeds.json # An optional parameter to specify the target. Defaults to feeds.json
           sortBy: isoDate
           sortOrder: desc
