@@ -12,11 +12,11 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         with:
           file: 'README.md'
-        url: |
-          https://wenchiehlee.wordpress.com/feed
-          https://wenchiehlee.github.io/feed.xml
-          https://www.google.com/alerts/feeds/12063940936216578696/8793798168837785642
-          https://www.google.com/alerts/feeds/12063940936216578696/8793798168837786674
+          url: |
+            https://wenchiehlee.wordpress.com/feed
+            https://wenchiehlee.github.io/feed.xml
+            https://www.google.com/alerts/feeds/12063940936216578696/8793798168837785642
+            https://www.google.com/alerts/feeds/12063940936216578696/8793798168837786674
       - uses: actions/upload-artifact@v3
         with:
           name: verify README
