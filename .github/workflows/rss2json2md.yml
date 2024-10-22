@@ -1,0 +1,16 @@
+name: Latest WP activity
+on:
+  schedule:
+    - cron: "0 * * * *"     # Runs every hour
+  workflow_dispatch:
+jobs:
+  rss2json:
+    name: read RSS and convert into one json
+    runs-on: ubuntu-latest
+    steps:
+      - uses: i-valchev/rss-to-json@v1
+        with:
+          source: feeds.yaml # An optional parameter to specify the source. Defaults to feeds.yaml
+          target: feeds.json # An optional parameter to specify the target. Defaults to feeds.json
+          sortBy: isoDate
+          sortOrder: desc
