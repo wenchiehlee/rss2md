@@ -12,6 +12,8 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         with:
           file: 'README.md'
+          timezone: 'Asia/taipei'
+          max_entry: 100
           url: |
             https://wenchiehlee.wordpress.com/feed
             https://wenchiehlee.github.io/feed.xml
