@@ -5,9 +5,10 @@ on:
   workflow_dispatch:
 jobs:
   rss2json:
-    name: read RSS and convert into one json
+    name: Checkout & RSS to JSON
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - uses: I-Valchev/rss-to-json@1.0.0
         with:
           source: data/feeds.yaml # An optional parameter to specify the source. Defaults to feeds.yaml
