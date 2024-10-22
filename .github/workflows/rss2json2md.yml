@@ -1,4 +1,4 @@
-name: Lastest RSS & convert to feeds.json
+name: RSS to JSON
 on:
   schedule:
     - cron: "0 * * * *"     # Runs every hour
@@ -8,7 +8,7 @@ jobs:
     name: read RSS and convert into one json
     runs-on: ubuntu-latest
     steps:
-      - uses: i-valchev/rss-to-json@v1
+      - uses: I-Valchev/rss-to-json@1.0.0
         with:
           source: feeds.yaml # An optional parameter to specify the source. Defaults to feeds.yaml
           target: feeds.json # An optional parameter to specify the target. Defaults to feeds.json
