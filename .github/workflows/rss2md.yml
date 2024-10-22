@@ -1,11 +1,11 @@
-name: RSS to README.md
+name: RSS to MD
 on:
   schedule:
     - cron: "0 * * * *"     # Runs every hour
   workflow_dispatch:
 jobs:
-  rss2json:
-    name: Checkout & RSS to JSON
+  rss2md:
+    name:  RSS to MD
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
