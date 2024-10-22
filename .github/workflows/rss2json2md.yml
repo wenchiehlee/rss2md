@@ -1,4 +1,4 @@
-name: RSS to JSON
+name: RSS to README.md
 on:
   schedule:
     - cron: "0 * * * *"     # Runs every hour
@@ -9,14 +9,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: I-Valchev/rss-to-json@1.0.0
+      - uses: sarisia/actions-readme-feed@v1
         with:
-          source: feeds.yaml # An optional parameter to specify the source. Defaults to feeds.yaml
-          target: feeds.json # An optional parameter to specify the target. Defaults to feeds.json
-          sortBy: isoDate
-          sortOrder: desc
+          file: 'README.md'
+        url: |
+          https://wenchiehlee.wordpress.com/feed
+          https://wenchiehlee.github.io/feed.xml
+          https://www.google.com/alerts/feeds/12063940936216578696/8793798168837785642
+          https://www.google.com/alerts/feeds/12063940936216578696/8793798168837786674
       - uses: actions/upload-artifact@v3
         with:
-          name: verify json
-          path: feeds.json
+          name: verify README
+          path: README.md
           if: always()
