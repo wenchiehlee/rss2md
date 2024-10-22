@@ -1,4 +1,4 @@
-name: Latest WP activity
+name: Lastest RSS & convert to feeds.json
 on:
   schedule:
     - cron: "0 * * * *"     # Runs every hour
