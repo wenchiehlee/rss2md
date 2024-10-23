@@ -14,6 +14,9 @@ jobs:
           file: 'README.md'
           timezone: 'Asia/taipei'
           max_entry: 500
+          sort: true
+          start_flag: "<!-- rss start -->"
+          end_flag: "<!-- rss end -->"
           url: |
             https://www.google.com/alerts/feeds/12063940936216578696/8793798168837785642
             https://www.google.com/alerts/feeds/12063940936216578696/8793798168837786674
