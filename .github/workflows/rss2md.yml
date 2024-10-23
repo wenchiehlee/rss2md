@@ -10,8 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: sarisia/actions-readme-feed@v1
+        id: _feed_
         with:
-          id: _feed_
           file: 'README.md'
           timezone: 'Asia/taipei'
           max_entry: 500
