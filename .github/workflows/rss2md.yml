@@ -11,6 +11,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: sarisia/actions-readme-feed@v1
         with:
+          id: _feed_
           file: 'README.md'
           timezone: 'Asia/taipei'
           max_entry: 500
@@ -25,5 +26,5 @@ jobs:
       #    name: verify README
       #    path: README.md
       #    if: always()
-      - if: ${{ steps.feed.outputs.changed == true }}
+      - if: ${{ steps._feed_.outputs.changed == true }}
         uses: sarisia/actions-commit@master
