@@ -1,6 +1,6 @@
 # rss2md
 
-<!-- feed start -->
+<!-- rss start -->
 - Oct 22 - [星宇25日上市寫兩紀錄 - 好房網News](https://www.google.com/url?rct=j&sa=t&url=https://news.housefun.com.tw/news/article/970405441810.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1mL_gsWxrchThyRgHUCLgD)
 - Oct 22 - [星宇航空<b>競拍</b>申購創下4紀錄，估凍結市場資金643億元 - 關鍵評論](https://www.google.com/url?rct=j&sa=t&url=https://www.thenewslens.com/article/243566&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3vDhP9Bolvjvgt8h0RLAlz)
 - Oct 22 - [〈台股盤前要聞〉星空航空<b>抽籤</b>凍結市場資金643億、長榮航看旺客貨運、外銷訂單連七紅 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5748681&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0G_e7IfcvFt60eFmMKxYWQ)
@@ -54,4 +54,4 @@
 - Nov 19 - [這幾年浮潛觀察海水魚, 寄居蟹地點](https://wenchiehlee.wordpress.com/2020/11/19/%e9%80%99%e5%b9%be%e5%b9%b4%e6%b5%ae%e6%bd%9b%e8%a7%80%e5%af%9f%e6%b5%b7%e6%b0%b4%e9%ad%9a-%e5%af%84%e5%b1%85%e8%9f%b9%e5%9c%b0%e9%bb%9e/)
 - Nov 19 - [鬥魚愛吃食物](https://wenchiehlee.wordpress.com/2020/11/19/%e9%ac%a5%e9%ad%9a%e6%84%9b%e5%90%83%e9%a3%9f%e7%89%a9/)
 - Nov 19 - [陸寄居蟹愛吃食物](https://wenchiehlee.wordpress.com/2020/11/19/%e9%99%b8%e5%af%84%e5%b1%85%e8%9f%b9%e6%84%9b%e5%90%83%e9%a3%9f%e7%89%a9/)
-<!-- feed end -->
+<!-- rss end -->
