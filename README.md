@@ -1,4 +1,4 @@
-# wenchiehlee@work: 掛牌 抽籤 
+# wenchiehlee@investment: 掛牌 抽籤 
 
 <!-- rss start -->
 - Oct 28 - [【MoneyDJ新股巡禮】迎「個人食」商機全家餐飲11中旬上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/video/moneydj%25E6%2596%25B0%25E8%2582%25A1%25E5%25B7%25A1%25E7%25A6%25AE-%25E8%25BF%258E-%25E5%2580%258B%25E4%25BA%25BA%25E9%25A3%259F-%25E5%2595%2586%25E6%25A9%259F-%25E5%2585%25A8%25E5%25AE%25B6%25E9%25A4%2590%25E9%25A3%25B211%25E4%25B8%25AD%25E6%2597%25AC%25E4%25B8%258A%25E6%25AB%2583-062310897.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1XRssRj64GrV61x4lPhXwK)
