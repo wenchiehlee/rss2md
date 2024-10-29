@@ -21,24 +21,22 @@ jobs:
           url: |
             https://www.google.com/alerts/feeds/12063940936216578696/8793798168837785642
             https://www.google.com/alerts/feeds/12063940936216578696/8793798168837786674
+      # wenchiehlee@work  
+      - uses: sarisia/actions-readme-feed@v1
+        id: _feed1_
+        with:
+          file: 'README.md'
+          timezone: 'Asia/taipei'
+          max_entry: 500
+          sort: true
+          start_flag: "<!-- _feed1_ start -->"
+          end_flag: "<!-- _feed1_ end -->"
+          url: |
+            https://wenchiehlee.github.io/mkdocs/feed_rss_created.xml
       #- uses: actions/upload-artifact@v3
       #  with:
       #    name: verify README
       #    path: README.md
       #    if: always()
-      - if: ${{ steps._feed_.outputs.changed == true }}
-        uses: sarisia/actions-commit@master
-      # wenchiehlee@work  
-      - uses: sarisia/actions-readme-feed@v1
-        id: _feed1_
-        with:
-          file: 'wenchiehlee@work.md'
-          timezone: 'Asia/taipei'
-          max_entry: 500
-          sort: true
-          start_flag: "<!-- rss start -->"
-          end_flag: "<!-- rss end -->"
-          url: |
-            https://wenchiehlee.github.io/mkdocs/feed_rss_created.xml
-      - if: ${{ steps._feed1_.outputs.changed == true }}
+      - if: ${{ steps._feed_.outputs.changed == 'true' || steps._feed1_.outputs.changed == 'true' }}
         uses: sarisia/actions-commit@master
