@@ -28,3 +28,17 @@ jobs:
       #    if: always()
       - if: ${{ steps._feed_.outputs.changed == true }}
         uses: sarisia/actions-commit@master
+      # wenchiehlee@work  
+      - uses: sarisia/actions-readme-feed@v1
+        id: _feed1_
+        with:
+          file: 'wenchiehlee@work.md'
+          timezone: 'Asia/taipei'
+          max_entry: 500
+          sort: true
+          start_flag: "<!-- rss start -->"
+          end_flag: "<!-- rss end -->"
+          url: |
+            https://wenchiehlee.github.io/mkdocs/feed_rss_created.xml
+      - if: ${{ steps._feed1_.outputs.changed == true }}
+        uses: sarisia/actions-commit@master
