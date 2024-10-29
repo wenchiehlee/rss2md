@@ -38,5 +38,7 @@ jobs:
       #    name: verify README
       #    path: README.md
       #    if: always()
-      - if: ${{ steps._feed_.outputs.changed == 'true' || steps._feed1_.outputs.changed == 'true' }}
+      - run: echo steps._feed_.outputs.changed
+      - run: echo steps._feed1_.outputs.changed
+      - if: ${{ steps._feed_.outputs.changed == 'true'}} || ${{steps._feed1_.outputs.changed == 'true'}}
         uses: sarisia/actions-commit@master
