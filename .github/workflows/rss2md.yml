@@ -40,5 +40,5 @@ jobs:
       #    if: always()
       - run: echo ${{steps._feed_.outputs.changed}}
       - run: echo ${{steps._feed1_.outputs.changed}}
-      - if: ${{ steps._feed_.outputs.changed == 'true'}} || ${{steps._feed1_.outputs.changed == 'true'}}
+      - if: ${{ steps._feed_.outputs.changed}} == 'true'|| ${{steps._feed1_.outputs.changed}} == 'true'
         uses: sarisia/actions-commit@master
