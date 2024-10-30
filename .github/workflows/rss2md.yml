@@ -31,7 +31,7 @@ jobs:
           timezone: 'Asia/taipei'
           max_entry: 500
           sort: true
-          format: '- ${04year} {02month} ${02day} - [${title}](${url})' 
+          format: '- ${04year} ${02month} ${02day} - [${title}](${url})' 
           start_flag: "<!-- _feed1_ start -->"
           end_flag: "<!-- _feed1_ end -->"
           url: |
