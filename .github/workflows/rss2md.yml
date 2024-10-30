@@ -20,9 +20,9 @@ jobs:
           start_flag: "<!-- rss start -->"
           end_flag: "<!-- rss end -->"
           url: |
-            https://www.google.com.tw/alerts/feeds/12063940936216578696/8793798168837786674
-            https://www.google.com.tw/alerts/feeds/12063940936216578696/8793798168837785642
-            https://www.google.com.tw/alerts/feeds/12063940936216578696/8388105934368552767
+            https://www.google.com/alerts/feeds/12063940936216578696/8793798168837785642
+            https://www.google.com/alerts/feeds/12063940936216578696/8793798168837786674
+            https://www.google.com/alerts/feeds/12063940936216578696/8388105934368552767
       # wenchiehlee@work  
       - uses: sarisia/actions-readme-feed@v1
         id: _feed1_
