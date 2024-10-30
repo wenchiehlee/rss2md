@@ -1,6 +1,7 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Oct 31 - [繼星宇之後，新應材、LinePay、全家餐飲…誰是下一匹興櫃黑馬？ 18檔新兵](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%25B9%25BC%25E6%2598%259F%25E5%25AE%2587%25E4%25B9%258B%25E5%25BE%258C-%25E6%2596%25B0%25E6%2587%2589%25E6%259D%2590-linepay-%25E5%2585%25A8%25E5%25AE%25B6%25E9%25A4%2590%25E9%25A3%25B2-%25E8%25AA%25B0%25E6%2598%25AF%25E4%25B8%258B-034201434.html&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw10h0DPCYe8Pm9BDgC893WH)
 - Oct 30 - [國票證券主辦鈺齊六KY可轉債<b>競拍</b>！10月31日開始投標| 財富管理 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5636/8326965%3Ffrom%3Dedn_subcatelist_cate&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3NXKejRLLig7Swbuc2jN5D)
 - Oct 30 - [最新3檔股票<b>抽籤</b>報到！順藥(6535)直接進帳16萬、這檔餐飲股抽到也能賺3.9萬- 今周刊](https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.com.tw/article/category/183008/post/202410280025/&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3uZ06sBghZdlgL1S5q7dGh)
 - Oct 30 - [銳澤<b>競拍</b>均價154.93元申購10/31-11/4 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E9%258A%25B3%25E6%25BE%25A4%25E7%25AB%25B6%25E6%258B%258D%25E5%259D%2587%25E5%2583%25B9154-93%25E5%2585%2583-%25E7%2594%25B3%25E8%25B3%25BC10-31-11-190301841.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2cH_LhbaOJbhrI-7x_-pNi)
