@@ -6,7 +6,6 @@
 - Oct 31 - [繼星宇之後，新應材、LinePay、全家餐飲…誰是下一匹興櫃黑馬？ 18檔新兵](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%25B9%25BC%25E6%2598%259F%25E5%25AE%2587%25E4%25B9%258B%25E5%25BE%258C-%25E6%2596%25B0%25E6%2587%2589%25E6%259D%2590-linepay-%25E5%2585%25A8%25E5%25AE%25B6%25E9%25A4%2590%25E9%25A3%25B2-%25E8%25AA%25B0%25E6%2598%25AF%25E4%25B8%258B-034201434.html&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw10h0DPCYe8Pm9BDgC893WH)
 - Oct 30 - [國票證券主辦鈺齊六KY可轉債<b>競拍</b>！10月31日開始投標| 財富管理 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5636/8326965%3Ffrom%3Dedn_subcatelist_cate&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3NXKejRLLig7Swbuc2jN5D)
 - Oct 30 - [銳澤<b>競拍</b>加權平均得標價格154.93元超額認購12.14倍| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/2DOxJJN&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw37Y-FwDe62Vx5ARw7b2fO4)
-- Oct 29 - [銳澤<b>競拍</b>超額認購12.14倍承銷價120元、11月12日上櫃 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6720960432ba0c93318b614e&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3eo9OfAC2jipQ43LydVO6q)
 <!-- rss end -->
 
 # wenchiehlee@work
