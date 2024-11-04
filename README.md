@@ -1,6 +1,8 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Nov 05 - [《興櫃股》三商餐飲26日轉上市6日起底價58.58元<b>競拍</b> - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20241104003930-260410&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1zlqrxKI_M1uvEYHGTrxtO)
+- Nov 05 - [ITH 26日<b>掛牌</b>明年可期](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6728f68b32ba0c93311d3ada&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3NTt-8fGr5-tzxETYC5UTy)
 - Nov 04 - [聯發科小金雞ITH 將<b>掛牌</b>看增明年業績雙位數百分比](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6728c55332ba0c9331ee0e40&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1SwSgf3Wj53Sr3BP6nKdhO)
 - Nov 04 - [抽中賺2.73萬元！三商餐飲11／26<b>掛牌</b>上市11／14起申購 - 財經雲](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/2848463&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2LhINMm8bxzcxpIxIDoirg)
 - Nov 04 - [ITH-KY明年營收估雙位數增長11/26<b>掛牌</b>上市 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5762344&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2xT16mBK_8JNcR43T8bdA8)
