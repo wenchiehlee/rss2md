@@ -32,7 +32,6 @@
 - Nov 04 - [ITH-KY將於11／6～8日起辦理上市前<b>競拍</b>](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/ith-ky%25E5%25B0%2587%25E6%2596%25BC11-6-8%25E6%2597%25A5%25E8%25B5%25B7%25E8%25BE%25A6%25E7%2590%2586%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E7%25AB%25B6%25E6%258B%258D-082857158.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0n75JSucoRUfPY00-DQLoG)
 - Nov 04 - [IC設計老將梁公偉領軍ITH-KY 11/26<b>掛牌</b>上市明年拚２位數成長 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/wJw01LG&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3jBRQMlM6vt7Eq9-ZTcU7O)
 - Nov 04 - [IC設計老將梁公偉領軍ITH-KY 11/26<b>掛牌</b>上市明年拚２位數成長 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/wJw01LG&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3jBRQMlM6vt7Eq9-ZTcU7O)
-- Nov 04 - [IC設計老將梁公偉領軍ITH-KY 11/26<b>掛牌</b>上市明年拚２位數成長 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/ic%25E8%25A8%25AD%25E8%25A8%2588%25E8%2580%2581%25E5%25B0%2587%25E6%25A2%2581%25E5%2585%25AC%25E5%2581%2589%25E9%25A0%2598%25E8%25BB%258Dith-ky-11-26%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-%25E6%2598%258E%25E5%25B9%25B4%25E6%258B%259A-071514519.html&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3YkqCbHdL2TxKNYlfZ5CzE)
 <!-- rss end -->
 
 # wenchiehlee@work
