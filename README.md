@@ -22,7 +22,6 @@
 - Nov 05 - [三商餐飲11月26日<b>掛牌</b>抽1張現賺2.7萬！ - 蕃新聞](https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20241104800864&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3A8P9UxpeH-HpZU5MJyEDI)
 - Nov 05 - [ITH 26日<b>掛牌</b>明年可期| 市場焦點| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/8337364&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2rmzYbESgriIM-QCPupfWo)
 - Nov 04 - [聯發科旗下驅動IC公司ITH-KY（6962）預計11月26日<b>掛牌</b>上市 - 台灣新生報](https://www.google.com/url?rct=j&sa=t&url=https://www.tssdnews.com.tw/%3FFID%3D32%26CID%3D771422&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1XscZkQKrtaBhZzTHoq20i)
-- Nov 04 - [三商餐飲上市11/6～11/8競標拍賣！營收連5年創新高跨足冷凍調理包提供新成長動能！](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/foodnext/20241104/index-73067595193969286009.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3G8jKR3OEWP4DaC-Ym3KYx)
 - Nov 04 - [抽1張賺逾2.73萬！三商餐飲26日<b>掛牌</b>競拍、申購時間曝光 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258A%25BD1%25E5%25BC%25B5%25E8%25B3%25BA%25E9%2580%25BE2-73%25E8%2590%25AC-%25E4%25B8%2589%25E5%2595%2586%25E9%25A4%2590%25E9%25A3%25B226%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-%25E7%25AB%25B6%25E6%258B%258D-%25E7%2594%25B3%25E8%25B3%25BC%25E6%2599%2582%25E9%2596%2593%25E6%259B%259D%25E5%2585%2589-094138873.html&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1LmCdO0SNVBgZ-zBwlukiy)
 <!-- rss end -->
 
