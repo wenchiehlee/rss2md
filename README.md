@@ -18,11 +18,8 @@
 - Nov 05 - [抽中賺4.8萬！全家餐飲今起申購報酬率逾6成| ETtoday財經雲](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/2848516&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2KD31nN6_mbfh089RfDK8x)
 - Nov 05 - [筆電驅動IC 出貨量全球第二大！ITH-KY 將在11/26 <b>掛牌</b>上市| 科技新報 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/yzNl28v&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2nUFAzVdQIIlGwHzV67xaO)
 - Nov 05 - [筆電驅動IC 出貨量全球第二大！ITH-KY 將在11/26 <b>掛牌</b>上市| 科技新報 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/yzNl28v&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2nUFAzVdQIIlGwHzV67xaO)
-- Nov 05 - [「聯發科小金雞」ITH-KY預計11/26<b>掛牌</b>11/14辦理公開申購| 產業動態 - NOWnews今日新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.nownews.com/news/6572397&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1nRHLfvs3hEY-Qt9_aMn9P)
 - Nov 05 - [三商餐飲11月26日<b>掛牌</b>抽1張現賺2.7萬！ - 蕃新聞](https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20241104800864&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3A8P9UxpeH-HpZU5MJyEDI)
-- Nov 05 - [ITH 26日<b>掛牌</b>明年可期| 市場焦點| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/8337364&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2rmzYbESgriIM-QCPupfWo)
 - Nov 04 - [聯發科旗下驅動IC公司ITH-KY（6962）預計11月26日<b>掛牌</b>上市 - 台灣新生報](https://www.google.com/url?rct=j&sa=t&url=https://www.tssdnews.com.tw/%3FFID%3D32%26CID%3D771422&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1XscZkQKrtaBhZzTHoq20i)
-- Nov 04 - [抽1張賺逾2.73萬！三商餐飲26日<b>掛牌</b>競拍、申購時間曝光 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258A%25BD1%25E5%25BC%25B5%25E8%25B3%25BA%25E9%2580%25BE2-73%25E8%2590%25AC-%25E4%25B8%2589%25E5%2595%2586%25E9%25A4%2590%25E9%25A3%25B226%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-%25E7%25AB%25B6%25E6%258B%258D-%25E7%2594%25B3%25E8%25B3%25BC%25E6%2599%2582%25E9%2596%2593%25E6%259B%259D%25E5%2585%2589-094138873.html&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1LmCdO0SNVBgZ-zBwlukiy)
 <!-- rss end -->
 
 # wenchiehlee@work
