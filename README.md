@@ -1,6 +1,7 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Nov 07 - [還剩1天！全家餐飲開放申購幸運兒中籤爽賺4.8萬](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E9%2582%2584%25E5%2589%25A91%25E5%25A4%25A9-%25E5%2585%25A8%25E5%25AE%25B6%25E9%25A4%2590%25E9%25A3%25B2%25E9%2596%258B%25E6%2594%25BE%25E7%2594%25B3%25E8%25B3%25BC-%25E5%25B9%25B8%25E9%2581%258B%25E5%2585%2592%25E4%25B8%25AD%25E7%25B1%25A4%25E7%2588%25BD%25E8%25B3%25BA4-8%25E8%2590%25AC-151200918.html&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0mnZzG7IDGpkvK7eWERcx1)
 - Nov 07 - [虎航-創11/11起<b>競拍</b>底價39.6元 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%2599%258E%25E8%2588%25AA-%25E5%2589%25B511-11%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E5%25BA%2595%25E5%2583%25B939-6%25E5%2585%2583-181732860.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw23jFyNBGfwt9XlueiFOakX)
 - Nov 06 - [還剩1天！全家餐飲開放申購幸運兒中籤爽賺4.8萬| EBC 東森新聞| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/5yWyY2y&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1uMT3d8EU886egjwGzKSLk)
 - Nov 06 - [抽一張現賺近2.6萬元！台灣虎航29日<b>掛牌</b>申購時程、價格一次看 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20241106701888-430201&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2UIkN0TS2Th8itvqhYA4Kt)
