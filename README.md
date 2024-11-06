@@ -1,6 +1,8 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Nov 06 - [【封面故事】星宇航空機隊3年翻倍張國煒拚全球前10強航空公司 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25B0%2581%25E9%259D%25A2%25E6%2595%2585%25E4%25BA%258B-%25E6%2598%259F%25E5%25AE%2587%25E8%2588%25AA%25E7%25A9%25BA%25E6%25A9%259F%25E9%259A%258A3%25E5%25B9%25B4%25E7%25BF%25BB%25E5%2580%258D-%25E5%25BC%25B5%25E5%259C%258B%25E7%2585%2592%25E6%258B%259A%25E5%2585%25A8%25E7%2590%2583%25E5%2589%258D10%25E5%25BC%25B7%25E8%2588%25AA%25E7%25A9%25BA%25E5%2585%25AC%25E5%258F%25B8-212859157.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2SfQU-pyiPwh6tI3GF27AR)
+- Nov 06 - [上市餐飲股將添新兵這檔26日<b>掛牌</b>、抽中有機會賺2.8萬元 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/nX2X9eD&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0oZ5y5bbuWwqC5-cUxCA3X)
 - Nov 06 - [抽中賺2.73萬元！三商餐飲11／26<b>掛牌</b>上市11／14起申購](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/2848463&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw2LhINMm8bxzcxpIxIDoirg)
 - Nov 06 - [【封面故事】星宇航空機隊3年翻倍張國煒拚全球前10強航空公司](https://www.google.com/url?rct=j&sa=t&url=https://www.ftnn.com.tw/news/332674&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3SCVHdbUk_a5ypeeSS41-3)
 - Nov 06 - [【封面故事】星宇航空機隊3年翻倍張國煒拚全球前10強航空公司 - 鏡週刊](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/story/20241105fin001&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1QYcmazN4QS8XBRC8k73x2)
