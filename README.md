@@ -1,6 +1,8 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Nov 07 - [台灣虎航29日<b>掛牌</b>！中籤爽賺2.6萬元申購資訊一篇看懂！ | 風傳媒| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/5yWkMOy&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3kgqeZ7iKJzxwCsRG2G86o)
+- Nov 07 - [虎航股票<b>抽籤</b>！公開申購日期、承銷價曝光，抽中爽賺2.6萬元 - 風傳媒](https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/lifestyle/5268937&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2f-fdQA7PTp-Ci4FGGi1CM)
 - Nov 07 - [抽中賺近2.6萬！台灣虎航11／29<b>掛牌</b>11／19起申購 - 財經雲](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/2849919&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw2zayQDQ_HcvnGhank6IRJm)
 - Nov 07 - [虎航要<b>掛牌</b>上市了！公開申購價格曝抽中秒賺2.6萬 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/life/2677222&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw2YShw-6pPfTud4qT5QV9HG)
 - Nov 07 - [台灣虎航29日<b>掛牌</b>！中籤爽賺2.6萬元申購資訊一篇看懂！ | 風傳媒| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/5yWkMOy&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw3kgqeZ7iKJzxwCsRG2G86o)
