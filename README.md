@@ -1,6 +1,7 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Nov 08 - [航空股超夯！台灣虎航29日上市估一張可賺2.6萬 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%2588%25AA%25E7%25A9%25BA%25E8%2582%25A1%25E8%25B6%2585%25E5%25A4%25AF-%25E5%258F%25B0%25E7%2581%25A3%25E8%2599%258E%25E8%2588%25AA29%25E6%2597%25A5%25E4%25B8%258A%25E5%25B8%2582-%25E4%25BC%25B0-%25E5%25BC%25B5%25E5%258F%25AF%25E8%25B3%25BA2-6%25E8%2590%25AC-041100407.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3-DpnFJmOQQw8Ap8iIILfM)
 - Nov 08 - [銳澤11/13以每股120元<b>掛牌</b>上櫃中籤率0.22% | Anue鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5768512&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw1sNGDLWvWA_GSNdo7-aR4A)
 - Nov 07 - [銳澤11/13以每股120元<b>掛牌</b>上櫃中籤率0.22% | Anue鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5768512&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1sNGDLWvWA_GSNdo7-aR4A)
 - Nov 07 - [一次掃30杯超商一款冰突暴紅眾人狂曬結帳畫面 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20241107000884-260405&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0dzq-YoWxcL-_ArCjXvFtd)
