@@ -22,8 +22,6 @@
 - Nov 07 - [銳澤11／13以每股120元上櫃<b>掛牌</b>申購中籤率0.22％ - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%258A%25B3%25E6%25BE%25A411-13%25E4%25BB%25A5%25E6%25AF%258F%25E8%2582%25A1120%25E5%2585%2583%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C-%25E7%2594%25B3%25E8%25B3%25BC%25E4%25B8%25AD%25E7%25B1%25A4%25E7%258E%25870-22-083107081.html&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ifxQXY7Vwb7YNm1huX3GH)
 - Nov 07 - [虎航抽中一張現賺近2.6萬元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2599%258E%25E8%2588%25AA-%25E6%258A%25BD%25E4%25B8%25AD-%25E5%25BC%25B5%25E7%258F%25BE%25E8%25B3%25BA%25E8%25BF%25912-6%25E8%2590%25AC%25E5%2585%2583-201000399.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ObOtx31-QcFct9Y_m0caG)
 - Nov 07 - [航空股上揚！華航漲逾3％ 虎航轉上市19日公開申購抽中現賺2萬6 - PChome Online 新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/crwant/20241107/index-73096565651134316003.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0-OCKypIzxmBVkurFwYa-_)
-- Nov 07 - [台灣虎航29日<b>掛牌</b>！中籤爽賺2.6萬元申購資訊一篇看懂！ | 風傳媒| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/5yWkMOy&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3kgqeZ7iKJzxwCsRG2G86o)
-- Nov 07 - [虎航股票<b>抽籤</b>！公開申購日期、承銷價曝光，抽中爽賺2.6萬元 - 風傳媒](https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/lifestyle/5268937&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2f-fdQA7PTp-Ci4FGGi1CM)
 <!-- rss end -->
 
 # wenchiehlee@work
