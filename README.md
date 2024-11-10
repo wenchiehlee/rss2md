@@ -1,7 +1,7 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
-- Nov 08 - [我國首檔綠色轉換公司債今（8）日於櫃買上櫃<b>掛牌</b> - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%2588%2591%25E5%259C%258B%25E9%25A6%2596%25E6%25AA%2594%25E7%25B6%25A0%25E8%2589%25B2%25E8%25BD%2589%25E6%258F%259B%25E5%2585%25AC%25E5%258F%25B8%25E5%2582%25B5%25E4%25BB%258A-8-%25E6%2597%25A5%25E6%2596%25BC%25E6%25AB%2583%25E8%25B2%25B7%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C-065720772.html&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw1csWgaYXR7udnMFPLmr4BI)
+- Nov 10 - [首檔綠色轉換公司債<b>掛牌</b>| 櫃買動態| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8350658%3Ffrom%3Dedn_newestlist_cate_side&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw2Wf9HXnvzR21mCi8ExtZqC)
 <!-- rss end -->
 
 # wenchiehlee@work
