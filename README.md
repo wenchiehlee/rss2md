@@ -1,6 +1,7 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Nov 11 - [首檔綠色轉換公司債<b>掛牌</b>| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7239/8350658&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw1_Ys8UODnY6HWg3zS-Tqhb)
 - Nov 10 - [首檔綠色轉換公司債<b>掛牌</b>| 櫃買動態| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8350658%3Ffrom%3Dedn_newestlist_cate_side&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw2Wf9HXnvzR21mCi8ExtZqC)
 <!-- rss end -->
 
