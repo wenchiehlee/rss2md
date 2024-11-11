@@ -1,6 +1,8 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Nov 11 - [虎航10月營收再創高！拚月底<b>掛牌</b>19日起公開申購| 產業動態 - NOWnews今日新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.nownews.com/news/6579263&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw1C6d2Hu2fojaySpqRbPK7A)
+- Nov 11 - [虎航前10月營收創高，19-21日公開申購，承銷價暫定40元，29日<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2599%258E%25E8%2588%25AA%25E5%2589%258D10%25E6%259C%2588%25E7%2587%259F%25E6%2594%25B6%25E5%2589%25B5%25E9%25AB%2598-19-21%25E6%2597%25A5%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9%25E6%259A%25AB%25E5%25AE%259A40%25E5%2585%2583-29%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-090633419.html&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw20DWEuNT2iu_ILifkJxZ5n)
 - Nov 11 - [首檔綠色轉換公司債<b>掛牌</b>| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7239/8350658&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw1_Ys8UODnY6HWg3zS-Tqhb)
 - Nov 10 - [首檔綠色轉換公司債<b>掛牌</b>| 櫃買動態| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8350658%3Ffrom%3Dedn_newestlist_cate_side&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw2Wf9HXnvzR21mCi8ExtZqC)
 <!-- rss end -->
