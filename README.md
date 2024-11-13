@@ -1,6 +1,7 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Nov 14 - [LINE Pay暫定12/5轉上市11/15起<b>競拍</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/line-pay%25E6%259A%25AB%25E5%25AE%259A12-5%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582-11-15%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-102900742.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2_cFTNkAjDLlZXk4qG2-S6)
 - Nov 14 - [LINE Pay暫定12/5轉上市11/15起競拍 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/line-pay%25E6%259A%25AB%25E5%25AE%259A12-5%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582-11-15%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-102900742.html&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw2_cFTNkAjDLlZXk4qG2-S6)
 - Nov 13 - [LINE Pay12/5<b>掛牌</b>上市！每股508元這天公開申購 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/life/2684961&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1BS2pBYIf3daSn54Wa7oko)
 - Nov 13 - [興櫃股LINE Pay 12/5<b>掛牌</b>上市每股508元、11/29抽籤- 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/4861977&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw27XZXELZWTb4AxLqLSjKLK)
