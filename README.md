@@ -1,6 +1,9 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Nov 13 - [興櫃股LINE Pay 12/5<b>掛牌</b>上市每股508元、11/29<b>抽籤</b>- 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/4861977&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw27XZXELZWTb4AxLqLSjKLK)
+- Nov 13 - [抽中一張現賺13萬！LINE Pay 11/25公開申購開跑12/5<b>掛牌</b>上市 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5778253&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0RlxX6sV44PK0_OFUkmGXH)
+- Nov 13 - [抽中一張現賺13萬！LINE Pay 11/25公開申購開跑12/5<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258A%25BD%25E4%25B8%25AD-%25E5%25BC%25B5%25E7%258F%25BE%25E8%25B3%25BA13%25E8%2590%25AC-line-pay-11-085811227.html&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3oSvOPgEpD1qwJA7kJ39d0)
 - Nov 13 - [邦睿前三季營收超越去年一整年！預計11 月底展開創新板<b>競拍</b> - 財經新報](https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2024/11/13/art-ai/&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw057NYddnmDINTsfVNZoTkB)
 - Nov 13 - [銳澤上櫃<b>掛牌</b>大漲40% 大展蜜月行情 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%258A%25B3%25E6%25BE%25A4%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C%25E5%25A4%25A7%25E6%25BC%25B240-%25E5%25A4%25A7%25E5%25B1%2595%25E8%259C%259C%25E6%259C%2588%25E8%25A1%258C%25E6%2583%2585-025311064.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw32h8sWa25ahmIeJQePqpS9)
 - Nov 13 - [銳澤上櫃<b>掛牌</b>大漲40% 大展蜜月行情 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5777847&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw3OFVjaaoKQVihw8i7skaG4)
