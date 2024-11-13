@@ -1,6 +1,7 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Nov 13 - [邦睿前三季營收超越去年一整年！預計11 月底展開創新板<b>競拍</b> - 財經新報](https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2024/11/13/art-ai/&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw057NYddnmDINTsfVNZoTkB)
 - Nov 13 - [銳澤上櫃<b>掛牌</b>大漲40% 大展蜜月行情 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5777847&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw3OFVjaaoKQVihw8i7skaG4)
 - Nov 13 - [珠海高新區宅地將<b>競拍</b>- 起拍價3.94億元 - 澳門力報](https://www.google.com/url?rct=j&sa=t&url=https://www.exmoo.com/article/239147.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2mBybrZsZu1dm4adhFph3I)
 - Nov 13 - [騰雲籌資7億元建研發暨營運總部 - 奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E9%25A8%25B0%25E9%259B%25B2%25E7%25B1%258C%25E8%25B3%25877%25E5%2584%2584%25E5%2585%2583-%25E5%25BB%25BA%25E7%25A0%2594%25E7%2599%25BC%25E6%259A%25A8%25E7%2587%259F%25E9%2581%258B%25E7%25B8%25BD%25E9%2583%25A8-201000871.html&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw0kIkwxSXmZMjtwoS05Frtc)
