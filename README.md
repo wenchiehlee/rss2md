@@ -1,6 +1,8 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Nov 14 - [LINE Pay 12月上市！抽中一張現賺13.3萬公開申購日期、價格一次看 - 財訊](https://www.google.com/url?rct=j&sa=t&url=https://www.wealth.com.tw/articles/2d266767-c91d-4b1f-8f1e-a8d8f445daf7&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw309huksoiMkj5fWzzJ5cYR)
+- Nov 14 - [LINE Pay暫定承銷價508元| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/8358152&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1_s6rHXtWz45TRI8ZIy1BN)
 - Nov 14 - [LINE Pay暫定承銷價508元| 上市電子| 股市| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7253/8358152&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2SOhUXDISgd924BHhpbisY)
 - Nov 14 - [抽中賺2.3萬！三商餐飲今起申購報酬率逾3成 - ETtoday財經雲](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/2854517&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ORSinwKJeQZ57ZxVbAqcu)
 - Nov 14 - [LINE Pay暫定12/5轉上市11/15起<b>競拍</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/line-pay%25E6%259A%25AB%25E5%25AE%259A12-5%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582-11-15%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-102900742.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2_cFTNkAjDLlZXk4qG2-S6)
@@ -36,7 +38,6 @@
 - Nov 13 - [邦睿前三季營收超越去年一整年！預計11 月底展開創新板<b>競拍</b> - 財經新報](https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2024/11/13/art-ai/&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw057NYddnmDINTsfVNZoTkB)
 - Nov 13 - [銳澤上櫃<b>掛牌</b>大漲40% 大展蜜月行情 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%258A%25B3%25E6%25BE%25A4%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C%25E5%25A4%25A7%25E6%25BC%25B240-%25E5%25A4%25A7%25E5%25B1%2595%25E8%259C%259C%25E6%259C%2588%25E8%25A1%258C%25E6%2583%2585-025311064.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw32h8sWa25ahmIeJQePqpS9)
 - Nov 13 - [銳澤上櫃<b>掛牌</b>大漲40% 大展蜜月行情 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5777847&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw3OFVjaaoKQVihw8i7skaG4)
-- Nov 13 - [珠海高新區宅地將<b>競拍</b>- 起拍價3.94億元 - 澳門力報](https://www.google.com/url?rct=j&sa=t&url=https://www.exmoo.com/article/239147.html&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2mBybrZsZu1dm4adhFph3I)
 - Nov 13 - [騰雲籌資7億元建研發暨營運總部 - 奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E9%25A8%25B0%25E9%259B%25B2%25E7%25B1%258C%25E8%25B3%25877%25E5%2584%2584%25E5%2585%2583-%25E5%25BB%25BA%25E7%25A0%2594%25E7%2599%25BC%25E6%259A%25A8%25E7%2587%259F%25E9%2581%258B%25E7%25B8%25BD%25E9%2583%25A8-201000871.html&ct=ga&cd=CAIyImQ1NGU5NDllMDMxY2JiY2M6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw0kIkwxSXmZMjtwoS05Frtc)
 <!-- rss end -->
 
