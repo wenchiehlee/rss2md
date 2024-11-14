@@ -1,6 +1,7 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Nov 14 - [抽中拼賺逾13萬！ LINE Pay申購11／25起跑 - ETtoday財經雲](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/2854607&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1T-p6U6iAm1J7LRi8LL-4Y)
 - Nov 14 - [LINE Pay 12月上市！抽中一張現賺13.3萬公開申購日期、價格一次看 - 財訊](https://www.google.com/url?rct=j&sa=t&url=https://www.wealth.com.tw/articles/2d266767-c91d-4b1f-8f1e-a8d8f445daf7&ct=ga&cd=CAIyIDAyOWU0YTc5M2ViOGJkZDQ6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw309huksoiMkj5fWzzJ5cYR)
 - Nov 14 - [LINE Pay暫定承銷價508元| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/8358152&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1_s6rHXtWz45TRI8ZIy1BN)
 - Nov 14 - [LINE Pay暫定承銷價508元| 上市電子| 股市| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7253/8358152&ct=ga&cd=CAIyIGMyMDFhNDU4NzAzY2ViODg6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2SOhUXDISgd924BHhpbisY)
