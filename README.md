@@ -13,13 +13,6 @@
 - Nov 14 - [LINE Pay連加網路15日起<b>競拍</b>暫定12／5上市- 證券- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20241113702268-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw3CD28H47dckWCkMoFz8fhN)
 - Nov 14 - [LINE Pay12/5<b>掛牌</b>上市！每股508元這天公開申購 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/life/2684961&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw1BS2pBYIf3daSn54Wa7oko)
 - Nov 14 - [LINE Pay暫定承銷價508元| 上市電子| 股市| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7253/8358152&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw2SOhUXDISgd924BHhpbisY)
-- Nov 13 - [LINE Pay Q3財報亮眼15日起競拍 - 自立晚報](https://www.google.com/url?rct=j&sa=t&url=https://www.idn.com.tw/news/news_content.aspx%3Fcatid%3D3%26catsid%3D1%26catdid%3D0%26artid%3D20241113kofang011&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw2hULGg2pMet8CnZ_OfeMSu)
-- Nov 13 - [LINE Pay暫定12/5轉上市11/15起<b>競拍</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/line-pay%25E6%259A%25AB%25E5%25AE%259A12-5%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582-11-15%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-102900742.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw2_cFTNkAjDLlZXk4qG2-S6)
-- Nov 13 - [抽中一張現賺13萬！LINE Pay 11/25公開申購開跑12/5<b>掛牌</b>上市 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5778253&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw0RlxX6sV44PK0_OFUkmGXH)
-- Nov 13 - [準備抽新股！這檔12月5日上市若抽中有機會賺13.3萬元| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/8357897&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw018TN_ZyfwfaeufX89TYvv)
-- Nov 13 - [興櫃股LINE Pay 12/5<b>掛牌</b>上市每股508元、11/29<b>抽籤</b>- 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/4861977&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw27XZXELZWTb4AxLqLSjKLK)
-- Nov 13 - [LINE Pay 11/15起<b>競拍</b>承銷價508元12/5<b>掛牌</b> - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/line-pay-11-15%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9508%25E5%2585%2583-12-084956558.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw2puT1nwKGhoriv2mx4vN6O)
-- Nov 13 - [LINEPAY 將自15日起<b>競拍</b>暫定12月5日<b>掛牌</b>| 櫃買動態 - 經濟日報- 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8357662&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOlI&usg=AOvVaw1L-9UGsLUfRiJqRh51z5uc)
 <!-- rss end -->
 
 # wenchiehlee@work
