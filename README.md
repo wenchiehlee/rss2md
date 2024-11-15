@@ -17,8 +17,8 @@
 
 # wenchiehlee@work
 <!-- _feed1_ start -->
+- 2021/06/18 - [Biz-Needs-Tech-Alignment](https://wenchiehlee.github.io/mkdocs/blog/2021/06/biz-needs-tech-alignment/)
 - 2021/06/13 - [High Availablity Deployment](https://wenchiehlee.github.io/mkdocs/blog/2021/06/high-availablity-deployment/)
-- 2021/06/13 - [Biz-Needs-Tech-Alignment](https://wenchiehlee.github.io/mkdocs/blog/2021/06/biz-needs-tech-alignment/)
 - 2021/05/24 - [Deep Learning](https://wenchiehlee.github.io/mkdocs/blog/2021/05/deep-learning/)
 - 2021/05/13 - [NLP- Word Understanding](https://wenchiehlee.github.io/mkdocs/blog/2021/05/nlp--word-understanding/)
 - 2021/05/11 - [Tracking vs. Privacy](https://wenchiehlee.github.io/mkdocs/blog/2021/05/tracking-vs-privacy/)
