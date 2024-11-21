@@ -1,7 +1,9 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Nov 21 - [抽中拼賺逾8萬！LINE Pay上市申購下周起跑一張要50.8萬| ETtoday財經雲](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/2859413&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1r-daJpwNS0d4SD8Uv_yZ7)
 - Nov 21 - [久昌12月4日每股138元<b>掛牌</b>上櫃若抽中有望賺3.8萬元 - 經濟日報- 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8372898&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2T2jusxf99V25vZ9jukpeC)
+- Nov 21 - [抽中可望賺逾12萬！ 「它」11/25開放申購 - MSN](https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/news/other/%25E6%258A%25BD%25E4%25B8%25AD%25E5%258F%25AF%25E6%259C%259B%25E8%25B3%25BA%25E9%2580%25BE12%25E8%2590%25AC-%25E5%25AE%2583-11-25%25E9%2596%258B%25E6%2594%25BE%25E7%2594%25B3%25E8%25B3%25BC/ar-AA1u3v8F%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Ac-xuyIZjCaXxyYJK2eX1)
 <!-- rss end -->
 
 # wenchiehlee@work
