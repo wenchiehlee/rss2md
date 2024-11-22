@@ -1,8 +1,8 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
-- Nov 21 - [抽中拼賺逾8萬！LINE Pay上市申購下周起跑一張要50.8萬| ETtoday財經雲](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/2859413&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1r-daJpwNS0d4SD8Uv_yZ7)
-- Nov 21 - [抽中可望賺逾12萬！ 「它」11/25開放申購 - MSN](https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/news/other/%25E6%258A%25BD%25E4%25B8%25AD%25E5%258F%25AF%25E6%259C%259B%25E8%25B3%25BA%25E9%2580%25BE12%25E8%2590%25AC-%25E5%25AE%2583-11-25%25E9%2596%258B%25E6%2594%25BE%25E7%2594%25B3%25E8%25B3%25BC/ar-AA1u3v8F%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Ac-xuyIZjCaXxyYJK2eX1)
+- Nov 22 - [抽中賺8萬！LINE Pay轉上市11／25起申購一張要50.8萬 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%258A%25BD%25E4%25B8%25AD%25E8%25B3%25BA8%25E8%2590%25AC-line-pay%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%258211-25%25E8%25B5%25B7%25E7%2594%25B3%25E8%25B3%25BC-%25E5%25BC%25B5%25E8%25A6%258150-033126626.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2FhvxVzm7jcLxNw_idp24e)
+- Nov 22 - [抽中賺3萬！虎航<b>抽籤</b>破89萬人瘋搶中籤率僅0.2% - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%258A%25BD%25E4%25B8%25AD%25E8%25B3%25BA3%25E8%2590%25AC-%25E8%2599%258E%25E8%2588%25AA%25E6%258A%25BD%25E7%25B1%25A4%25E7%25A0%25B489%25E8%2590%25AC%25E4%25BA%25BA%25E7%2598%258B%25E6%2590%25B6-%25E4%25B8%25AD%25E7%25B1%25A4%25E7%258E%2587%25E5%2583%25850-2-021001712.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw23ZcOdWNo-i5BNgUZP3oSO)
 <!-- rss end -->
 
 # wenchiehlee@work
