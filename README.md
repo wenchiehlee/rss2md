@@ -1,6 +1,7 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
+- Nov 26 - [全福12月中<b>掛牌</b>上市承銷價38元乾眼症新藥獲IIA產品創新獎 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/67445fba32ba0c933147c11b&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3saB3NCbPQZilQeTFAeiLN)
 - Nov 25 - [明遠12月16日將<b>掛牌</b>明年預估營收成長 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/4874749&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1K-1rGRV2FvPdF7e_MMDQM)
 - Nov 25 - [「半導體ESG概念股」明遠精密明<b>競拍</b>承銷價69元、12/16<b>掛牌</b>| 太報| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/nX2Z7EM&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0IcQOvWayPSnzbrfXCyZT0)
 - Nov 25 - [半導體ESG 概念股明遠精密11/26<b>競拍</b>承銷價69元、12/16<b>掛牌</b> - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%258D%258A%25E5%25B0%258E%25E9%25AB%2594esg-%25E6%25A6%2582%25E5%25BF%25B5%25E8%2582%25A1%25E6%2598%258E%25E9%2581%25A0%25E7%25B2%25BE%25E5%25AF%258611-26%25E7%25AB%25B6%25E6%258B%258D-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B969%25E5%2585%2583-12-064045657.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Zpl7zztDJVOmT-UOAQVBW)
