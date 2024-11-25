@@ -1,8 +1,9 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- rss start -->
-- Nov 22 - [抽中賺8萬！LINE Pay轉上市11／25起申購一張要50.8萬 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%258A%25BD%25E4%25B8%25AD%25E8%25B3%25BA8%25E8%2590%25AC-line-pay%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%258211-25%25E8%25B5%25B7%25E7%2594%25B3%25E8%25B3%25BC-%25E5%25BC%25B5%25E8%25A6%258150-033126626.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2FhvxVzm7jcLxNw_idp24e)
-- Nov 22 - [抽中賺3萬！虎航<b>抽籤</b>破89萬人瘋搶中籤率僅0.2% - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%258A%25BD%25E4%25B8%25AD%25E8%25B3%25BA3%25E8%2590%25AC-%25E8%2599%258E%25E8%2588%25AA%25E6%258A%25BD%25E7%25B1%25A4%25E7%25A0%25B489%25E8%2590%25AC%25E4%25BA%25BA%25E7%2598%258B%25E6%2590%25B6-%25E4%25B8%25AD%25E7%25B1%25A4%25E7%258E%2587%25E5%2583%25850-2-021001712.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw23ZcOdWNo-i5BNgUZP3oSO)
+- Nov 25 - [半導體ESG 概念股明遠精密11/26<b>競拍</b>承銷價69元、12/16<b>掛牌</b> - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%258D%258A%25E5%25B0%258E%25E9%25AB%2594esg-%25E6%25A6%2582%25E5%25BF%25B5%25E8%2582%25A1%25E6%2598%258E%25E9%2581%25A0%25E7%25B2%25BE%25E5%25AF%258611-26%25E7%25AB%25B6%25E6%258B%258D-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B969%25E5%2585%2583-12-064045657.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Zpl7zztDJVOmT-UOAQVBW)
+- Nov 25 - [成功打入半導體設備龍頭供應鏈！明遠精密12/16 <b>掛牌</b>上櫃 - 財經新報](https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2024/11/25/equipment-faucet/&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3VNqXvml8aZqKcrclRAYgd)
+- Nov 25 - [〈明遠精密上櫃〉明起<b>競拍</b>、底價60元預計12/16<b>掛牌</b>| Anue鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5789072&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3OaG18Pe5s87AFir8AwFFZ)
 <!-- rss end -->
 
 # wenchiehlee@work
