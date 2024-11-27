@@ -23,25 +23,36 @@ jobs:
             https://www.google.com.tw/alerts/feeds/12063940936216578696/18175540292638798833
       # wenchiehlee@work  
       - uses: sarisia/actions-readme-feed@v1
-        id: _feed1_
+        id: _feedwork_
         with:
           file: 'README.md'
           timezone: 'Asia/taipei'
           max_entry: 500
           sort: true
           format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
-          start_flag: "<!-- _feed1_ start -->"
-          end_flag: "<!-- _feed1_ end -->"
+          start_flag: "<!-- _feedwork_ start -->"
+          end_flag: "<!-- _feedwork_ end -->"
           url: |
             https://wenchiehlee.github.io/mkdocs/feed_rss_created.xml
+      # wenchiehlee@life 
+      - uses: sarisia/actions-readme-feed@v1
+        id: _feedlife_
+        with:
+          file: 'README.md'
+          timezone: 'Asia/taipei'
+          max_entry: 500
+          sort: true
+          format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
+          start_flag: "<!-- _feedlife_ start -->"
+          end_flag: "<!-- _feedlife_ end -->"
+          url: |
+            https://wenchiehlee.wordpress.com/feed
       #- uses: actions/upload-artifact@v3
       #  with:
       #    name: verify README
       #    path: README.md
       #    if: always()
-      - run: echo ${{steps._feed_.outputs.changed}}
-      - run: echo ${{steps._feed1_.outputs.changed}}
-      - if: ${{ steps._feed_.outputs.changed}} == 'true'|| ${{steps._feed1_.outputs.changed}} == 'true'
+      - if: ${{ steps._feed_.outputs.changed}} == 'true'|| ${{steps._feedwork_.outputs.changed}} == 'true' || ${{steps._feedlife_.outputs.changed}} 
         run: |
          git config --global user.name "github-actions[bot]"
          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
