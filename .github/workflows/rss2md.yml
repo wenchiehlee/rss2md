@@ -49,6 +49,8 @@ jobs:
             https://wenchiehlee.wordpress.com/feed
             https://wenflower.blogspot.com/feeds/posts/default
             https://wenbike.blogspot.com/feeds/posts/default
+            https://medium.com/feed/@wenchiehlee1020
+            https://feeds.feedburner.com/blogspot/bREW
       #- uses: actions/upload-artifact@v3
       #  with:
       #    name: verify README
