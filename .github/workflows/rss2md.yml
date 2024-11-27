@@ -47,6 +47,7 @@ jobs:
           end_flag: "<!-- _feedlife_ end -->"
           url: |
             https://wenchiehlee.wordpress.com/feed
+            https://wenflower.blogspot.com/feeds/posts/default
       #- uses: actions/upload-artifact@v3
       #  with:
       #    name: verify README
