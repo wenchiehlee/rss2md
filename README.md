@@ -2,7 +2,6 @@
 
 <!-- rss start -->
 - Nov 27 - [《興櫃股》大井泵浦明起<b>競拍</b>暫定12月18日<b>掛牌</b>](https://www.google.com/url?rct=j&sa=t&url=https://turnnewsapp.com/livenews/finance/20241127001510-260410&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Q-bzIf2Ee4LKKgn5DoTcC)
-- Nov 27 - [智慧製程加複合材料助攻大井營運優化 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%2599%25BA%25E6%2585%25A7%25E8%25A3%25BD%25E7%25A8%258B%25E5%258A%25A0%25E8%25A4%2587%25E5%2590%2588%25E6%259D%2590%25E6%2596%2599%25E5%258A%25A9%25E6%2594%25BB-%25E5%25A4%25A7%25E4%25BA%2595%25E7%2587%259F%25E9%2581%258B%25E5%2584%25AA%25E5%258C%2596-203923405.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3jBmE7o3uPVVqGdp91H8D-)
 <!-- rss end -->
 
 # wenchiehlee@work
