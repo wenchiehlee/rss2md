@@ -9,8 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      # wenchiehlee@investment
-      - uses: sarisia/actions-readme-feed@v1
+      
+      # Feed 1: Investment 1
+      - name: Fetch Investment Feed 1
+        uses: sarisia/actions-readme-feed@v1
         id: _feedinvestment1_
         with:
           file: 'README.md'
@@ -22,7 +24,11 @@ jobs:
           end_flag: "<!-- _feedinvestment1_ end -->"
           url: |
             https://www.google.com.tw/alerts/feeds/12063940936216578696/18175540292638798833
-      - uses: sarisia/actions-readme-feed@v1
+        continue-on-error: true
+
+      # Feed 2: Investment 2
+      - name: Fetch Investment Feed 2
+        uses: sarisia/actions-readme-feed@v1
         id: _feedinvestment2_
         with:
           file: 'README.md'
@@ -34,8 +40,11 @@ jobs:
           end_flag: "<!-- _feedinvestment2_ end -->"
           url: |
             https://www.google.com/alerts/feeds/12063940936216578696/11229675591975377803
-      # wenchiehlee@work  
-      - uses: sarisia/actions-readme-feed@v1
+        continue-on-error: true
+
+      # Feed 3: Work
+      - name: Fetch Work Feed
+        uses: sarisia/actions-readme-feed@v1
         id: _feedwork_
         with:
           file: 'README.md'
@@ -47,8 +56,11 @@ jobs:
           end_flag: "<!-- _feedwork_ end -->"
           url: |
             https://wenchiehlee.github.io/mkdocs/feed_rss_created.xml
-      # wenchiehlee@life 
-      - uses: sarisia/actions-readme-feed@v1
+        continue-on-error: true
+
+      # Feed 4: Life
+      - name: Fetch Life Feeds
+        uses: sarisia/actions-readme-feed@v1
         id: _feedlife_
         with:
           file: 'README.md'
@@ -64,15 +76,13 @@ jobs:
             https://wenbike.blogspot.com/feeds/posts/default
             https://medium.com/feed/@wenchiehlee1020
             https://feeds.feedburner.com/blogspot/bREW
-      #- uses: actions/upload-artifact@v3
-      #  with:
-      #    name: verify README
-      #    path: README.md
-      #    if: always()
-      - if: ${{ steps._feedinvestment1_.outputs.changed}} == 'true' || ${{ steps._feedinvestment2_.outputs.changed}} == 'true'|| ${{steps._feedwork_.outputs.changed}} == 'true' || ${{steps._feedlife_.outputs.changed}} 
+        continue-on-error: true
+
+      # Commit changes if any feed updates occurred
+      - if: ${{ steps._feedinvestment1_.outputs.changed == 'true' || steps._feedinvestment2_.outputs.changed == 'true' || steps._feedwork_.outputs.changed == 'true' || steps._feedlife_.outputs.changed == 'true' }}
         run: |
-         git config --global user.name "github-actions[bot]"
-         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-         git add -A
-         git commit -m "GitHub Actions Results added"
-         git push
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "GitHub Actions Results added"
+          git push
