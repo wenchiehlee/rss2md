@@ -9,18 +9,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      # wenchiehlee@investment
       - uses: sarisia/actions-readme-feed@v1
-        id: _feed_
+        id: _feedinvestment1_
         with:
           file: 'README.md'
           timezone: 'Asia/taipei'
           max_entry: 500
           sort: true
           format: '- ${monthshort} ${02day} - [${title}](${url})' 
-          start_flag: "<!-- rss start -->"
-          end_flag: "<!-- rss end -->"
+          start_flag: "<!-- _feedinvestment1_ start -->"
+          end_flag: "<!-- _feedinvestment1_ end -->"
           url: |
             https://www.google.com.tw/alerts/feeds/12063940936216578696/18175540292638798833
+      - uses: sarisia/actions-readme-feed@v1
+        id: _feedinvestment2_
+        with:
+          file: 'README.md'
+          timezone: 'Asia/taipei'
+          max_entry: 500
+          sort: true
+          format: '- ${monthshort} ${02day} - [${title}](${url})' 
+          start_flag: "<!-- _feedinvestment2_ start -->"
+          end_flag: "<!-- _feedinvestment2_ end -->"
+          url: |
+            https://www.google.com/alerts/feeds/12063940936216578696/11229675591975377803
       # wenchiehlee@work  
       - uses: sarisia/actions-readme-feed@v1
         id: _feedwork_
