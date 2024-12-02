@@ -69,7 +69,7 @@ jobs:
       #    name: verify README
       #    path: README.md
       #    if: always()
-      - if: ${{ steps._feed_.outputs.changed}} == 'true'|| ${{steps._feedwork_.outputs.changed}} == 'true' || ${{steps._feedlife_.outputs.changed}} 
+      - if: ${{ steps._feedinvestment1_.outputs.changed}} == 'true' || ${{ steps._feedinvestment2_.outputs.changed}} == 'true'|| ${{steps._feedwork_.outputs.changed}} == 'true' || ${{steps._feedlife_.outputs.changed}} 
         run: |
          git config --global user.name "github-actions[bot]"
          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
