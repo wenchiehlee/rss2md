@@ -1,8 +1,12 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
-<!-- rss start -->
+<!-- _feedinvestment1_ start -->
 - Nov 27 - [《興櫃股》大井泵浦明起<b>競拍</b>暫定12月18日<b>掛牌</b>](https://www.google.com/url?rct=j&sa=t&url=https://turnnewsapp.com/livenews/finance/20241127001510-260410&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Q-bzIf2Ee4LKKgn5DoTcC)
-<!-- rss end -->
+<!-- _feedinvestment1_ end -->
+
+# wenchiehlee@investment: 過額配售 
+<!-- _feedinvestment2_ start -->
+<!-- _feedinvestment2_ end -->
 
 # wenchiehlee@work
 <!-- _feedwork_ start -->
