@@ -8,7 +8,8 @@ jobs:
     name:  RSS to MD
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Chekout
+        uses: actions/checkout@v3
       
       # Feed 1: Investment 1
       - name: Fetch Investment Feed 1
@@ -59,7 +60,7 @@ jobs:
         continue-on-error: true
 
       # Feed 4: Life
-      - name: Fetch Life Feeds
+      - name: Fetch Life Feed
         uses: sarisia/actions-readme-feed@v1
         id: _feedlife_
         with:
@@ -79,7 +80,8 @@ jobs:
         continue-on-error: true
 
       # Commit changes if any feed updates occurred
-      - if: ${{ steps._feedinvestment1_.outputs.changed == 'true' || steps._feedinvestment2_.outputs.changed == 'true' || steps._feedwork_.outputs.changed == 'true' || steps._feedlife_.outputs.changed == 'true' }}
+      - name: Commit changes if any feeds
+        if: ${{ steps._feedinvestment1_.outputs.changed}} == 'true' || ${{steps._feedinvestment2_.outputs.changed}} == 'true' || ${{steps._feedwork_.outputs.changed}} == 'true' || ${{steps._feedlife_.outputs.changed == 'true'}}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
