@@ -56,7 +56,7 @@ jobs:
           start_flag: "<!-- _feedwork_ start -->"
           end_flag: "<!-- _feedwork_ end -->"
           url: |
-            https://wenchiehlee.github.io/mkdocs/feed_rss_update.xml
+            https://wenchiehlee.github.io/mkdocs/feed_rss_updated.xml
         continue-on-error: true
 
       # Feed 4: Life
