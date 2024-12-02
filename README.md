@@ -6,6 +6,8 @@
 
 # wenchiehlee@investment: 過額配售 
 <!-- _feedinvestment2_ start -->
+- Dec 02 - [【公告】榮惠-KY創股票即將於臺灣證券交易所創新板上巿交易 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%25A6%25AE%25E6%2583%25A0-ky%25E5%2589%25B5%25E8%2582%25A1%25E7%25A5%25A8%25E5%258D%25B3%25E5%25B0%2587%25E6%2596%25BC%25E8%2587%25BA%25E7%2581%25A3%25E8%25AD%2589%25E5%2588%25B8%25E4%25BA%25A4%25E6%2598%2593%25E6%2589%2580%25E5%2589%25B5%25E6%2596%25B0%25E6%259D%25BF%25E4%25B8%258A%25E5%25B7%25BF%25E4%25BA%25A4%25E6%2598%2593-032024965.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ZNBXTWfUf78XRMG0kgZ5N)
+- Dec 02 - [榮惠-KY創初上巿<b>過額配售</b>20張，占公開承銷數量1.91%](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7eff1cc6-6e65-4cac-95b9-acf1cb61f616&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2H8lJPqq5b3jy-Ao2WD7_b)
 <!-- _feedinvestment2_ end -->
 
 # wenchiehlee@work
