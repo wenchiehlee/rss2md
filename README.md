@@ -8,10 +8,10 @@
 
 # wenchiehlee@investment: 過額配售 
 <!-- _feedinvestment2_ start -->
-- Dec 05 - [邦睿生技初次創新板上市<b>過額配售</b>：0股| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/x2gVoO1&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0gZihrFu755d1BjCvkX2qm)
-- Dec 05 - [邦睿生技初次創新板上市前現增案股款約2.1億元已全數收足，增資基準日12/4 | MoneyDJ理財 ...](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/PGonzrj&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1wIPuPd-9kbGvCzeUVTTWR)
-- Dec 05 - [邦睿生技(6955)公告辦理股票初次創新板上市<b>過額配售</b>內容承銷價：每股108.00元(12/4日股價 ...](https://www.google.com/url?rct=j&sa=t&url=http://www.genetinfo.com/investment/company-news/item/83951.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2oHFyuRWVxJMf0D3rOz-Fj)
-- Dec 05 - [【MoneyDJ新股巡禮】解決少子化邦睿靠整合技術悠遊藍海 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/video/moneydj%25E6%2596%25B0%25E8%2582%25A1%25E5%25B7%25A1%25E7%25A6%25AE-%25E8%25A7%25A3%25E6%25B1%25BA%25E5%25B0%2591%25E5%25AD%2590%25E5%258C%2596-%25E9%2582%25A6%25E7%259D%25BF%25E9%259D%25A0%25E6%2595%25B4%25E5%2590%2588%25E6%258A%2580%25E8%25A1%2593%25E6%2582%25A0%25E9%2581%258A%25E8%2597%258D%25E6%25B5%25B7-052908592.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw22dLHGn4arjRjmVbatQlDL)
+- Dec 07 - [力領科技: 公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 國泰綜合證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20241206%26CSeqNO%3DT0567630&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0zf8PDjoXXcHLUeHM0OFFB)
+- Dec 06 - [「不孕症救星」邦睿生技創新板上市蜜月行情漲近3成 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E3%2580%258C%25E4%25B8%258D%25E5%25AD%2595%25E7%2597%2587%25E6%2595%2591%25E6%2598%259F%25E3%2580%258D%25E9%2582%25A6%25E7%259D%25BF%25E7%2594%259F%25E6%258A%2580%25E5%2589%25B5%25E6%2596%25B0%25E6%259D%25BF%25E4%25B8%258A%25E5%25B8%2582-%25E8%259C%259C%25E6%259C%2588%25E8%25A1%258C%25E6%2583%2585%25E6%25BC%25B2%25E8%25BF%25913%25E6%2588%2590-012952690.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2CbyRj36Eev3SrWCxBjNfp)
+- Dec 06 - [力領科技:公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5801185&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3sdEzdEKHCzTE7qJNZvjMD)
+- Dec 06 - [力領科技:公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5801184&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3WaE0UWbZrz23hxUN8ar0e)
 <!-- _feedinvestment2_ end -->
 
 # wenchiehlee@work
