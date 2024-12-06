@@ -1,7 +1,9 @@
 # wenchiehlee@investment: 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- Nov 27 - [《興櫃股》大井泵浦明起<b>競拍</b>暫定12月18日<b>掛牌</b>](https://www.google.com/url?rct=j&sa=t&url=https://turnnewsapp.com/livenews/finance/20241127001510-260410&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Q-bzIf2Ee4LKKgn5DoTcC)
+- Dec 04 - [博盛半導體12/26<b>掛牌</b>上櫃暫定承銷價每股186元 - 台視](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/default.asp%3Fi%3D12202404162472234329FC624F7DAF09FEFA33ACDDD35354%26from%3D587&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0SjxDNqzF_2hgf-OTr4Dhx)
+- Dec 04 - [大井泵浦完成上櫃前<b>競拍</b>將以51元IPO 12/6公開申購 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25A4%25A7%25E4%25BA%2595%25E6%25B3%25B5%25E6%25B5%25A6%25E5%25AE%258C%25E6%2588%2590%25E4%25B8%258A%25E6%25AB%2583%25E5%2589%258D%25E7%25AB%25B6%25E6%258B%258D%25E5%25B0%2587%25E4%25BB%25A551%25E5%2585%2583ipo-12-6%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC-090442342.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1460CPepXKR0TT55dCl2ci)
+- Dec 04 - [博盛半導體12/26<b>掛牌</b>上櫃暫定承銷價每股186元 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df101b9c3-f7ea-4ded-9d75-567900cf205e&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2MDnK_SOv35QELk0LJbNyI)
 <!-- _feedinvestment1_ end -->
 
 # wenchiehlee@investment: 過額配售 
