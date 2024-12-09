@@ -8,10 +8,10 @@
 
 # wenchiehlee@investment: 過額配售 
 <!-- _feedinvestment2_ start -->
-- Dec 07 - [力領科技: 公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 國泰綜合證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20241206%26CSeqNO%3DT0567630&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0zf8PDjoXXcHLUeHM0OFFB)
-- Dec 06 - [「不孕症救星」邦睿生技創新板上市蜜月行情漲近3成 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E3%2580%258C%25E4%25B8%258D%25E5%25AD%2595%25E7%2597%2587%25E6%2595%2591%25E6%2598%259F%25E3%2580%258D%25E9%2582%25A6%25E7%259D%25BF%25E7%2594%259F%25E6%258A%2580%25E5%2589%25B5%25E6%2596%25B0%25E6%259D%25BF%25E4%25B8%258A%25E5%25B8%2582-%25E8%259C%259C%25E6%259C%2588%25E8%25A1%258C%25E6%2583%2585%25E6%25BC%25B2%25E8%25BF%25913%25E6%2588%2590-012952690.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2CbyRj36Eev3SrWCxBjNfp)
-- Dec 06 - [力領科技:公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5801185&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3sdEzdEKHCzTE7qJNZvjMD)
-- Dec 06 - [力領科技:公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5801184&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3WaE0UWbZrz23hxUN8ar0e)
+- Dec 09 - [達運光電:公告本公司辦理股票初次上巿<b>過額配售</b>內容 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5803227&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0zV6YtSBTXv6b6yYXNNSnK)
+- Dec 09 - [明遠精密:公告本公司辦理初次上櫃<b>過額配售</b>內容| Anue鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5803225&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw22a2xR6wQ6i1CjS0MMb2Af)
+- Dec 09 - [達運光電: 公告本公司辦理股票初次上巿<b>過額配售</b>內容 - 國泰綜合證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20241209%26CSeqNO%3DT0567798&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0DPxRmu9hrQmgpx5yTD8Zr)
+- Dec 09 - [明遠精密: 公告本公司辦理初次上櫃<b>過額配售</b>內容 - 國泰綜合證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20241209%26CSeqNO%3DT0567792&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1yBp7FX8RlpxhqoQVbv7TA)
 <!-- _feedinvestment2_ end -->
 
 # wenchiehlee@work
