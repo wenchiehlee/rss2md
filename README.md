@@ -8,10 +8,10 @@
 
 # wenchiehlee@investment: 過額配售 
 <!-- _feedinvestment2_ start -->
-- Dec 09 - [達運光電:公告本公司辦理股票初次上巿<b>過額配售</b>內容 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5803227&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0zV6YtSBTXv6b6yYXNNSnK)
-- Dec 09 - [明遠精密:公告本公司辦理初次上櫃<b>過額配售</b>內容| Anue鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5803225&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw22a2xR6wQ6i1CjS0MMb2Af)
-- Dec 09 - [達運光電: 公告本公司辦理股票初次上巿<b>過額配售</b>內容 - 國泰綜合證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20241209%26CSeqNO%3DT0567798&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0DPxRmu9hrQmgpx5yTD8Zr)
-- Dec 09 - [明遠精密: 公告本公司辦理初次上櫃<b>過額配售</b>內容 - 國泰綜合證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20241209%26CSeqNO%3DT0567792&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1yBp7FX8RlpxhqoQVbv7TA)
+- Dec 10 - [明遠精密初上櫃<b>過額配售</b>50張，佔公開承銷數量1.92% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/PGoymL0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw36SgPFm5lN7-Fmh_3MDfoK)
+- Dec 10 - [達運光電初上巿<b>過額配售</b>200張，佔公開承銷數量2.10% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/2DnEwk8&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw05ZS31Cs3r-pBuHOMAWOjc)
+- Dec 10 - [久昌:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5804999&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw19Vx4guRmLb5uc__CaP7Uz)
+- Dec 10 - [【公告】久昌初次上櫃掛牌首五個營業日穩定價格操作結果 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E4%25B9%2585%25E6%2598%258C%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-080317337.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3nsLiLFmT4JZnu9INfWlW2)
 <!-- _feedinvestment2_ end -->
 
 # wenchiehlee@work
