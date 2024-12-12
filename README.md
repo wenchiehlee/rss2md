@@ -8,9 +8,12 @@
 
 # wenchiehlee@investment: 過額配售 
 <!-- _feedinvestment2_ start -->
-- Dec 11 - [博弘初上櫃<b>過額配售</b>255張，佔公開承銷數量14.96% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/peJnpz7&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3l4ec1TpkaaHOt-HCibZzD)
-- Dec 11 - [櫃買中心預計12/16舉辦博弘、明遠精密上櫃掛牌典禮| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/QwGyWPr&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw120tdX_3L9EJ02DcPrQZCj)
-- Dec 11 - [博弘:公告本公司辦理初次上櫃<b>過額配售</b>內容| Anue鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5806675&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0y3yABCDSrBMJMAUtY2CuZ)
+- Dec 13 - [全福生技:公告本公司辦理股票初次上市<b>過額配售</b>內容 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5807953&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw21GqA8HlALuOkgNiSpLq0E)
+- Dec 13 - [全福生技：公司股票12/16起轉上市買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/7NWoMnJ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3_ZAXPZ9y74GUaUIdqQYqo)
+- Dec 13 - [全福生技初上市<b>過額配售</b>50張，占公開承銷數量比例0.3802% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/zNn6vjJ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2yUJK8U3zeRtAIx7gKcV_L)
+- Dec 12 - [全福生技(6885)公告辦理股票初次上市前現金增資收足股款暨現金增資基準日 - Genet觀點](https://www.google.com/url?rct=j&sa=t&url=http://www.genetinfo.com/investment/company-news/item/84128.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3B0Gj336bqbdbGoa3zVZX_)
+- Dec 12 - [【公告】全福生技辦理股票初次上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%2585%25A8%25E7%25A6%258F%25E7%2594%259F%25E6%258A%2580%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-084203200.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2tfmoRdLj-4EC7vDO8WWfx)
+- Dec 12 - [《興櫃股》全福生技初次上市<b>過額配售</b>50,000股 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E5%2585%25A8%25E7%25A6%258F%25E7%2594%259F%25E6%258A%2580%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE50-000%25E8%2582%25A1-085951954.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1dcy43vX30APMWPJNt_e9I)
 <!-- _feedinvestment2_ end -->
 
 # wenchiehlee@work
