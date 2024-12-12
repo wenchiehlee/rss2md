@@ -11,8 +11,6 @@
 - Dec 11 - [博弘初上櫃<b>過額配售</b>255張，佔公開承銷數量14.96% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/peJnpz7&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3l4ec1TpkaaHOt-HCibZzD)
 - Dec 11 - [櫃買中心預計12/16舉辦博弘、明遠精密上櫃掛牌典禮| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/QwGyWPr&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw120tdX_3L9EJ02DcPrQZCj)
 - Dec 11 - [博弘:公告本公司辦理初次上櫃<b>過額配售</b>內容| Anue鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5806675&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0y3yABCDSrBMJMAUtY2CuZ)
-- Dec 11 - [【MoneyDJ新股巡禮】半導體設備添後勤尖兵明遠精密將上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/video/moneydj%25E6%2596%25B0%25E8%2582%25A1%25E5%25B7%25A1%25E7%25A6%25AE-%25E5%258D%258A%25E5%25B0%258E%25E9%25AB%2594%25E8%25A8%25AD%25E5%2582%2599%25E6%25B7%25BB%25E5%25BE%258C%25E5%258B%25A4%25E5%25B0%2596%25E5%2585%25B5-%25E6%2598%258E%25E9%2581%25A0%25E7%25B2%25BE%25E5%25AF%2586%25E5%25B0%2587%25E4%25B8%258A%25E6%25AB%2583-022119863.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2dZCyQhPuwabyONWHaMz1i)
-- Dec 11 - [久昌初上櫃首5日穩定價格操作結果：0股| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/ML1EMRa&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0c5pGSIjhnzLN4qkmQEiaE)
 <!-- _feedinvestment2_ end -->
 
 # wenchiehlee@work
