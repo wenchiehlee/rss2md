@@ -8,6 +8,7 @@
 
 # wenchiehlee@investment: 過額配售 
 <!-- _feedinvestment2_ start -->
+- Dec 14 - [LINE Pay掛牌無蜜月輔導券商砸1.16億護盤 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/paper/1682162&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3y8rFHvG_MaEFSi9nh45Eh)
 - Dec 14 - [中籤LINE Pay已慘賠3.2萬元輔導券商砸1.16億護盤 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/4893098&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0gJAx8x4ENcJmbnU0yEC9M)
 - Dec 13 - [LINEPAY:公告本公司上市掛牌首五個營業日穩定價格操作結果 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5808989&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw26D4F29gonXMHc_bg2vLeu)
 - Dec 13 - [大井泵浦:公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5808986&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0rlq4Jl-aVDGpO2Y2DBAk4)
