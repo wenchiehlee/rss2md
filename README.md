@@ -8,7 +8,12 @@
 
 # wenchiehlee@investment: 過額配售 
 <!-- _feedinvestment2_ start -->
-- Dec 14 - [LINE Pay掛牌無蜜月輔導券商砸1.16億護盤 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/paper/1682162&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3y8rFHvG_MaEFSi9nh45Eh)
+- Dec 16 - [台股今日重點 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/4892861&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw08JRAu5w_hr2YRjG3CEZyz)
+- Dec 16 - [【公告】力領科技初次上櫃掛牌首五個營業日穩定價格操作結果 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%258A%259B%25E9%25A0%2598%25E7%25A7%2591%25E6%258A%2580%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-071529403.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Q2J9mDDjm7ppXVSZyTtdw)
+- Dec 16 - [力領科技:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5810250&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0tlXU1e-F6GGqWQbJIJ4xP)
+- Dec 16 - [【MoneyDJ新股巡禮】老店展新風貌大井泵浦啟動成長引擎 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/video/moneydj%25E6%2596%25B0%25E8%2582%25A1%25E5%25B7%25A1%25E7%25A6%25AE-%25E8%2580%2581%25E5%25BA%2597%25E5%25B1%2595%25E6%2596%25B0%25E9%25A2%25A8%25E8%25B2%258C-%25E5%25A4%25A7%25E4%25BA%2595%25E6%25B3%25B5%25E6%25B5%25A6%25E5%2595%259F%25E5%258B%2595%25E6%2588%2590%25E9%2595%25B7%25E5%25BC%2595%25E6%2593%258E-070357268.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1b4XITmvam1KK0dH5fVSQ7)
+- Dec 16 - [《半導體》初登場飆漲逾23％ 明遠精密上櫃蜜月甜| 豐雲學堂](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/675f9eb832ba0c933186ea1d&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2TYAPg0fKmr5gjXhVkm3X6)
+- Dec 16 - [邦睿生技-創創新板上市首5日穩定價格操作結果：0股- 台股 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D99fd0db6-2588-4261-bd6a-89383adda9b1%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ik_L2W7BhDHPTZ6SIHs4H)
 <!-- _feedinvestment2_ end -->
 
 # wenchiehlee@work
