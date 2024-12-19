@@ -1,15 +1,16 @@
-# wenchiehlee@investment: 掛牌 競拍 抽籤 
+# wenchiehlee@investment 
+## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
 - Dec 14 - [聯發科小金雞ITH-KY將<b>掛牌</b>11/14公開申購 - MSN](https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/money/topstories/%25E8%2581%25AF%25E7%2599%25BC%25E7%25A7%2591%25E5%25B0%258F%25E9%2587%2591%25E9%259B%259Eith-ky%25E5%25B0%2587%25E6%258E%259B%25E7%2589%258C-11-14%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC/ar-AA1tsT3m%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Yf2bQoo5ijNLXPdeAnhUO)
 <!-- _feedinvestment1_ end -->
 
-# wenchiehlee@investment: 過額配售 
+## 過額配售 
 <!-- _feedinvestment2_ start -->
 - Dec 18 - [大井泵浦今IPO上櫃交易早盤最高漲幅3.92% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25A4%25A7%25E4%25BA%2595%25E6%25B3%25B5%25E6%25B5%25A6%25E4%25BB%258Aipo%25E4%25B8%258A%25E6%25AB%2583%25E4%25BA%25A4%25E6%2598%2593-%25E6%2597%25A9%25E7%259B%25A4%25E6%259C%2580%25E9%25AB%2598%25E6%25BC%25B2%25E5%25B9%25853-92-020509440.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2V-Ju6nytyw-dYFROOOU5O)
 <!-- _feedinvestment2_ end -->
 
-# wenchiehlee@investment: mkdocs-investment
+## mkdocs-investment
 <!-- _feedinvestment3_ start -->
 - Dec 06 - [過額配售是什麼？以 **8272 全景軟體** 為例](https://wenchiehlee-investment.github.io/blog/2024/10/%E9%81%8E%E9%A1%8D%E9%85%8D%E5%94%AE%E6%98%AF%E4%BB%80%E9%BA%BC%E4%BB%A5-8272-%E5%85%A8%E6%99%AF%E8%BB%9F%E9%AB%94-%E7%82%BA%E4%BE%8B/)
 <!-- _feedinvestment3_ end -->
@@ -38,10 +39,11 @@
 - 2020/06/19 - [Max POC 2: Super Resolution with SRGAN](https://wenchiehlee.github.io/mkdocs/blog/2020/06/max-poc-2-super-resolution-with-srgan/)
 <!-- _feedwork_ end -->
 
-# wenchiehlee@work http://wenchiehlee.synology.me
+## http://wenchiehlee.synology.me
 <!-- _feedwork1_ start -->
 <!-- _feedwork1_ end -->
-# wenchiehlee@work http://andy.wenchiehlee.synology.me
+
+## http://andy.wenchiehlee.synology.me
 <!-- _feedwork2_ start -->
 <!-- _feedwork2_ end -->
 
@@ -77,11 +79,11 @@
 - 2008/02/05 - [【旅行】2008-01-20 新竹半日遊- 新埔巨埔社區](http://wenchiehlee.blogspot.com/2008/02/2008-01-20.html)
 <!-- _feedlife_ end -->
 
-# wenchiehlee@life mkdocs-life
+## mkdocs-life
 <!-- _feedlife4_ start -->
 <!-- _feedlife4_ end -->
 
-# wenchiehlee@life 養殖
+## 養殖
 <!-- _feedlife1_ start -->
 - 2021/02/25 - [沼蝦缸](https://wenchiehlee.wordpress.com/2021/02/25/%e6%b2%bc%e8%9d%a6%e7%bc%b8/)
 - 2020/11/19 - [這幾年浮潛觀察海水魚, 寄居蟹地點](https://wenchiehlee.wordpress.com/2020/11/19/%e9%80%99%e5%b9%be%e5%b9%b4%e6%b5%ae%e6%bd%9b%e8%a7%80%e5%af%9f%e6%b5%b7%e6%b0%b4%e9%ad%9a-%e5%af%84%e5%b1%85%e8%9f%b9%e5%9c%b0%e9%bb%9e/)
@@ -89,7 +91,7 @@
 - 2020/11/19 - [陸寄居蟹愛吃食物](https://wenchiehlee.wordpress.com/2020/11/19/%e9%99%b8%e5%af%84%e5%b1%85%e8%9f%b9%e6%84%9b%e5%90%83%e9%a3%9f%e7%89%a9/)
 <!-- _feedlife1_ end -->
 
-# wenchiehlee@life 種植
+## 種植
 <!-- _feedlife2_ start -->
 - 2009/05/12 - [含羞草種植](https://wenflower.blogspot.com/2009/05/blog-post_12.html)
 - 2009/05/11 - [馬拉巴栗種植](https://wenflower.blogspot.com/2009/05/blog-post.html)
@@ -98,7 +100,7 @@
 - 2008/11/24 - [紅肉柳丁種植](https://wenflower.blogspot.com/2009/01/blog-post.html)
 <!-- _feedlife2_ end -->
 
-# wenchiehlee@life Bike
+## Bike
 <!-- _feedlife3_ start -->
 - 2010/01/02 - [桃園市自行車道地圖](https://wenbike.blogspot.com/2010/01/blog-post.html)
 - 2009/12/20 - [二鐵共乘遊東台灣　搭火車帶單車更加便利了](https://wenbike.blogspot.com/2009/12/blog-post.html)
