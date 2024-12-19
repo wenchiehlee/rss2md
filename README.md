@@ -9,6 +9,11 @@
 - Dec 18 - [大井泵浦今IPO上櫃交易早盤最高漲幅3.92% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25A4%25A7%25E4%25BA%2595%25E6%25B3%25B5%25E6%25B5%25A6%25E4%25BB%258Aipo%25E4%25B8%258A%25E6%25AB%2583%25E4%25BA%25A4%25E6%2598%2593-%25E6%2597%25A9%25E7%259B%25A4%25E6%259C%2580%25E9%25AB%2598%25E6%25BC%25B2%25E5%25B9%25853-92-020509440.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2V-Ju6nytyw-dYFROOOU5O)
 <!-- _feedinvestment2_ end -->
 
+# wenchiehlee@investment: mkdocs-investment
+<!-- _feedinvestment3_ start -->
+
+<!-- _feedinvestment3_ end -->
+
 # wenchiehlee@work
 <!-- _feedwork_ start -->
 - 2020/09/18 - [Tensorflow.js POC 13: Avatar Generator with Face-API.js](https://wenchiehlee.github.io/mkdocs/blog/2020/09/tensorflowjs-poc-13-avatar-generator-with-face-apijs/)
