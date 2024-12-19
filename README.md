@@ -39,11 +39,11 @@
 - 2020/06/19 - [Max POC 2: Super Resolution with SRGAN](https://wenchiehlee.github.io/mkdocs/blog/2020/06/max-poc-2-super-resolution-with-srgan/)
 <!-- _feedwork_ end -->
 
-## http://wenchiehlee.synology.me
+## wenchiehlee.synology.me
 <!-- _feedwork1_ start -->
 <!-- _feedwork1_ end -->
 
-## http://andy.wenchiehlee.synology.me
+## andy.wenchiehlee.synology.me
 <!-- _feedwork2_ start -->
 <!-- _feedwork2_ end -->
 
