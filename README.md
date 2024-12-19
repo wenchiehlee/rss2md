@@ -38,6 +38,12 @@
 - 2020/06/19 - [Max POC 2: Super Resolution with SRGAN](https://wenchiehlee.github.io/mkdocs/blog/2020/06/max-poc-2-super-resolution-with-srgan/)
 <!-- _feedwork_ end -->
 
+# wenchiehlee@work http://wenchiehlee.synology.me
+<!-- _feedwork1_ start -->
+<!-- _feedwork1_ end -->
+# wenchiehlee@work http://andy.wenchiehlee.synology.me
+<!-- _feedwork2_ start -->
+<!-- _feedwork2_ end -->
 
 # wenchiehlee@life
 <!-- _feedlife_ start -->
@@ -70,6 +76,10 @@
 - 2008/06/15 - [【旅行】2008-05-30 花蓮五日遊(1) 南澳 花蓮遠來](http://wenchiehlee.blogspot.com/2008/06/2008-05-30-1.html)
 - 2008/02/05 - [【旅行】2008-01-20 新竹半日遊- 新埔巨埔社區](http://wenchiehlee.blogspot.com/2008/02/2008-01-20.html)
 <!-- _feedlife_ end -->
+
+# wenchiehlee@life mkdocs-life
+<!-- _feedlife4_ start -->
+<!-- _feedlife4_ end -->
 
 # wenchiehlee@life 養殖
 <!-- _feedlife1_ start -->
