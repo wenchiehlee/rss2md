@@ -71,7 +71,7 @@ jobs:
           start_flag: "<!-- _feedwork_ start -->"
           end_flag: "<!-- _feedwork_ end -->"
           url: |
-            https://wenchiehlee.github.io/mkdocs/feed_rss_created.xml
+            https://wenchiehlee.github.io/mkdocs/feed_rss_updated.xml
         continue-on-error: true
 
       # Feed: Work1
@@ -87,7 +87,7 @@ jobs:
           start_flag: "<!-- _feedwork1_ start -->"
           end_flag: "<!-- _feedwork1_ end -->"
           url: |
-            https://wenchiehlee.synology.me//feed_rss_created.xml
+            https://wenchiehlee.synology.me/feed_rss_updated.xml
         continue-on-error: true
 
       # Feed: Life
