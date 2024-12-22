@@ -20,7 +20,7 @@ jobs:
           timezone: 'Asia/taipei'
           max_entry: 500
           sort: true
-          format: '- ${monthshort} ${02day} - [${title}](${url})' 
+          format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
           start_flag: "<!-- _feedinvestment1_ start -->"
           end_flag: "<!-- _feedinvestment1_ end -->"
           url: |
@@ -36,7 +36,7 @@ jobs:
           timezone: 'Asia/taipei'
           max_entry: 500
           sort: true
-          format: '- ${monthshort} ${02day} - [${title}](${url})' 
+          format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
           start_flag: "<!-- _feedinvestment2_ start -->"
           end_flag: "<!-- _feedinvestment2_ end -->"
           url: |
@@ -51,12 +51,13 @@ jobs:
           timezone: 'Asia/taipei'
           max_entry: 500
           sort: true
-          format: '- ${monthshort} ${02day} - [${title}](${url})' 
+          format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
           start_flag: "<!-- _feedinvestment3_ start -->"
           end_flag: "<!-- _feedinvestment3_ end -->"
           url: |
             https://wenchiehlee.github.io/mkdocs-investment/feed_rss_updated.xml
         continue-on-error: true
+        
       # Feed: Work
       - name: Fetch Work Feed
         uses: sarisia/actions-readme-feed@v1
@@ -71,6 +72,22 @@ jobs:
           end_flag: "<!-- _feedwork_ end -->"
           url: |
             https://wenchiehlee.github.io/mkdocs/feed_rss_created.xml
+        continue-on-error: true
+
+      # Feed: Work1
+      - name: Fetch Work1 Feed
+        uses: sarisia/actions-readme-feed@v1
+        id: _feedwork1_
+        with:
+          file: 'README.md'
+          timezone: 'Asia/taipei'
+          max_entry: 500
+          sort: true
+          format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
+          start_flag: "<!-- _feedwork1_ start -->"
+          end_flag: "<!-- _feedwork1_ end -->"
+          url: |
+            https://wenchiehlee.synology.me//feed_rss_created.xml
         continue-on-error: true
 
       # Feed: Life
@@ -141,7 +158,7 @@ jobs:
         
       # Commit changes if any feed updates occurred
       - name: Commit changes if any feeds
-        if: ${{ steps._feedinvestment1_.outputs.changed}} == 'true' || ${{steps._feedinvestment2_.outputs.changed}} == 'true' || ${{ steps._feedinvestment3_.outputs.changed}} == 'true' || ${{steps._feedwork_.outputs.changed}} == 'true' || ${{steps._feedlife_.outputs.changed}} == 'true' ||  ${{steps._feedlife1_.outputs.changed}} == 'true' ||  ${{steps._feedlife2_.outputs.changed}} == 'true' ||  ${{steps._feedlife3_.outputs.changed}} == 'true' 
+        if: ${{ steps._feedinvestment1_.outputs.changed}} == 'true' || ${{steps._feedinvestment2_.outputs.changed}} == 'true' || ${{ steps._feedinvestment3_.outputs.changed}} == 'true' || ${{steps._feedwork_.outputs.changed}} == 'true' ||  ${{steps._feedwork1_.outputs.changed}} == 'true' || ${{steps._feedlife_.outputs.changed}} == 'true' ||  ${{steps._feedlife1_.outputs.changed}} == 'true' ||  ${{steps._feedlife2_.outputs.changed}} == 'true' ||  ${{steps._feedlife3_.outputs.changed}} == 'true' 
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
