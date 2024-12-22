@@ -12,7 +12,7 @@
 
 ## mkdocs-investment
 <!-- _feedinvestment3_ start -->
-- Dec 21 - [過額配售是什麼？以 **8272 全景軟體** 為例](https://wenchiehlee-investment.github.io/blog/2024/10/%E9%81%8E%E9%A1%8D%E9%85%8D%E5%94%AE%E6%98%AF%E4%BB%80%E9%BA%BC%E4%BB%A5-8272-%E5%85%A8%E6%99%AF%E8%BB%9F%E9%AB%94-%E7%82%BA%E4%BE%8B/)
+- 2024/12/21 - [過額配售是什麼？以 **8272 全景軟體** 為例](https://wenchiehlee-investment.github.io/blog/2024/10/%E9%81%8E%E9%A1%8D%E9%85%8D%E5%94%AE%E6%98%AF%E4%BB%80%E9%BA%BC%E4%BB%A5-8272-%E5%85%A8%E6%99%AF%E8%BB%9F%E9%AB%94-%E7%82%BA%E4%BE%8B/)
 <!-- _feedinvestment3_ end -->
 
 # wenchiehlee@work
