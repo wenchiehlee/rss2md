@@ -13,7 +13,6 @@
 - 2024/12/24 - [明遠精密:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5818213&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2HSBE96TA4Wy7xD0reEG6y)
 - 2024/12/24 - [明遠精密: 公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 國泰綜合證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20241224%26CSeqNO%3DT0570193&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3WFhddNcZQd1rBtzZhwPrk)
 - 2024/12/24 - [【公告】博盛半導體辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%258D%259A%25E7%259B%259B%25E5%258D%258A%25E5%25B0%258E%25E9%25AB%2594%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-084637434.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ejED5g73Z6QO8Q0W5rn3W)
-- 2024/12/23 - [全福生技上市首5日穩定價格操作結果：買進累計5萬股| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/7NWWXKZ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0_JmiIUL6mJd8kIeEaiCyr)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
