@@ -5,6 +5,11 @@
 - Dec 14 - [聯發科小金雞ITH-KY將<b>掛牌</b>11/14公開申購 - MSN](https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/money/topstories/%25E8%2581%25AF%25E7%2599%25BC%25E7%25A7%2591%25E5%25B0%258F%25E9%2587%2591%25E9%259B%259Eith-ky%25E5%25B0%2587%25E6%258E%259B%25E7%2589%258C-11-14%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC/ar-AA1tsT3m%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Yf2bQoo5ijNLXPdeAnhUO)
 <!-- _feedinvestment1_ end -->
 
+## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
+
+<!-- _feedinvestment1.1_ start -->
+<!-- _feedinvestment1.1_ end -->
+
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2024/12/24 - [博弘: &lt;更正&gt;公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 國泰綜合證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20241224%26CSeqNO%3DT0570279&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Cmvqn_9Lyco6nso8u_Q97)
