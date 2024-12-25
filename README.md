@@ -7,8 +7,8 @@
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
-<!-- _feedinvestment1.1_ start -->
-<!-- _feedinvestment1.1_ end -->
+<!-- _feedinvestment1_1_ start -->
+<!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
