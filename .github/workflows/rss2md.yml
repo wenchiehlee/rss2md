@@ -27,6 +27,22 @@ jobs:
             https://www.google.com.tw/alerts/feeds/12063940936216578696/18175540292638798833
         continue-on-error: true
 
+      # Feed: Investment 1.1
+      - name: Fetch Investment Feed 1,1
+        uses: sarisia/actions-readme-feed@v1
+        id: _feedinvestment1.1_
+        with:
+          file: 'README.md'
+          timezone: 'Asia/taipei'
+          max_entry: 500
+          sort: true
+          format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
+          start_flag: "<!-- _feedinvestment1.1_ start -->"
+          end_flag: "<!-- _feedinvestment1.1_ end -->"
+          url: |
+            https://www.google.com/alerts/feeds/12063940936216578696/14813816938407276048
+        continue-on-error: true
+
       # Feed: Investment 2
       - name: Fetch Investment Feed 2
         uses: sarisia/actions-readme-feed@v1
