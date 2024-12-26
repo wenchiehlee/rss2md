@@ -11,7 +11,7 @@ jobs:
       - name: Chekout
         uses: actions/checkout@v4
       
-      # Feed 1: Investment 1
+      # Feed: Investment 1
       - name: Fetch Investment Feed 1
         uses: sarisia/actions-readme-feed@v1
         id: _feedinvestment1_
@@ -20,14 +20,30 @@ jobs:
           timezone: 'Asia/taipei'
           max_entry: 500
           sort: true
-          format: '- ${monthshort} ${02day} - [${title}](${url})' 
+          format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
           start_flag: "<!-- _feedinvestment1_ start -->"
           end_flag: "<!-- _feedinvestment1_ end -->"
           url: |
             https://www.google.com.tw/alerts/feeds/12063940936216578696/18175540292638798833
         continue-on-error: true
 
-      # Feed 2: Investment 2
+      # Feed: Investment 1_1
+      - name: Fetch Investment Feed 1_1
+        uses: sarisia/actions-readme-feed@v1
+        id: _feedinvestment1_1_
+        with:
+          file: 'README.md'
+          timezone: 'Asia/taipei'
+          max_entry: 500
+          sort: true
+          format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
+          start_flag: "<!-- _feedinvestment1_1_ start -->"
+          end_flag: "<!-- _feedinvestment1_1_ end -->"
+          url: |
+            https://www.google.com/alerts/feeds/12063940936216578696/14813816938407276048
+        continue-on-error: true
+
+      # Feed: Investment 2
       - name: Fetch Investment Feed 2
         uses: sarisia/actions-readme-feed@v1
         id: _feedinvestment2_
@@ -36,14 +52,29 @@ jobs:
           timezone: 'Asia/taipei'
           max_entry: 500
           sort: true
-          format: '- ${monthshort} ${02day} - [${title}](${url})' 
+          format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
           start_flag: "<!-- _feedinvestment2_ start -->"
           end_flag: "<!-- _feedinvestment2_ end -->"
           url: |
             https://www.google.com/alerts/feeds/12063940936216578696/11229675591975377803
         continue-on-error: true
-
-      # Feed 3: Work
+      # Feed: Investment 3
+      - name: Fetch Investment Feed 3
+        uses: sarisia/actions-readme-feed@v1
+        id: _feedinvestment3_
+        with:
+          file: 'README.md'
+          timezone: 'Asia/taipei'
+          max_entry: 500
+          sort: true
+          format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
+          start_flag: "<!-- _feedinvestment3_ start -->"
+          end_flag: "<!-- _feedinvestment3_ end -->"
+          url: |
+            https://wenchiehlee.github.io/mkdocs-investment/feed_rss_updated.xml
+        continue-on-error: true
+        
+      # Feed: Work
       - name: Fetch Work Feed
         uses: sarisia/actions-readme-feed@v1
         id: _feedwork_
@@ -56,10 +87,26 @@ jobs:
           start_flag: "<!-- _feedwork_ start -->"
           end_flag: "<!-- _feedwork_ end -->"
           url: |
-            https://wenchiehlee.github.io/mkdocs/feed_rss_created.xml
+            https://wenchiehlee.github.io/mkdocs/feed_rss_updated.xml
         continue-on-error: true
 
-      # Feed 4: Life
+      # Feed: Work1
+      - name: Fetch Work1 Feed
+        uses: sarisia/actions-readme-feed@v1
+        id: _feedwork1_
+        with:
+          file: 'README.md'
+          timezone: 'Asia/taipei'
+          max_entry: 500
+          sort: true
+          format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
+          start_flag: "<!-- _feedwork1_ start -->"
+          end_flag: "<!-- _feedwork1_ end -->"
+          url: |
+            https://wenchiehlee.synology.me/feed_rss_updated.xml
+        continue-on-error: true
+
+      # Feed: Life
       - name: Fetch Life Feed
         uses: sarisia/actions-readme-feed@v1
         id: _feedlife_
@@ -72,16 +119,62 @@ jobs:
           start_flag: "<!-- _feedlife_ start -->"
           end_flag: "<!-- _feedlife_ end -->"
           url: |
-            https://wenchiehlee.wordpress.com/feed
-            https://wenflower.blogspot.com/feeds/posts/default
-            https://wenbike.blogspot.com/feeds/posts/default
             https://medium.com/feed/@wenchiehlee1020
             https://feeds.feedburner.com/blogspot/bREW
         continue-on-error: true
 
+      # Feed: Life1
+      - name: Fetch Life1 Feed
+        uses: sarisia/actions-readme-feed@v1
+        id: _feedlife1_
+        with:
+          file: 'README.md'
+          timezone: 'Asia/taipei'
+          max_entry: 500
+          sort: true
+          format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
+          start_flag: "<!-- _feedlife1_ start -->"
+          end_flag: "<!-- _feedlife1_ end -->"
+          url: |
+            https://wenchiehlee.wordpress.com/feed
+        continue-on-error: true
+              # Feed: Life1
+              
+      - name: Fetch Life2 Feed
+        uses: sarisia/actions-readme-feed@v1
+        id: _feedlife2_
+        with:
+          file: 'README.md'
+          timezone: 'Asia/taipei'
+          max_entry: 500
+          sort: true
+          format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
+          start_flag: "<!-- _feedlife2_ start -->"
+          end_flag: "<!-- _feedlife2_ end -->"
+          url: |
+            https://wenflower.blogspot.com/feeds/posts/default
+        continue-on-error: true
+
+      # Feed: Life3 Feed
+      - name: Fetch Life3 Feed
+        uses: sarisia/actions-readme-feed@v1
+        id: _feedlife3_
+        with:
+          file: 'README.md'
+          timezone: 'Asia/taipei'
+          max_entry: 500
+          sort: true
+          format: '- ${04year}/${02month}/${02day} - [${title}](${url})' 
+          start_flag: "<!-- _feedlife3_ start -->"
+          end_flag: "<!-- _feedlife3_ end -->"
+          url: |
+            https://wenbike.blogspot.com/feeds/posts/default
+
+        continue-on-error: true
+        
       # Commit changes if any feed updates occurred
       - name: Commit changes if any feeds
-        if: ${{ steps._feedinvestment1_.outputs.changed}} == 'true' || ${{steps._feedinvestment2_.outputs.changed}} == 'true' || ${{steps._feedwork_.outputs.changed}} == 'true' || ${{steps._feedlife_.outputs.changed == 'true'}}
+        if: ${{ steps._feedinvestment1_.outputs.changed}} == 'true' || ${{steps._feedinvestment2_.outputs.changed}} == 'true' || ${{ steps._feedinvestment3_.outputs.changed}} == 'true' || ${{steps._feedwork_.outputs.changed}} == 'true' ||  ${{steps._feedwork1_.outputs.changed}} == 'true' || ${{steps._feedlife_.outputs.changed}} == 'true' ||  ${{steps._feedlife1_.outputs.changed}} == 'true' ||  ${{steps._feedlife2_.outputs.changed}} == 'true' ||  ${{steps._feedlife3_.outputs.changed}} == 'true' 
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"

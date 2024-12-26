@@ -1,49 +1,73 @@
-# wenchiehlee@investment: 掛牌 競拍 抽籤 
+# wenchiehlee@investment 
+## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- Dec 04 - [博盛半導體12/26<b>掛牌</b>上櫃暫定承銷價每股186元 - 台視](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/default.asp%3Fi%3D12202404162472234329FC624F7DAF09FEFA33ACDDD35354%26from%3D587&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0SjxDNqzF_2hgf-OTr4Dhx)
-- Dec 04 - [大井泵浦完成上櫃前<b>競拍</b>將以51元IPO 12/6公開申購 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25A4%25A7%25E4%25BA%2595%25E6%25B3%25B5%25E6%25B5%25A6%25E5%25AE%258C%25E6%2588%2590%25E4%25B8%258A%25E6%25AB%2583%25E5%2589%258D%25E7%25AB%25B6%25E6%258B%258D%25E5%25B0%2587%25E4%25BB%25A551%25E5%2585%2583ipo-12-6%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC-090442342.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1460CPepXKR0TT55dCl2ci)
-- Dec 04 - [博盛半導體12/26<b>掛牌</b>上櫃暫定承銷價每股186元 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df101b9c3-f7ea-4ded-9d75-567900cf205e&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2MDnK_SOv35QELk0LJbNyI)
+- 2024/12/25 - [青松健康12/25-27<b>競拍</b>1/15股票上市 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E9%259D%2592%25E6%259D%25BE%25E5%2581%25A5%25E5%25BA%25B712-25-27%25E7%25AB%25B6%25E6%258B%258D-1-15%25E8%2582%25A1%25E7%25A5%25A8%25E4%25B8%258A%25E5%25B8%2582-172837524.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2uz5c5y7K-wIaWbaYEV07z)
+- 2024/12/25 - [裕山(7715) 將<b>掛牌</b>上櫃！你眼裡的垃圾，他們心中的黃金！一文認識環境工程佼佼者](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/craftsman_talk/video/%25E8%25A3%2595%25E5%25B1%25B1-7715--%25E5%25B0%2587%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-%25E4%25BD%25A0%25E7%259C%25BC%25E8%25A3%25A1%25E7%259A%2584%25E5%259E%2583%25E5%259C%25BE-%25E4%25BB%2596%25E5%2580%2591%25E5%25BF%2583%25E4%25B8%25AD%25E7%259A%2584%25E9%25BB%2583%25E9%2587%2591-%25E4%25B8%2580%25E6%2596%2587%25E8%25AA%258D%25E8%25AD%2598%25E7%2592%25B0%25E5%25A2%2583%25E5%25B7%25A5%25E7%25A8%258B%25E4%25BD%25BC%25E4%25BD%25BC%25E8%2580%2585-%25E5%25BD%25B1%25E7%2589%2587%25E7%259C%258B%25E7%25B6%2593%25E7%2587%259F%25E9%259A%258E%25E5%25B1%25A4-IPO%25E7%25AB%25B6%25E6%258B%258D%25E6%25B5%2581%25E7%25A8%258B%25E5%25A0%25B1%25E4%25BD%25A0%25E7%259F%25A5-6763776b1b37082db039439e&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw29mRjhdIh1NIlaFe4C9DKd)
+- 2024/12/24 - [金興精密明起<b>競拍</b>、底價32元；1/14上市- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Db8d6e83e-62e9-4ac8-a870-2873e24c4dfb&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2MP_dQut4ow-zbSCWua6mp)
+- 2024/12/24 - [創泓科技12/25起以每股72.5元<b>競拍</b>，暫定明年1/15<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2589%25B5%25E6%25B3%2593%25E7%25A7%2591%25E6%258A%258012-25%25E8%25B5%25B7%25E4%25BB%25A5%25E6%25AF%258F%25E8%2582%25A172-5%25E5%2585%2583%25E7%25AB%25B6%25E6%258B%258D-%25E6%259A%25AB%25E5%25AE%259A%25E6%2598%258E%25E5%25B9%25B41-15%25E6%258E%259B%25E7%2589%258C-232658525.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1-JNzUrKaEPf5wM1R01OT9)
+- 2024/12/24 - [準上市：金興精密(7732)高品質優勢成功打入全球電動車供應鏈，預計1/14<b>掛牌</b> - 東森財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://fnc.ebc.net.tw/fncnews/else/181763&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw28i6hcXrRe_Ur5Dshoug-T)
+- 2024/12/23 - [創泓科技12月25-27日<b>競價拍賣</b>暫定明年1月15日<b>掛牌</b>| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/8443936&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ito76brNmtINhEad54Hnh)
 <!-- _feedinvestment1_ end -->
 
-# wenchiehlee@investment: 過額配售 
+## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
+
+<!-- _feedinvestment1_1_ start -->
+- 2024/12/25 - [裕山(7715) 將<b>掛牌</b>上櫃！你眼裡的垃圾，他們心中的黃金！一文認識環境工程佼佼者](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/craftsman_talk/video/%25E8%25A3%2595%25E5%25B1%25B1-7715--%25E5%25B0%2587%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-%25E4%25BD%25A0%25E7%259C%25BC%25E8%25A3%25A1%25E7%259A%2584%25E5%259E%2583%25E5%259C%25BE-%25E4%25BB%2596%25E5%2580%2591%25E5%25BF%2583%25E4%25B8%25AD%25E7%259A%2584%25E9%25BB%2583%25E9%2587%2591-%25E4%25B8%2580%25E6%2596%2587%25E8%25AA%258D%25E8%25AD%2598%25E7%2592%25B0%25E5%25A2%2583%25E5%25B7%25A5%25E7%25A8%258B%25E4%25BD%25BC%25E4%25BD%25BC%25E8%2580%2585-%25E5%25BD%25B1%25E7%2589%2587%25E7%259C%258B%25E7%25B6%2593%25E7%2587%259F%25E9%259A%258E%25E5%25B1%25A4-IPO%25E7%25AB%25B6%25E6%258B%258D%25E6%25B5%2581%25E7%25A8%258B%25E5%25A0%25B1%25E4%25BD%25A0%25E7%259F%25A5-6763776b1b37082db039439e&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw29mRjhdIh1NIlaFe4C9DKd)
+- 2024/12/24 - [創泓科技12/25起以每股72.5元<b>競拍</b>，暫定明年1/15<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2589%25B5%25E6%25B3%2593%25E7%25A7%2591%25E6%258A%258012-25%25E8%25B5%25B7%25E4%25BB%25A5%25E6%25AF%258F%25E8%2582%25A172-5%25E5%2585%2583%25E7%25AB%25B6%25E6%258B%258D-%25E6%259A%25AB%25E5%25AE%259A%25E6%2598%258E%25E5%25B9%25B41-15%25E6%258E%259B%25E7%2589%258C-232658525.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1-JNzUrKaEPf5wM1R01OT9)
+- 2024/12/24 - [首家長照企業明年1月上市青松健康12/25<b>競拍</b>承銷 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E9%25A6%2596%25E5%25AE%25B6%25E9%2595%25B7%25E7%2585%25A7%25E4%25BC%2581%25E6%25A5%25AD%25E6%2598%258E%25E5%25B9%25B41%25E6%259C%2588%25E4%25B8%258A%25E5%25B8%2582-%25E9%259D%2592%25E6%259D%25BE%25E5%2581%25A5%25E5%25BA%25B712-25%25E7%25AB%25B6%25E6%258B%258D%25E6%2589%25BF%25E9%258A%25B7/ar-AA1wlV0K%3Focid%3Dfinance-verthp-feeds&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0tt_aZf91uRQTpO5R7Q1w_)
+- 2024/12/24 - [《興櫃股》創泓科技預定1月25日<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E5%2589%25B5%25E6%25B3%2593%25E7%25A7%2591%25E6%258A%2580-%25E9%25A0%2590%25E5%25AE%259A1%25E6%259C%258825%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-235401316.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2hq1tduRn55iSbhHErTEKW)
+- 2024/12/24 - [日間照顧是「長照2.0」重要一環！青松健康暫定1/15 <b>掛牌</b>上市| 科技新報](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/JPWW9D3&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw36ObplbndQ73a-VNakm9q-)
+- 2024/12/24 - [創泓1月上櫃承銷價87元| 櫃買動態| 證券 - 經濟日報- 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8444355&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3d6xfNtVVE69xPtCkFIrX3)
+<!-- _feedinvestment1_1_ end -->
+
+## 過額配售 
 <!-- _feedinvestment2_ start -->
-- Dec 05 - [邦睿生技初次創新板上市<b>過額配售</b>：0股| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/x2gVoO1&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0gZihrFu755d1BjCvkX2qm)
-- Dec 05 - [邦睿生技初次創新板上市前現增案股款約2.1億元已全數收足，增資基準日12/4 | MoneyDJ理財 ...](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/PGonzrj&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1wIPuPd-9kbGvCzeUVTTWR)
-- Dec 05 - [邦睿生技(6955)公告辦理股票初次創新板上市<b>過額配售</b>內容承銷價：每股108.00元(12/4日股價 ...](https://www.google.com/url?rct=j&sa=t&url=http://www.genetinfo.com/investment/company-news/item/83951.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2oHFyuRWVxJMf0D3rOz-Fj)
-- Dec 05 - [【MoneyDJ新股巡禮】解決少子化邦睿靠整合技術悠遊藍海 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/video/moneydj%25E6%2596%25B0%25E8%2582%25A1%25E5%25B7%25A1%25E7%25A6%25AE-%25E8%25A7%25A3%25E6%25B1%25BA%25E5%25B0%2591%25E5%25AD%2590%25E5%258C%2596-%25E9%2582%25A6%25E7%259D%25BF%25E9%259D%25A0%25E6%2595%25B4%25E5%2590%2588%25E6%258A%2580%25E8%25A1%2593%25E6%2582%25A0%25E9%2581%258A%25E8%2597%258D%25E6%25B5%25B7-052908592.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw22dLHGn4arjRjmVbatQlDL)
+- 2024/12/26 - [博盛每股186元上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%258D%259A%25E7%259B%259B%25E6%25AF%258F%25E8%2582%25A1186%25E5%2585%2583-%25E4%25B8%258A%25E6%25AB%2583-201000492.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1E_w5uZ8HyHCalaTZyjMWI)
+- 2024/12/25 - [櫃買中心預計12/26舉辦博盛半導體上櫃掛牌典禮| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/mWkmwwz&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Ggn7IyCdQP5nWuU7d-mXS)
+- 2024/12/25 - [大井泵浦:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5818988&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Nlvt95oQRQBLVagYWvYJF)
+- 2024/12/25 - [博盛半導體初上櫃<b>過額配售</b>20張，佔公開承銷股數比例0.75% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/XYJgaQZ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ofUyap_MWpYP8vC2FHLJQ)
 <!-- _feedinvestment2_ end -->
+
+## mkdocs-investment
+<!-- _feedinvestment3_ start -->
+- 2024/12/22 - [過額配售是什麼？以 **8272 全景軟體** 為例](https://wenchiehlee-investment.github.io/blog/2024/10/%E9%81%8E%E9%A1%8D%E9%85%8D%E5%94%AE%E6%98%AF%E4%BB%80%E9%BA%BC%E4%BB%A5-8272-%E5%85%A8%E6%99%AF%E8%BB%9F%E9%AB%94-%E7%82%BA%E4%BE%8B/)
+<!-- _feedinvestment3_ end -->
 
 # wenchiehlee@work
 <!-- _feedwork_ start -->
-- 2020/09/18 - [Tensorflow.js POC 13: Avatar Generator with Face-API.js](https://wenchiehlee.github.io/mkdocs/blog/2020/09/tensorflowjs-poc-13-avatar-generator-with-face-apijs/)
-- 2020/09/15 - [Pytorch POC 6: WIFI Indoor Positioning](https://wenchiehlee.github.io/mkdocs/blog/2020/09/pytorch-poc-6-wifi-indoor-positioning/)
-- 2020/09/11 - [Pytorch POC 5: Audio De-Noiser](https://wenchiehlee.github.io/mkdocs/blog/2020/09/pytorch-poc-5-audio-de-noiser/)
-- 2020/09/05 - [U2Net](https://wenchiehlee.github.io/mkdocs/blog/2020/09/u2net/)
-- 2020/08/28 - [Tensorflow.js POC 13: Handpose and its potential POCs](https://wenchiehlee.github.io/mkdocs/blog/2020/08/tensorflowjs-poc-13-handpose-and-its-potential-pocs/)
-- 2020/08/22 - [Deep Learning Computing CI/CD Framework](https://wenchiehlee.github.io/mkdocs/blog/2020/08/deep-learning-computing-cicd-framework/)
-- 2020/08/22 - [Deep Learning Computing wiki](https://wenchiehlee.github.io/mkdocs/blog/2020/08/deep-learning-computing-wiki/)
-- 2020/08/20 - [Pytorch POC 3: MozzilaTTS](https://wenchiehlee.github.io/mkdocs/blog/2020/08/pytorch-poc-3-mozzilatts/)
-- 2020/08/11 - [Recommendation](https://wenchiehlee.github.io/mkdocs/blog/2020/08/recommendation/)
-- 2020/08/06 - [Pytorch POC 2: OpenTTS](https://wenchiehlee.github.io/mkdocs/blog/2020/08/pytorch-poc-2-opentts/)
-- 2020/07/28 - [Dataset](https://wenchiehlee.github.io/mkdocs/blog/2020/07/dataset/)
-- 2020/07/28 - [Data Trasmit Over Sound- Chimay Ultrasound](https://wenchiehlee.github.io/mkdocs/blog/2020/07/data-trasmit-over-sound--chimay-ultrasound/)
-- 2020/07/13 - [Tensorflow.js POC 12: Slim Based on Facemesh](https://wenchiehlee.github.io/mkdocs/blog/2020/07/tensorflowjs-poc-12-slim-based-on-facemesh/)
-- 2020/07/13 - [Tensorflow.js POC 10: Tochup Based on Facemesh](https://wenchiehlee.github.io/mkdocs/blog/2020/07/tensorflowjs-poc-10-tochup-based-on-facemesh/)
-- 2020/07/13 - [Supervised Learning vs. Semi-Supervised Learning vs. Reenforcement Learning](https://wenchiehlee.github.io/mkdocs/blog/2020/07/supervised-learning-vs-semi-supervised-learning-vs-reenforcement-learning/)
-- 2020/07/12 - [Deep Learning Computing Architecture](https://wenchiehlee.github.io/mkdocs/blog/2020/07/deep-learning-computing-architecture/)
-- 2020/07/10 - [Pre-trained Model, and What is Next Steps](https://wenchiehlee.github.io/mkdocs/blog/2020/07/pre-trained-model-and-what-is-next-steps/)
-- 2020/06/23 - [Tensorflow.js POC 12: Cam Face-recognition on face-api.js](https://wenchiehlee.github.io/mkdocs/blog/2020/06/tensorflowjs-poc-12-cam-face-recognition-on-face-apijs/)
-- 2020/06/22 - [Tensorflow.js POC 7: face-api.js](https://wenchiehlee.github.io/mkdocs/blog/2020/06/tensorflowjs-poc-7-face-apijs/)
-- 2020/06/19 - [Max POC 2: Super Resolution with SRGAN](https://wenchiehlee.github.io/mkdocs/blog/2020/06/max-poc-2-super-resolution-with-srgan/)
+- 2024/10/16 - [Tensorflow.js POC 10: Tochup Based on Facemesh](https://wenchiehlee.github.io/mkdocs/blog/2020/07/tensorflowjs-poc-10-tochup-based-on-facemesh/)
+- 2024/10/16 - [Recommendation](https://wenchiehlee.github.io/mkdocs/blog/2020/08/recommendation/)
+- 2024/10/16 - [Tensorflow.js POC 12: Cam Face-recognition on face-api.js](https://wenchiehlee.github.io/mkdocs/blog/2020/06/tensorflowjs-poc-12-cam-face-recognition-on-face-apijs/)
+- 2024/10/16 - [Tensorflow.js POC 13: Handpose and its potential POCs](https://wenchiehlee.github.io/mkdocs/blog/2020/08/tensorflowjs-poc-13-handpose-and-its-potential-pocs/)
+- 2024/10/16 - [Pytorch POC 5: Audio De-Noiser](https://wenchiehlee.github.io/mkdocs/blog/2020/09/pytorch-poc-5-audio-de-noiser/)
+- 2024/10/16 - [Tensorflow.js POC 13: Avatar Generator with Face-API.js](https://wenchiehlee.github.io/mkdocs/blog/2020/09/tensorflowjs-poc-13-avatar-generator-with-face-apijs/)
+- 2024/10/16 - [Tensorflow.js POC 3: body-pixv2](https://wenchiehlee.github.io/mkdocs/blog/2020/06/tensorflowjs-poc-3-body-pixv2/)
+- 2024/10/16 - [Tensorflow.js POC 4: Facemesh](https://wenchiehlee.github.io/mkdocs/blog/2020/06/tensorflowjs-poc-4-facemesh/)
+- 2024/10/16 - [Tensorflow.js POC 6: Posenet](https://wenchiehlee.github.io/mkdocs/blog/2020/06/tensorflowjs-poc-6-posenet/)
+- 2024/10/16 - [Tensorflow.js POC 9: WhoIsTalking Based on Facemesh](https://wenchiehlee.github.io/mkdocs/blog/2020/06/tensorflowjs-poc-9-whoistalking-based-on-facemesh/)
+- 2024/10/16 - [Max POC 2: Super Resolution with SRGAN](https://wenchiehlee.github.io/mkdocs/blog/2020/06/max-poc-2-super-resolution-with-srgan/)
+- 2024/10/16 - [Tensorflow.js POC 8: Super Resolution with waifu2x](https://wenchiehlee.github.io/mkdocs/blog/2020/06/tensorflowjs-poc-8-super-resolution-with-waifu2x/)
+- 2024/10/16 - [Tensorflow.js POC 8: Super Resolution with waifu2x (II)](https://wenchiehlee.github.io/mkdocs/blog/2020/06/tensorflowjs-poc-8-super-resolution-with-waifu2x-ii/)
+- 2024/10/16 - [Tensorflow.js POC 7: face-api.js](https://wenchiehlee.github.io/mkdocs/blog/2020/06/tensorflowjs-poc-7-face-apijs/)
+- 2024/10/16 - [Tensorflow.js POC 12: Slim Based on Facemesh](https://wenchiehlee.github.io/mkdocs/blog/2020/07/tensorflowjs-poc-12-slim-based-on-facemesh/)
+- 2024/09/19 - [Supervised Learning vs. Semi-Supervised Learning vs. Reenforcement Learning](https://wenchiehlee.github.io/mkdocs/blog/2020/07/supervised-learning-vs-semi-supervised-learning-vs-reenforcement-learning/)
+- 2024/09/19 - [Pytorch POC 2: OpenTTS](https://wenchiehlee.github.io/mkdocs/blog/2020/08/pytorch-poc-2-opentts/)
+- 2024/09/19 - [Pytorch POC 3: MozzilaTTS](https://wenchiehlee.github.io/mkdocs/blog/2020/08/pytorch-poc-3-mozzilatts/)
+- 2024/09/19 - [U2Net](https://wenchiehlee.github.io/mkdocs/blog/2020/09/u2net/)
+- 2024/09/19 - [Pytorch POC 6: WIFI Indoor Positioning](https://wenchiehlee.github.io/mkdocs/blog/2020/09/pytorch-poc-6-wifi-indoor-positioning/)
 <!-- _feedwork_ end -->
+
+## wenchiehlee.synology.me
+<!-- _feedwork1_ start -->
+<!-- _feedwork1_ end -->
+
+## andy.wenchiehlee.synology.me
+<!-- _feedwork2_ start -->
+<!-- _feedwork2_ end -->
 
 # wenchiehlee@life
 <!-- _feedlife_ start -->
-- 2021/02/25 - [沼蝦缸](https://wenchiehlee.wordpress.com/2021/02/25/%e6%b2%bc%e8%9d%a6%e7%bc%b8/)
-- 2020/11/19 - [這幾年浮潛觀察海水魚, 寄居蟹地點](https://wenchiehlee.wordpress.com/2020/11/19/%e9%80%99%e5%b9%be%e5%b9%b4%e6%b5%ae%e6%bd%9b%e8%a7%80%e5%af%9f%e6%b5%b7%e6%b0%b4%e9%ad%9a-%e5%af%84%e5%b1%85%e8%9f%b9%e5%9c%b0%e9%bb%9e/)
-- 2020/11/19 - [鬥魚愛吃食物](https://wenchiehlee.wordpress.com/2020/11/19/%e9%ac%a5%e9%ad%9a%e6%84%9b%e5%90%83%e9%a3%9f%e7%89%a9/)
-- 2020/11/19 - [陸寄居蟹愛吃食物](https://wenchiehlee.wordpress.com/2020/11/19/%e9%99%b8%e5%af%84%e5%b1%85%e8%9f%b9%e6%84%9b%e5%90%83%e9%a3%9f%e7%89%a9/)
 - 2020/11/17 - [陸寄居蟹愛吃的東西](https://wenchiehlee1020.medium.com/%E9%99%B8%E5%AF%84%E5%B1%85%E8%9F%B9%E6%84%9B%E5%90%83%E7%9A%84%E6%9D%B1%E8%A5%BF-b56592041d42?source=rss-3f9fbe6f3140------2)
 - 2020/11/11 - [趕海地圖](https://wenchiehlee1020.medium.com/%E8%B6%95%E6%B5%B7%E5%9C%B0%E5%9C%96-6a3432ad0ed1?source=rss-3f9fbe6f3140------2)
 - 2020/07/11 - [純釀青芒果酒 (6/13)](https://wenchiehlee1020.medium.com/%E7%B4%94%E9%87%80%E9%9D%92%E8%8A%92%E6%9E%9C%E9%85%92-6-13-10296871dcfe?source=rss-3f9fbe6f3140------2)
@@ -54,25 +78,18 @@
 - 2010/04/27 - [下一波資訊發展浪潮：物聯網時代即將降臨](http://wenchiehlee.blogspot.com/2010/04/blog-post.html)
 - 2010/02/25 - [[Book reading] 天擇: 猶太人的故事](http://wenchiehlee.blogspot.com/2010/02/book-reading.html)
 - 2010/02/23 - [How to Enable Concurrent Sessions for Remote Desktop in Windows 7 RTM](http://wenchiehlee.blogspot.com/2010/02/how-to-enable-concurrent-sessions-for.html)
-- 2010/01/02 - [桃園市自行車道地圖](https://wenbike.blogspot.com/2010/01/blog-post.html)
 - 2010/01/01 - [定風波- 蘇軾](http://wenchiehlee.blogspot.com/2009/12/very-good-explanation-from-reference.html)
 - 2009/12/28 - [洪蘭：為何要了解史懷哲是哪國人 | 名人堂 | 意見評論 | 聯合新聞網](http://wenchiehlee.blogspot.com/2009/12/blog-post_28.html)
-- 2009/12/20 - [二鐵共乘遊東台灣　搭火車帶單車更加便利了](https://wenbike.blogspot.com/2009/12/blog-post.html)
 - 2009/11/30 - [[PPT reading] Waves](http://wenchiehlee.blogspot.com/2009/11/ppt-reading-waves.html)
 - 2009/11/27 - [[Book reading] 從科學貫通哲學 作者：畢家湘](http://wenchiehlee.blogspot.com/2009/11/blog-post.html)
 - 2009/11/27 - [洪蘭VS.曾志朗：如何活出生命力？](http://wenchiehlee.blogspot.com/2009/11/vs.html)
-- 2009/05/12 - [含羞草種植](https://wenflower.blogspot.com/2009/05/blog-post_12.html)
-- 2009/05/11 - [馬拉巴栗種植](https://wenflower.blogspot.com/2009/05/blog-post.html)
 - 2009/03/31 - [科學新發現 - ''冰期消融'' (2009-02-28, 國家地理)](http://wenchiehlee.blogspot.com/2009/03/2009-02-28.html)
 - 2009/03/29 - [Stay hungry, stay foolish](http://wenchiehlee.blogspot.com/2009/03/stay-hungry-stay-foolish.html)
 - 2009/03/11 - [Win7 new features](http://wenchiehlee.blogspot.com/2009/03/win7-new-features.html)
 - 2009/03/10 - [一生必去的台灣100個景點](http://wenchiehlee.blogspot.com/2009/03/100_10.html)
-- 2009/02/10 - [九層塔種植](https://wenflower.blogspot.com/2009/02/test.html)
 - 2008/12/18 - [【旅行】2008-12-13 彰化二日遊(2)- 花壇西施柚+民俗文化村](http://wenchiehlee.blogspot.com/2008/12/2008-12-13-2.html)
 - 2008/12/18 - [【旅行】2008-12-13 彰化二日遊(1)- 田尾公路花園](http://wenchiehlee.blogspot.com/2008/12/2008-12-13.html)
-- 2008/12/14 - [西施柚種植](https://wenflower.blogspot.com/2009/01/2008-12-13.html)
 - 2008/12/05 - [【旅行】2008-11-23 新埔拔橘子](http://wenchiehlee.blogspot.com/2008/12/2008-11-23.html)
-- 2008/11/24 - [紅肉柳丁種植](https://wenflower.blogspot.com/2009/01/blog-post.html)
 - 2008/10/20 - [歐盟科學委員會發警告：隨身音樂播放器有可能嚴重損害聽覺](http://wenchiehlee.blogspot.com/2008/10/blog-post.html)
 - 2008/10/17 - [【旅行】2008-10-09 宜蘭頭城二日遊 (I)](http://wenchiehlee.blogspot.com/2008/10/2008-10-09-i.html)
 - 2008/10/07 - [【旅行】2008-10-05 大溪月眉](http://wenchiehlee.blogspot.com/2008/10/2008-10-05.html)
@@ -80,3 +97,30 @@
 - 2008/06/15 - [【旅行】2008-05-30 花蓮五日遊(1) 南澳 花蓮遠來](http://wenchiehlee.blogspot.com/2008/06/2008-05-30-1.html)
 - 2008/02/05 - [【旅行】2008-01-20 新竹半日遊- 新埔巨埔社區](http://wenchiehlee.blogspot.com/2008/02/2008-01-20.html)
 <!-- _feedlife_ end -->
+
+## mkdocs-life
+<!-- _feedlife4_ start -->
+<!-- _feedlife4_ end -->
+
+## 養殖
+<!-- _feedlife1_ start -->
+- 2021/02/25 - [沼蝦缸](https://wenchiehlee.wordpress.com/2021/02/25/%e6%b2%bc%e8%9d%a6%e7%bc%b8/)
+- 2020/11/19 - [這幾年浮潛觀察海水魚, 寄居蟹地點](https://wenchiehlee.wordpress.com/2020/11/19/%e9%80%99%e5%b9%be%e5%b9%b4%e6%b5%ae%e6%bd%9b%e8%a7%80%e5%af%9f%e6%b5%b7%e6%b0%b4%e9%ad%9a-%e5%af%84%e5%b1%85%e8%9f%b9%e5%9c%b0%e9%bb%9e/)
+- 2020/11/19 - [鬥魚愛吃食物](https://wenchiehlee.wordpress.com/2020/11/19/%e9%ac%a5%e9%ad%9a%e6%84%9b%e5%90%83%e9%a3%9f%e7%89%a9/)
+- 2020/11/19 - [陸寄居蟹愛吃食物](https://wenchiehlee.wordpress.com/2020/11/19/%e9%99%b8%e5%af%84%e5%b1%85%e8%9f%b9%e6%84%9b%e5%90%83%e9%a3%9f%e7%89%a9/)
+<!-- _feedlife1_ end -->
+
+## 種植
+<!-- _feedlife2_ start -->
+- 2009/05/12 - [含羞草種植](https://wenflower.blogspot.com/2009/05/blog-post_12.html)
+- 2009/05/11 - [馬拉巴栗種植](https://wenflower.blogspot.com/2009/05/blog-post.html)
+- 2009/02/10 - [九層塔種植](https://wenflower.blogspot.com/2009/02/test.html)
+- 2008/12/14 - [西施柚種植](https://wenflower.blogspot.com/2009/01/2008-12-13.html)
+- 2008/11/24 - [紅肉柳丁種植](https://wenflower.blogspot.com/2009/01/blog-post.html)
+<!-- _feedlife2_ end -->
+
+## Bike
+<!-- _feedlife3_ start -->
+- 2010/01/02 - [桃園市自行車道地圖](https://wenbike.blogspot.com/2010/01/blog-post.html)
+- 2009/12/20 - [二鐵共乘遊東台灣　搭火車帶單車更加便利了](https://wenbike.blogspot.com/2009/12/blog-post.html)
+<!-- _feedlife3_ end -->
