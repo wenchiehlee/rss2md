@@ -24,9 +24,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2024/12/26 - [博盛每股186元上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%258D%259A%25E7%259B%259B%25E6%25AF%258F%25E8%2582%25A1186%25E5%2585%2583-%25E4%25B8%258A%25E6%25AB%2583-201000492.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1E_w5uZ8HyHCalaTZyjMWI)
-- 2024/12/25 - [櫃買中心預計12/26舉辦博盛半導體上櫃掛牌典禮| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/mWkmwwz&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Ggn7IyCdQP5nWuU7d-mXS)
-- 2024/12/25 - [大井泵浦:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5818988&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Nlvt95oQRQBLVagYWvYJF)
-- 2024/12/25 - [博盛半導體初上櫃<b>過額配售</b>20張，佔公開承銷股數比例0.75% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/XYJgaQZ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ofUyap_MWpYP8vC2FHLJQ)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
