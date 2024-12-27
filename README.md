@@ -23,9 +23,6 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2024/12/26 - [MOSFET族群添生力軍，博盛半導體今以186元掛牌，蜜月行情展開 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/mosfet%25E6%2597%258F%25E7%25BE%25A4%25E6%25B7%25BB%25E7%2594%259F%25E5%258A%259B%25E8%25BB%258D-%25E5%258D%259A%25E7%259B%259B%25E5%258D%258A%25E5%25B0%258E%25E9%25AB%2594%25E4%25BB%258A%25E4%25BB%25A5186%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C-%25E8%259C%259C%25E6%259C%2588%25E8%25A1%258C%25E6%2583%2585%25E5%25B1%2595%25E9%2596%258B-031654978.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2DJEE6442uV0Ynwl0JPTlm)
-- 2024/12/26 - [大井泵浦初次上櫃掛牌首五個營業日穩定價格操作結果：0股| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/qoXgZjy&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Myv9gbCCeiC6_TUW9WFNv)
-- 2024/12/26 - [博盛半導體普通股、現增股款繳納憑證12/26起開始轉上櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/NvL253P&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw05DsMgA0WYzh2OeWoCGMz3)
 - 2024/12/26 - [博盛半導體掛牌上櫃盤中股價上揚14.25% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%258D%259A%25E7%259B%259B%25E5%258D%258A%25E5%25B0%258E%25E9%25AB%2594%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-%25E7%259B%25A4%25E4%25B8%25AD%25E8%2582%25A1%25E5%2583%25B9%25E4%25B8%258A%25E6%258F%259A14-25-020325718.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2S5HOgSU2UwUMzOLELBci8)
 <!-- _feedinvestment2_ end -->
 
