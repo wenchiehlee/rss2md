@@ -27,7 +27,6 @@
 - 2024/12/26 - [大井泵浦初次上櫃掛牌首五個營業日穩定價格操作結果：0股| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/qoXgZjy&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Myv9gbCCeiC6_TUW9WFNv)
 - 2024/12/26 - [博盛半導體普通股、現增股款繳納憑證12/26起開始轉上櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/NvL253P&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw05DsMgA0WYzh2OeWoCGMz3)
 - 2024/12/26 - [博盛半導體掛牌上櫃盤中股價上揚14.25% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%258D%259A%25E7%259B%259B%25E5%258D%258A%25E5%25B0%258E%25E9%25AB%2594%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-%25E7%259B%25A4%25E4%25B8%25AD%25E8%2582%25A1%25E5%2583%25B9%25E4%25B8%258A%25E6%258F%259A14-25-020325718.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2S5HOgSU2UwUMzOLELBci8)
-- 2024/12/26 - [博盛每股186元上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%258D%259A%25E7%259B%259B%25E6%25AF%258F%25E8%2582%25A1186%25E5%2585%2583-%25E4%25B8%258A%25E6%25AB%2583-201000492.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1E_w5uZ8HyHCalaTZyjMWI)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
