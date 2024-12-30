@@ -13,8 +13,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2024/12/28 - [台灣虎航<b>競拍</b>超額認購28.3倍平均價62.38元 - MSN](https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/money/topstories/%25E5%258F%25B0%25E7%2581%25A3%25E8%2599%258E%25E8%2588%25AA%25E7%25AB%25B6%25E6%258B%258D%25E8%25B6%2585%25E9%25A1%258D%25E8%25AA%258D%25E8%25B3%25BC283%25E5%2580%258D-%25E5%25B9%25B3%25E5%259D%2587%25E5%2583%25B96238%25E5%2585%2583/ar-AA1u7X2U%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1hfDAbss4uYfqriXgONYmR)
-- 2024/12/28 - [新年抽新股！5檔明年1月準<b>掛牌</b>股這檔有望落袋3.7萬元| 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/8453677&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1QuVk0e3tXTsXwYQSIQnwf)
+- 2024/12/30 - [《興櫃股》金興精密上市前<b>競拍</b>承銷價40元- 財經- 時報資訊](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20241230002044-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Q3zkRnaQRGVNtgCCai8D6)
+- 2024/12/30 - [《興櫃股》金興精密上市前<b>競拍</b>承銷價40元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E9%2587%2591%25E8%2588%2588%25E7%25B2%25BE%25E5%25AF%2586%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E7%25AB%25B6%25E6%258B%258D-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B940%25E5%2585%2583-035504816.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1tpcBYsaCWpSCVu0c9EdLa)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
