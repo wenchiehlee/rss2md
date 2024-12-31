@@ -13,8 +13,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2024/12/30 - [《興櫃股》金興精密上市前<b>競拍</b>承銷價40元- 財經- 時報資訊](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20241230002044-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Q3zkRnaQRGVNtgCCai8D6)
-- 2024/12/30 - [《興櫃股》金興精密上市前<b>競拍</b>承銷價40元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E9%2587%2591%25E8%2588%2588%25E7%25B2%25BE%25E5%25AF%2586%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E7%25AB%25B6%25E6%258B%258D-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B940%25E5%2585%2583-035504816.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1tpcBYsaCWpSCVu0c9EdLa)
+- 2024/12/31 - [《興櫃股》創泓科技承銷價86.06元1月3日公開申購 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E5%2589%25B5%25E6%25B3%2593%25E7%25A7%2591%25E6%258A%2580%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B986-06%25E5%2585%2583-1%25E6%259C%25883%25E6%2597%25A5%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC-022825200.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw237JZNWwLkspVvw15-9WMI)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
