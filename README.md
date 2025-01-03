@@ -14,7 +14,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/01/02 - [博盛半導體初上櫃首五個營業日穩定價格操作結果：0股- 台股 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dff5300f2-89d9-4492-9381-9e088a09a33d%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1WOQiHEtmrxYlvJ26-LA0w)
+- 2025/01/03 - [1/2興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/gzv8B3z&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3W475qTfCR0pNMkJT4swgY)
+- 2025/01/03 - [1/2興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D2bb8a79b-79bb-42a0-9fbd-466fd4cf7a58&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0H-dmrgOHD4mWVaWTh6Uxm)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
