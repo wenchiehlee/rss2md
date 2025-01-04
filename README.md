@@ -14,6 +14,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/01/04 - [LINE Pay掛牌上市「無緣」蜜月行情中籤投資人帳面青恂恂 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/line-pay%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-%25E7%2584%25A1%25E7%25B7%25A3-%25E8%259C%259C%25E6%259C%2588%25E8%25A1%258C%25E6%2583%2585-%25E4%25B8%25AD%25E7%25B1%25A4%25E6%258A%2595%25E8%25B3%2587%25E4%25BA%25BA%25E5%25B8%25B3%25E9%259D%25A2%25E9%259D%2592%25E6%2581%2582%25E6%2581%2582-140301908.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2FC64pUPeYo0rH0HZ1CHdo)
 - 2025/01/03 - [1/2興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/gzv8B3z&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3W475qTfCR0pNMkJT4swgY)
 - 2025/01/03 - [1/2興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D2bb8a79b-79bb-42a0-9fbd-466fd4cf7a58&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0H-dmrgOHD4mWVaWTh6Uxm)
 <!-- _feedinvestment2_ end -->
