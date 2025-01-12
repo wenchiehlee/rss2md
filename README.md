@@ -14,8 +14,10 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/01/06 - [1/3興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/Vx2X3E1&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3q2kfWfTVM7q8nxRdXkFx1)
-- 2025/01/06 - [1/3興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D1459cf0e-7d44-42f6-9b61-064a9db7c4cb&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0M8Sx4MoUmcgWhc8HTWIZN)
+- 2025/01/13 - [金興精密初上市<b>過額配售</b>100張，占公開承銷數量1.96% - 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D520f5881-8324-4f17-a4ec-f91f10f155de&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3tQ3NX1Gc-EVFQLa3V1_fT)
+- 2025/01/11 - [【公告】青松健康辦理股票初次上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E9%259D%2592%25E6%259D%25BE%25E5%2581%25A5%25E5%25BA%25B7%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-080016267.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2JrmTCdx8Mv8TObQc7XQF2)
+- 2025/01/11 - [青松健康: 公告本公司辦理股票初次上市<b>過額配售</b>內容 - 國泰綜合證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20250110%26CSeqNO%3DT0572316&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ch-NAbe1JQmZ0rD7UF2dv)
+- 2025/01/10 - [金興精密113年12月營收1.00億、年增5.18% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/PGo5Bw8&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3GV5_agCXns_1FXCEh12dp)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
