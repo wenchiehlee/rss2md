@@ -14,6 +14,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/01/14 - [最新消息| 國泰綜合證券Cathay Securities Corporation](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20250113%26CSeqNO%3DT0572552&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1IqDxoYnqnvymOKydQDIRC)
+- 2025/01/14 - [富威電力初上市前現增案股款約9.01億元已全數收足，增資基準日1/13 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/rm6pe9w&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1R9SXyNqUdu28dMRXbqi-j)
 - 2025/01/13 - [裕山初上櫃現增案股款約1.6億元已全數收足，增資基準日1/13 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/mWkvgEr&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1JuH4HyJqvqAZKYyb5EdeC)
 - 2025/01/13 - [裕山初上櫃<b>過額配售</b>100張，占公開承銷數量3.00% - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D33596ac0-8f8b-4fb7-ac14-67e7c211dd0a&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0mJyKyRQDpZhSARTpJrPwY)
 - 2025/01/13 - [《興櫃股》青松健康上市前現增股款已全數收足 - Yahoo奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E9%259D%2592%25E6%259D%25BE%25E5%2581%25A5%25E5%25BA%25B7%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E7%258F%25BE%25E5%25A2%259E%25E8%2582%25A1%25E6%25AC%25BE-%25E5%25B7%25B2%25E5%2585%25A8%25E6%2595%25B8%25E6%2594%25B6%25E8%25B6%25B3-075807190.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2_Vq8ub6fSemdwjxvlRoZu)
