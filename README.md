@@ -14,6 +14,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/01/14 - [青松健康：公司股票1/15起轉上市買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/ML1Gg9D&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0MrIUVy_G8LVKyw5fbnML1)
+- 2025/01/14 - [創泓科技初上櫃前現增案員工認購股款催繳期間為1/14~2/14 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/mWkvoxp&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2zxQL9VDX2F886zywvNkVA)
+- 2025/01/14 - [創泓科技初上櫃<b>過額配售</b>80張，佔公開承銷股數比例3.97%](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D4c635733-072f-45ab-b00c-4893fb4f70cf&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3JP-m34v1TqsZixpZGTtlM)
 - 2025/01/14 - [最新消息| 國泰綜合證券Cathay Securities Corporation](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20250113%26CSeqNO%3DT0572552&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1IqDxoYnqnvymOKydQDIRC)
 - 2025/01/14 - [富威電力初上市前現增案股款約9.01億元已全數收足，增資基準日1/13 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/rm6pe9w&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1R9SXyNqUdu28dMRXbqi-j)
 <!-- _feedinvestment2_ end -->
