@@ -26,6 +26,7 @@
 
 # wenchiehlee@work
 <!-- _feedwork_ start -->
+- 2025/01/15 - [Deep Learning Computing CI/CD Framework](https://wenchiehlee.github.io/mkdocs/blog/2020/08/deep-learning-computing-cicd-framework/)
 - 2024/10/16 - [Tensorflow.js POC 10: Tochup Based on Facemesh](https://wenchiehlee.github.io/mkdocs/blog/2020/07/tensorflowjs-poc-10-tochup-based-on-facemesh/)
 - 2024/10/16 - [Recommendation](https://wenchiehlee.github.io/mkdocs/blog/2020/08/recommendation/)
 - 2024/10/16 - [Tensorflow.js POC 12: Cam Face-recognition on face-api.js](https://wenchiehlee.github.io/mkdocs/blog/2020/06/tensorflowjs-poc-12-cam-face-recognition-on-face-apijs/)
@@ -45,7 +46,6 @@
 - 2024/09/19 - [Pytorch POC 2: OpenTTS](https://wenchiehlee.github.io/mkdocs/blog/2020/08/pytorch-poc-2-opentts/)
 - 2024/09/19 - [Pytorch POC 3: MozzilaTTS](https://wenchiehlee.github.io/mkdocs/blog/2020/08/pytorch-poc-3-mozzilatts/)
 - 2024/09/19 - [U2Net](https://wenchiehlee.github.io/mkdocs/blog/2020/09/u2net/)
-- 2024/09/19 - [Pytorch POC 6: WIFI Indoor Positioning](https://wenchiehlee.github.io/mkdocs/blog/2020/09/pytorch-poc-6-wifi-indoor-positioning/)
 <!-- _feedwork_ end -->
 
 ## wenchiehlee.synology.me
