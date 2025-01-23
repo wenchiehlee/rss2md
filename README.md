@@ -14,11 +14,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/01/22 - [金興精密上市掛牌首五個營業日穩定價格操作結果：0股 - 台視](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/%3Fi%3D012025221705AB3E52A7925C41209818917CF735B6D7AB58%26from%3D587&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Vusl1az6WVt3hO_dt7zPw)
-- 2025/01/22 - [金興精密上市掛牌首五個營業日穩定價格操作結果：0股| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/PGovnwr&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0wjLKXsYMYTaS_k21IRgkJ)
-- 2025/01/22 - [【公告】創泓科技初次上櫃掛牌首五個營業日穩定價格操作結果 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%2589%25B5%25E6%25B3%2593%25E7%25A7%2591%25E6%258A%2580%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-085729649.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2pQy3nF0TJxSggonKFDM7y)
-- 2025/01/22 - [創泓科技:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果| Anue鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5843037&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2IH7he678Zul8zOBTIT23m)
-- 2025/01/21 - [創泓科技初上櫃首5日穩定價格操作結果：買進80張 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dd7334556-348f-4062-b766-1f1d189686de&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw03SvtjdzgouK3RzZo2K-p_)
+- 2025/01/24 - [青松健康(6931)上市首5日穩定價格操作結果：0股 - 環球生技月刊](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D74155%26kind%3D21&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0sav920-jO9bPqs_l2nlL5)
+- 2025/01/23 - [【公告】青松健康初次上市掛牌首五個營業日穩定價格操作結果 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E9%259D%2592%25E6%259D%25BE%25E5%2581%25A5%25E5%25BA%25B7%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-062916032.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ThKWu7kv8UHuBLHzReCIV)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
