@@ -9,7 +9,13 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/01/24 - [蛇年紅包抽起來、這檔年後將申購若中籤可望獲利2.3萬元| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/8513206&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0RMPPrXjrZBiDX271t6NN3)
+- 2025/02/03 - [威力德明起<b>競拍</b>、2月12日公開申購中籤者有望賺逾2萬紅包 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/8523245&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw01pn2eEwwp_RcVWme09TFG)
+- 2025/02/03 - [威力德生醫主打體外診斷4日起<b>競拍</b>預計24日上櫃 - 中央社](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202502030101.aspx&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3GrShFhVmfMOpATRkazejP)
+- 2025/02/03 - [威力德預計2/24上櫃中籤有望賺逾2萬新春紅包 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5849394&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw17OCdZ1EXsmpLcxqZooKDB)
+- 2025/02/03 - [《興櫃股》威力德搶占醫療藍海暫定2月24日上櫃<b>掛牌</b> - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D5719922001%26PU%3D0010&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0i9gynUsQ-Qt3RmOenComp)
+- 2025/02/03 - [《興櫃股》榮田2月5日起<b>競拍</b>預計25日<b>掛牌</b>上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E6%25A6%25AE%25E7%2594%25B02%25E6%259C%25885%25E6%2597%25A5%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E9%25A0%2590%25E8%25A8%258825%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-082530179.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ZySugfTSrL9tj0FnVSq5W)
+- 2025/02/03 - [威力德2／24上櫃<b>掛牌</b>承銷價55元- 證券- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250203700538-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw283E78iYATpxS8Iwd0ojCX)
+- 2025/02/03 - [威力德預計2/24上櫃中籤有望賺逾2萬新春紅包 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25A8%2581%25E5%258A%259B%25E5%25BE%25B7%25E9%25A0%2590%25E8%25A8%25882-24%25E4%25B8%258A%25E6%25AB%2583-%25E4%25B8%25AD%25E7%25B1%25A4%25E6%259C%2589%25E6%259C%259B%25E8%25B3%25BA%25E9%2580%25BE2%25E8%2590%25AC%25E6%2596%25B0%25E6%2598%25A5%25E7%25B4%2585%25E5%258C%2585-053645275.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3beezN8jrdzYK2OMGDyZ29)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
