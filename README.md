@@ -20,8 +20,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/01/24 - [青松健康(6931)上市首5日穩定價格操作結果：0股 - 環球生技月刊](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D74155%26kind%3D21&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0sav920-jO9bPqs_l2nlL5)
-- 2025/01/23 - [【公告】青松健康初次上市掛牌首五個營業日穩定價格操作結果 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E9%259D%2592%25E6%259D%25BE%25E5%2581%25A5%25E5%25BA%25B7%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-062916032.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ThKWu7kv8UHuBLHzReCIV)
+- 2025/02/04 - [富威電力上市首五個營業日穩定價格操作結果：0股- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7ca12b49-f752-4583-9178-0d0cdd2b50bd&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2IR6nYiajVw5_DMznQah-i)
+- 2025/02/04 - [新應材:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5849800&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0_FlUYz2K-di3bMY2dqvQO)
+- 2025/02/03 - [富威電力:公告本公司上市掛牌首五個營業日穩定價格操作結果 - Anue鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5849522&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3IiIH3qYBxHges8atwKoYr)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
