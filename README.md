@@ -2,6 +2,8 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
+- 2025/02/05 - [生技新兵駕到中籤可賺到這數字 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%2594%259F%25E6%258A%2580%25E6%2596%25B0%25E5%2585%25B5%25E9%25A7%2595%25E5%2588%25B0-%25E4%25B8%25AD%25E7%25B1%25A4%25E5%258F%25AF%25E8%25B3%25BA%25E5%2588%25B0%25E9%2580%2599%25E6%2595%25B8%25E5%25AD%2597-015825548.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw15ycNmonLPt-BuGJfKRnu7)
+- 2025/02/05 - [《興櫃股》先進封裝先鋒印能2月26日<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E5%2585%2588%25E9%2580%25B2%25E5%25B0%2581%25E8%25A3%259D%25E5%2585%2588%25E9%258B%2592-%25E5%258D%25B0%25E8%2583%25BD2%25E6%259C%258826%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-235525987.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw00T-XsR9SDQdfQyc4IZf51)
 - 2025/02/04 - [看好DeepSeek 加速AI 推升先進封裝！印能2/26 以承銷價1250 元<b>掛牌</b>上櫃 - 財經新報](https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2025/02/04/promoting-advanced-packaging/&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0RWQTV2_oIFB8NwcKwfAGZ)
 - 2025/02/04 - [印能2/26<b>掛牌</b>上櫃董事長：今年是興奮的一年 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/4940925&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2zl1pQL3eR0NIf5_zm7tqf)
 - 2025/02/04 - [興櫃股王印能啟動<b>競拍</b>2/26以1250元上櫃](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20250204/index-73866849660721224003.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3209OVX3QMN1M5tvVtvYaL)
