@@ -29,9 +29,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/02/04 - [富威電力上市首五個營業日穩定價格操作結果：0股- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7ca12b49-f752-4583-9178-0d0cdd2b50bd&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2IR6nYiajVw5_DMznQah-i)
-- 2025/02/04 - [新應材:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5849800&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0_FlUYz2K-di3bMY2dqvQO)
-- 2025/02/03 - [富威電力:公告本公司上市掛牌首五個營業日穩定價格操作結果 - Anue鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5849522&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3IiIH3qYBxHges8atwKoYr)
+- 2025/02/04 - [新應材初上櫃首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dd462e8d8-9ccf-4936-8580-222638f947cd%26utm_source%3D67675718662657689657966718%26utm_medium%3DRSS&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3vLbWxPKo25h3_tmgASwCZ)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
