@@ -2,8 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/02/05 - [生技新兵駕到中籤可賺到這數字 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%2594%259F%25E6%258A%2580%25E6%2596%25B0%25E5%2585%25B5%25E9%25A7%2595%25E5%2588%25B0-%25E4%25B8%25AD%25E7%25B1%25A4%25E5%258F%25AF%25E8%25B3%25BA%25E5%2588%25B0%25E9%2580%2599%25E6%2595%25B8%25E5%25AD%2597-015825548.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw15ycNmonLPt-BuGJfKRnu7)
-- 2025/02/05 - [《興櫃股》先進封裝先鋒印能2月26日<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E5%2585%2588%25E9%2580%25B2%25E5%25B0%2581%25E8%25A3%259D%25E5%2585%2588%25E9%258B%2592-%25E5%258D%25B0%25E8%2583%25BD2%25E6%259C%258826%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-235525987.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw00T-XsR9SDQdfQyc4IZf51)
+- 2025/02/11 - [光焱預計3/6上櫃2/13起<b>競拍</b>底價200元- 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202502/202502112436172.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1fXAln0mIoiJdoJzvbzj7w)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
