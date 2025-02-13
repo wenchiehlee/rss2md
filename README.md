@@ -25,7 +25,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/02/04 - [新應材初上櫃首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dd462e8d8-9ccf-4936-8580-222638f947cd%26utm_source%3D67675718662657689657966718%26utm_medium%3DRSS&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3vLbWxPKo25h3_tmgASwCZ)
+- 2025/02/13 - [2/12興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/x2LKqRe&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0XVuUxXMGXgWweyGpdkH4T)
+- 2025/02/13 - [興櫃申報轉讓：02月12日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2166613002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3PPHSt2hjc1LfHjW6Ign_8)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
