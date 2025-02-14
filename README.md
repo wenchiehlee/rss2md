@@ -11,12 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/02/13 - [寶綠特-KY 2/17起<b>競拍</b>；預計3/10<b>掛牌</b>上市](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3De839921d-2640-4d02-a59e-a434c63cf739&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw195lZBQ2sS1tslOdSl7NX6)
-- 2025/02/13 - [寶綠特暫定3/10<b>掛牌</b> - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25AF%25B6%25E7%25B6%25A0%25E7%2589%25B9%25E6%259A%25AB%25E5%25AE%259A3-10%25E6%258E%259B%25E7%2589%258C-124539015.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0s9qzQ1Sn7H_ARFLcdgYUy)
-- 2025/02/13 - [寶綠特-KY搶再生塑膠商機暫定3/10<b>掛牌</b>上市 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AF%25B6%25E7%25B6%25A0%25E7%2589%25B9-ky%25E6%2590%25B6%25E5%2586%258D%25E7%2594%259F%25E5%25A1%2591%25E8%2586%25A0%25E5%2595%2586%25E6%25A9%259F-%25E6%259A%25AB%25E5%25AE%259A3-10%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-120017937.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3Odnb5WavuOLzGlWYkbAuP)
-- 2025/02/13 - [寶綠特-KY搶再生塑膠商機暫定3/10<b>掛牌</b>上市| 證券 - 中央社](https://www.google.com/url?rct=j&sa=t&url=http://m.cna.com.tw/news/afe/202502130342.aspx&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2IZXkDkM9-RjJSQl_Tt3PO)
-- 2025/02/13 - [寶綠特-KY 2/17起以每股底價52元<b>競拍</b>，預計3/10<b>掛牌</b> - 財訊快報](https://www.google.com/url?rct=j&sa=t&url=http://www.investor.com.tw/onlineNews/NewsContent.asp%3FarticleNo%3D14202502130105&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2euPAmKutryHuU7KVUQNAl)
-- 2025/02/12 - [榮田<b>競拍</b>中籤潛利36% | 櫃買動態| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/11074/8544337&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2GKaxUq_YiczHd_DprQ6RQ)
+- 2025/02/14 - [循環經濟商機夯寶綠特-KY搶全球再生塑膠財 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25BE%25AA%25E7%2592%25B0%25E7%25B6%2593%25E6%25BF%259F%25E5%2595%2586%25E6%25A9%259F%25E5%25A4%25AF-%25E5%25AF%25B6%25E7%25B6%25A0%25E7%2589%25B9-ky%25E6%2590%25B6%25E5%2585%25A8%25E7%2590%2583%25E5%2586%258D%25E7%2594%259F%25E5%25A1%2591%25E8%2586%25A0%25E8%25B2%25A1-211716043.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3-aCDoT3sOcgLynjXmcsof)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
