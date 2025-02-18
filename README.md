@@ -11,7 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/02/14 - [循環經濟商機夯寶綠特-KY搶全球再生塑膠財 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25BE%25AA%25E7%2592%25B0%25E7%25B6%2593%25E6%25BF%259F%25E5%2595%2586%25E6%25A9%259F%25E5%25A4%25AF-%25E5%25AF%25B6%25E7%25B6%25A0%25E7%2589%25B9-ky%25E6%2590%25B6%25E5%2585%25A8%25E7%2590%2583%25E5%2586%258D%25E7%2594%259F%25E5%25A1%2591%25E8%2586%25A0%25E8%25B2%25A1-211716043.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3-aCDoT3sOcgLynjXmcsof)
+- 2025/02/18 - [準備抽新股紅包這檔報酬率7成、中籤可賺15.5萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8553671&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0TBEiFl5BEKvPJ_wbDCx0N)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
