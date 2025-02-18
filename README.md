@@ -11,6 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/02/19 - [準備抽新股紅包這檔報酬率7成、中籤可賺15.5萬元| 經濟日報 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/kE6k7RM&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ENtOzJJEIgMoRKd-MEX3J)
 - 2025/02/18 - [準備抽新股紅包這檔報酬率7成、中籤可賺15.5萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8553671&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0TBEiFl5BEKvPJ_wbDCx0N)
 <!-- _feedinvestment1_1_ end -->
 
