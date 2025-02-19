@@ -11,6 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/02/19 - [汽車智能座艙概念股新兵！ 2248華勝-KY明起<b>競拍</b>底價46.3元| Anue鉅亨- 一手情報](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5866353&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0oCKm5tMmaK3mpuyNNw1_x)
 - 2025/02/19 - [準備抽新股紅包這檔報酬率7成、中籤可賺15.5萬元| 經濟日報 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/kE6k7RM&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ENtOzJJEIgMoRKd-MEX3J)
 <!-- _feedinvestment1_1_ end -->
 
