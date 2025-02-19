@@ -11,6 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/02/20 - [日盛台駿31日起<b>競拍</b>上半年營收逾57億元年增15% - MSN](https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/money/topstories/%25E6%2597%25A5%25E7%259B%259B%25E5%258F%25B0%25E9%25A7%25BF31%25E6%2597%25A5%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E4%25B8%258A%25E5%258D%258A%25E5%25B9%25B4%25E7%2587%259F%25E6%2594%25B6%25E9%2580%25BE57%25E5%2584%2584%25E5%2585%2583%25E5%25B9%25B4%25E5%25A2%259E15/ar-BB1qXqXX%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw24hPVQXtZFkSC_WWVfucsd)
 - 2025/02/19 - [汽車智能座艙概念股新兵！ 2248華勝-KY明起<b>競拍</b>底價46.3元| Anue鉅亨- 一手情報](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5866353&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0oCKm5tMmaK3mpuyNNw1_x)
 <!-- _feedinvestment1_1_ end -->
 
