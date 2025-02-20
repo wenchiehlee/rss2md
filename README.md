@@ -12,7 +12,6 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2025/02/20 - [華勝-KY增資新股今起<b>競拍</b>| 財富管理| 商情| 經濟日報 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5636/8559074&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0_01ZaacSZQUHQEQMFhXu5)
-- 2025/02/20 - [日盛台駿31日起<b>競拍</b>上半年營收逾57億元年增15% - MSN](https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/money/topstories/%25E6%2597%25A5%25E7%259B%259B%25E5%258F%25B0%25E9%25A7%25BF31%25E6%2597%25A5%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E4%25B8%258A%25E5%258D%258A%25E5%25B9%25B4%25E7%2587%259F%25E6%2594%25B6%25E9%2580%25BE57%25E5%2584%2584%25E5%2585%2583%25E5%25B9%25B4%25E5%25A2%259E15/ar-BB1qXqXX%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw24hPVQXtZFkSC_WWVfucsd)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
