@@ -16,8 +16,16 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/02/13 - [2/12興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/x2LKqRe&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0XVuUxXMGXgWweyGpdkH4T)
-- 2025/02/13 - [興櫃申報轉讓：02月12日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2166613002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3PPHSt2hjc1LfHjW6Ign_8)
+- 2025/02/21 - [浩宇生醫預計3/7上櫃，公開申購價23.4元，潛在報酬率破五成 - Yahoo奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25B5%25A9%25E5%25AE%2587%25E7%2594%259F%25E9%2586%25AB%25E9%25A0%2590%25E8%25A8%25883-7%25E4%25B8%258A%25E6%25AB%2583-%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E5%2583%25B923-4%25E5%2585%2583-%25E6%25BD%259B%25E5%259C%25A8%25E5%25A0%25B1%25E9%2585%25AC%25E7%258E%2587%25E7%25A0%25B4%25E4%25BA%2594%25E6%2588%2590-051734856.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Qs-b_t8jMmASfaA4kSNyF)
+- 2025/02/21 - [浩宇生醫競價拍賣完成公開申購價23.4元| 財富管理| 商情| 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5636/8562419&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0uUJI11wOXeZNIR9EInDR2)
+- 2025/02/21 - [浩宇生醫競價拍賣完成2月24日起23.4元進行公開申購](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/8562437&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3YbE27kJ4XzVLGoi68fowS)
+- 2025/02/21 - [威力德生醫初上櫃<b>過額配售</b>50張，佔公開承銷數量比例1.42%](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D06d928b8-0f8d-409d-aa43-e38ac7833b7d&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3aH3sSD1p-Yie5Y8Z7sSsl)
+- 2025/02/21 - [友鋮:公告本公司股票初次上櫃前現金增資發行新股相關事宜 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5868513&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2yvDomgCMumJSID6xg11WO)
+- 2025/02/21 - [南光(1752)公告董事會通過113年財務報告每股盈餘2.41元，與去年同期EPS1.96元增加(2/20 ...](https://www.google.com/url?rct=j&sa=t&url=http://www.genetinfo.com/investment/company-news/item/85162.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0pFAZYga-q7CqmyvrOSOej)
+- 2025/02/21 - [威力德生醫(7713)公告辦理股票初次上櫃<b>過額配售</b>內容承銷價:每股新台幣55元(2/20日股價74.3元)](https://www.google.com/url?rct=j&sa=t&url=http://www.genetinfo.com/investment/company-news/item/85161.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw13iqs3KFVoWHJlVhWZ8l-n)
+- 2025/02/21 - [威力德生醫:公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5868366&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2D-Mc4dxhMXK4pK95Pv7to)
+- 2025/02/20 - [威力德生醫(7713)初上櫃<b>過額配售</b>50張，占公開承銷數量比例1.42%](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D74596%26kind%3D21&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1RW4d6vVuFYPzRLezEaYG2)
+- 2025/02/20 - [公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 非凡新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.ustv.com.tw/companynews/104903&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3-yz596QhDKov8yFNbR6e_)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
