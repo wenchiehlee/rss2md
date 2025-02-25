@@ -11,9 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/02/24 - [虎山啟動上市前承銷暫定3月18日<b>掛牌</b> - Yahoo奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2599%258E%25E5%25B1%25B1%25E5%2595%259F%25E5%258B%2595%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E6%2589%25BF%25E9%258A%25B7-%25E6%259A%25AB%25E5%25AE%259A3%25E6%259C%258818%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-025611525.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Bm2yP2Ig9es3aHZt3zF8t)
 - 2025/02/24 - [虎山啟動上市前承銷暫定3月18日<b>掛牌</b>](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20250224001613-260410%3Fctrack%3Dpc_main_rtime_p01&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1mOGVodumcx6n6SWW7EMgl)
-- 2025/02/24 - [虎山2/25起<b>競拍</b>；今年成長幅度優去年 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dc0f80e31-b713-431d-8156-3667a4ed012f&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ELsCxVqBEJgP22WmO0WH3)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
