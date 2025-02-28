@@ -2,9 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/02/26 - [虎山（7736）2／25辦理<b>競價拍賣</b>暫定承銷價83.80元 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%2599%258E%25E5%25B1%25B1-7736-2-25%25E8%25BE%25A6%25E7%2590%2586%25E7%25AB%25B6%25E5%2583%25B9%25E6%258B%258D%25E8%25B3%25A3-%25E6%259A%25AB%25E5%25AE%259A%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B983-094624376.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1CVplIp-SeMPe54dV7v2uH)
-- 2025/02/26 - [虎山啟動上市前承銷暫定3月18日<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2599%258E%25E5%25B1%25B1%25E5%2595%259F%25E5%258B%2595%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E6%2589%25BF%25E9%258A%25B7-%25E6%259A%25AB%25E5%25AE%259A3%25E6%259C%258818%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-025611525.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Bm2yP2Ig9es3aHZt3zF8t)
-- 2025/02/24 - [虎山2/25起<b>競拍</b>；今年成長幅度優去年 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dc0f80e31-b713-431d-8156-3667a4ed012f&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ELsCxVqBEJgP22WmO0WH3)
+- 2025/02/27 - [抽中有望賺1.86萬元！ 「汽車股新兵」華勝-KY報酬率37％ - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258A%25BD%25E4%25B8%25AD%25E6%259C%2589%25E6%259C%259B%25E8%25B3%25BA186%25E8%2590%25AC%25E5%2585%2583%25EF%25BC%2581-%25E3%2580%258C%25E6%25B1%25BD%25E8%25BB%258A%25E8%2582%25A1%25E6%2596%25B0%25E5%2585%25B5%25E3%2580%258D%25E8%258F%25AF%25E5%258B%259D-ky%25E5%25A0%25B1%25E9%2585%25AC%25E7%258E%258737%25EF%25BC%2585-111627436.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1wEZqKMe6RP1S1SO46NoIH)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
