@@ -8,7 +8,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/02/27 - [抽中有望賺1.86萬元！ 「汽車股新兵」華勝-KY報酬率37％ - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258A%25BD%25E4%25B8%25AD%25E6%259C%2589%25E6%259C%259B%25E8%25B3%25BA186%25E8%2590%25AC%25E5%2585%2583%25EF%25BC%2581-%25E3%2580%258C%25E6%25B1%25BD%25E8%25BB%258A%25E8%2582%25A1%25E6%2596%25B0%25E5%2585%25B5%25E3%2580%258D%25E8%258F%25AF%25E5%258B%259D-ky%25E5%25A0%25B1%25E9%2585%25AC%25E7%258E%258737%25EF%25BC%2585-111627436.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1wEZqKMe6RP1S1SO46NoIH)
+- 2025/03/03 - [「2248華勝-KY」<b>競拍</b>超額認購455% 表現亮眼新股抽紅包開跑！今起公開申購潛在報酬近四成](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5876692&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2nMm8YUuXRd9SYoDUWgaG4)
+- 2025/03/03 - [華勝-KY<b>競拍</b>亮眼今起申購| 財富管理| 商情 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5636/8581132&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1pGAMKWwFXlKoUTJP4g-F3)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
