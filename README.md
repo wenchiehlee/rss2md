@@ -15,9 +15,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/02/26 - [印能上櫃衝1590元台股現16千金 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%258D%25B0%25E8%2583%25BD%25E4%25B8%258A%25E6%25AB%2583%25E8%25A1%259D1590%25E5%2585%2583-%25E5%258F%25B0%25E8%2582%25A1%25E7%258F%25BE16%25E5%258D%2583%25E9%2587%2591-012712584.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2LOucaf6Q181buhxb02QtA)
-- 2025/02/26 - [《電零組》系統電通過得對子公司「電統能源」釋股暨放棄參與其現增 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%259B%25BB%25E9%259B%25B6%25E7%25B5%2584-%25E7%25B3%25BB%25E7%25B5%25B1%25E9%259B%25BB%25E9%2580%259A%25E9%2581%258E%25E5%25BE%2597%25E5%25B0%258D%25E5%25AD%2590%25E5%2585%25AC%25E5%258F%25B8-%25E9%259B%25BB%25E7%25B5%25B1%25E8%2583%25BD%25E6%25BA%2590-%25E9%2587%258B%25E8%2582%25A1%25E6%259A%25A8%25E6%2594%25BE%25E6%25A3%2584%25E5%258F%2583%25E8%2588%2587%25E5%2585%25B6%25E7%258F%25BE%25E5%25A2%259E-062506665.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1I-1uCHHG-c0uy6lN8494r)
-- 2025/02/26 - [大豐電董事會決議子公司大大寬頻於臺灣證券市場申請掛牌交易之釋股規劃案 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/PGJg3Kj&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2i7qJNpCEaf_6fZ5lFvGDt)
+- 2025/03/03 - [威力德生醫:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5879931&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3LLhGavGN_nglOy4qoD-ye)
+- 2025/03/03 - [【公告】威力德生醫初次上櫃掛牌首五個營業日穩定價格操作結果 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%25A8%2581%25E5%258A%259B%25E5%25BE%25B7%25E7%2594%259F%25E9%2586%25AB%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-075948155.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2LuSHTp2iG94S2AEUxKwFT)
+- 2025/03/03 - [威力德生醫(7713)初上櫃首五個營業日穩定價格操作結果：0股 - 環球生技月刊](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D74943%26range%3Dnews&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3QiIva3JYzdKpGqUEtL8ji)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
