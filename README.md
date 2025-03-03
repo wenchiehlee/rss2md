@@ -8,6 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/03/03 - [新股抽紅包開跑！華勝-KY今起申購公開申購價50元潛在報酬近四成| 產業動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11799/8581144&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0REfkwCKNUPi7kggqZvR6d)
 - 2025/03/03 - [「2248華勝-KY」<b>競拍</b>超額認購455% 表現亮眼新股抽紅包開跑！今起公開申購潛在報酬近四成](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5876692&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2nMm8YUuXRd9SYoDUWgaG4)
 - 2025/03/03 - [華勝-KY<b>競拍</b>亮眼今起申購| 財富管理| 商情 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5636/8581132&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1pGAMKWwFXlKoUTJP4g-F3)
 <!-- _feedinvestment1_1_ end -->
