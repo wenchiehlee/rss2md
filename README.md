@@ -8,6 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/03/04 - [虎山6日起<b>抽籤</b>每張83.8元溢價空間逾5成| Anue鉅亨- 台股新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5881254&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2c5J5V2PH4lyg9A-P7zJNO)
 - 2025/03/03 - [新股抽紅包開跑！華勝-KY今起申購公開申購價50元潛在報酬近四成| 產業動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11799/8581144&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0REfkwCKNUPi7kggqZvR6d)
 <!-- _feedinvestment1_1_ end -->
 
