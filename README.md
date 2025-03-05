@@ -11,8 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/03/05 - [虎山將<b>抽籤</b>申購價83.8元| 櫃買動態| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8585954%3Ffrom%3Dedn_next_story&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1-fkTgmKKyOE5MiKj72w46)
-- 2025/03/04 - [虎山上市IPO公開申購6日開跑潛在獲利空間近57％ - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2599%258E%25E5%25B1%25B1%25E4%25B8%258A%25E5%25B8%2582ipo%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC6%25E6%2597%25A5%25E9%2596%258B%25E8%25B7%2591-%25E6%25BD%259B%25E5%259C%25A8%25E7%258D%25B2%25E5%2588%25A9%25E7%25A9%25BA%25E9%2596%2593%25E8%25BF%259157-100730116.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1PuphA_XlIa2UsFu1iq0M-)
+- 2025/03/05 - [虎山將<b>抽籤</b>申購價83.8元| 櫃買動態| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8585954&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1keR1aHpNwgrT71qowqq9z)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
