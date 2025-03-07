@@ -11,7 +11,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/03/05 - [虎山將<b>抽籤</b>申購價83.8元| 櫃買動態| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8585954&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1keR1aHpNwgrT71qowqq9z)
+- 2025/03/07 - [股票<b>抽籤</b>獲利機率升高上市櫃公司<b>掛牌</b>時程將縮短三天 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/8592307&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2RMgHUyKFb1Vk6PkqCL8d2)
+- 2025/03/07 - [IPO創舉定價至<b>掛牌</b>改Ｔ+7 | 金融 - 非凡新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.ustv.com.tw/newsdetail/20250307A001009&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1StIzJa39UcU7ZWQgIScQz)
+- 2025/03/07 - [《各報要聞》IPO創舉定價至<b>掛牌</b>改Ｔ＋7 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2590%2584%25E5%25A0%25B1%25E8%25A6%2581%25E8%2581%259E-ipo%25E5%2589%25B5%25E8%2588%2589-%25E5%25AE%259A%25E5%2583%25B9%25E8%2587%25B3%25E6%258E%259B%25E7%2589%258C%25E6%2594%25B9-7-233358146.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3MojNyZKNunotvOEcrkMYi)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
