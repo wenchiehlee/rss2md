@@ -16,9 +16,6 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/03/07 - [寶綠特-KY 114年2月營收3.48億、年增78.87% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/5y7oa1r&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1-_QEUlvEb6OOGYl_PMhdW)
-- 2025/03/07 - [【公告】中再保董事會通過股務事務委外辦理 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E4%25B8%25AD%25E5%2586%258D%25E4%25BF%259D%25E8%2591%25A3%25E4%25BA%258B%25E6%259C%2583%25E9%2580%259A%25E9%2581%258E%25E8%2582%25A1%25E5%258B%2599%25E4%25BA%258B%25E5%258B%2599%25E5%25A7%2594%25E5%25A4%2596%25E8%25BE%25A6%25E7%2590%2586-101539166.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Jlpx7SUgDV04HytuXDdpk)
-- 2025/03/07 - [製鞋股中傑128元掛牌終場收200元漲幅56.% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%25A3%25BD%25E9%259E%258B%25E8%2582%25A1%25E4%25B8%25AD%25E5%2582%2591128%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C-%25E7%25B5%2582%25E5%25A0%25B4%25E6%2594%25B6200%25E5%2585%2583%25E6%25BC%25B2%25E5%25B9%258556-061046908.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2fkflg4QBFilIYhWXmv1kS)
 - 2025/03/07 - [國際海洋董事會重要決議事項- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D9ee80a71-f6f8-4588-a792-975a6eabbc51&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1yWkTRuLudSsAzqLtoaDcB)
 <!-- _feedinvestment2_ end -->
 
