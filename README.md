@@ -8,7 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/03/07 - [新股<b>抽籤</b>8檔潛在報酬逾2成| 金融 - 非凡新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.ustv.com.tw/newsdetail/20250307A001010&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1YmyXoPAHJKx2hSoIsK5dY)
+- 2025/03/10 - [綠茵生技發行可轉債籌資3.5億元3月10日開始投標 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5618/8598543&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw10zlN2FJGugF4GbEwY_oCU)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
