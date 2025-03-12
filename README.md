@@ -15,9 +15,6 @@
 <!-- _feedinvestment2_ start -->
 - 2025/03/11 - [【公告】華勝-KY辦理股票初次上巿<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E8%258F%25AF%25E5%258B%259D-ky%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B7%25BF%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-094510265.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2m2_7kRAQVS-BJkgSCXaCp)
 - 2025/03/11 - [華勝-KY:公告本公司辦理股票初次上巿<b>過額配售</b>內容 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5894933&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3AC5tyU6o6oURFsZIKTN4N)
-- 2025/03/11 - [聚賢研發初次創新板上市<b>過額配售</b>：0股- 台股 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D3eb43c62-0b5f-4dd7-9133-0aed08c9f5f0%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1OVfJHbURkN4d6-Cmq_lMK)
-- 2025/03/11 - [【公告】聚賢研發辦理股票初次創新板上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E8%2581%259A%25E8%25B3%25A2%25E7%25A0%2594%25E7%2599%25BC%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E5%2589%25B5%25E6%2596%25B0%25E6%259D%25BF%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-073900058.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw39ls7_VR8iMCOXxQuFeFqf)
-- 2025/03/11 - [聚賢研發:公告本公司辦理股票初次創新板上市<b>過額配售</b>內容 - 鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5894352&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2LxbZo9SNA4WPdtM1fuGUc)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
