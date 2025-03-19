@@ -8,7 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/03/10 - [綠茵生技發行可轉債籌資3.5億元3月10日開始投標 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5618/8598543&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw10zlN2FJGugF4GbEwY_oCU)
+- 2025/03/20 - [抽中賺3萬！虎航<b>抽籤</b>破89萬人瘋搶中籤率僅0.2% - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/news/living/%25E6%258A%25BD%25E4%25B8%25AD%25E8%25B3%25BA3%25E8%2590%25AC-%25E8%2599%258E%25E8%2588%25AA%25E6%258A%25BD%25E7%25B1%25A4%25E7%25A0%25B489%25E8%2590%25AC%25E4%25BA%25BA%25E7%2598%258B%25E6%2590%25B6-%25E4%25B8%25AD%25E7%25B1%25A4%25E7%258E%2587%25E5%2583%258502/ar-AA1ux4WP%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Y6YFjrwhcYex9Vmve7IAw)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
