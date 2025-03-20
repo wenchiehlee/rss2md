@@ -13,8 +13,12 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/03/18 - [【公告】百辰董事會重要決議](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E7%2599%25BE%25E8%25BE%25B0%25E8%2591%25A3%25E4%25BA%258B%25E6%259C%2583%25E9%2587%258D%25E8%25A6%2581%25E6%25B1%25BA%25E8%25AD%25B0-100825355.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ptn6HPT1B4sxn93FXUtaW)
-- 2025/03/18 - [鋼鐵股新兵友鋮今上櫃！蜜月行情大漲逾四成…抽中者有望賺1.75萬元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%258B%25BC%25E9%2590%25B5%25E8%2582%25A1%25E6%2596%25B0%25E5%2585%25B5%25E5%258F%258B%25E9%258B%25AE%25E4%25BB%258A%25E4%25B8%258A%25E6%25AB%2583%25EF%25BC%2581%25E8%259C%259C%25E6%259C%2588%25E8%25A1%258C%25E6%2583%2585%25E5%25A4%25A7%25E6%25BC%25B2%25E9%2580%25BE%25E5%259B%259B%25E6%2588%2590%25E6%258A%25BD%25E4%25B8%25AD%25E8%2580%2585%25E6%259C%2589%25E6%259C%259B%25E8%25B3%25BA175%25E8%2590%25AC%25E5%2585%2583-020034048.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw32XbWoKBUvCDPiU4sa_ekv)
+- 2025/03/20 - [櫃買中心預計3/25舉辦台灣精材上櫃掛牌典禮| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/kE6rWOJ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw07iU6KR-OEQoZy-N8FvKyN)
+- 2025/03/20 - [台灣精材:公告本公司辦理初次上櫃<b>過額配售</b>內容 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5907035&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1os4TIiIcPb_wapVbcMFWt)
+- 2025/03/20 - [【公告】台灣精材辦理初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%258F%25B0%25E7%2581%25A3%25E7%25B2%25BE%25E6%259D%2590%25E8%25BE%25A6%25E7%2590%2586%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-083752369.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ON1cC8vQPdr-B8_AItVnD)
+- 2025/03/20 - [台灣精材初上櫃<b>過額配售</b>100張，佔公開承銷數量4.06% - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df7abb99c-e0be-477b-b02a-1830ec9f0c17&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1V8EV73kcsdpB4jNC915l7)
+- 2025/03/20 - [台半3/21參加BofA Securities舉辦之法說會](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3D4f3fe93a-c083-427d-83aa-3f328ab5310c%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1fftYDf0R3xZVv7Nbo_0Qm)
+- 2025/03/20 - [台灣證交所即時重大訊息- 公告本公司辦理初次上櫃<b>過額配售</b>內容 - 非凡新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.ustv.com.tw/companynews/119197&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw19av-s3Vl_GEBuW1_nzwDo)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
