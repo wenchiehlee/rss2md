@@ -8,7 +8,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/03/20 - [抽中賺3萬！虎航<b>抽籤</b>破89萬人瘋搶中籤率僅0.2% - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/news/living/%25E6%258A%25BD%25E4%25B8%25AD%25E8%25B3%25BA3%25E8%2590%25AC-%25E8%2599%258E%25E8%2588%25AA%25E6%258A%25BD%25E7%25B1%25A4%25E7%25A0%25B489%25E8%2590%25AC%25E4%25BA%25BA%25E7%2598%258B%25E6%2590%25B6-%25E4%25B8%25AD%25E7%25B1%25A4%25E7%258E%2587%25E5%2583%258502/ar-AA1ux4WP%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Y6YFjrwhcYex9Vmve7IAw)
+- 2025/03/31 - [新制上路！新股<b>掛牌</b>日程縮到T+7 每年估10萬人受惠 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2596%25B0%25E5%2588%25B6%25E4%25B8%258A%25E8%25B7%25AF%25EF%25BC%2581%25E6%2596%25B0%25E8%2582%25A1%25E6%258E%259B%25E7%2589%258C%25E6%2597%25A5%25E7%25A8%258B%25E7%25B8%25AE%25E5%2588%25B0t7-%25E6%25AF%258F%25E5%25B9%25B4%25E4%25BC%25B010%25E8%2590%25AC%25E4%25BA%25BA%25E5%258F%2597%25E6%2583%25A0-083330684.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1MNIDOc4jab4XmHfk2Kkie)
+- 2025/03/30 - [抽中可望賺逾12萬！ 「它」11/25開放申購 - MSN](https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/news/other/%25E6%258A%25BD%25E4%25B8%25AD%25E5%258F%25AF%25E6%259C%259B%25E8%25B3%25BA%25E9%2580%25BE12%25E8%2590%25AC-%25E5%25AE%2583-1125%25E9%2596%258B%25E6%2594%25BE%25E7%2594%25B3%25E8%25B3%25BC/ar-AA1u3v8F%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2z2JOtXVF2zM7Z3qbMJYXr)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
