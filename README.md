@@ -11,7 +11,6 @@
 <!-- _feedinvestment1_1_ start -->
 - 2025/04/15 - [川普股災首宗<b>競拍</b>流標案！立誠上櫃IPO喊卡股價慘跌逾一成](https://www.google.com/url?rct=j&sa=t&url=https://ctinews.com/news/items/4OaZgqLJx6&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0lb4guYauR3tc5WJgqP8L1)
 - 2025/04/15 - [淪股災首宗<b>競拍</b>流標案立誠慘跌逾一成 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25B7%25AA%25E8%2582%25A1%25E7%2581%25BD%25E9%25A6%2596%25E5%25AE%2597%25E7%25AB%25B6%25E6%258B%258D%25E6%25B5%2581%25E6%25A8%2599%25E6%25A1%2588-%25E7%25AB%258B%25E8%25AA%25A0%25E6%2585%2598%25E8%25B7%258C%25E9%2580%25BE-%25E6%2588%2590-022317821.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1T8r3xB85haZZaO3E6Fxdy)
-- 2025/04/15 - [股災拖累首例！立誠上櫃IPO喊卡新股<b>抽籤</b>也沒了 - ETtoday財經雲](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/2943149&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3qQKS4goVpDuPOTfVLHiG3)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
