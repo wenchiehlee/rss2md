@@ -2,7 +2,8 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/04/01 - [新制上路！新股<b>掛牌</b>日程縮到T+7 每年估10萬人受惠 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2596%25B0%25E5%2588%25B6%25E4%25B8%258A%25E8%25B7%25AF%25EF%25BC%2581%25E6%2596%25B0%25E8%2582%25A1%25E6%258E%259B%25E7%2589%258C%25E6%2597%25A5%25E7%25A8%258B%25E7%25B8%25AE%25E5%2588%25B0t7-%25E6%25AF%258F%25E5%25B9%25B4%25E4%25BC%25B010%25E8%2590%25AC%25E4%25BA%25BA%25E5%258F%2597%25E6%2583%25A0-083330684.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1MNIDOc4jab4XmHfk2Kkie)
+- 2025/04/15 - [股災拖累首例！立誠上櫃IPO喊卡新股<b>抽籤</b>也沒了](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/2943149&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3qQKS4goVpDuPOTfVLHiG3)
+- 2025/04/15 - [淪股災首宗<b>競拍</b>流標案立誠慘跌逾一成 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25B7%25AA%25E8%2582%25A1%25E7%2581%25BD%25E9%25A6%2596%25E5%25AE%2597%25E7%25AB%25B6%25E6%258B%258D%25E6%25B5%2581%25E6%25A8%2599%25E6%25A1%2588-%25E7%25AB%258B%25E8%25AA%25A0%25E6%2585%2598%25E8%25B7%258C%25E9%2580%25BE-%25E6%2588%2590-022317821.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1T8r3xB85haZZaO3E6Fxdy)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
