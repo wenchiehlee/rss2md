@@ -2,8 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/04/15 - [股災拖累首例！立誠上櫃IPO喊卡新股<b>抽籤</b>也沒了](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/2943149&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3qQKS4goVpDuPOTfVLHiG3)
-- 2025/04/15 - [淪股災首宗<b>競拍</b>流標案立誠慘跌逾一成 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25B7%25AA%25E8%2582%25A1%25E7%2581%25BD%25E9%25A6%2596%25E5%25AE%2597%25E7%25AB%25B6%25E6%258B%258D%25E6%25B5%2581%25E6%25A8%2599%25E6%25A1%2588-%25E7%25AB%258B%25E8%25AA%25A0%25E6%2585%2598%25E8%25B7%258C%25E9%2580%25BE-%25E6%2588%2590-022317821.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1T8r3xB85haZZaO3E6Fxdy)
+- 2025/04/16 - [抽中有望賺1.6萬！築間、永鴻申購倒數 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258A%25BD%25E4%25B8%25AD%25E6%259C%2589%25E6%259C%259B%25E8%25B3%25BA16%25E8%2590%25AC%25EF%25BC%2581%25E7%25AF%2589%25E9%2596%2593%25E3%2580%2581%25E6%25B0%25B8%25E9%25B4%25BB%25E7%2594%25B3%25E8%25B3%25BC%25E5%2580%2592%25E6%2595%25B8-105639601.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1AA_1kOZlwQV9-C7HxaM_T)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
