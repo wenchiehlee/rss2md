@@ -9,7 +9,6 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2025/04/17 - [富邦證券輔導永鴻今日完成<b>競拍</b>承銷價28.01元| 中央社訊息平台](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/399306&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1L4mxGWd1hgOtmHiHIoQHt)
-- 2025/04/16 - [抽中有望賺1.6萬！築間、永鴻申購倒數 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258A%25BD%25E4%25B8%25AD%25E6%259C%2589%25E6%259C%259B%25E8%25B3%25BA16%25E8%2590%25AC%25EF%25BC%2581%25E7%25AF%2589%25E9%2596%2593%25E3%2580%2581%25E6%25B0%25B8%25E9%25B4%25BB%25E7%2594%25B3%25E8%25B3%25BC%25E5%2580%2592%25E6%2595%25B8-105639601.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1AA_1kOZlwQV9-C7HxaM_T)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
