@@ -11,7 +11,6 @@
 - 2025/04/18 - [永鴻生技<b>競拍</b>完成公開申購至18日 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25B0%25B8%25E9%25B4%25BB%25E7%2594%259F%25E6%258A%2580%25E7%25AB%25B6%25E6%258B%258D%25E5%25AE%258C%25E6%2588%2590-%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E8%2587%25B318%25E6%2597%25A5-201000389.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2YBxmC963eZVzoM55IzmtR)
 - 2025/04/18 - [申購抽抽樂最後一天！動物藥廠賣「歐羅肥」到上市2021張抽中賺1.5萬「報酬率逾5成」](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%2594%25B3%25E8%25B3%25BC%25E6%258A%25BD%25E6%258A%25BD%25E6%25A8%2582%25E6%259C%2580%25E5%25BE%258C-%25E5%25A4%25A9-%25E5%258B%2595%25E7%2589%25A9%25E8%2597%25A5%25E5%25BB%25A0%25E8%25B3%25A3-%25E6%25AD%2590%25E7%25BE%2585%25E8%2582%25A5-%25E5%2588%25B0%25E4%25B8%258A%25E5%25B8%2582-233000225.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1g51vGA8gRGAIGRG0X2w6c)
 - 2025/04/18 - [富邦證券輔導永鴻完成<b>競拍</b>承銷價28.01元| 櫃買動態 - 經濟日報- 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8681390&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ivPqGxqR6BxYQzi7NWfir)
-- 2025/04/17 - [富邦證券輔導永鴻今日完成<b>競拍</b>承銷價28.01元| 中央社訊息平台](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/399306&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1L4mxGWd1hgOtmHiHIoQHt)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
