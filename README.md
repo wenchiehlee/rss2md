@@ -2,7 +2,12 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/04/16 - [抽中有望賺1.6萬！築間、永鴻申購倒數 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258A%25BD%25E4%25B8%25AD%25E6%259C%2589%25E6%259C%259B%25E8%25B3%25BA16%25E8%2590%25AC%25EF%25BC%2581%25E7%25AF%2589%25E9%2596%2593%25E3%2580%2581%25E6%25B0%25B8%25E9%25B4%25BB%25E7%2594%25B3%25E8%25B3%25BC%25E5%2580%2592%25E6%2595%25B8-105639601.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1AA_1kOZlwQV9-C7HxaM_T)
+- 2025/04/21 - [築間<b>競拍</b>順利完成24日公開<b>抽籤</b>承銷價45元 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5945173&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ir9K7ZJUsMbS7Aa4Ia4Gj)
+- 2025/04/21 - [築間今完成<b>競拍</b>公開申購價45元預計4月底<b>掛牌</b>上櫃 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://tw.nextapple.com/finance/20250421/B02EAB7B77B35C581E46998D1D00B06E&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw02cgILTQm3LRpX3qwVRdq3)
+- 2025/04/21 - [築間<b>競拍</b>順利完成24日公開<b>抽籤</b>承銷價45元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25AF%2589%25E9%2596%2593%25E7%25AB%25B6%25E6%258B%258D%25E9%25A0%2586%25E5%2588%25A9%25E5%25AE%258C%25E6%2588%2590-24%25E6%2597%25A5%25E5%2585%25AC%25E9%2596%258B%25E6%258A%25BD%25E7%25B1%25A4-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B945%25E5%2585%2583-105540137.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3clSHnT4dV7NmSdmqNmQLT)
+- 2025/04/21 - [築間股票完成<b>競拍</b>公開申購價45元- 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5018970&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3aPzUWJHDV0PEAUC8hQPuR)
+- 2025/04/21 - [築間上櫃IPO公開申購4／22截止潛在套利空間23％ - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25AF%2589%25E9%2596%2593%25E4%25B8%258A%25E6%25AB%2583ipo%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC4-22%25E6%2588%25AA%25E6%25AD%25A2-%25E6%25BD%259B%25E5%259C%25A8%25E5%25A5%2597%25E5%2588%25A9%25E7%25A9%25BA%25E9%2596%259323-024935120.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2U4uo_guskWtFAqRrMFfXm)
+- 2025/04/18 - [富邦證券輔導永鴻今日完成<b>競拍</b>承銷價28.01元| 中央社訊息平台](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/399306&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1L4mxGWd1hgOtmHiHIoQHt)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
