@@ -24,8 +24,13 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/04/02 - [台灣精材初上櫃首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dbef7b8bb-87c3-41ac-870b-958f9327781f%26utm_source%3D676757186626576767579666%26utm_medium%3DRSS&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2GJuF6b2a2FuTA5t8kBjoy)
-- 2025/04/02 - [台灣精材:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5920761&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3yn_H1M6w6INVPhyMomj6i)
+- 2025/04/22 - [築間股票完成競拍公開申購價45元- 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5018970&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3aPzUWJHDV0PEAUC8hQPuR)
+- 2025/04/22 - [4/21興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D6a4bba7c-1f6a-4776-bd2d-30edd731b3c1&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3rdq_ZXo4rHcnyaG9UoJy2)
+- 2025/04/22 - [築間競拍順利完成24日公開抽籤承銷價45元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25AF%2589%25E9%2596%2593%25E7%25AB%25B6%25E6%258B%258D%25E9%25A0%2586%25E5%2588%25A9%25E5%25AE%258C%25E6%2588%2590-24%25E6%2597%25A5%25E5%2585%25AC%25E9%2596%258B%25E6%258A%25BD%25E7%25B1%25A4-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B945%25E5%2585%2583-105540137.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3clSHnT4dV7NmSdmqNmQLT)
+- 2025/04/22 - [興櫃申報轉讓：04月21日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=http://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2198254002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2k0I7tscL6zaDiCZJ12E-c)
+- 2025/04/22 - [築間競價拍賣完成公開申購價45元高於最低承銷價格之1.16倍 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25AF%2589%25E9%2596%2593%25E7%25AB%25B6%25E5%2583%25B9%25E6%258B%258D%25E8%25B3%25A3%25E5%25AE%258C%25E6%2588%2590-%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E5%2583%25B945%25E5%2585%2583-%25E9%25AB%2598%25E6%2596%25BC%25E6%259C%2580%25E4%25BD%258E%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9%25E6%25A0%25BC%25E4%25B9%258B1-16%25E5%2580%258D-073302209.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1yuakKWV8Wtybg1YkjVlYS)
+- 2025/04/21 - [築間4月底掛牌上櫃公開申購價45元 - 中華日報](https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1204546&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2K8UIf_1Dw2LM-sEQMf-X_)
+- 2025/04/21 - [築間4月底掛牌上櫃公開申購價45元 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5613/8688700&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0TRV9cJW7OQyMvRJUgNH8l)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
