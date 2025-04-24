@@ -13,8 +13,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/04/22 - [築間競拍每股均價46.44元，4月底以每股45元掛牌上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25AF%2589%25E9%2596%2593%25E7%25AB%25B6%25E6%258B%258D%25E6%25AF%258F%25E8%2582%25A1%25E5%259D%2587%25E5%2583%25B946-44%25E5%2585%2583-4%25E6%259C%2588%25E5%25BA%2595%25E4%25BB%25A5%25E6%25AF%258F%25E8%2582%25A145%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-230548124.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0f3FkaTatPLCkShJ9K3DjG)
-- 2025/04/22 - [4/21興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/vX9E2ko&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1rW-5ToNsh77XEBFLwUnoC)
+- 2025/04/24 - [築間今抽籤！8萬人瘋搶中籤率僅1.11% 抽中現賺近萬元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25AF%2589%25E9%2596%2593%25E4%25BB%258A%25E6%258A%25BD%25E7%25B1%25A4%25EF%25BC%25818%25E8%2590%25AC%25E4%25BA%25BA%25E7%2598%258B%25E6%2590%25B6%25E4%25B8%25AD%25E7%25B1%25A4%25E7%258E%2587%25E5%2583%2585111-%25E6%258A%25BD%25E4%25B8%25AD%25E7%258F%25BE%25E8%25B3%25BA%25E8%25BF%2591%25E8%2590%25AC%25E5%2585%2583-013945645.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2WWC2OJfyp2PlC4teXZ_eU)
+- 2025/04/24 - [4/23興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7d8af467-a6f2-4de6-a96f-24f358b480bc&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2GE2pru5Vey1BZKlMWyzVQ)
+- 2025/04/24 - [興櫃申報轉讓：04月23日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=http://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2199211002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2sb2aCtZFeVVlP_-j4mlai)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
