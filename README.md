@@ -8,7 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/04/22 - [築間<b>競拍</b>每股均價46.44元，4月底以每股45元<b>掛牌</b>上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25AF%2589%25E9%2596%2593%25E7%25AB%25B6%25E6%258B%258D%25E6%25AF%258F%25E8%2582%25A1%25E5%259D%2587%25E5%2583%25B946-44%25E5%2585%2583-4%25E6%259C%2588%25E5%25BA%2595%25E4%25BB%25A5%25E6%25AF%258F%25E8%2582%25A145%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-230548124.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0f3FkaTatPLCkShJ9K3DjG)
+- 2025/04/24 - [昶瑞獲准上櫃預計5月下旬<b>掛牌</b>- 產業- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250423701530-430503&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1F8SumNyxfpth4aUvIJfaR)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
