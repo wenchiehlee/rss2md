@@ -8,7 +8,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/04/24 - [昶瑞獲准上櫃預計5月下旬<b>掛牌</b>- 產業- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250423701530-430503&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1F8SumNyxfpth4aUvIJfaR)
+- 2025/04/28 - [《數雲端》Gogolook-創改列一般板4月30日<b>競拍</b>、底價50元- 財經- 時報資訊 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20250428001903-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1cF2LGf98b_S50-2Mi_Cw0)
+- 2025/04/28 - [紅包又一檔！Gogolook 改列上市30日起<b>競拍</b>、底價50元| 集中市場| 證券| 經濟日報 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5710/8703156&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0LKTNlfSwMLixhPyjxhG7U)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
