@@ -14,12 +14,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/04/24 - [永鴻生技:公告本公司辦理股票初次上市前現金增資收足股款暨現金增資基準日](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5949494&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3x6MayhVRy8lOJ8Nmjk9e0)
-- 2025/04/24 - [永鴻生技：公司股票4/28起轉上市買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/mWmeR82&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3N_XdJ3u0JxlpV-Sb9J6yz)
-- 2025/04/24 - [永鴻生技(6936)初上市<b>過額配售</b>866張，占公開承銷數量14.99%](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D76354%26kind%3D21&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2TGXk0Y_NiiV2mATxWLz2x)
-- 2025/04/24 - [永鴻生技初上市<b>過額配售</b>866張，占公開承銷數量14.99% - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D0f97d395-13be-4efe-b0b7-fbc0d490465b&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1yN_yVraIEOmZY-ydbw-el)
-- 2025/04/24 - [【公告】永鴻生技辦理股票初次上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%25B0%25B8%25E9%25B4%25BB%25E7%2594%259F%25E6%258A%2580%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-072753472.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw35ys98Mu9q_3DTK4C0TeU1)
-- 2025/04/24 - [4/23興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/1D7K6R3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1t6R1fNX9nAazgKeH4usw4)
+- 2025/04/29 - [築間初次上櫃<b>過額配售</b>100張，佔公開承銷數量比例2.46% - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dcc8e7303-a8a9-45af-8779-e21a451cba38&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0_jZiKf8Lc4T6TwDza7eIm)
+- 2025/04/28 - [【MoneyDJ新股巡禮】國、內外市場齊增永鴻生技樂看今年營運 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/video/moneydj%25E6%2596%25B0%25E8%2582%25A1%25E5%25B7%25A1%25E7%25A6%25AE-%25E5%259C%258B-%25E5%2585%25A7%25E5%25A4%2596%25E5%25B8%2582%25E5%25A0%25B4%25E9%25BD%258A%25E5%25A2%259E-%25E6%25B0%25B8%25E9%25B4%25BB%25E7%2594%259F%25E6%258A%2580%25E6%25A8%2582%25E7%259C%258B%25E4%25BB%258A%25E5%25B9%25B4%25E7%2587%259F%25E9%2581%258B-021521050.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3VvezePrEonRVOjXYvgDqn)
+- 2025/04/28 - [築間初上櫃前現增案股款約2.20億元已全數收足，增資基準日4/28 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/EX1a2XP&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2_WDkDwCjiP4BnpjgA8UIS)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
