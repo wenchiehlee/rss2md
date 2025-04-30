@@ -13,9 +13,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/04/29 - [築間初次上櫃<b>過額配售</b>100張，佔公開承銷數量比例2.46% - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dcc8e7303-a8a9-45af-8779-e21a451cba38&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0_jZiKf8Lc4T6TwDza7eIm)
-- 2025/04/28 - [【MoneyDJ新股巡禮】國、內外市場齊增永鴻生技樂看今年營運 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/video/moneydj%25E6%2596%25B0%25E8%2582%25A1%25E5%25B7%25A1%25E7%25A6%25AE-%25E5%259C%258B-%25E5%2585%25A7%25E5%25A4%2596%25E5%25B8%2582%25E5%25A0%25B4%25E9%25BD%258A%25E5%25A2%259E-%25E6%25B0%25B8%25E9%25B4%25BB%25E7%2594%259F%25E6%258A%2580%25E6%25A8%2582%25E7%259C%258B%25E4%25BB%258A%25E5%25B9%25B4%25E7%2587%259F%25E9%2581%258B-021521050.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3VvezePrEonRVOjXYvgDqn)
-- 2025/04/28 - [築間初上櫃前現增案股款約2.20億元已全數收足，增資基準日4/28 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/EX1a2XP&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2_WDkDwCjiP4BnpjgA8UIS)
+- 2025/04/30 - [《觀光股》初登場漲近23% 築間上櫃蜜月甜 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%25A7%2580%25E5%2585%2589%25E8%2582%25A1-%25E5%2588%259D%25E7%2599%25BB%25E5%25A0%25B4%25E6%25BC%25B2%25E8%25BF%259123-%25E7%25AF%2589%25E9%2596%2593%25E4%25B8%258A%25E6%25AB%2583%25E8%259C%259C%25E6%259C%2588%25E7%2594%259C-021731550.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Jfn2pd5TsQyxSWPIODWJN)
+- 2025/04/29 - [築間：公司股票4/30起轉上櫃買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/Vxj1w7L&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1hMij1ltBYIB4XOyiylGLB)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
