@@ -13,8 +13,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/04/30 - [《觀光股》初登場漲近23% 築間上櫃蜜月甜 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%25A7%2580%25E5%2585%2589%25E8%2582%25A1-%25E5%2588%259D%25E7%2599%25BB%25E5%25A0%25B4%25E6%25BC%25B2%25E8%25BF%259123-%25E7%25AF%2589%25E9%2596%2593%25E4%25B8%258A%25E6%25AB%2583%25E8%259C%259C%25E6%259C%2588%25E7%2594%259C-021731550.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Jfn2pd5TsQyxSWPIODWJN)
-- 2025/04/29 - [築間：公司股票4/30起轉上櫃買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/Vxj1w7L&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1hMij1ltBYIB4XOyiylGLB)
+- 2025/05/02 - [4/30興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D3bd3cbf1-3331-4001-b3ee-01330bbc15dc&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1tMnn2gnn3LQqqtZsdYYJx)
+- 2025/05/02 - [興櫃申報轉讓：04月30日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=http://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2201735002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Ol7OHPyxvVakJZErSbKyA)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
