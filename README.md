@@ -8,6 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/05/03 - [金利食安20日<b>掛牌</b> - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250503700166-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1iHugdb6NJkKQutRC5JIPz)
 - 2025/05/02 - [金利食安搶全球冷壓蔬果汁商機暫定5月20日<b>掛牌</b>- 股市 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/8712917&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1IexGrugmdyeju1oPG7o-i)
 - 2025/05/02 - [《興櫃股》金利食安賣蔬果汁暴紅暫定520<b>掛牌</b>！ - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E9%2587%2591%25E5%2588%25A9%25E9%25A3%259F%25E5%25AE%2589%25E8%25B3%25A3%25E8%2594%25AC%25E6%259E%259C%25E6%25B1%2581%25E6%259A%25B4%25E7%25B4%2585-%25E6%259A%25AB%25E5%25AE%259A520%25E6%258E%259B%25E7%2589%258C-051101764.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0WD80kQV0LqTLN0d3WBTFI)
 - 2025/05/02 - [金利食安賣蔬果汁暴紅暫定520<b>掛牌</b>！ - 財經 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20250502001943-260410%3Fctrack%3Dpc_main_rtime_p01&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2jZ4ubrUhU0VvFUeVcbsHv)
