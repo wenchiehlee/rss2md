@@ -9,11 +9,6 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2025/05/03 - [金利食安20日<b>掛牌</b> - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250503700166-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1iHugdb6NJkKQutRC5JIPz)
-- 2025/05/02 - [金利食安搶全球冷壓蔬果汁商機暫定5月20日<b>掛牌</b>- 股市 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/8712917&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1IexGrugmdyeju1oPG7o-i)
-- 2025/05/02 - [《興櫃股》金利食安賣蔬果汁暴紅暫定520<b>掛牌</b>！ - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E9%2587%2591%25E5%2588%25A9%25E9%25A3%259F%25E5%25AE%2589%25E8%25B3%25A3%25E8%2594%25AC%25E6%259E%259C%25E6%25B1%2581%25E6%259A%25B4%25E7%25B4%2585-%25E6%259A%25AB%25E5%25AE%259A520%25E6%258E%259B%25E7%2589%258C-051101764.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0WD80kQV0LqTLN0d3WBTFI)
-- 2025/05/02 - [金利食安賣蔬果汁暴紅暫定520<b>掛牌</b>！ - 財經 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20250502001943-260410%3Fctrack%3Dpc_main_rtime_p01&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2jZ4ubrUhU0VvFUeVcbsHv)
-- 2025/05/02 - [金利食安暫定520<b>掛牌</b>Q2起夏飲市場業績衝高 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%2587%2591%25E5%2588%25A9%25E9%25A3%259F%25E5%25AE%2589%25E6%259A%25AB%25E5%25AE%259A520%25E6%258E%259B%25E7%2589%258C-q2%25E8%25B5%25B7%25E5%25A4%258F%25E9%25A3%25B2%25E5%25B8%2582%25E5%25A0%25B4%25E6%25A5%25AD%25E7%25B8%25BE%25E8%25A1%259D%25E9%25AB%2598-023021101.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2jpG7GhQC4v7osHTts8za3)
-- 2025/05/02 - [LINE Pay暫定12/5轉上市11/15起<b>競拍</b> - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/line-pay%25E6%259A%25AB%25E5%25AE%259A12-5%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582-11-15%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D/ar-AA1u06iO%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1w36kzOL2ynD8Gllde6ydM)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
