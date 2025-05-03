@@ -9,7 +9,6 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2025/05/03 - [金利食安20日<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%2587%2591%25E5%2588%25A9%25E9%25A3%259F%25E5%25AE%2589-20%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-201000367.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1_owhC_ij5AHciBmylz6u-)
-- 2025/05/03 - [金利食安20日<b>掛牌</b> - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250503700166-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1iHugdb6NJkKQutRC5JIPz)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
