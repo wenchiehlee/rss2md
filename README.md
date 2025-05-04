@@ -8,7 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/05/03 - [金利食安20日<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%2587%2591%25E5%2588%25A9%25E9%25A3%259F%25E5%25AE%2589-20%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-201000367.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1_owhC_ij5AHciBmylz6u-)
+- 2025/05/04 - [金利食安暫定5／20<b>掛牌</b>上櫃8日起公開申購、抽中可賺1.4萬元 - ETtoday財經雲](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/2953805&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw16U0cVlx8HzIW7PGsqS3OZ)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
