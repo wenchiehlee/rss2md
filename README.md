@@ -15,8 +15,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/05/02 - [4/30興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D3bd3cbf1-3331-4001-b3ee-01330bbc15dc&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1tMnn2gnn3LQqqtZsdYYJx)
-- 2025/05/02 - [興櫃申報轉讓：04月30日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=http://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2201735002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Ol7OHPyxvVakJZErSbKyA)
+- 2025/05/07 - [立誠:公告本公司辦理股票初次上櫃<b>過額配售</b>內容| Anue鉅亨](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5963514&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3lXach3NbPFs83ajzeAuB4)
+- 2025/05/06 - [【公告】立誠辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E7%25AB%258B%25E8%25AA%25A0%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-112740445.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3fhyTc_xOtQDkxxwxZmhet)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
