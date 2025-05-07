@@ -2,7 +2,11 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/04/22 - [築間<b>競拍</b>每股均價46.44元，4月底以每股45元<b>掛牌</b>上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25AF%2589%25E9%2596%2593%25E7%25AB%25B6%25E6%258B%258D%25E6%25AF%258F%25E8%2582%25A1%25E5%259D%2587%25E5%2583%25B946-44%25E5%2585%2583-4%25E6%259C%2588%25E5%25BA%2595%25E4%25BB%25A5%25E6%25AF%258F%25E8%2582%25A145%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-230548124.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0f3FkaTatPLCkShJ9K3DjG)
+- 2025/05/07 - [〈昶瑞機電上櫃〉抽中一張現賺2.5萬元！5/7<b>競拍</b>開跑5/12起公開申購| Anue鉅亨- 台股新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5962220&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3sjNiekmW6M4lr09KXYsQB)
+- 2025/05/06 - [金利食安20日<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%2587%2591%25E5%2588%25A9%25E9%25A3%259F%25E5%25AE%2589-20%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-201000367.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1_owhC_ij5AHciBmylz6u-)
+- 2025/05/06 - [〈昶瑞機電上櫃〉抽中一張現賺2.5萬元！5/7<b>競拍</b>開跑5/12起公開申購 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2598%25B6%25E7%2591%259E%25E6%25A9%259F%25E9%259B%25BB%25E4%25B8%258A%25E6%25AB%2583-%25E6%258A%25BD%25E4%25B8%25AD-%25E5%25BC%25B5%25E7%258F%25BE%25E8%25B3%25BA2-5%25E8%2590%25AC%25E5%2585%2583-5-023816647.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3EKzWFJdMQ5947P8sMbeF_)
+- 2025/05/06 - [金利食安暫定5／20<b>掛牌</b>上櫃8日起公開申購、抽中可賺1.4萬元 - ETtoday財經雲](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/2953805&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw16U0cVlx8HzIW7PGsqS3OZ)
+- 2025/05/02 - [金利食安搶全球冷壓蔬果汁商機；暫定5/20<b>掛牌</b>上櫃- 新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/z/DJA/News/DJANewsDetail_493003C9-424F-4BEF-8A97-75D7B6B434E3.djhtm&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0A_ZLmkA3vaSSi2uftbrK9)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
