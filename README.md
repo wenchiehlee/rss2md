@@ -17,7 +17,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/05/08 - [永鴻生技(6936)上市掛牌首五個營業日穩定價格操作結果：0股](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D76731%26kind%3D21&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2KJ5haipenlvTNpDHc6lh0)
+- 2025/05/09 - [築間初次上櫃掛牌首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D32dff7fd-6d0a-4f6f-8ada-bd934c9c8936&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2D1KDCZhVoKNJj_XKbD0H_)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
