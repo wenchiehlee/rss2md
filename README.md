@@ -12,7 +12,10 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/05/07 - [〈昶瑞機電上櫃〉抽中一張現賺2.5萬元！5/7<b>競拍</b>開跑5/12起公開申購| Anue鉅亨- 台股新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/print/5962220&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3c-a1relfiJuNMtSucvhRn)
+- 2025/05/10 - [生合啟動<b>競拍</b>5/27以56.5元<b>掛牌</b>上櫃 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%2594%259F%25E5%2590%2588%25E5%2595%259F%25E5%258B%2595%25E7%25AB%25B6%25E6%258B%258D-5-27%25E4%25BB%25A556-5%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-122038426.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3k_2FK9BFSp_CdB2Z4thLf)
+- 2025/05/10 - [生合5/12起上櫃前<b>競拍</b>預計5/27<b>掛牌</b>- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D8d441be8-8e10-483f-a773-a50fcf178824&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3Gl5OcOQXzVSzk9GxgPlUn)
+- 2025/05/09 - [益生菌原料廠生合527<b>掛牌</b>4月客戶追單營收爆增52 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250509700835-430504&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1s-Gh4oWaJJ7JzcCTdJbkq)
+- 2025/05/09 - [生合暫定5月27日<b>掛牌</b>積極布局國際市場| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8728102&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw33j3TXqcHJJGNomIimxoHD)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
