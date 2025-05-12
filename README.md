@@ -12,6 +12,11 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/05/13 - [創控科技<b>競拍</b>完成公開申購價32元預計5月21日<b>掛牌</b>上市 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250512701357-430502&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0tUOp_3ltSVXB15aPVthwi)
+- 2025/05/12 - [創控<b>競拍</b>完成公開申購價32元預計5月21日<b>掛牌</b>上市 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8734990&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Au5YluXXxpJbAof0gFBPF)
+- 2025/05/12 - [創控<b>競拍</b>完成…公開申購價32元預計5月21日<b>掛牌</b>上市| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/8734990&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3Fk31gbIh70h6vramZ3w_d)
+- 2025/05/12 - [創控科技<b>競拍</b>完成公開申購價32元預計5月21日<b>掛牌</b>上市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2589%25B5%25E6%258E%25A7%25E7%25A7%2591%25E6%258A%2580%25E7%25AB%25B6%25E6%258B%258D%25E5%25AE%258C%25E6%2588%2590-%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E5%2583%25B932%25E5%2585%2583-%25E9%25A0%2590%25E8%25A8%25885%25E6%259C%258821%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-074837744.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0sQRG-r2uGlcG6QPVdoRlQ)
+- 2025/05/12 - [《興櫃股》創控<b>競拍</b>均價37.19元公開申購價32元](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E5%2589%25B5%25E6%258E%25A7%25E7%25AB%25B6%25E6%258B%258D%25E5%259D%2587%25E5%2583%25B937-19%25E5%2585%2583-%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E5%2583%25B932%25E5%2585%2583-074438080.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw35BdtoREuIfH0yHb8WUXDY)
 - 2025/05/11 - [生合5/27<b>掛牌</b>今起<b>競拍</b> - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%2594%259F%25E5%2590%25885-27%25E6%258E%259B%25E7%2589%258C-%25E4%25BB%258A%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-102919433.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Loe9wOAgBuZlfuiEUZVP-)
 <!-- _feedinvestment1_1_ end -->
 
