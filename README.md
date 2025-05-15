@@ -21,7 +21,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/05/09 - [築間初次上櫃掛牌首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D32dff7fd-6d0a-4f6f-8ada-bd934c9c8936&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2D1KDCZhVoKNJj_XKbD0H_)
+- 2025/05/16 - [光學鏡頭1年賺破億元！久禾光電等2檔上櫃新兵5/20掛牌 - 奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%2589%25E5%25AD%25B8%25E9%258F%25A1%25E9%25A0%25AD1%25E5%25B9%25B4%25E8%25B3%25BA%25E7%25A0%25B4%25E5%2584%2584%25E5%2585%2583%25EF%25BC%2581%25E4%25B9%2585%25E7%25A6%25BE%25E5%2585%2589%25E9%259B%25BB%25E7%25AD%25892%25E6%25AA%2594%25E4%25B8%258A%25E6%25AB%2583%25E6%2596%25B0%25E5%2585%25B5520%25E6%258E%259B%25E7%2589%258C-114716178.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0rDT6oFDdXHsIlWzEOPXx7)
+- 2025/05/15 - [【公告】金利食安辦理股票初次上櫃<b>過額配售</b>內容](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E9%2587%2591%25E5%2588%25A9%25E9%25A3%259F%25E5%25AE%2589%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-072954763.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1hArLdy8WzPHlXo1UazSMV)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
