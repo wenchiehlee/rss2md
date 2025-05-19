@@ -2,12 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/05/14 - [生合5/12起上櫃前<b>競拍</b>預計5/27<b>掛牌</b>- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D8d441be8-8e10-483f-a773-a50fcf178824&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Gl5OcOQXzVSzk9GxgPlUn)
-- 2025/05/14 - [富邦證券輔導昶瑞機電完成<b>競拍</b>承銷價66.18元| 中央社訊息平台](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/401649&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1s66QvMhv_IngiahinfA-o)
-- 2025/05/12 - [生合暫定5月27日<b>掛牌</b>積極布局國際市場｜新聞快訊 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/681d76ba31c1ba247ac0ccfd&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ZeUXZs_-3ID90qZ4RlI2d)
-- 2025/05/12 - [創控<b>競拍</b>完成公開申購價32元預計5月21日<b>掛牌</b>上市 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8734990&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Au5YluXXxpJbAof0gFBPF)
-- 2025/05/12 - [生合啟動<b>競拍</b>5/27以56.5元<b>掛牌</b>上櫃 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%2594%259F%25E5%2590%2588%25E5%2595%259F%25E5%258B%2595%25E7%25AB%25B6%25E6%258B%258D-5-27%25E4%25BB%25A556-5%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-122038426.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3k_2FK9BFSp_CdB2Z4thLf)
-- 2025/05/12 - [創控科技<b>競拍</b>完成公開申購價32元預計5月21日<b>掛牌</b>上市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2589%25B5%25E6%258E%25A7%25E7%25A7%2591%25E6%258A%2580%25E7%25AB%25B6%25E6%258B%258D%25E5%25AE%258C%25E6%2588%2590-%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E5%2583%25B932%25E5%2585%2583-%25E9%25A0%2590%25E8%25A8%25885%25E6%259C%258821%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-074837744.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0sQRG-r2uGlcG6QPVdoRlQ)
+- 2025/05/19 - [富邦證券輔導兆聯實業<b>競拍</b>開標 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25AF%258C%25E9%2582%25A6%25E8%25AD%2589%25E5%2588%25B8%25E8%25BC%2594%25E5%25B0%258E-%25E5%2585%2586%25E8%2581%25AF%25E5%25AF%25A6%25E6%25A5%25AD%25E7%25AB%25B6%25E6%258B%258D%25E9%2596%258B%25E6%25A8%2599-050535159.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw16Hc_6VcBVFvs2iQWzx1D9)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
