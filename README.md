@@ -8,12 +8,10 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/05/19 - [富邦證券輔導兆聯實業<b>競拍</b>開標- 證券- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250519700946-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0VAwvFmeIGAcq8qXVZgU61)
-- 2025/05/19 - [富邦證券輔導兆聯實業完成<b>競拍</b>5／28<b>掛牌</b>上市 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250519700912-431201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0wBwRqVK7_KLeMwGrry-cG)
-- 2025/05/19 - [富邦證券輔導兆聯實業完成<b>競拍</b>承銷價262元| 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/8749657&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0_xJyBXf397_26WTu2tfmv)
-- 2025/05/19 - [富邦證券輔導兆聯實業完成<b>競拍</b>承銷價262元| 股市要聞 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/8749657&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw36LLrIhjr5EAM-7m93X-dq)
-- 2025/05/19 - [富邦證券輔導兆聯實業<b>競拍</b>開標 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25AF%258C%25E9%2582%25A6%25E8%25AD%2589%25E5%2588%25B8%25E8%25BC%2594%25E5%25B0%258E-%25E5%2585%2586%25E8%2581%25AF%25E5%25AF%25A6%25E6%25A5%25AD%25E7%25AB%25B6%25E6%258B%258D%25E9%2596%258B%25E6%25A8%2599-050535159.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw16Hc_6VcBVFvs2iQWzx1D9)
-- 2025/05/19 - [紅包等你抽！雲豹能源超額認購2.15倍抽中現賺萬元 - 風傳媒](https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/articles/962535&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1oKTakksnVbxnlz0PaoXL7)
+- 2025/05/21 - [富邦證券輔導兆聯實業完成<b>競拍</b>承銷價262元 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25AF%258C%25E9%2582%25A6%25E8%25AD%2589%25E5%2588%25B8%25E8%25BC%2594%25E5%25B0%258E%25E5%2585%2586%25E8%2581%25AF%25E5%25AF%25A6%25E6%25A5%25AD%25E5%25AE%258C%25E6%2588%2590%25E7%25AB%25B6%25E6%258B%258D-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9262%25E5%2585%2583-033220916.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3-6GukrGvOZqy02yyIwZTs)
+- 2025/05/20 - [兆聯實業完成上市前<b>競拍</b>預計5/28<b>掛牌</b>- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D333809da-3ab9-42bd-a52e-acfd89a5a4b5&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw17MGyFwQBC5T_YvM9g6s6k)
+- 2025/05/20 - [兆聯競拍均價318.63元5/28股票上市 - 自立晚報](https://www.google.com/url?rct=j&sa=t&url=https://www.idn.com.tw/news/news_content.aspx%3Fcatid%3D3%26catsid%3D1%26catdid%3D0%26artid%3D20250519kofang007&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2suSk3VQTnf8200QC3Uva_)
+- 2025/05/20 - [富邦證輔導兆聯實業完成<b>競拍</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AF%258C%25E9%2582%25A6%25E8%25AD%2589%25E8%25BC%2594%25E5%25B0%258E-%25E5%2585%2586%25E8%2581%25AF%25E5%25AF%25A6%25E6%25A5%25AD%25E5%25AE%258C%25E6%2588%2590%25E7%25AB%25B6%25E6%258B%258D-201000910.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1t0Syl_muNNw-C8m2ngINh)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
