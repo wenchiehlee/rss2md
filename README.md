@@ -2,7 +2,9 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/05/19 - [富邦證券輔導兆聯實業<b>競拍</b>開標 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25AF%258C%25E9%2582%25A6%25E8%25AD%2589%25E5%2588%25B8%25E8%25BC%2594%25E5%25B0%258E-%25E5%2585%2586%25E8%2581%25AF%25E5%25AF%25A6%25E6%25A5%25AD%25E7%25AB%25B6%25E6%258B%258D%25E9%2596%258B%25E6%25A8%2599-050535159.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw16Hc_6VcBVFvs2iQWzx1D9)
+- 2025/05/21 - [醫材股愛派司暫定6/10<b>掛牌</b>上市<b>競拍</b>底價62.5元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%2586%25AB%25E6%259D%2590%25E8%2582%25A1%25E6%2584%259B%25E6%25B4%25BE%25E5%258F%25B8%25E6%259A%25AB%25E5%25AE%259A6-10%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B962-5%25E5%2585%2583-103651081.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1y3LLkiq4D9LvMjrzc4bEr)
+- 2025/05/21 - [兆聯<b>競拍</b>均價318.63元5/28股票上市 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%2585%2586%25E8%2581%25AF%25E7%25AB%25B6%25E6%258B%258D%25E5%259D%2587%25E5%2583%25B9318-63%25E5%2585%2583-5-28%25E8%2582%25A1%25E7%25A5%25A8%25E4%25B8%258A%25E5%25B8%2582-204130225.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw10_Qcq_fDwg8hGj1C6GlWA)
+- 2025/05/20 - [兆聯實業完成上市前<b>競拍</b>預計5/28<b>掛牌</b>- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D333809da-3ab9-42bd-a52e-acfd89a5a4b5&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw17MGyFwQBC5T_YvM9g6s6k)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
