@@ -19,6 +19,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/05/22 - [5/21興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/nXOwomg&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1AKjZWycuB9QiTdH2831Af)
 - 2025/05/22 - [5/21興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D48793513-e788-4485-b3fe-db4424afc0a7&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3IYkkBnrrOJV82EtI-l1oD)
 - 2025/05/22 - [興櫃申報轉讓：05月21日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2212493002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1gqWw7nPAXEtnNwlrrbv6R)
 - 2025/05/21 - [5/20興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D524fe86b-ff57-4b15-9383-aff545c5c4d2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1PneJUO-JgU1j5Jx0PjuY0)
