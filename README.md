@@ -10,11 +10,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/05/22 - [愛派司5/23-27<b>競拍</b>6/10每股75元上市](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%2584%259B%25E6%25B4%25BE%25E5%258F%25B85-23-27%25E7%25AB%25B6%25E6%258B%258D-6-10%25E6%25AF%258F%25E8%2582%25A175%25E5%2585%2583%25E4%25B8%258A%25E5%25B8%2582-201035036.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw23ThoUnRDcY0jl880yw6P7)
-- 2025/05/22 - [醫材股愛派司暫定6/10<b>掛牌</b>上市<b>競拍</b>底價62.5元- 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202505/202505212474143.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw35LbU6eFEaiv8Lrjsv0cBs)
-- 2025/05/22 - [愛派司多軌並進攻全球骨科市場，23日<b>競拍</b>起跑，暫定6月10日上市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2584%259B%25E6%25B4%25BE%25E5%258F%25B8%25E5%25A4%259A%25E8%25BB%258C%25E4%25B8%25A6%25E9%2580%25B2%25E6%2594%25BB%25E5%2585%25A8%25E7%2590%2583%25E9%25AA%25A8%25E7%25A7%2591%25E5%25B8%2582%25E5%25A0%25B4-23%25E6%2597%25A5%25E7%25AB%25B6%25E6%258B%258D%25E8%25B5%25B7%25E8%25B7%2591-%25E6%259A%25AB%25E5%25AE%259A6%25E6%259C%258810%25E6%2597%25A5%25E4%25B8%258A%25E5%25B8%2582-235415317.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2WGU6zIIWwb1omaxjD0At-)
-- 2025/05/22 - [醫材股愛派司暫定6/10<b>掛牌</b>上市<b>競拍</b>底價62.5元| 市場焦點| 證券| 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/8755656&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2xFxVweXczwonIhUShkF_8)
-- 2025/05/21 - [愛派司5月23日起<b>競拍</b>承銷價75元、6月10日<b>掛牌</b>| 市場焦點| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/8755410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0JvtD61M-_4p-XNEzXD_dZ)
+- 2025/05/23 - [愛派司持續強化東南亞市場6/10<b>掛牌</b>上市承銷價每股75元](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2584%259B%25E6%25B4%25BE%25E5%258F%25B8%25E6%258C%2581%25E7%25BA%258C%25E5%25BC%25B7%25E5%258C%2596%25E6%259D%25B1%25E5%258D%2597%25E4%25BA%259E%25E5%25B8%2582%25E5%25A0%25B4-6-10%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9%25E6%25AF%258F%25E8%2582%25A175%25E5%2585%2583-032630024.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1CctEJf1yimhcG2G18Hy5x)
+- 2025/05/23 - [愛派司持續強化東南亞市場6/10<b>掛牌</b>上市承銷價每股75元 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/id/5990877&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw34R1wjbO_d0OabyFpxCtQb)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
