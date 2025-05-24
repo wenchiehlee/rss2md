@@ -10,13 +10,13 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/05/23 - [愛派司持續強化東南亞市場6/10<b>掛牌</b>上市承銷價每股75元](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2584%259B%25E6%25B4%25BE%25E5%258F%25B8%25E6%258C%2581%25E7%25BA%258C%25E5%25BC%25B7%25E5%258C%2596%25E6%259D%25B1%25E5%258D%2597%25E4%25BA%259E%25E5%25B8%2582%25E5%25A0%25B4-6-10%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9%25E6%25AF%258F%25E8%2582%25A175%25E5%2585%2583-032630024.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1CctEJf1yimhcG2G18Hy5x)
-- 2025/05/23 - [愛派司持續強化東南亞市場6/10<b>掛牌</b>上市承銷價每股75元 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/id/5990877&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw34R1wjbO_d0OabyFpxCtQb)
+- 2025/05/24 - [醫材股愛派司暫定6/10<b>掛牌</b>上市<b>競拍</b>底價62.5元 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E9%2586%25AB%25E6%259D%2590%25E8%2582%25A1%25E6%2584%259B%25E6%25B4%25BE%25E5%258F%25B8%25E6%259A%25AB%25E5%25AE%259A610%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B9625%25E5%2585%2583/ar-AA1Fc647&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2geXdumWObvYwIuFqtyKM2)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/05/22 - [5/21興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/nXOwomg&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1AKjZWycuB9QiTdH2831Af)
+- 2025/05/23 - [【公告】生合辦理初次上櫃<b>過額配售</b>內容](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E7%2594%259F%25E5%2590%2588%25E8%25BE%25A6%25E7%2590%2586%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-101808911.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2kYI3KhgqR44P6iDtervCv)
+- 2025/05/23 - [【公告】生合股票初次上櫃現金增資收足股款暨現金增資基準日 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E7%2594%259F%25E5%2590%2588%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E6%2594%25B6%25E8%25B6%25B3%25E8%2582%25A1%25E6%25AC%25BE%25E6%259A%25A8%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E5%259F%25BA%25E6%25BA%2596%25E6%2597%25A5-101810369.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3kq6ef2CwtsBfqRM3P7aFH)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
