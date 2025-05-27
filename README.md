@@ -17,7 +17,14 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/05/24 - [醫材股愛派司暫定6/10<b>掛牌</b>上市<b>競拍</b>底價62.5元 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E9%2586%25AB%25E6%259D%2590%25E8%2582%25A1%25E6%2584%259B%25E6%25B4%25BE%25E5%258F%25B8%25E6%259A%25AB%25E5%25AE%259A610%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B9625%25E5%2585%2583/ar-AA1Fc647&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2geXdumWObvYwIuFqtyKM2)
+- 2025/05/28 - [意騰6/13<b>掛牌</b>上市<b>競拍</b>底價每股297.3元- 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202505/202505272475887.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3YxJuLM53NvEoOkAxK5z64)
+- 2025/05/28 - [意騰6/13<b>掛牌</b>上市<b>競拍</b>底價每股297.3元| 證券| 中央社CNA](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202505270218.aspx&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw05yW3Cm3pjqd0KbBifhMsz)
+- 2025/05/28 - [IC設計新兵意騰6/13<b>掛牌競拍</b>底價每股297.3元- 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5056417&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2P5K1uGIxmnwzWAX4E_wmn)
+- 2025/05/27 - [意騰-KY明起<b>競拍</b>，預計6/13<b>掛牌</b>上市- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D5180619d-74ad-495b-b1e3-2f80e95ef791&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1B8G6SrYiKf2oMhAhJ8fVU)
+- 2025/05/27 - [意騰6/13<b>掛牌</b>上市<b>競拍</b>底價每股297.3元| 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/8767659&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0q-ci32T5RY0CzpfNHKplJ)
+- 2025/05/27 - [意騰6/13<b>掛牌</b>上市<b>競拍</b>底價每股297.3元](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2584%258F%25E9%25A8%25B06-13%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B9%25E6%25AF%258F%25E8%2582%25A1297-3%25E5%2585%2583-074954749.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2GqBqRtrFJabP1ltVqmIu7)
+- 2025/05/27 - [意騰6/13<b>掛牌</b>上市<b>競拍</b>底價每股297.3元| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/8767659&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1bDbSBzUExyaw5lfHD8asf)
+- 2025/05/27 - [意騰-KY明起<b>競拍</b>，預計6/13<b>掛牌</b>上市- 台視財經](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/%3Fi%3D05202527140066C3C8D18E86435D92FA85E8593BC1326A0F%26from%3D587&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Thy5JuQpGHKRFDq0pKGQr)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
