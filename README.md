@@ -13,8 +13,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/05/29 - [昶瑞機電:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/5998093&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3EZZd-ZzO11Ch8qE3MAXVy)
-- 2025/05/28 - [【公告】金利食安初次上櫃掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E9%2587%2591%25E5%2588%25A9%25E9%25A3%259F%25E5%25AE%2589%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-065346403.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0cNUST06SpVs0diOA7cWfy)
+- 2025/05/30 - [昶瑞機電初次上櫃首5日穩定價格操作結果：0股| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/NvkmZYP&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3_ZTSk-70xo5EDepKadHCa)
+- 2025/05/29 - [【公告】創控上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%2589%25B5%25E6%258E%25A7%25E4%25B8%258A%25E5%25B8%2582%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-060631967.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1C0U0sdaGTl1p8NcSZr_n9)
+- 2025/05/29 - [創控公告本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D8f9bcbac-62cd-4132-9b41-0ce2c204cfb6&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw20x3NqyHu5cQwFWF4l0Fzw)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
