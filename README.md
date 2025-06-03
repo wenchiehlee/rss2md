@@ -2,7 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/05/28 - [6／13<b>掛牌</b>意騰今起<b>競拍</b>底價297.3元](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/6-13%25E6%258E%259B%25E7%2589%258C-%25E6%2584%258F%25E9%25A8%25B0%25E4%25BB%258A%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E5%25BA%2595%25E5%2583%25B9297-3%25E5%2585%2583-201000055.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3h3HthEYb-vqqx8GEMzhXB)
+- 2025/06/02 - [愛派司上市IPO公開申購至6／2止中籤戶潛在利益近四成](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2584%259B%25E6%25B4%25BE%25E5%258F%25B8%25E4%25B8%258A%25E5%25B8%2582ipo%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E8%2587%25B36-2%25E6%25AD%25A2-%25E4%25B8%25AD%25E7%25B1%25A4%25E6%2588%25B6%25E6%25BD%259B%25E5%259C%25A8%25E5%2588%25A9%25E7%259B%258A%25E8%25BF%2591%25E5%259B%259B%25E6%2588%2590-081826786.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ueqEenaONGl3YhXoRU7Q7)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
