@@ -3,7 +3,6 @@
 
 <!-- _feedinvestment1_ start -->
 - 2025/06/04 - [意騰-KY上市IPO<b>競拍</b>得標均價為435.79元6／13以330元上市 - 奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2584%258F%25E9%25A8%25B0-ky%25E4%25B8%258A%25E5%25B8%2582ipo%25E7%25AB%25B6%25E6%258B%258D%25E5%25BE%2597%25E6%25A8%2599%25E5%259D%2587%25E5%2583%25B9%25E7%2582%25BA435-79%25E5%2585%2583-6-13%25E4%25BB%25A5330%25E5%2585%2583%25E4%25B8%258A%25E5%25B8%2582-073946287.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Hbiais91Dv0ga4mNdVc8F)
-- 2025/06/02 - [愛派司上市IPO公開申購至6／2止中籤戶潛在利益近四成](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2584%259B%25E6%25B4%25BE%25E5%258F%25B8%25E4%25B8%258A%25E5%25B8%2582ipo%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E8%2587%25B36-2%25E6%25AD%25A2-%25E4%25B8%25AD%25E7%25B1%25A4%25E6%2588%25B6%25E6%25BD%259B%25E5%259C%25A8%25E5%2588%25A9%25E7%259B%258A%25E8%25BF%2591%25E5%259B%259B%25E6%2588%2590-081826786.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ueqEenaONGl3YhXoRU7Q7)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
@@ -14,9 +13,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/05/30 - [昶瑞機電初次上櫃首5日穩定價格操作結果：0股| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/NvkmZYP&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3_ZTSk-70xo5EDepKadHCa)
-- 2025/05/29 - [【公告】創控上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%2589%25B5%25E6%258E%25A7%25E4%25B8%258A%25E5%25B8%2582%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-060631967.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1C0U0sdaGTl1p8NcSZr_n9)
-- 2025/05/29 - [創控公告本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D8f9bcbac-62cd-4132-9b41-0ce2c204cfb6&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw20x3NqyHu5cQwFWF4l0Fzw)
+- 2025/06/04 - [6/3興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Ddf40b0a0-e115-4c47-822e-196ba06709fa&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw08lcFtEPXwkWBGMMwBQrBv)
+- 2025/06/04 - [【公告】生合初次上櫃掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E7%2594%259F%25E5%2590%2588%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-074600580.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw13o9EmzUmn-_NWcS1nIL09)
+- 2025/06/04 - [6/3興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/2Dl2oq6&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1zLCEDTZlCTk72F51B3n-8)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
