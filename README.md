@@ -8,6 +8,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/06/05 - [熙特爾IPO今<b>競拍</b>完成6／16以149.4元在創新板上市<b>掛牌</b> - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250605701522-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1VKIG4zHZIf18HsFs90_5W)
+- 2025/06/05 - [意騰-KY公開申購啟動，聚焦AI語音應用- 台視財經](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/%3Fi%3D0620250508139F77409347034F90A46819861313A3A97928%26from%3D587&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3sAAfA4GYI5FlAdCAFiKrp)
 - 2025/06/05 - [意騰-KY公開申購啟動，聚焦AI語音應用- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3Db95153f3-8a5b-4bfb-bdb4-42cf636124bc&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0y8PRcZ6LelU40ds_KPqMN)
 - 2025/06/05 - [意騰-KY上市IPO<b>競拍</b>得標均價為435.79元6／13以330元上市 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250604701185-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ALeV98RaLen5CQOI3azoy)
 <!-- _feedinvestment1_1_ end -->
