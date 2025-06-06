@@ -10,8 +10,6 @@
 <!-- _feedinvestment1_1_ start -->
 - 2025/06/05 - [熙特爾IPO今<b>競拍</b>完成6／16以149.4元在創新板上市<b>掛牌</b> - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250605701522-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1VKIG4zHZIf18HsFs90_5W)
 - 2025/06/05 - [意騰-KY公開申購啟動，聚焦AI語音應用- 台視財經](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/%3Fi%3D0620250508139F77409347034F90A46819861313A3A97928%26from%3D587&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3sAAfA4GYI5FlAdCAFiKrp)
-- 2025/06/05 - [意騰-KY公開申購啟動，聚焦AI語音應用- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3Db95153f3-8a5b-4bfb-bdb4-42cf636124bc&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0y8PRcZ6LelU40ds_KPqMN)
-- 2025/06/05 - [意騰-KY上市IPO<b>競拍</b>得標均價為435.79元6／13以330元上市 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250604701185-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ALeV98RaLen5CQOI3azoy)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
@@ -19,7 +17,6 @@
 - 2025/06/05 - [兆聯實業上市首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3De27a0ed8-2c09-4db9-87ea-514d1b8de274&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3SRIcHm_8LGEBpb7kEh0QG)
 - 2025/06/05 - [【公告】兆聯實業上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%2585%2586%25E8%2581%25AF%25E5%25AF%25A6%25E6%25A5%25AD%25E4%25B8%258A%25E5%25B8%2582%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-090142273.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3tUr6p2_fnQhYw5rQ0tmdA)
 - 2025/06/05 - [兆聯實業:公告本公司上市掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6008588&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw284ZMyZ4GVOtNXr9WfAeUY)
-- 2025/06/05 - [生合:本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6006797&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Ofnf-F-v5ediY4UdF2q4c)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
