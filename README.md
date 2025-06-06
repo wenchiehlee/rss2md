@@ -14,6 +14,12 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/06/07 - [愛派司:公告本公司辦理股票初次上市<b>過額配售</b>內容 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6010426&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Gb_Olbr_VagNLldQR7p2E)
+- 2025/06/06 - [愛派司(6918)初上市<b>過額配售</b>100張，佔公開承銷數量2.87% - 環球生技月刊](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D77627&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2RGK0w_xowtNvKKyd675Cz)
+- 2025/06/06 - [易發本公司113年度現金股利配息率調整公告 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D9512f5f1-0e43-4cfb-9b3b-03ba6158a7a8%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3aEN3rA9eakxMjHIlS1E2n)
+- 2025/06/06 - [愛派司初上市<b>過額配售</b>100張，佔公開承銷數量2.87% - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dd207535e-8cdd-4147-bee3-9e5031668e85&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0nyA1OKBAGqfei7C0NvQqS)
+- 2025/06/06 - [意藍:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6010074&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0QI4PHmNAnqF7zZ0tH7fxu)
+- 2025/06/06 - [【公告】意藍初次上櫃掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%2584%258F%25E8%2597%258D%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-055418188.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw03PzdObHg6duluCGUGv_bH)
 - 2025/06/05 - [【公告】兆聯實業上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%2585%2586%25E8%2581%25AF%25E5%25AF%25A6%25E6%25A5%25AD%25E4%25B8%258A%25E5%25B8%2582%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-090142273.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3tUr6p2_fnQhYw5rQ0tmdA)
 <!-- _feedinvestment2_ end -->
 
