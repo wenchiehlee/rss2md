@@ -14,6 +14,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/06/07 - [愛派司公告本公司辦理股票初次上市<b>過額配售</b>內容| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/8nl39QZ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Fmxdwxtpk1ktXNvhwu4h5)
 - 2025/06/07 - [愛派司:公告本公司辦理股票初次上市<b>過額配售</b>內容 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6010426&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Gb_Olbr_VagNLldQR7p2E)
 - 2025/06/06 - [愛派司(6918)初上市<b>過額配售</b>100張，佔公開承銷數量2.87% - 環球生技月刊](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D77627&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2RGK0w_xowtNvKKyd675Cz)
 - 2025/06/06 - [易發本公司113年度現金股利配息率調整公告 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D9512f5f1-0e43-4cfb-9b3b-03ba6158a7a8%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3aEN3rA9eakxMjHIlS1E2n)
