@@ -2,7 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/06/04 - [意騰-KY上市IPO<b>競拍</b>得標均價為435.79元6／13以330元上市 - 奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2584%258F%25E9%25A8%25B0-ky%25E4%25B8%258A%25E5%25B8%2582ipo%25E7%25AB%25B6%25E6%258B%258D%25E5%25BE%2597%25E6%25A8%2599%25E5%259D%2587%25E5%2583%25B9%25E7%2582%25BA435-79%25E5%2585%2583-6-13%25E4%25BB%25A5330%25E5%2585%2583%25E4%25B8%258A%25E5%25B8%2582-073946287.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Hbiais91Dv0ga4mNdVc8F)
+- 2025/06/10 - [意騰-KY公開申購啟動，聚焦AI語音應用- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Db95153f3-8a5b-4bfb-bdb4-42cf636124bc&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0goYPMQ4umEaI2nyk2KyY8)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
