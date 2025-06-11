@@ -14,7 +14,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/06/07 - [愛派司公告本公司辦理股票初次上市<b>過額配售</b>內容| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/8nl39QZ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Fmxdwxtpk1ktXNvhwu4h5)
+- 2025/06/11 - [意騰-KY初次上市<b>過額配售</b>：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D3205ac81-e445-4f8e-8075-c2a9db4968e1&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2VSDEEGH6zAAyAYkGjaIrQ)
+- 2025/06/11 - [意騰-KY初上市前現增案股款約20.98億元已全數收足，增資基準日6/11 | MoneyDJ理財網 ...](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/3NlEWXy&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2p1Y4VKae4XN2RbzFcOcno)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
