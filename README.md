@@ -8,8 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/06/05 - [熙特爾IPO今<b>競拍</b>完成6／16以149.4元在創新板上市<b>掛牌</b> - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250605701522-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1VKIG4zHZIf18HsFs90_5W)
-- 2025/06/05 - [意騰-KY公開申購啟動，聚焦AI語音應用- 台視財經](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/%3Fi%3D0620250508139F77409347034F90A46819861313A3A97928%26from%3D587&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3sAAfA4GYI5FlAdCAFiKrp)
+- 2025/06/12 - [意騰-KY強攻AI語音終端Switch 2 手機筆電助攻今年獲利勝去年](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%2584%258F%25E9%25A8%25B0-ky%25E5%25BC%25B7%25E6%2594%25BBai%25E8%25AA%259E%25E9%259F%25B3%25E7%25B5%2582%25E7%25AB%25AF-switch-2-%25E6%2589%258B%25E6%25A9%259F%25E7%25AD%2586%25E9%259B%25BB%25E5%258A%25A9%25E6%2594%25BB%25E4%25BB%258A%25E5%25B9%25B4%25E7%258D%25B2%25E5%2588%25A9%25E5%258B%259D%25E5%258E%25BB%25E5%25B9%25B4-041626702.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3mshsFHy5pKYdyUkObMPT1)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
