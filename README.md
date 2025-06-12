@@ -14,8 +14,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/06/11 - [意騰-KY初次上市<b>過額配售</b>：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D3205ac81-e445-4f8e-8075-c2a9db4968e1&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2VSDEEGH6zAAyAYkGjaIrQ)
-- 2025/06/11 - [意騰-KY初上市前現增案股款約20.98億元已全數收足，增資基準日6/11 | MoneyDJ理財網 ...](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/3NlEWXy&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2p1Y4VKae4XN2RbzFcOcno)
+- 2025/06/12 - [【公告】熙特爾辦理股票初次創新板上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E7%2586%2599%25E7%2589%25B9%25E7%2588%25BE%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E5%2589%25B5%25E6%2596%25B0%25E6%259D%25BF%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-082331907.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3oX-ZIq38Eb2Jc0Ypo-mcN)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
