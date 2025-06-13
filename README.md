@@ -13,6 +13,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/06/13 - [熙特爾新能源6/16掛牌台灣創新板第20家上市公司](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%2586%2599%25E7%2589%25B9%25E7%2588%25BE%25E6%2596%25B0%25E8%2583%25BD%25E6%25BA%25906-16%25E6%258E%259B%25E7%2589%258C-%25E5%258F%25B0%25E7%2581%25A3%25E5%2589%25B5%25E6%2596%25B0%25E6%259D%25BF%25E7%25AC%25AC20%25E5%25AE%25B6%25E4%25B8%258A%25E5%25B8%2582%25E5%2585%25AC%25E5%258F%25B8-130016642.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw36fimn6lwQ_CGDk3dfHjuN)
+- 2025/06/13 - [每股149.5元熙特爾16日登創新板 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25AF%258F%25E8%2582%25A1149-5%25E5%2585%2583-%25E7%2586%2599%25E7%2589%25B9%25E7%2588%25BE16%25E6%2597%25A5%25E7%2599%25BB%25E5%2589%25B5%25E6%2596%25B0%25E6%259D%25BF-201000324.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw22XRFhRk3rNCHCe6GAQ7Ik)
 - 2025/06/12 - [熙特爾初次創新板上市前現增股款約5.55億元已全數收足，增資基準日6/12 ... - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/60lrpV1&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0US6fZse6ZvW4bV3dsCuxD)
 - 2025/06/12 - [熙特爾初次創新板上市<b>過額配售</b>：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3De8e7ca62-e703-45ba-a641-e027fe1ec671&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1IOWoIqnN10V8XT8InJpx-)
 <!-- _feedinvestment2_ end -->
