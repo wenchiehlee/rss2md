@@ -14,9 +14,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2025/06/18 - [嘉實:公告本公司董事會重大決議事項 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6026170&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw188VWEYEekYNt2VgMbBgLX)
-- 2025/06/17 - [【公告】嘉實董事會重大決議事項 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%2598%2589%25E5%25AF%25A6%25E8%2591%25A3%25E4%25BA%258B%25E6%259C%2583%25E9%2587%258D%25E5%25A4%25A7%25E6%25B1%25BA%25E8%25AD%25B0%25E4%25BA%258B%25E9%25A0%2585-070358561.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0pC8c_Ok9w2tlIaKzlVeZ5)
-- 2025/06/17 - [愛派司上市首5日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D91d0a82c-7688-4dc2-94c1-138723ca11ef&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2rmjtELvyk4SSYa-tkzzIZ)
-- 2025/06/17 - [【公告】愛派司上市掛牌首五個營業日穩定價格操作結果 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%2584%259B%25E6%25B4%25BE%25E5%258F%25B8%25E4%25B8%258A%25E5%25B8%2582%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-080225946.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw11hsbjL-VxubiA1PhEEd2Q)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
