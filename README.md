@@ -2,7 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/06/10 - [意騰-KY公開申購啟動，聚焦AI語音應用- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Db95153f3-8a5b-4bfb-bdb4-42cf636124bc&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0goYPMQ4umEaI2nyk2KyY8)
+- 2025/06/18 - [意騰-KY明天330元<b>掛牌</b>Switch 2 筆電助攻今年獲利勝去年 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%2584%258F%25E9%25A8%25B0-ky%25E5%25BC%25B7%25E6%2594%25BBai%25E8%25AA%259E%25E9%259F%25B3%25E7%25B5%2582%25E7%25AB%25AF-switch-2-%25E6%2589%258B%25E6%25A9%259F%25E7%25AD%2586%25E9%259B%25BB%25E5%258A%25A9%25E6%2594%25BB%25E4%25BB%258A%25E5%25B9%25B4%25E7%258D%25B2%25E5%2588%25A9%25E5%258B%259D%25E5%258E%25BB%25E5%25B9%25B4-041626702.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3mshsFHy5pKYdyUkObMPT1)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
