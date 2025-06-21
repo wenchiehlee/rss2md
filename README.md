@@ -13,7 +13,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/06/18 - [嘉實:公告本公司董事會重大決議事項 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6026170&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw188VWEYEekYNt2VgMbBgLX)
+- 2025/06/20 - [【公告】熙特爾-創創新板上市掛牌首五個營業日穩定價格操作結果 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E7%2586%2599%25E7%2589%25B9%25E7%2588%25BE-%25E5%2589%25B5%25E5%2589%25B5%25E6%2596%25B0%25E6%259D%25BF%25E4%25B8%258A%25E5%25B8%2582%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-084715640.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1f03LDfaiYUCelxx4YPNBg)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
