@@ -13,6 +13,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/06/24 - [意騰-KY 公告本公司上市掛牌首五個營業日穩定價格操作結果 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/qojJNB9&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2zPjQGKBaky4E08WcQavqL)
 - 2025/06/23 - [意騰-KY 公告本公司上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3De52af9c9-a7da-4d06-b158-f48e634a164f&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw11-ihPZKd8P6V8ZG9dZ7aa)
 <!-- _feedinvestment2_ end -->
 
