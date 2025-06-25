@@ -2,7 +2,9 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/06/18 - [意騰-KY明天330元<b>掛牌</b>Switch 2 筆電助攻今年獲利勝去年 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%2584%258F%25E9%25A8%25B0-ky%25E5%25BC%25B7%25E6%2594%25BBai%25E8%25AA%259E%25E9%259F%25B3%25E7%25B5%2582%25E7%25AB%25AF-switch-2-%25E6%2589%258B%25E6%25A9%259F%25E7%25AD%2586%25E9%259B%25BB%25E5%258A%25A9%25E6%2594%25BB%25E4%25BB%258A%25E5%25B9%25B4%25E7%258D%25B2%25E5%2588%25A9%25E5%258B%259D%25E5%258E%25BB%25E5%25B9%25B4-041626702.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3mshsFHy5pKYdyUkObMPT1)
+- 2025/06/25 - [昕奇雲端暫定7/11<b>掛牌</b>上櫃承銷價96元 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6037284&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1lbycNKqUVd41B2g0YIepD)
+- 2025/06/25 - [昕奇明起<b>競拍競拍</b>底價82.76元 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%2598%2595%25E5%25A5%2587%25E6%2598%258E%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B982-76%25E5%2585%2583-005042662.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0J6JTZ4AQh0WRoxX8UL6k9)
+- 2025/06/25 - [昕奇雲端暫定7/11<b>掛牌</b>上櫃承銷價96元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2598%2595%25E5%25A5%2587%25E9%259B%25B2%25E7%25AB%25AF%25E6%259A%25AB%25E5%25AE%259A7-11%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B996%25E5%2585%2583-030340459.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2gTSFFuTHQ6y7Ozc9Xtf9K)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
