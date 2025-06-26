@@ -10,7 +10,12 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/06/12 - [意騰-KY強攻AI語音終端Switch 2 手機筆電助攻今年獲利勝去年](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%2584%258F%25E9%25A8%25B0-ky%25E5%25BC%25B7%25E6%2594%25BBai%25E8%25AA%259E%25E9%259F%25B3%25E7%25B5%2582%25E7%25AB%25AF-switch-2-%25E6%2589%258B%25E6%25A9%259F%25E7%25AD%2586%25E9%259B%25BB%25E5%258A%25A9%25E6%2594%25BB%25E4%25BB%258A%25E5%25B9%25B4%25E7%258D%25B2%25E5%2588%25A9%25E5%258B%259D%25E5%258E%25BB%25E5%25B9%25B4-041626702.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3mshsFHy5pKYdyUkObMPT1)
+- 2025/06/26 - [昕奇雲端今起每股底價82.76元<b>競拍</b>，7/11以每股96元<b>掛牌</b>上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2598%2595%25E5%25A5%2587%25E9%259B%25B2%25E7%25AB%25AF%25E4%25BB%258A%25E8%25B5%25B7%25E6%25AF%258F%25E8%2582%25A1%25E5%25BA%2595%25E5%2583%25B982-76%25E5%2585%2583%25E7%25AB%25B6%25E6%258B%258D-7-11%25E4%25BB%25A5%25E6%25AF%258F%25E8%2582%25A196%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-230239229.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw09_TpltE5TIoLXWUnolJPc)
+- 2025/06/26 - [紅包又一檔！昕奇雲端轉上櫃26日起<b>競拍</b>、底價82.76元 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/8829660&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0eQybHxz_2ucQ7A2BcOwNw)
+- 2025/06/26 - [昕奇雲端暫定7/11<b>掛牌</b>上櫃承銷價96元 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6037284&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1lbycNKqUVd41B2g0YIepD)
+- 2025/06/26 - [昕奇明起<b>競拍競拍</b>底價82.76元 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%2598%2595%25E5%25A5%2587%25E6%2598%258E%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B982-76%25E5%2585%2583-005042662.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0J6JTZ4AQh0WRoxX8UL6k9)
+- 2025/06/25 - [昕奇雲端明起<b>競拍</b>，暫定承銷價96元- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7306fc86-4e57-4e84-b131-e44affb08190&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1wmPPZBJ085Zin0Ls44CP2)
+- 2025/06/25 - [昕奇雲端明起<b>競拍</b>，暫定承銷價96元- 台視財經](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/default.asp%3Fi%3D0620252509528F90CAA7105149C2A2ACB48678F36A08A9BA%26from%3D587&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1I7VUwhW3QB6yImvmCJBcX)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
