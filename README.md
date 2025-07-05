@@ -15,7 +15,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/06/24 - [意騰-KY 公告本公司上市掛牌首五個營業日穩定價格操作結果 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/qojJNB9&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2zPjQGKBaky4E08WcQavqL)
+- 2025/07/05 - [世鎧：公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/id/2917715&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2JSpwwe9LrA8Pr1ksBZUWv)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
