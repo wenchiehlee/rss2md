@@ -15,8 +15,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/07/08 - [昕奇雲端初上櫃<b>過額配售</b>100張，佔公開承銷數量比例3.10% - 新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3Db05edd34-3171-4394-96bb-13cb66e97313&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2MQCrsMt8_6YajKzrudu6T)
-- 2025/07/08 - [【公告】昕奇雲端辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%2598%2595%25E5%25A5%2587%25E9%259B%25B2%25E7%25AB%25AF%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-073300213.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1BSSCMsfLM9csCgF9BNvlv)
+- 2025/07/09 - [昕奇雲端初上櫃<b>過額配售</b>100張，佔公開承銷數量比例3.10% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/aGL872G&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw00p0L3U4lZsG7SZ5xCSv1q)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
