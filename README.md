@@ -15,6 +15,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/07/10 - [昕奇雲端明每股96元上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2598%2595%25E5%25A5%2587%25E9%259B%25B2%25E7%25AB%25AF-%25E6%2598%258E%25E6%25AF%258F%25E8%2582%25A196%25E5%2585%2583%25E4%25B8%258A%25E6%25AB%2583-201000825.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw38zqmGxWh-Ud6-D7x2rXbJ)
 - 2025/07/09 - [昕奇雲端初上櫃<b>過額配售</b>100張，佔公開承銷數量比例3.10% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/aGL872G&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw00p0L3U4lZsG7SZ5xCSv1q)
 <!-- _feedinvestment2_ end -->
 
