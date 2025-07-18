@@ -8,7 +8,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/07/14 - [【MoneyDJ新股巡禮】ICT廠微程式搶進半導體營運成長添動能 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/video/moneydj%25E6%2596%25B0%25E8%2582%25A1%25E5%25B7%25A1%25E7%25A6%25AE-ict%25E5%25BB%25A0%25E5%25BE%25AE%25E7%25A8%258B%25E5%25BC%258F%25E6%2590%25B6%25E9%2580%25B2%25E5%258D%258A%25E5%25B0%258E%25E9%25AB%2594-%25E7%2587%259F%25E9%2581%258B%25E6%2588%2590%25E9%2595%25B7%25E6%25B7%25BB%25E5%258B%2595%25E8%2583%25BD-082434717.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0B6PuNIOQE7r45YPb0S-3W)
+- 2025/07/19 - [富邦證券輔導微程式資訊完成<b>競拍</b>承銷價53元| 股市要聞 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/8881655&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1v23ZUhoYRJ_hW7bN9I56P)
+- 2025/07/19 - [富邦證券輔導微程式完成<b>競拍</b>，承銷價53元，7/29<b>掛牌</b>上市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AF%258C%25E9%2582%25A6%25E8%25AD%2589%25E5%2588%25B8%25E8%25BC%2594%25E5%25B0%258E%25E5%25BE%25AE%25E7%25A8%258B%25E5%25BC%258F%25E5%25AE%258C%25E6%2588%2590%25E7%25AB%25B6%25E6%258B%258D-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B953%25E5%2585%2583-7-29%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-035029290.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0qEdE4y51kHThf4NidJGwH)
+- 2025/07/18 - [富邦證券輔導微程式資訊完成<b>競拍</b>承銷價53元｜中央社財經訊息平台](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/407460&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw29NnBBknnjUQX1RrQpkkEA)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
