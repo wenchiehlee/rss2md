@@ -17,6 +17,7 @@
 <!-- _feedinvestment2_ start -->
 - 2025/07/18 - [《數雲端》尚凡*配合子公司大研生醫申請上市降低持股](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20250718900376-420101&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0M7O1tWds9Up6mNq8J1L0G)
 - 2025/07/18 - [尚凡*:公告本公司董事會通過配合子公司大研生醫國際股份有限公司申請上市需要，於其委託 ...](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6069732&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3sV0o8VUR2yR_DzaYFwE8Y)
+- 2025/07/18 - [尚凡*：配合大研生醫申請上市，於其公開承銷股數15%內提供老股辦理<b>過額配售</b> - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/3NlX0Qk&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0TJc850YBhcdL63nbGjT4J)
 - 2025/07/18 - [尚凡* 公告本公司董事會決議通過內部稽核主管異動案| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/vXVJJMm&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3hS1IMyPXdVc3p4ouR2XGv)
 - 2025/07/18 - [尚凡*：配合大研生醫申請上市，於其公開承銷股數15%內提供老股辦理<b>過額配售</b>](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D8fdcf8cc-c0e7-40df-9825-096ff70c1419&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2geVkfxnfQPt9hz1Lp-Ycb)
 - 2025/07/18 - [毅嘉8/7參加兆豐證券舉辦之法說會 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3D9cc8afc9-66d0-4c43-a4ef-8d8e0f574de3%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw39h56xMleCjO1Ie38fmp4k)
