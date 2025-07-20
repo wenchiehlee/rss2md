@@ -15,6 +15,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/07/20 - [尚凡*:公告本公司董事會通過配合子公司大研生醫國際股份有限公司申請上市需要 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/print/6069732&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1J_v-12hX4DamYH40AHJJH)
 - 2025/07/18 - [尚凡*：配合大研生醫申請上市，於其公開承銷股數15%內提供老股辦理<b>過額配售</b> - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v2/article/3NlX0Qk&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0TJc850YBhcdL63nbGjT4J)
 <!-- _feedinvestment2_ end -->
 
