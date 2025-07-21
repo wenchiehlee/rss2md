@@ -13,7 +13,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/07/20 - [尚凡*:公告本公司董事會通過配合子公司大研生醫國際股份有限公司申請上市需要 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/print/6069732&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1J_v-12hX4DamYH40AHJJH)
+- 2025/07/21 - [【公告】昕奇雲端初次上櫃掛牌首五個營業日穩定價格操作結果 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%2598%2595%25E5%25A5%2587%25E9%259B%25B2%25E7%25AB%25AF%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-073213055.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ZL9GbXTYo521v84Hi3e_W)
+- 2025/07/21 - [昕奇雲端初次上櫃首5日穩定價格操作結果：0股- 新聞 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df603bfd8-0390-422d-bbd6-b8a8aa6c5bbe&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1sDg_-XZg-BG09MMdTqMOd)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
