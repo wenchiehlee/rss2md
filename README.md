@@ -8,6 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/07/22 - [記憶體模組新兵凌航今<b>競拍</b>預計8/6以每股28元上市 - 知新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/D622243346AA4CDC0D1C04454D7FDF7D&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1kZs4vfY0_aez56yV_dCL2)
 - 2025/07/22 - [抽中最高賺9.45萬！3檔<b>抽籤</b>股拼場信紘科今申購最終日](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/3000328&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3MeJ_97WtJAijCnyPiPKEg)
 - 2025/07/22 - [凌航7/21起<b>競拍</b>底價每股22.95元- 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202507/202507212494471.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3UpTqpeOwQYSqQ9IL6rxne)
 - 2025/07/21 - [凌航暫定8/6上市，打入全球前三大水冷系統與全球前五大機箱供應鏈 - 財訊快報](https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlineNews/NewsContent.asp%3FarticleNo%3D14202507210092&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1_cQhGO_uiXs4-F7LT3lYs)
