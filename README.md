@@ -9,13 +9,6 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2025/07/22 - [記憶體模組新兵凌航今<b>競拍</b>預計8/6以每股28元上市 - 知新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/D622243346AA4CDC0D1C04454D7FDF7D&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1kZs4vfY0_aez56yV_dCL2)
-- 2025/07/22 - [抽中最高賺9.45萬！3檔<b>抽籤</b>股拼場信紘科今申購最終日](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/3000328&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3MeJ_97WtJAijCnyPiPKEg)
-- 2025/07/22 - [凌航7/21起<b>競拍</b>底價每股22.95元- 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202507/202507212494471.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3UpTqpeOwQYSqQ9IL6rxne)
-- 2025/07/21 - [凌航暫定8/6上市，打入全球前三大水冷系統與全球前五大機箱供應鏈 - 財訊快報](https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlineNews/NewsContent.asp%3FarticleNo%3D14202507210092&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1_cQhGO_uiXs4-F7LT3lYs)
-- 2025/07/21 - [凌航7/21起<b>競拍</b>底價每股22.95元 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5612/8886377&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1edtdmh3bm-hnjIcE3mM3h)
-- 2025/07/21 - [凌航7/21起<b>競拍</b>底價每股22.95元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2587%258C%25E8%2588%25AA7-21%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E5%25BA%2595%25E5%2583%25B9%25E6%25AF%258F%25E8%2582%25A122-95%25E5%2585%2583-055218489.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2zht8ypvqEmPFVZmOfObGy)
-- 2025/07/21 - [凌航7月21日起<b>競拍</b>底價每股22.95元| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7240/8886377%3Ffrom%3Dudn-ch1_breaknews-1-cate6-news&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2frJIPFtJw06Nv3bpJWNax)
-- 2025/07/21 - [記憶體模組廠凌航明起<b>競拍</b>預計8/6<b>掛牌</b>上市 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%25A8%2598%25E6%2586%25B6%25E9%25AB%2594%25E6%25A8%25A1%25E7%25B5%2584%25E5%25BB%25A0%25E5%2587%258C%25E8%2588%25AA%25E6%2598%258E%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E9%25A0%2590%25E8%25A8%25888-6%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-052142082.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Mtx0_qAQISx65Z3gAXWY6)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
