@@ -15,7 +15,10 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/07/22 - [記憶體模組新兵凌航今<b>競拍</b>預計8/6以每股28元上市 - 知新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/D622243346AA4CDC0D1C04454D7FDF7D&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1kZs4vfY0_aez56yV_dCL2)
+- 2025/07/24 - [微程式資訊7/29 以53 元<b>掛牌</b>上市！攜手德鑫大聯盟強攻半導體感測市場 - 財經新報](https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2025/07/23/dexin-alliance/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1r1JBc8Vtf9Pesoxnk2jZe)
+- 2025/07/24 - [微程式<b>競拍</b>均價69.58元，7/29以每股53元<b>掛牌</b>上市 - 奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25BE%25AE%25E7%25A8%258B%25E5%25BC%258F%25E7%25AB%25B6%25E6%258B%258D%25E5%259D%2587%25E5%2583%25B969-58%25E5%2585%2583-7-29%25E4%25BB%25A5%25E6%25AF%258F%25E8%2582%25A153%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-074407918.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0pqqxlCBhHilvUA5xDzQzT)
+- 2025/07/24 - [微程式29日<b>掛牌</b>上市攜手德鑫大聯盟強攻半導體感測 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8891942&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1kPlmyVO-MezZl0zDkx0L8)
+- 2025/07/23 - [微程式今完成申購<b>抽籤</b>7月29日正式<b>掛牌</b>上市 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5118290&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3UzY8o6KpzRSCvVsiLBaf3)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
