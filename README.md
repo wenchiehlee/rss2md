@@ -23,7 +23,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/07/25 - [微程式初上巿<b>過額配售</b>100張，佔公開承銷數量2.21% - 新聞 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D6cce1033-7330-4113-8181-075f88892039&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2zLbiym6yhBdt0695x3_Dk)
+- 2025/07/29 - [數位雲端新兵微程式今掛牌 - 奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2595%25B8%25E4%25BD%258D%25E9%259B%25B2%25E7%25AB%25AF%25E6%2596%25B0%25E5%2585%25B5-%25E5%25BE%25AE%25E7%25A8%258B%25E5%25BC%258F%25E4%25BB%258A%25E6%258E%259B%25E7%2589%258C-201000093.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1nEDBEdXbJCSxbC16oVBzB)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
