@@ -23,7 +23,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/07/29 - [數位雲端新兵微程式今掛牌 - 奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2595%25B8%25E4%25BD%258D%25E9%259B%25B2%25E7%25AB%25AF%25E6%2596%25B0%25E5%2585%25B5-%25E5%25BE%25AE%25E7%25A8%258B%25E5%25BC%258F%25E4%25BB%258A%25E6%258E%259B%25E7%2589%258C-201000093.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1nEDBEdXbJCSxbC16oVBzB)
+- 2025/07/31 - [7/30興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WBj9NGR&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1M0T4DIvXypkE0OlnvmRlO)
+- 2025/07/31 - [7/30興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D992e0544-a734-4a8c-93b6-3aa9e3db0c1b&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0txrlT-D_uU5MiuX3pkroD)
+- 2025/07/31 - [興櫃申報轉讓：07月30日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2239941002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ETTyZb26d1Q--y6kuhDE0)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
