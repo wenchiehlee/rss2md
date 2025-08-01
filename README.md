@@ -23,9 +23,10 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/07/31 - [7/30興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WBj9NGR&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1M0T4DIvXypkE0OlnvmRlO)
-- 2025/07/31 - [7/30興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D992e0544-a734-4a8c-93b6-3aa9e3db0c1b&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0txrlT-D_uU5MiuX3pkroD)
-- 2025/07/31 - [興櫃申報轉讓：07月30日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2239941002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ETTyZb26d1Q--y6kuhDE0)
+- 2025/08/01 - [廣明公告本公司董事會決議114年上半年度現金股利發放情形報告| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/zN1REJP&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Evf05DcOoOhsK_n3MRRlR)
+- 2025/08/01 - [廣明訂8/18為上半年股息除息交易日，現金股利發放日9/11 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/RBXxpgW&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1tIUPvPcGlyZOS-1JFTpT8)
+- 2025/08/01 - [廣明:公告本公司董事會決議配合子公司達明機器人(股)公司上市<b>過額配售</b>作業 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6086908&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw12upidycexu75F8mMpAZ1P)
+- 2025/08/01 - [廣明：為配合子公司達明申請上市，公司提撥不高於100萬股供主辦承銷商辦理<b>過額配售</b>](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/news/newsviewer.aspx%3Fa%3D32938ae7-b850-4f30-9767-460222dcf26c&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw34ZP8MSimF71bvI83TugEY)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
