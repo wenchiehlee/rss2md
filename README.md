@@ -23,10 +23,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/08/01 - [廣明公告本公司董事會決議114年上半年度現金股利發放情形報告| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/zN1REJP&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Evf05DcOoOhsK_n3MRRlR)
-- 2025/08/01 - [廣明訂8/18為上半年股息除息交易日，現金股利發放日9/11 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/RBXxpgW&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1tIUPvPcGlyZOS-1JFTpT8)
-- 2025/08/01 - [廣明:公告本公司董事會決議配合子公司達明機器人(股)公司上市<b>過額配售</b>作業 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6086908&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw12upidycexu75F8mMpAZ1P)
-- 2025/08/01 - [廣明：為配合子公司達明申請上市，公司提撥不高於100萬股供主辦承銷商辦理<b>過額配售</b>](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/news/newsviewer.aspx%3Fa%3D32938ae7-b850-4f30-9767-460222dcf26c&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw34ZP8MSimF71bvI83TugEY)
+- 2025/08/03 - [廣明公告本公司董事會決議配合子公司達明機器人(股)公司上市<b>過額配售</b>作業| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/DRPxnDm&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1SvcqFGhrBnJ7r_JR13SUX)
+- 2025/08/02 - [廣明公告本公司董事會決議114年上半年度現金股利分配之配息基準日| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Nvkx8DZ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Fi1EbWMMTbvFjjFkTXzK7)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
