@@ -23,6 +23,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/08/03 - [廣明公告本公司董事會決議設置提名委員會、永續發展委員會、風險管理委員會 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/gzYmOlZ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3NbSqMo8a7ex3KU7sE6lcp)
 - 2025/08/03 - [廣明公告本公司董事會決議配合子公司達明機器人(股)公司上市<b>過額配售</b>作業| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/DRPxnDm&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1SvcqFGhrBnJ7r_JR13SUX)
 - 2025/08/02 - [廣明公告本公司董事會決議114年上半年度現金股利分配之配息基準日| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Nvkx8DZ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Fi1EbWMMTbvFjjFkTXzK7)
 <!-- _feedinvestment2_ end -->
