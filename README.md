@@ -2,14 +2,8 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/07/23 - [富邦證券輔導微程式完成<b>競拍</b>，承銷價53元，7/29<b>掛牌</b>上市 - 奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AF%258C%25E9%2582%25A6%25E8%25AD%2589%25E5%2588%25B8%25E8%25BC%2594%25E5%25B0%258E%25E5%25BE%25AE%25E7%25A8%258B%25E5%25BC%258F%25E5%25AE%258C%25E6%2588%2590%25E7%25AB%25B6%25E6%258B%258D-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B953%25E5%2585%2583-7-29%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-035029290.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0qEdE4y51kHThf4NidJGwH)
-- 2025/07/23 - [抽中最高賺9.45萬！3檔<b>抽籤</b>股拼場信紘科今申購最終日](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/3000328&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3MeJ_97WtJAijCnyPiPKEg)
-- 2025/07/23 - [微程式今完成申購<b>抽籤</b>7月29日正式<b>掛牌</b>上市 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5118290&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3UzY8o6KpzRSCvVsiLBaf3)
-- 2025/07/23 - [記憶體模組廠凌航明起<b>競拍</b>預計8/6<b>掛牌</b>上市 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6071416&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1BIBUiskseLCYd8dxLSq08)
-- 2025/07/22 - [凌航7/21起<b>競拍</b>底價每股22.95元- 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202507/202507212494471.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3UpTqpeOwQYSqQ9IL6rxne)
-- 2025/07/22 - [記憶體模組廠凌航明起<b>競拍</b>預計8/6<b>掛牌</b>上市](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/687dd05a8ff59b56a66b0377&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3OHiDIvQ8oyyob9m0OyVvX)
-- 2025/07/22 - [準上市：凌航暫定8/6上市，打入全球前三大水冷系統與全球前五大機箱供應鏈](https://www.google.com/url?rct=j&sa=t&url=https://fnc.ebc.net.tw/fncnews/else/194264&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0wZaLmKhB8esyZoCOAQMih)
-- 2025/07/18 - [微程式資訊今完成<b>競拍</b>預計7/29<b>掛牌</b>上市- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dbf9ae4dc-7163-408d-8b60-d10c270dafbd&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Tp4xRPtPibTVQCMZ2rId4)
+- 2025/08/05 - [友霖預計8/21上櫃<b>掛牌</b>；新藥布局進入收成期 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D86edaaa2-d985-42b0-a858-70ebf376c1d6&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2-9ffXCy_eD9oYpKy6R11i)
+- 2025/08/05 - [友霖8月21日<b>掛牌</b>承銷價28元| 櫃買動態| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8917319&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ydOK9cST4IJKWb2q4sIsZ)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
