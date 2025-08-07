@@ -9,15 +9,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/08/05 - [友霖生技擬8/21<b>掛牌</b>上市暫定承銷價28元- 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202508/202508042498792.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw32BWK8b_C_XzG9DMedJapf)
-- 2025/08/05 - [友霖預計8/21上櫃<b>掛牌</b>；新藥布局進入收成期](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D86edaaa2-d985-42b0-a858-70ebf376c1d6&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2-9ffXCy_eD9oYpKy6R11i)
-- 2025/08/05 - [《興櫃股》友霖暫定承銷價28元8月21日上櫃](https://www.google.com/url?rct=j&sa=t&url=https://turnnewsapp.com/livenews/finance/20250804003302-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1RXcbzbGgBvIrhs8f0aguj)
-- 2025/08/05 - [友霖生技擬8/21<b>掛牌</b>上市暫定承銷價28元| 證券| 中央社CNA](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202508040187.aspx&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw150aNz4vp9MlZwEKuVx4QP)
-- 2025/08/05 - [友霖8／21上櫃<b>掛牌</b>承銷價28元- 證券- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250804701237-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3F6BgFnVTFNsPJiXwLt-1m)
-- 2025/08/05 - [友霖8月21日<b>掛牌</b>承銷價28元| 櫃買動態| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8917319&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ydOK9cST4IJKWb2q4sIsZ)
-- 2025/08/04 - [友霖8／21上櫃<b>掛牌</b>承銷價28元- 上市櫃 - 旺得富理財網](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20250804900568-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1UcrR_d39odaU0TBygM6F3)
-- 2025/08/04 - [友霖生技擬8/21<b>掛牌</b>上市暫定承銷價28元 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/8916937&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2ZdkyPp3hy23VxoUSZrpFu)
-- 2025/08/04 - [生技股添新兵友霖暫定承銷價28元、8月21日上櫃 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/id/6089488&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3jXhFAvpM1GQBfW4YHFq9N)
+- 2025/08/07 - [友霖生技擬8/21<b>掛牌</b>上市暫定承銷價28元 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E5%258F%258B%25E9%259C%2596%25E7%2594%259F%25E6%258A%2580%25E6%2593%25AC821%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-%25E6%259A%25AB%25E5%25AE%259A%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B928%25E5%2585%2583/ar-AA1JRwgk&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0dV7sWKTuvVHsw4T2NE-ki)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
