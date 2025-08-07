@@ -9,6 +9,11 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/08/08 - [搶先進封裝商機！竑騰科技<b>競拍</b>底價288元預計8/26興櫃<b>掛牌</b> - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://tw.nextapple.com/finance/20250807/57E8883956C7B630488A0C471746BF66&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3mZVnIXp_olpaL_HsMB3gG)
+- 2025/08/08 - [竑騰科暫定8/26<b>掛牌競拍</b>底價288元 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%25AB%2591%25E9%25A8%25B0%25E7%25A7%2591%25E6%259A%25AB%25E5%25AE%259A8-26%25E6%258E%259B%25E7%2589%258C-%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B9288%25E5%2585%2583-115421251.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ycVwaou8SKxKmi8xg6R3h)
+- 2025/08/08 - [竑騰8月26日上櫃承銷價360元 - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20250808%26CSeqNO%3DE8924928&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3EvJ1iTL-KGXQjy8Ms7XkP)
+- 2025/08/07 - [竑騰搭上AI高階晶片散熱封裝列車8月26日以360元<b>掛牌</b>交易 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5612/8924917%3Ffrom%3Dedn_newestlist_rank&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Ctap-qJO4qWflLh6TgtTx)
+- 2025/08/07 - [竑騰擬8月26日上櫃<b>掛牌</b>公開申購價360元價差21% | 集中市場 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5710/8924372&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2R9wGUcoBY4xE5BDRn4-Yn)
 - 2025/08/07 - [友霖生技擬8/21<b>掛牌</b>上市暫定承銷價28元 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E5%258F%258B%25E9%259C%2596%25E7%2594%259F%25E6%258A%2580%25E6%2593%25AC821%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-%25E6%259A%25AB%25E5%25AE%259A%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B928%25E5%2585%2583/ar-AA1JRwgk&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0dV7sWKTuvVHsw4T2NE-ki)
 <!-- _feedinvestment1_1_ end -->
 
