@@ -18,10 +18,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/08/08 - [星亞公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/j7g7GqL&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3YDc3bbjdIhXImnhDgX-in)
 - 2025/08/08 - [星亞初上櫃前現增案股款約1.49億元已全數收足，基準日8/7 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oq7qgXo&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw38f4Hp3hyQz7cBNsWus3Vr)
 - 2025/08/08 - [星亞初上櫃<b>過額配售</b>100張，佔公開承銷股數4.06% - 新聞 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dbe882c58-602f-4efd-aade-b7c86829846e&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ozqzrEk-cetG5IvwrXf0m)
-- 2025/08/08 - [星亞公告本公司辦理股票初次上櫃前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/nXyXXkL&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2zMW3HgtRgDwbuicDiRF71)
-- 2025/08/08 - [星亞公告本公司辦理股票初次上櫃<b>過額配售</b>內容- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3De6e74bae-380d-48d1-9830-b78e469d8725&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0nX2MBy3ryGgp9snGRS4dU)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
