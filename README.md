@@ -9,18 +9,13 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/08/08 - [搶先進封裝商機！竑騰科技<b>競拍</b>底價288元預計8/26興櫃<b>掛牌</b> - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://tw.nextapple.com/finance/20250807/57E8883956C7B630488A0C471746BF66&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3mZVnIXp_olpaL_HsMB3gG)
-- 2025/08/08 - [竑騰科暫定8/26<b>掛牌競拍</b>底價288元 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%25AB%2591%25E9%25A8%25B0%25E7%25A7%2591%25E6%259A%25AB%25E5%25AE%259A8-26%25E6%258E%259B%25E7%2589%258C-%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B9288%25E5%2585%2583-115421251.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ycVwaou8SKxKmi8xg6R3h)
-- 2025/08/08 - [竑騰8月26日上櫃承銷價360元 - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20250808%26CSeqNO%3DE8924928&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3EvJ1iTL-KGXQjy8Ms7XkP)
-- 2025/08/07 - [竑騰搭上AI高階晶片散熱封裝列車8月26日以360元<b>掛牌</b>交易 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5612/8924917%3Ffrom%3Dedn_newestlist_rank&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Ctap-qJO4qWflLh6TgtTx)
-- 2025/08/07 - [竑騰擬8月26日上櫃<b>掛牌</b>公開申購價360元價差21% | 集中市場 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5710/8924372&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2R9wGUcoBY4xE5BDRn4-Yn)
+- 2025/08/09 - [《興櫃股》竑騰前7月營收年增逾4成樂觀看待H2 - 奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E7%25AB%2591%25E9%25A8%25B0%25E5%2589%258D7%25E6%259C%2588%25E7%2587%259F%25E6%2594%25B6%25E5%25B9%25B4%25E5%25A2%259E%25E9%2580%25BE4%25E6%2588%2590-%25E6%25A8%2582%25E8%25A7%2580%25E7%259C%258B%25E5%25BE%2585h2-003920685.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0G1PI2foFdWgZjIhBbAxLh)
+- 2025/08/09 - [竑騰8/11-8/13<b>競拍</b>8/26股票上櫃 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%25AB%2591%25E9%25A8%25B08-11-8-13%25E7%25AB%25B6%25E6%258B%258D-8-214903183.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2TAa9LvByB0VHrPyCJDY22)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2025/08/08 - [星亞公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/j7g7GqL&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3YDc3bbjdIhXImnhDgX-in)
-- 2025/08/08 - [星亞初上櫃前現增案股款約1.49億元已全數收足，基準日8/7 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oq7qgXo&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw38f4Hp3hyQz7cBNsWus3Vr)
-- 2025/08/08 - [星亞初上櫃<b>過額配售</b>100張，佔公開承銷股數4.06% - 新聞 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dbe882c58-602f-4efd-aade-b7c86829846e&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ozqzrEk-cetG5IvwrXf0m)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
