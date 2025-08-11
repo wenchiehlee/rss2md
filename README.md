@@ -9,8 +9,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/08/09 - [《興櫃股》竑騰前7月營收年增逾4成樂觀看待H2 - 奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E7%25AB%2591%25E9%25A8%25B0%25E5%2589%258D7%25E6%259C%2588%25E7%2587%259F%25E6%2594%25B6%25E5%25B9%25B4%25E5%25A2%259E%25E9%2580%25BE4%25E6%2588%2590-%25E6%25A8%2582%25E8%25A7%2580%25E7%259C%258B%25E5%25BE%2585h2-003920685.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0G1PI2foFdWgZjIhBbAxLh)
-- 2025/08/09 - [竑騰8/11-8/13<b>競拍</b>8/26股票上櫃 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%25AB%2591%25E9%25A8%25B08-11-8-13%25E7%25AB%25B6%25E6%258B%258D-8-214903183.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2TAa9LvByB0VHrPyCJDY22)
+- 2025/08/11 - [先進封裝設備新兵竑騰今起<b>競拍</b>暫定8/26以每股360元<b>掛牌</b>上櫃 - 知新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/EE9F8B4588CA5FE63311A8188DE856C7&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw019BPZUUt2K3RSxEH709E7)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
