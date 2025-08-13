@@ -14,7 +14,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/08/08 - [星亞公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/j7g7GqL&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3YDc3bbjdIhXImnhDgX-in)
+- 2025/08/13 - [凌航:公告本公司上市掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6108925&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1tWM0LaZ_JfLhUBWhDTLnv)
+- 2025/08/13 - [凌航公告本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/news/newsviewer.aspx%3Fa%3Ddbdf4ed7-db1a-4910-8d48-f33f5d906ac6&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0haP8_AvAe8yU66qSfHFRv)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
