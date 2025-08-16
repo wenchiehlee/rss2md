@@ -16,10 +16,6 @@
 <!-- _feedinvestment2_ start -->
 - 2025/08/16 - [晟田公告修正本公司113年度年報部分內容| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/1Drg2g3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw36Q4NnIyQmXYdtPVijjpRT)
 - 2025/08/15 - [友霖(4166)初次上櫃<b>過額配售</b>100張，佔公開承銷數量比例0.59%](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D79724&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3kk2fIen63h7sxT9EiPpqj)
-- 2025/08/15 - [【公告】友霖辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%258F%258B%25E9%259C%2596%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-070651512.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw06yAautA4j_R42je4ddFXy)
-- 2025/08/15 - [友霖初次上櫃<b>過額配售</b>100張，佔公開承銷數量比例0.59%](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7ee7b780-188b-401f-8d9b-a7794286a841&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw26h0QsYv9KzQjK7diwtctW)
-- 2025/08/15 - [友霖:公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6112765&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Ab0xDeL3WYDSUCeI2Eka6)
-- 2025/08/15 - [公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 非凡新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.ustv.com.tw/companynews/159998&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2iZVgPhZlbeIo4L_T-eKGN)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
