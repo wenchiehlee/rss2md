@@ -14,8 +14,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/08/16 - [晟田公告修正本公司113年度年報部分內容| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/1Drg2g3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw36Q4NnIyQmXYdtPVijjpRT)
-- 2025/08/15 - [友霖(4166)初次上櫃<b>過額配售</b>100張，佔公開承銷數量比例0.59%](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D79724&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3kk2fIen63h7sxT9EiPpqj)
+- 2025/08/18 - [友霖公告本公司股票初次上櫃前現金增資員工認購股款催繳事宜 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/gzrMGaz&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0te3t3GPaUJ9c4xKXLpF38)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
