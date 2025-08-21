@@ -8,6 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/08/22 - [大研生醫暫訂承銷價158 元！8/25 啟動股票<b>競拍</b>、9/9 <b>掛牌</b>上市 - 財經新報](https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2025/08/21/three-highs/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3UyMefxpjZsXlqb0tsXZXo)
 - 2025/08/21 - [智慧聯網需求攀升！達運光電預計12月中上市持續擴展全球智慧場域 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E6%2599%25BA%25E6%2585%25A7%25E8%2581%25AF%25E7%25B6%25B2%25E9%259C%2580%25E6%25B1%2582%25E6%2594%2580%25E5%258D%2587-%25E9%2581%2594%25E9%2581%258B%25E5%2585%2589%25E9%259B%25BB%25E9%25A0%2590%25E8%25A8%258812%25E6%259C%2588%25E4%25B8%25AD%25E4%25B8%258A%25E5%25B8%2582-%25E6%258C%2581%25E7%25BA%258C%25E6%2593%25B4%25E5%25B1%2595%25E5%2585%25A8%25E7%2590%2583%25E6%2599%25BA%25E6%2585%25A7%25E5%25A0%25B4%25E5%259F%259F/ar-AA1ul4J1%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw052VPcDd0T5geg0a6l9RQs)
 <!-- _feedinvestment1_1_ end -->
 
