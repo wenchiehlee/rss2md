@@ -13,6 +13,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/08/23 - [廣明公告本公司董事會決議配合子公司達明機器人(股)公司上市<b>過額配售</b>作業](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/DRPxnDm&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3RkUaf_l8qw0JxdaILs8q1)
 - 2025/08/22 - [竑騰公告本公司辦理股票初次上櫃<b>過額配售</b>內容| 討論牆 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/x23Ovpj&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1o1hGkmZnGfL9GMCbyuHnl)
 - 2025/08/22 - [竑騰公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3D6da730e7-8deb-4956-b9fd-bdc137e0a055&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2neQnt8cHRXN-HajubGrFZ)
 - 2025/08/22 - [竑騰公告本公司辦理股票初次上櫃前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/kENOZa2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1dDLr4IsBnjBYv3OvhLbrr)
