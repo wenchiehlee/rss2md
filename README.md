@@ -8,7 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/08/22 - [大研生醫暫訂承銷價158 元！8/25 啟動股票<b>競拍</b>、9/9 <b>掛牌</b>上市 - 財經新報](https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2025/08/21/three-highs/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3UyMefxpjZsXlqb0tsXZXo)
+- 2025/08/23 - [抽中最高有望賺逾16萬元！大研生醫等6檔台股紅包<b>抽籤</b>申購中 - Yahoo奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258A%25BD%25E4%25B8%25AD%25E6%259C%2580%25E9%25AB%2598%25E6%259C%2589%25E6%259C%259B%25E8%25B3%25BA%25E9%2580%25BE16%25E8%2590%25AC%25E5%2585%2583%25EF%25BC%2581%25E5%25A4%25A7%25E7%25A0%2594%25E7%2594%259F%25E9%2586%25AB%25E7%25AD%25896%25E6%25AA%2594%25E5%258F%25B0%25E8%2582%25A1%25E7%25B4%2585%25E5%258C%2585%25E6%258A%25BD%25E7%25B1%25A4%25E7%2594%25B3%25E8%25B3%25BC%25E4%25B8%25AD-071427564.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0-oCvk04JXqpxzO6g63m_k)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
