@@ -8,7 +8,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/08/23 - [抽中最高有望賺逾16萬元！大研生醫等6檔台股紅包<b>抽籤</b>申購中 - Yahoo奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258A%25BD%25E4%25B8%25AD%25E6%259C%2580%25E9%25AB%2598%25E6%259C%2589%25E6%259C%259B%25E8%25B3%25BA%25E9%2580%25BE16%25E8%2590%25AC%25E5%2585%2583%25EF%25BC%2581%25E5%25A4%25A7%25E7%25A0%2594%25E7%2594%259F%25E9%2586%25AB%25E7%25AD%25896%25E6%25AA%2594%25E5%258F%25B0%25E8%2582%25A1%25E7%25B4%2585%25E5%258C%2585%25E6%258A%25BD%25E7%25B1%25A4%25E7%2594%25B3%25E8%25B3%25BC%25E4%25B8%25AD-071427564.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0-oCvk04JXqpxzO6g63m_k)
+- 2025/08/26 - [新股紅包抽起來這檔抽中1張賺1張、可望大賺17.2萬元 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/8961830&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2RgroMaPMkHz62C_uUILO5)
+- 2025/08/26 - [新股紅包抽起來這檔抽中1張賺1張、可望大賺17.2萬元 - 經濟日報- 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/8961830&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3pDWOuEW0sjzj9NB41hEOM)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
