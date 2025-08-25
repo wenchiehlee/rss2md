@@ -13,7 +13,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/08/23 - [廣明公告本公司董事會決議配合子公司達明機器人(股)公司上市<b>過額配售</b>作業](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/DRPxnDm&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3RkUaf_l8qw0JxdaILs8q1)
+- 2025/08/24 - [雙鍵初上市<b>過額配售</b>548張，佔公開承銷數量10% | 討論牆| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/R9RBzz&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw22rnkThGUQE76rjnuBLQkn)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
