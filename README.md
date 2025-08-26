@@ -16,6 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/08/27 - [樂意初上櫃<b>過額配售</b>100張，佔公開承銷數量6.07% | 討論牆| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/RBvGz3e&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0TdH0PUlDQM9ILZ33pFxf-)
 - 2025/08/25 - [三商餐飲初上市<b>過額配售</b>200張，佔公開承銷數量3.93% | 討論牆| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/0Mgo8a2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2vFtA7g1bjNCOa8jUC_xyU)
 <!-- _feedinvestment2_ end -->
 
