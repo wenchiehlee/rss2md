@@ -16,6 +16,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/08/27 - [友霖:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6128830&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ZaavhcllP-b1qqZX_SPgh)
+- 2025/08/27 - [友霖初上櫃首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D4230214a-9d65-4ec2-9a43-858a2cda2210&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Jkt6_0kSSKN-ZyfAHRqTH)
 - 2025/08/27 - [樂意初上櫃<b>過額配售</b>100張，佔公開承銷數量6.07% | 討論牆| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/RBvGz3e&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0TdH0PUlDQM9ILZ33pFxf-)
 <!-- _feedinvestment2_ end -->
 
