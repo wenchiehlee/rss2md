@@ -16,7 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/08/28 - [邦睿生技初次創新板上市<b>過額配售</b>：0股| 討論牆 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/x2gVoO1&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw02_8bbINa0rKnBQn2me_rj)
+- 2025/08/29 - [山富初上櫃<b>過額配售</b>240張，佔公開承銷數量7.43% | 討論牆| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/rNnYNw&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0KDWbEHhRnfbIBoofquxdx)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
