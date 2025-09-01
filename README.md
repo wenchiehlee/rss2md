@@ -10,8 +10,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/08/30 - [發錢了！中華資安<b>抽籤</b>太香中籤一張可賺近11萬想參加剩今天 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%2599%25BC%25E9%258C%25A2%25E4%25BA%2586-%25E4%25B8%25AD%25E8%258F%25AF%25E8%25B3%2587%25E5%25AE%2589%25E6%258A%25BD%25E7%25B1%25A4%25E5%25A4%25AA%25E9%25A6%2599-%25E4%25B8%25AD%25E7%25B1%25A4-%25E5%25BC%25B5%25E5%258F%25AF%25E8%25B3%25BA%25E8%25BF%259111%25E8%2590%25AC-%25E6%2583%25B3%25E5%258F%2583%25E5%258A%25A0%25E5%2589%25A9%25E4%25BB%258A%25E5%25A4%25A9-041600781.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3YbWkmLkhjTTEycK1oZeVD)
-- 2025/08/30 - [發錢了！中華資安<b>抽籤</b>太香中籤一張可賺近11萬想參加剩今天 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1712471&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3R_wfQttIQruFvsBjyBttR)
+- 2025/09/01 - [抽中最高有望賺逾30萬元！新代等3檔台股紅包申購中 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258A%25BD%25E4%25B8%25AD%25E6%259C%2580%25E9%25AB%2598%25E6%259C%2589%25E6%259C%259B%25E8%25B3%25BA%25E9%2580%25BE30%25E8%2590%25AC%25E5%2585%2583%25EF%25BC%2581%25E6%2596%25B0%25E4%25BB%25A3%25E7%25AD%25893%25E6%25AA%2594%25E5%258F%25B0%25E8%2582%25A1%25E7%25B4%2585%25E5%258C%2585%25E7%2594%25B3%25E8%25B3%25BC%25E4%25B8%25AD-103320375.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1kXbucGE5upi1wDkke-UO9)
+- 2025/09/01 - [興櫃第三高價股、生技股王禾榮科要上市<b>掛牌</b>了新股抽中有望賺25萬元 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/8976685&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2d09_0O770SVIOOKemU8Pt)
+- 2025/09/01 - [興櫃第三高價股、生技股王禾榮科要上市<b>掛牌</b>了新股抽中有望賺25萬元 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8976685&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3F5M4hw1GevCOwJHoPo_hP)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
