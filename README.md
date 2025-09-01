@@ -17,7 +17,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/08/29 - [山富初上櫃<b>過額配售</b>240張，佔公開承銷數量7.43% | 討論牆| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/rNnYNw&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0KDWbEHhRnfbIBoofquxdx)
+- 2025/09/01 - [友霖公告本公司辦理股票初次上櫃<b>過額配售</b>內容| 討論牆 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/GgzD8k7&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2lWNLMC3Ib4-x-UNMq1Lha)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
