@@ -19,6 +19,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/09/02 - [竑騰初上櫃首5日穩定價格操作結果：0股 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D6f9d4c07-2d75-4e1c-a759-ca7cb2469872&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw06_RAChk_leoS4YHEE8JCG)
 - 2025/09/01 - [友霖公告本公司辦理股票初次上櫃<b>過額配售</b>內容| 討論牆 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/GgzD8k7&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2lWNLMC3Ib4-x-UNMq1Lha)
 <!-- _feedinvestment2_ end -->
 
