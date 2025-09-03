@@ -12,9 +12,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/09/01 - [抽中最高有望賺逾30萬元！新代等3檔台股紅包申購中 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258A%25BD%25E4%25B8%25AD%25E6%259C%2580%25E9%25AB%2598%25E6%259C%2589%25E6%259C%259B%25E8%25B3%25BA%25E9%2580%25BE30%25E8%2590%25AC%25E5%2585%2583%25EF%25BC%2581%25E6%2596%25B0%25E4%25BB%25A3%25E7%25AD%25893%25E6%25AA%2594%25E5%258F%25B0%25E8%2582%25A1%25E7%25B4%2585%25E5%258C%2585%25E7%2594%25B3%25E8%25B3%25BC%25E4%25B8%25AD-103320375.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1kXbucGE5upi1wDkke-UO9)
-- 2025/09/01 - [興櫃第三高價股、生技股王禾榮科要上市<b>掛牌</b>了新股抽中有望賺25萬元 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/8976685&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2d09_0O770SVIOOKemU8Pt)
-- 2025/09/01 - [興櫃第三高價股、生技股王禾榮科要上市<b>掛牌</b>了新股抽中有望賺25萬元 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8976685&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3F5M4hw1GevCOwJHoPo_hP)
+- 2025/09/03 - [興櫃股后新代9月17日<b>掛牌</b>上市想賺31萬的<b>抽籤</b>紅包口袋得先有63萬| 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/8978941&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1mWfVE1ZcooBKbf2NwEQzA)
+- 2025/09/03 - [興櫃第三高價股、生技股王禾榮科要上市<b>掛牌</b>了新股抽中有望賺25萬元| 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/pePaVrp&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2uw_XKdqk8CK9r_jiosXmS)
+- 2025/09/02 - [興櫃股后新代9月17日<b>掛牌</b>上市想賺31萬的<b>抽籤</b>紅包口袋得先有63萬| 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/8978941&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3PCMEEJaQG20e_4sZDVv0W)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
