@@ -24,7 +24,6 @@
 - 2025/09/03 - [攸泰科技初上市<b>過額配售</b>數量：0股| 討論牆| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/EXJlark&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0qD6ATQZIRIkNpzvh1kl2z)
 - 2025/09/03 - [興櫃申報轉讓：09月02日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2255854002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1sRIbgKsnkAMzRjtQzEyli)
 - 2025/09/03 - [9/2興櫃公司持股轉讓明細- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D4d014b05-ba2a-4f62-8b9a-6d900ab59520&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw26Futuv7WAW9Qv4KH4lkhX)
-- 2025/09/02 - [竑騰初上櫃首5日穩定價格操作結果：0股 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D6f9d4c07-2d75-4e1c-a759-ca7cb2469872&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw06_RAChk_leoS4YHEE8JCG)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
