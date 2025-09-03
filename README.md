@@ -12,6 +12,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/09/03 - [禾榮科揪伴攻先進醫療- 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8979659&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1bi_tMyK42BOBtYiSBrNlH)
 - 2025/09/03 - [興櫃股后新代9月17日<b>掛牌</b>上市想賺31萬的<b>抽籤</b>紅包口袋得先有63萬| 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/8978941&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1mWfVE1ZcooBKbf2NwEQzA)
 - 2025/09/03 - [興櫃第三高價股、生技股王禾榮科要上市<b>掛牌</b>了新股抽中有望賺25萬元| 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/pePaVrp&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2uw_XKdqk8CK9r_jiosXmS)
 - 2025/09/02 - [興櫃股后新代9月17日<b>掛牌</b>上市想賺31萬的<b>抽籤</b>紅包口袋得先有63萬| 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/8978941&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3PCMEEJaQG20e_4sZDVv0W)
