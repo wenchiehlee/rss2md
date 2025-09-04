@@ -18,8 +18,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2025/09/03 - [鼎基初次上巿<b>過額配售</b>150張，占公開承銷數量比例2.17% | 討論牆| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/RB9xqeq&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2T_5tx8Hh4yo_WUr7gr3th)
-- 2025/09/03 - [中華資安本公司辦理股票初次上市<b>過額配售</b>內容- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D4727cd89-1bed-4f3d-b824-c0e42833ba5a&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3yxWLGJ-TNE_krKrCdOwnB)
-- 2025/09/03 - [攸泰科技初上市<b>過額配售</b>數量：0股| 討論牆| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/EXJlark&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0qD6ATQZIRIkNpzvh1kl2z)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
