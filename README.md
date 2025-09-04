@@ -23,7 +23,6 @@
 - 2025/09/04 - [【公告】振大環球辦理股票初次上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%258C%25AF%25E5%25A4%25A7%25E7%2592%25B0%25E7%2590%2583%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-084418364.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Td6I9hZ81fsXfr4ghvUyL)
 - 2025/09/04 - [台灣證交所即時重大訊息- 公告本公司辦理股票初次上市<b>過額配售</b>內容 - 非凡新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.ustv.com.tw/companynews/162976&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3WTof3Bdf30yKgjaGPjJF9)
 - 2025/09/04 - [振大環球初次上市<b>過額配售</b>100張，占公開承銷數量比例1.46% - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D7b3aec75-7f60-4821-a169-c6e49576b006&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0blO2j6UweWWjNGxZYNakf)
-- 2025/09/03 - [鼎基初次上巿<b>過額配售</b>150張，占公開承銷數量比例2.17% | 討論牆| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/RB9xqeq&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2T_5tx8Hh4yo_WUr7gr3th)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
