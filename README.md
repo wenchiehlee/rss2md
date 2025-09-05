@@ -12,7 +12,12 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/09/03 - [禾榮科揪伴攻先進醫療- 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8979659&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1bi_tMyK42BOBtYiSBrNlH)
+- 2025/09/05 - [興櫃股王禾榮科9/15上市，<b>競拍</b>出爐，均價每股720元，承銷價600元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1%25E7%258E%258B%25E7%25A6%25BE%25E6%25A6%25AE%25E7%25A7%25919-15%25E4%25B8%258A%25E5%25B8%2582-%25E7%25AB%25B6%25E6%258B%258D%25E5%2587%25BA%25E7%2588%2590-%25E5%259D%2587%25E5%2583%25B9%25E6%25AF%258F%25E8%2582%25A1720%25E5%2585%2583-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9600%25E5%2585%2583-024558785.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2DH1ma4YfdIhz2ma83D4Vy)
+- 2025/09/05 - [富邦證券輔導禾榮科完成<b>競拍</b>預計9月15日<b>掛牌</b>上市- 股市 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/8983466&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1kAws3ZOkys5hRYNRj7ZvP)
+- 2025/09/05 - [富邦證券輔導禾榮科完成<b>競拍</b>承銷價600元｜中央社財經訊息平台](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/411368&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3gTmTTdcalAaU4RoEeE6YT)
+- 2025/09/05 - [禾榮科完成<b>競拍</b>9/15每股600元<b>掛牌</b>上市 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%25A6%25BE%25E6%25A6%25AE%25E7%25A7%2591%25E5%25AE%258C%25E6%2588%2590%25E7%25AB%25B6%25E6%258B%258D-9-15%25E6%25AF%258F%25E8%2582%25A1600%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-134958803.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2sL6zYa4gMNRsJFPgvFDDx)
+- 2025/09/05 - [禾榮科申購首日吸引逾7萬人參加凍結資金425億、預估中籤率4% - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20250904%26CSeqNO%3DE8983228&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0gx5r4oqbZRRsF9xJ_Dzej)
+- 2025/09/04 - [富邦證券輔導禾榮科完成<b>競拍</b>預計9月15日<b>掛牌</b>上市| 集中市場 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5710/8983466&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2KU_RZqDxREdILkknboayR)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
