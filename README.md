@@ -20,8 +20,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/09/09 - [9月8日Genet新聞: 【藥華藥法說會】、【大研生醫】股票初次上市<b>過額配售</b>內容承銷價:每股158元 ...](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/featured/item/89463.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw315hz67dwPJ1U8CsRE0l1n)
 - 2025/09/08 - [巨漢初上櫃<b>過額配售</b>100張，佔公開承銷股數比例1.83% | 討論牆| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/Ya20rVL&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3e6ut3Eeo48lHJypC54D5N)
-- 2025/09/07 - [《半導體》前員工背信、侵權天虹光電智財權訴訟勝訴 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%258D%258A%25E5%25B0%258E%25E9%25AB%2594-%25E5%2589%258D%25E5%2593%25A1%25E5%25B7%25A5%25E8%2583%258C%25E4%25BF%25A1-%25E4%25BE%25B5%25E6%25AC%258A-%25E5%25A4%25A9%25E8%2599%25B9%25E5%2585%2589%25E9%259B%25BB%25E6%2599%25BA%25E8%25B2%25A1%25E6%25AC%258A%25E8%25A8%25B4%25E8%25A8%259F%25E5%258B%259D%25E8%25A8%25B4-081939247.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0WX42nJctWUNEAokGBt7F2)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
