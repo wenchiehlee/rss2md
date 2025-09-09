@@ -13,8 +13,6 @@
 <!-- _feedinvestment1_1_ start -->
 - 2025/09/09 - [達明加速拓展全球市場9/11起競拍 - 自立晚報](https://www.google.com/url?rct=j&sa=t&url=https://www.idn.com.tw/news/news_content.aspx%3Fcatid%3D3%26catsid%3D1%26catdid%3D0%26artid%3D20250909kofang021&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3nNkW7lPFUkKkxhBt2Ll_l)
 - 2025/09/09 - [達明9/26<b>掛牌</b>上市！抽中一張潛在獲利38.6萬元<b>競拍</b>、公開申購、承銷價一次看 - 財訊](https://www.google.com/url?rct=j&sa=t&url=https://www.wealth.com.tw/articles/9e5a9c1e-6573-4b72-8278-0bf43f4e0ac3&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2S26OtLdWGjZayy1dDEman)
-- 2025/09/09 - [蜜月行情超甜台股歡騰新股<b>抽籤</b>爆熱潮 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%259C%259C%25E6%259C%2588%25E8%25A1%258C%25E6%2583%2585%25E8%25B6%2585%25E7%2594%259C-%25E5%258F%25B0%25E8%2582%25A1%25E6%25AD%25A1%25E9%25A8%25B0-%25E6%2596%25B0%25E8%2582%25A1%25E6%258A%25BD%25E7%25B1%25A4%25E7%2588%2586%25E7%2586%25B1%25E6%25BD%25AE-201000099.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2xRKXavLmTG3DbwXQK1Lrn)
-- 2025/09/09 - [新代股<b>抽籤</b>凍資449億| 櫃買動態| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8991734%3Ffrom%3Dedn_next_story&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0dhWoCdHq1hNydzMjDkrR4)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
