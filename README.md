@@ -11,8 +11,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/09/09 - [達明加速拓展全球市場9/11起競拍 - 自立晚報](https://www.google.com/url?rct=j&sa=t&url=https://www.idn.com.tw/news/news_content.aspx%3Fcatid%3D3%26catsid%3D1%26catdid%3D0%26artid%3D20250909kofang021&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3nNkW7lPFUkKkxhBt2Ll_l)
-- 2025/09/09 - [達明9/26<b>掛牌</b>上市！抽中一張潛在獲利38.6萬元<b>競拍</b>、公開申購、承銷價一次看 - 財訊](https://www.google.com/url?rct=j&sa=t&url=https://www.wealth.com.tw/articles/9e5a9c1e-6573-4b72-8278-0bf43f4e0ac3&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2S26OtLdWGjZayy1dDEman)
+- 2025/09/11 - [籌錢也要抽！達明<b>掛牌</b>上市前股價急飆抽中可望賺逾45萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8995493&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0joa9UTyw5VbHx7buoVDoU)
+- 2025/09/10 - [興櫃高價股<b>掛牌</b>強強滾資金挪移指標依然強勢卡位 - ETtoday財經雲](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/3031103&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw06ZXVAn0UZEkCAga3HhviE)
+- 2025/09/10 - [達明加速拓展全球市場9/11起<b>競拍</b> - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E9%2581%2594%25E6%2598%258E%25E5%258A%25A0%25E9%2580%259F%25E6%258B%2593%25E5%25B1%2595%25E5%2585%25A8%25E7%2590%2583%25E5%25B8%2582%25E5%25A0%25B4-9-11%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-193856195.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3d572F2BQ53s6WMqqXxVEC)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
