@@ -18,7 +18,10 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/09/09 - [9月8日Genet新聞: 【藥華藥法說會】、【大研生醫】股票初次上市<b>過額配售</b>內容承銷價:每股158元 ...](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/featured/item/89463.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw315hz67dwPJ1U8CsRE0l1n)
+- 2025/09/12 - [【公告】禾榮科辦理股票初次上巿<b>過額配售</b>內容 - Yahoo奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E7%25A6%25BE%25E6%25A6%25AE%25E7%25A7%2591%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B7%25BF%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-082248341.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3A8ri1s0_usOmkt5wd_Pe1)
+- 2025/09/11 - [禾榮科(7799)初上市<b>過額配售</b>：0股 - 環球生技月刊](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D80253&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2hcu3akKAiedxuRaeO52qi)
+- 2025/09/11 - [禾榮科初上巿<b>過額配售</b>：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D2296116b-5ad6-42bb-b42b-8f2eaad31e06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2g-oI7sWTLmN-PXNWTe3sD)
+- 2025/09/11 - [興櫃申報轉讓：09月10日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2260509002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ZEIdnxu9HU3f87U0EZlNI)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
