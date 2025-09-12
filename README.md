@@ -16,6 +16,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/09/12 - [9月11日Genet新聞: 【麗豐法說會】、【禾榮科】現增收足股款108.54億元及股票初次上巿<b>過額</b> ...](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/featured/item/89550.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3KBdMLwcKgnf5ScK0oOngi)
+- 2025/09/12 - [台特化初上櫃<b>過額配售</b>：0股| 討論牆 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/9mPR2MV&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0T4DICAXDhS9igx6sxHskh)
 - 2025/09/12 - [【公告】禾榮科辦理股票初次上巿<b>過額配售</b>內容 - Yahoo奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E7%25A6%25BE%25E6%25A6%25AE%25E7%25A7%2591%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B7%25BF%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-082248341.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3A8ri1s0_usOmkt5wd_Pe1)
 - 2025/09/11 - [禾榮科(7799)初上市<b>過額配售</b>：0股 - 環球生技月刊](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D80253&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2hcu3akKAiedxuRaeO52qi)
 - 2025/09/11 - [禾榮科初上巿<b>過額配售</b>：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D2296116b-5ad6-42bb-b42b-8f2eaad31e06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2g-oI7sWTLmN-PXNWTe3sD)
