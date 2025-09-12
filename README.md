@@ -2,10 +2,8 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/09/09 - [達明9/26<b>掛牌</b>上市！抽中一張潛在獲利38.6萬元<b>競拍</b>、公開申購、承銷價一次看 - 財訊](https://www.google.com/url?rct=j&sa=t&url=https://www.wealth.com.tw/articles/9e5a9c1e-6573-4b72-8278-0bf43f4e0ac3&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2S26OtLdWGjZayy1dDEman)
-- 2025/09/09 - [興櫃股王禾榮科9/15上市，<b>競拍</b>出爐，均價每股720元，承銷價600元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1%25E7%258E%258B%25E7%25A6%25BE%25E6%25A6%25AE%25E7%25A7%25919-15%25E4%25B8%258A%25E5%25B8%2582-%25E7%25AB%25B6%25E6%258B%258D%25E5%2587%25BA%25E7%2588%2590-%25E5%259D%2587%25E5%2583%25B9%25E6%25AF%258F%25E8%2582%25A1720%25E5%2585%2583-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9600%25E5%2585%2583-024558785.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2DH1ma4YfdIhz2ma83D4Vy)
-- 2025/09/07 - [禾榮科申購首日吸引逾7萬人參加凍結資金425億、預估中籤率4% | 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PGNZY6r&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2KQ-dqB46GWqpBTeOAawtF)
-- 2025/09/07 - [富邦證券輔導禾榮科完成<b>競拍</b>承銷價600元｜中央社財經訊息平台](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/411368&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3gTmTTdcalAaU4RoEeE6YT)
+- 2025/09/12 - [籌錢也要抽！達明<b>掛牌</b>上市前股價急飆抽中可望賺逾45萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/8995493&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0joa9UTyw5VbHx7buoVDoU)
+- 2025/09/12 - [達明加速拓展全球市場9/11起<b>競拍</b> - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E9%2581%2594%25E6%2598%258E%25E5%258A%25A0%25E9%2580%259F%25E6%258B%2593%25E5%25B1%2595%25E5%2585%25A8%25E7%2590%2583%25E5%25B8%2582%25E5%25A0%25B4-9-11%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-193856195.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3d572F2BQ53s6WMqqXxVEC)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
