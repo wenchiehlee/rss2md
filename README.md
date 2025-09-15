@@ -9,7 +9,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/09/13 - [抽抽樂別錯過！達明機器人9/16開放申購中籤潛在獲利44.7萬 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6151752&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2NsHu6QtrrkuUABBOEEm5S)
+- 2025/09/16 - [抽中有望賺43萬元！ 廣達「金孫」達明要上市 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/amp/story/7254/9006251&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3KBt4dyxXYlim80IaHDTJc)
+- 2025/09/15 - [抽中賺43萬！「廣達金孫」達明9/16申購報酬率破180% - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/money/2989148&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Mpxn_ktH3nk40Adq8xfsk)
+- 2025/09/15 - [廣達「金孫」達明要上市準備好抽大紅包了嗎？抽中有望賺43萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9006251&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3Hyr4B3W-ECp6Q6BD2A9h7)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
