@@ -19,7 +19,13 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/09/16 - [中華資安上市掛牌首五個營業日穩定價格操作結果：0股- 新聞 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D30b3a57f-3668-4d0f-8d13-28a58549a499&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2_ezow_lIFM3YXbW6678yb)
+- 2025/09/17 - [大研生醫以220.5元創上市來收盤新高擬縮減股票面額爲1元 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6158537&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Z_BxYsdvUvrot-ECNG7xF)
+- 2025/09/17 - [尚凡*:本公司配合子公司大研生醫國際股份有限公司申請上市需要，提供老股供辦理<b>過額配售</b>案(過 ...](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6158124&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2BI2J47HUqvFB58xsc9xEw)
+- 2025/09/17 - [尚凡* 本公司配合子公司大研生醫國際股份有限公司申請上市需要，提供老股供辦理<b>過額配售</b>案 ...](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D890bc21a-8966-4960-8b9a-1eefbf118aa4&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0xdB9qT22IOvfWNM8gOitm)
+- 2025/09/17 - [重大資訊公告檔-振大環球— TradingView新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.tradingview.com/news/reuters.com,2025-09-17:newsml_MOP7lpcwL:0/&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3l2IFiG9gtdCbS3eQh8QU5)
+- 2025/09/17 - [尚凡*：公司對大研生醫之持股比例於其本次<b>過額配售</b>及現增後調整為68.72% - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D1e455ae2-408e-43b0-8b90-9b6071c927fa&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2MiL_BrwILT8Gz27biB2db)
+- 2025/09/17 - [【公告】尚凡*配合子公司大研生醫國際股份有限公司申請上市需要，提供老股供辦理<b>過額配售</b>案 ...](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%25B0%259A%25E5%2587%25A1-%25E9%2585%258D%25E5%2590%2588%25E5%25AD%2590%25E5%2585%25AC%25E5%258F%25B8%25E5%25A4%25A7%25E7%25A0%2594%25E7%2594%259F%25E9%2586%25AB%25E5%259C%258B%25E9%259A%259B%25E8%2582%25A1%25E4%25BB%25BD%25E6%259C%2589%25E9%2599%2590%25E5%2585%25AC%25E5%258F%25B8%25E7%2594%25B3%25E8%25AB%258B%25E4%25B8%258A%25E5%25B8%2582%25E9%259C%2580%25E8%25A6%2581-%25E6%258F%2590%25E4%25BE%259B%25E8%2580%2581%25E8%2582%25A1%25E4%25BE%259B%25E8%25BE%25A6%25E7%2590%2586%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E6%25A1%2588-%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E7%25A8%258B%25E5%25BA%258F%25E5%25AE%258C%25E6%2588%2590-070357652.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1uu1bJraMKE4GKV0AecLMI)
+- 2025/09/17 - [友霖初次上櫃<b>過額配售</b>100張，佔公開承銷數量比例0.59% | 討論牆| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/reposts/article/2DjgQgN&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3L4PCiHYw7CxzAZnw2Y98a)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
