@@ -19,7 +19,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/09/20 - [台日結盟中信樂活攜手日本東急不動產打造養生村 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%258F%25B0%25E6%2597%25A5%25E7%25B5%2590%25E7%259B%259F-%25E4%25B8%25AD%25E4%25BF%25A1%25E6%25A8%2582%25E6%25B4%25BB%25E6%2594%259C%25E6%2589%258B%25E6%2597%25A5%25E6%259C%25AC%25E6%259D%25B1%25E6%2580%25A5%25E4%25B8%258D%25E5%258B%2595%25E7%2594%25A2%25E6%2589%2593%25E9%2580%25A0%25E9%25A4%258A%25E7%2594%259F%25E6%259D%2591-051045608.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw20NY3gg3O65DqzeXtinb3i)
+- 2025/09/22 - [9/19興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/2DjOnjz&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1nEr4BVB_fGuoWwTkxr-gC)
+- 2025/09/22 - [禾榮科公告本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D8a480048-015f-4e77-b9a1-9342aa932c09&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3npCU_AeGKCu53911pfrQA)
+- 2025/09/22 - [9/19興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D20f872d7-6558-4d99-a0e2-a71bbca33852&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw29wW6gWu8GM0ROZPKEpp6R)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
