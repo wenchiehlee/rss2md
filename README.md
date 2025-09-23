@@ -16,9 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/09/22 - [9/19興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/2DjOnjz&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1nEr4BVB_fGuoWwTkxr-gC)
-- 2025/09/22 - [禾榮科公告本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D8a480048-015f-4e77-b9a1-9342aa932c09&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3npCU_AeGKCu53911pfrQA)
-- 2025/09/22 - [9/19興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D20f872d7-6558-4d99-a0e2-a71bbca33852&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw29wW6gWu8GM0ROZPKEpp6R)
+- 2025/09/23 - [新代上市首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dceac768a-f3df-4d4d-9f94-801f1724866e&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2vbk9BDxhYiwMLrBDEwf5w)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
