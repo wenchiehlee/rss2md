@@ -11,10 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/09/17 - [友霖生技擬8/21<b>掛牌</b>上市暫定承銷價28元 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E5%258F%258B%25E9%259C%2596%25E7%2594%259F%25E6%258A%2580%25E6%2593%25AC8-21%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-%25E6%259A%25AB%25E5%25AE%259A%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B928%25E5%2585%2583/ar-AA1JRwgk%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0UC1amE35XExkKGH6OUlaa)
-- 2025/09/17 - [價差44萬好誘人達明申購首日吸引逾35萬人搶抽 - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20250917%26CSeqNO%3DE9010295&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw03L_yB8-POwcKkHT-yGJ-S)
-- 2025/09/17 - [達明<b>競拍</b>均價433.99元申購現賺41萬、中籤率僅0.88%](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/9011513&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2nEw639WxlzIwFRalc0vt9)
-- 2025/09/17 - [價差44萬好誘人達明申購首日吸引逾35萬人搶抽| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7240/9010295&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2KXl1HqHVDe2YCayendjIy)
+- 2025/09/23 - [星宇航空<b>競拍</b>均價23.28元力拓北美東南亞轉機航網 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E6%2598%259F%25E5%25AE%2587%25E8%2588%25AA%25E7%25A9%25BA%25E7%25AB%25B6%25E6%258B%258D%25E5%259D%2587%25E5%2583%25B923-28%25E5%2585%2583-%25E5%258A%259B%25E6%258B%2593%25E5%258C%2597%25E7%25BE%258E%25E6%259D%25B1%25E5%258D%2597%25E4%25BA%259E%25E8%25BD%2589%25E6%25A9%259F%25E8%2588%25AA%25E7%25B6%25B2/ar-AA1s4imL%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2RjgfzB_z2DolpeYRbqjoX)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
