@@ -11,7 +11,10 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/09/23 - [星宇航空<b>競拍</b>均價23.28元力拓北美東南亞轉機航網 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E6%2598%259F%25E5%25AE%2587%25E8%2588%25AA%25E7%25A9%25BA%25E7%25AB%25B6%25E6%258B%258D%25E5%259D%2587%25E5%2583%25B923-28%25E5%2585%2583-%25E5%258A%259B%25E6%258B%2593%25E5%258C%2597%25E7%25BE%258E%25E6%259D%25B1%25E5%258D%2597%25E4%25BA%259E%25E8%25BD%2589%25E6%25A9%259F%25E8%2588%25AA%25E7%25B6%25B2/ar-AA1s4imL%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2RjgfzB_z2DolpeYRbqjoX)
+- 2025/09/24 - [松川精密（7788）配合上市前公開承銷暫定承銷價95元](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20250924900523-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2FVk-1Ij6o0ST73rFB-n4X)
+- 2025/09/24 - [《生醫股》向榮生技26日起<b>競拍</b>預計10月16日<b>掛牌</b> - 翻爆](https://www.google.com/url?rct=j&sa=t&url=https://turnnewsapp.com/livenews/finance/20250924003523-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2V0Hx_PwphjMQOPGNTYbLL)
+- 2025/09/24 - [《生醫股》向榮生技26日起<b>競拍</b>預計10月16日<b>掛牌</b> - Yahoo奇摩股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%2594%259F%25E9%2586%25AB%25E8%2582%25A1-%25E5%2590%2591%25E6%25A6%25AE%25E7%2594%259F%25E6%258A%258026%25E6%2597%25A5%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E9%25A0%2590%25E8%25A8%258810%25E6%259C%258816%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-074137886.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0SZLPR0rakdRr1Mo4KU6xU)
+- 2025/09/24 - [松川精密訂10月16日以95元<b>掛牌</b>上市26日起<b>競拍</b>| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9026815&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw357CH8EZcyf9NgW4Sf6O7Z)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
