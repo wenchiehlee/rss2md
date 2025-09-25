@@ -19,9 +19,10 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/09/24 - [達明初上市前現增案股款約48.53億元已全數收足，增資基準日9/24 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/3NwWJwk&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2xUAZWaM36txHuL30oPH-2)
-- 2025/09/24 - [9/24櫃買市場三大法人合計賣超股票16.36億元| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/MLj190y&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0VC8LCW4Auv_-PTtS3JjLa)
-- 2025/09/24 - [【公告】達明辦理股票初次上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E9%2581%2594%25E6%2598%258E%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-080341563.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3bspszMM0UXdc0iYznUbXl)
+- 2025/09/26 - [達明初上市<b>過額配售</b>800張，佔公開承銷數量比例6.94% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/kEN3qN0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0XjSyaOo9Ldi_APzsr7MI7)
+- 2025/09/26 - [達明公告本公司股票即將終止興櫃交易並轉至臺灣證券交易所上市交易| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Nvw2Ygm&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2SQ5F5lMAcnw3Mhk9lhzKM)
+- 2025/09/25 - [9/24興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dbf3ca242-7398-4f90-9b0f-63ef3d83697c&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ZB2VCx41gpaF4g9p1SADW)
+- 2025/09/25 - [興櫃申報轉讓：09月24日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2265067002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2sVgjtVSlTYTAPuDZF1hsl)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
