@@ -11,10 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/09/25 - [南僑小金雞皇家可口10月下旬上市營收維持雙位數成長 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5191025&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Dr6-zV3CHC3-hOIO5eEaA)
-- 2025/09/25 - [《興櫃股》松川精密26日起上市前<b>競拍</b>暫定10月16日<b>掛牌</b> - 翻爆](https://www.google.com/url?rct=j&sa=t&url=https://turnnewsapp.com/livenews/finance/20250925002218-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3q-DCdDmKQoBZMrSsYp8DP)
-- 2025/09/25 - [《興櫃股》松川精密26日起上市前<b>競拍</b>暫定10月16日<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E6%259D%25BE%25E5%25B7%259D%25E7%25B2%25BE%25E5%25AF%258626%25E6%2597%25A5%25E8%25B5%25B7%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E7%25AB%25B6%25E6%258B%258D-%25E6%259A%25AB%25E5%25AE%259A10%25E6%259C%258816%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-031422450.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2hyC6KDr_XQ6BXjPIBSgTH)
-- 2025/09/25 - [上市倒數松川精密明起<b>競拍</b>- 日報- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20250925700284-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ETfl7jvieS8fAthA6INZe)
+- 2025/09/27 - [餐酒消費熱潮帶旺金色三麥營運成長 - 自立晚報](https://www.google.com/url?rct=j&sa=t&url=https://www.idn.com.tw/news/news_content.aspx%3Fcatid%3D3%26catsid%3D1%26catdid%3D0%26artid%3D20250926kofang005&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3TnukdseyuQ_NFB1kcD7cR)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
