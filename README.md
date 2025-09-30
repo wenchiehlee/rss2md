@@ -11,7 +11,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/09/27 - [餐酒消費熱潮帶旺金色三麥營運成長 - 自立晚報](https://www.google.com/url?rct=j&sa=t&url=https://www.idn.com.tw/news/news_content.aspx%3Fcatid%3D3%26catsid%3D1%26catdid%3D0%26artid%3D20250926kofang005&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3TnukdseyuQ_NFB1kcD7cR)
+- 2025/09/30 - [準上櫃：金色三麥(7757)10/1起以每股90.18元底價<b>競拍</b>，10/20以每股101元<b>掛牌</b>](https://www.google.com/url?rct=j&sa=t&url=https://fnc.ebc.net.tw/fncnews/else/198299&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3uUavvkwf7eJmUyOFmNZ-p)
+- 2025/09/30 - [金色三麥10/1起以每股90.18元底價<b>競拍</b>，10/20以每股101元<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%2587%2591%25E8%2589%25B2%25E4%25B8%2589%25E9%25BA%25A510-1%25E8%25B5%25B7%25E4%25BB%25A5%25E6%25AF%258F%25E8%2582%25A190-18%25E5%2585%2583%25E5%25BA%2595%25E5%2583%25B9%25E7%25AB%25B6%25E6%258B%258D-10-20%25E4%25BB%25A5%25E6%25AF%258F%25E8%2582%25A1101%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C-230228395.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3Hn1blsVAUqmP1tzq_8c-J)
+- 2025/09/29 - [金色三麥10/20<b>掛牌</b>承銷價101元抽中賺5.9萬元 - 知新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/B774EBE84AA892FAA5521B4FED80312F&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2U58B9umLGm4XxAlerHsZf)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
@@ -22,9 +24,9 @@
 
 ## mkdocs-investment
 <!-- _feedinvestment3_ start -->
-- 2025/09/29 - [月營收表 廣達 (2382)](https://wenchiehlee-investment.github.io/blog/2025/09/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E5%BB%A3%E9%81%94-2382/)
-- 2025/09/29 - [月營收表 中華電 (2412)](https://wenchiehlee-investment.github.io/blog/2025/09/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E4%B8%AD%E8%8F%AF%E9%9B%BB-2412/)
-- 2025/09/29 - [月營收表 群聯 (8299)](https://wenchiehlee-investment.github.io/blog/2025/09/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E7%BE%A4%E8%81%AF-8299/)
+- 2025/09/30 - [月營收表 廣達 (2382)](https://wenchiehlee-investment.github.io/blog/2025/09/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E5%BB%A3%E9%81%94-2382/)
+- 2025/09/30 - [月營收表 中華電 (2412)](https://wenchiehlee-investment.github.io/blog/2025/09/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E4%B8%AD%E8%8F%AF%E9%9B%BB-2412/)
+- 2025/09/30 - [月營收表 群聯 (8299)](https://wenchiehlee-investment.github.io/blog/2025/09/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E7%BE%A4%E8%81%AF-8299/)
 - 2025/08/04 - [台股資料流向與7層分析架構整合](https://wenchiehlee-investment.github.io/blog/2025/07/%E5%8F%B0%E8%82%A1%E8%B3%87%E6%96%99%E6%B5%81%E5%90%91%E8%88%877%E5%B1%A4%E5%88%86%E6%9E%90%E6%9E%B6%E6%A7%8B%E6%95%B4%E5%90%88/)
 - 2025/07/01 - [股票資訊分析堆疊架構（7-Level Stock Information Stack）](https://wenchiehlee-investment.github.io/blog/2025/06/%E8%82%A1%E7%A5%A8%E8%B3%87%E8%A8%8A%E5%88%86%E6%9E%90%E5%A0%86%E7%96%8A%E6%9E%B6%E6%A7%8B7-level-stock-information-stack/)
 - 2024/12/22 - [過額配售是什麼？以 **8272 全景軟體** 為例](https://wenchiehlee-investment.github.io/blog/2024/10/%E9%81%8E%E9%A1%8D%E9%85%8D%E5%94%AE%E6%98%AF%E4%BB%80%E9%BA%BC%E4%BB%A5-8272-%E5%85%A8%E6%99%AF%E8%BB%9F%E9%AB%94-%E7%82%BA%E4%BE%8B/)
