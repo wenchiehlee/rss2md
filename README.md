@@ -18,8 +18,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/09/27 - [美股指數期貨最新報價16:42 | MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/5yN7w0V&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Dv1waKKCzGK4ubFUyBD5g)
-- 2025/09/26 - [【公告】惠民實業辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%2583%25A0%25E6%25B0%2591%25E5%25AF%25A6%25E6%25A5%25AD%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-120617231.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw20zQtEbdYI3wN4Frdk-GER)
+- 2025/09/30 - [華東：華東科技(蘇州)對鑫豐科技持股比例降至45%，喪失控制力 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/x233Pmq&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1nhQOQXz8ll8EsCrPwcqqA)
+- 2025/09/30 - [惠民實業初上櫃前現增案員工認購股款催繳期間9/30~10/30 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/yzYY9DG&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0dz3fJcyik1tN-JFzidCj2)
+- 2025/09/30 - [惠民實業初次上櫃<b>過額配售</b>100張，佔公開承銷股數比例3.3613% - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dd7094afb-8f00-4109-a860-64c445d66f35&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0-C0jq5rX3aFfopgQ8RCVJ)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
