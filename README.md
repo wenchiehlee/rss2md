@@ -2,10 +2,10 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/09/17 - [達明<b>掛牌</b>上市，抽中1張賺43萬！公開申購日在「這天」 - 商周](https://www.google.com/url?rct=j&sa=t&url=https://www.businessweekly.com.tw/business/blog/3019472&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2NUPJ4_fd9t8E02e4_HOYP)
-- 2025/09/17 - [友霖生技擬8/21<b>掛牌</b>上市暫定承銷價28元 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E5%258F%258B%25E9%259C%2596%25E7%2594%259F%25E6%258A%2580%25E6%2593%25AC8-21%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-%25E6%259A%25AB%25E5%25AE%259A%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B928%25E5%2585%2583/ar-AA1JRwgk%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0UC1amE35XExkKGH6OUlaa)
-- 2025/09/17 - [廣達「金孫」達明要上市準備好抽大紅包了嗎？抽中有望賺43萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9006251&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Hyr4B3W-ECp6Q6BD2A9h7)
-- 2025/09/17 - [價差44萬好誘人達明申購首日吸引逾35萬人搶抽 - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20250917%26CSeqNO%3DE9010295&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw03L_yB8-POwcKkHT-yGJ-S)
+- 2025/10/01 - [金色三麥暫定10/20轉上櫃；營運動能穩健向上](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D31fe9ae2-0d40-4c21-a6f4-404be2edee8c&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2wC3UTd6FgNSimFPIDNvyn)
+- 2025/10/01 - [《興櫃股》松川精密26日起上市前<b>競拍</b>暫定10月16日<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E6%259D%25BE%25E5%25B7%259D%25E7%25B2%25BE%25E5%25AF%258626%25E6%2597%25A5%25E8%25B5%25B7%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E7%25AB%25B6%25E6%258B%258D-%25E6%259A%25AB%25E5%25AE%259A10%25E6%259C%258816%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-031422450.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2hyC6KDr_XQ6BXjPIBSgTH)
+- 2025/10/01 - [準上櫃：金色三麥(7757)10/1起以每股90.18元底價<b>競拍</b>，10/20以每股101元<b>掛牌</b>](https://www.google.com/url?rct=j&sa=t&url=https://fnc.ebc.net.tw/fncnews/else/198299&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3uUavvkwf7eJmUyOFmNZ-p)
+- 2025/09/30 - [2025/9/30 07:02 - 財訊快報](https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlineNews/NewsContent.asp%3FarticleNo%3D14202509300004&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1H1wB0MWfSqaa-IqsdLUWx)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
