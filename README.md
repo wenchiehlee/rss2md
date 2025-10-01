@@ -17,7 +17,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2025/10/01 - [惠民實業初次上櫃<b>過額配售</b>100張，佔公開承銷股數比例3.3613% | MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9m77lPV&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2q8cbVKmy8Uhj5pIzg5eaD)
-- 2025/10/01 - [惠民實業公告本公司辦理股票初次上櫃前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/XYLLGkO&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw17n8WdEwHttv09QIujrwh2)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
