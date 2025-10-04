@@ -11,9 +11,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/10/03 - [抽中一張有望賺5萬！啤酒餐廳金色三麥10/1日起<b>競拍</b>、10/7日申購 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%258A%25BD%25E4%25B8%25AD-%25E5%25BC%25B5%25E6%259C%2589%25E6%259C%259B%25E8%25B3%25BA5%25E8%2590%25AC-%25E5%2595%25A4%25E9%2585%2592%25E9%25A4%2590%25E5%25BB%25B3%25E9%2587%2591%25E8%2589%25B2%25E4%25B8%2589%25E9%25BA%25A510-1%25E6%2597%25A5%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-10-074439489.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2sU4T-Zo7tuxYFt02-nb_h)
-- 2025/10/02 - [金色三麥預計20日<b>掛牌</b>上櫃7日起開放申購｜CMoney 股市爆料同學會 - 理財寶](https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/174071730&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3Zr3z9_AAZIwLQUhAXHN0A)
-- 2025/10/02 - [金色三麥預計20日<b>掛牌</b>上櫃7日起開放申購](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/3043501&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0-rVTyNANPaWTebbtgconY)
+- 2025/10/04 - [抽中一張有望賺5萬！啤酒餐廳金色三麥10/1日起<b>競拍</b>、10/7日申購| 新頭殼 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oq795py&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1lU7oxVdLbv9PvGn2vLJMp)
+- 2025/10/03 - [台灣虎航<b>競拍</b>超額認購28.3倍平均價62.38元 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E5%258F%25B0%25E7%2581%25A3%25E8%2599%258E%25E8%2588%25AA%25E7%25AB%25B6%25E6%258B%258D%25E8%25B6%2585%25E9%25A1%258D%25E8%25AA%258D%25E8%25B3%25BC283%25E5%2580%258D-%25E5%25B9%25B3%25E5%259D%2587%25E5%2583%25B96238%25E5%2585%2583/ar-AA1u7X2U%3Fapiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1c8RsfWY1QWjVd4oYeFUPD)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
