@@ -22,6 +22,7 @@
 
 ## mkdocs-investment
 <!-- _feedinvestment3_ start -->
+- 2025/10/06 - [月營收表 聯發科 (2454)](https://wenchiehlee-investment.github.io/blog/2025/10/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E8%81%AF%E7%99%BC%E7%A7%91-2454/)
 - 2025/10/06 - [月營收表 廣達 (2382)](https://wenchiehlee-investment.github.io/blog/2025/10/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E5%BB%A3%E9%81%94-2382/)
 - 2025/10/06 - [月營收表 中華電 (2412)](https://wenchiehlee-investment.github.io/blog/2025/10/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E4%B8%AD%E8%8F%AF%E9%9B%BB-2412/)
 - 2025/10/06 - [月營收表 敦陽科 (2480)](https://wenchiehlee-investment.github.io/blog/2025/10/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E6%95%A6%E9%99%BD%E7%A7%91-2480/)
