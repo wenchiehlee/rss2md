@@ -2,10 +2,8 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/10/01 - [金色三麥暫定10/20轉上櫃；營運動能穩健向上](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D31fe9ae2-0d40-4c21-a6f4-404be2edee8c&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2wC3UTd6FgNSimFPIDNvyn)
-- 2025/10/01 - [《興櫃股》松川精密26日起上市前<b>競拍</b>暫定10月16日<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E6%259D%25BE%25E5%25B7%259D%25E7%25B2%25BE%25E5%25AF%258626%25E6%2597%25A5%25E8%25B5%25B7%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E7%25AB%25B6%25E6%258B%258D-%25E6%259A%25AB%25E5%25AE%259A10%25E6%259C%258816%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-031422450.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2hyC6KDr_XQ6BXjPIBSgTH)
-- 2025/10/01 - [準上櫃：金色三麥(7757)10/1起以每股90.18元底價<b>競拍</b>，10/20以每股101元<b>掛牌</b>](https://www.google.com/url?rct=j&sa=t&url=https://fnc.ebc.net.tw/fncnews/else/198299&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3uUavvkwf7eJmUyOFmNZ-p)
-- 2025/09/30 - [2025/9/30 07:02 - 財訊快報](https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlineNews/NewsContent.asp%3FarticleNo%3D14202509300004&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1H1wB0MWfSqaa-IqsdLUWx)
+- 2025/10/06 - [抽中一張有望賺5萬！啤酒餐廳金色三麥10/1日起<b>競拍</b>、10/7日申購 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%258A%25BD%25E4%25B8%25AD-%25E5%25BC%25B5%25E6%259C%2589%25E6%259C%259B%25E8%25B3%25BA5%25E8%2590%25AC-%25E5%2595%25A4%25E9%2585%2592%25E9%25A4%2590%25E5%25BB%25B3%25E9%2587%2591%25E8%2589%25B2%25E4%25B8%2589%25E9%25BA%25A510-1%25E6%2597%25A5%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-10-074439489.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2sU4T-Zo7tuxYFt02-nb_h)
+- 2025/10/03 - [金色三麥預計20日<b>掛牌</b>上櫃7日起開放申購](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/3043501&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0-rVTyNANPaWTebbtgconY)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
