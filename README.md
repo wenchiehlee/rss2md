@@ -13,7 +13,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/10/01 - [惠民實業初次上櫃<b>過額配售</b>100張，佔公開承銷股數比例3.3613% | MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9m77lPV&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2q8cbVKmy8Uhj5pIzg5eaD)
+- 2025/10/08 - [達明上市掛牌首5日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D9dd4948b-0330-4538-9c43-4b3602431e2f&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw03av3UTa5ttE3sWbREjtt_)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
