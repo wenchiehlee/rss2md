@@ -9,7 +9,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/10/06 - [抽中一張有望賺5萬！啤酒餐廳金色三麥10/1日起<b>競拍</b>、10/7日申購 - MSN](https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/money/topstories/%25E6%258A%25BD%25E4%25B8%25AD%25E4%25B8%2580%25E5%25BC%25B5%25E6%259C%2589%25E6%259C%259B%25E8%25B3%25BA5%25E8%2590%25AC-%25E5%2595%25A4%25E9%2585%2592%25E9%25A4%2590%25E5%25BB%25B3%25E9%2587%2591%25E8%2589%25B2%25E4%25B8%2589%25E9%25BA%25A5101%25E6%2597%25A5%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-107%25E6%2597%25A5%25E7%2594%25B3%25E8%25B3%25BC/ar-AA1NIx9t%3Fapiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1w1EMtSO91BBT6HYpvycF8)
+- 2025/10/08 - [《興櫃股》光速火箭明啟動<b>競拍</b>預計10月28日<b>掛牌</b>上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E5%2585%2589%25E9%2580%259F%25E7%2581%25AB%25E7%25AE%25AD%25E6%2598%258E%25E5%2595%259F%25E5%258B%2595%25E7%25AB%25B6%25E6%258B%258D-%25E9%25A0%2590%25E8%25A8%258810%25E6%259C%258828%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-235607083.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0yt5lwyHNI0TMet9Ns4MpZ)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
