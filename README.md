@@ -13,7 +13,6 @@
 - 2025/10/09 - [富邦證輔導金色三麥完成<b>競拍</b>承銷價101元- 財經 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20251008003094-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2EaKh3r71eGEUFc8MKb3Vn)
 - 2025/10/09 - [抽中1張就賺4.5萬！金色三麥公開申購至明日10/20<b>掛牌</b>上櫃 - 壹蘋](https://www.google.com/url?rct=j&sa=t&url=https://tw.nextapple.com/finance/20251008/34C613A44613D21DD301F1085FC096D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0JKd7fZQ12hNCWUnOUQ9Bh)
 - 2025/10/08 - [富邦證券輔導金色三麥完成<b>競拍</b>、承銷價101元全台市場版圖再擴張 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/amp/story/7254/9058042&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0JU3zvGOnyYu3VpAADx6qJ)
-- 2025/10/08 - [《興櫃股》光速火箭明啟動<b>競拍</b>預計10月28日<b>掛牌</b>上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E5%2585%2589%25E9%2580%259F%25E7%2581%25AB%25E7%25AE%25AD%25E6%2598%258E%25E5%2595%259F%25E5%258B%2595%25E7%25AB%25B6%25E6%258B%258D-%25E9%25A0%2590%25E8%25A8%258810%25E6%259C%258828%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-235607083.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0yt5lwyHNI0TMet9Ns4MpZ)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
