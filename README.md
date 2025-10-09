@@ -17,7 +17,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/10/08 - [達明上市掛牌首5日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D9dd4948b-0330-4538-9c43-4b3602431e2f&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw03av3UTa5ttE3sWbREjtt_)
+- 2025/10/09 - [10/8興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oq7Rayp&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0qatWDJGG7ctc-OZz8_PNl)
+- 2025/10/09 - [10/8興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D24b4799b-79b5-4bc0-be06-7c309fea59dc&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw29upLI6SgRk7vItZqcV_K5)
+- 2025/10/09 - [興櫃申報轉讓：10月08日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3Fsn%3D2269501002%26pu%3DNews_0009_3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2HV2MiToI801h6a145qxhY)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
