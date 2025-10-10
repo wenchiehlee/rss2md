@@ -8,11 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/10/09 - [金色三麥承銷價101元明起公開申購10/20<b>掛牌</b>上櫃](https://www.google.com/url?rct=j&sa=t&url=https://uanalyze.com.tw/articles/4220634704&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1pJ9zYHs1Mj8Sgf8OLJ7p4)
-- 2025/10/09 - [富邦證券輔導金色三麥完成<b>競拍</b>- 日報- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20251009700351-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1g1WsxGrhDHrHlRsYSFisc)
-- 2025/10/09 - [富邦證輔導金色三麥完成<b>競拍</b>承銷價101元- 財經 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20251008003094-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2EaKh3r71eGEUFc8MKb3Vn)
-- 2025/10/09 - [抽中1張就賺4.5萬！金色三麥公開申購至明日10/20<b>掛牌</b>上櫃 - 壹蘋](https://www.google.com/url?rct=j&sa=t&url=https://tw.nextapple.com/finance/20251008/34C613A44613D21DD301F1085FC096D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0JKd7fZQ12hNCWUnOUQ9Bh)
-- 2025/10/08 - [富邦證券輔導金色三麥完成<b>競拍</b>、承銷價101元全台市場版圖再擴張 - 聯合報](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/amp/story/7254/9058042&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0JU3zvGOnyYu3VpAADx6qJ)
+- 2025/10/09 - [H2百貨電商旺季，推動光速火箭營運升溫- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7fd6252a-5764-43f9-a66a-a86600208144&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0AN5ETEToMQq5sj77ejh3H)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
