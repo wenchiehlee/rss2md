@@ -13,9 +13,10 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/10/09 - [10/8興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oq7Rayp&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0qatWDJGG7ctc-OZz8_PNl)
-- 2025/10/09 - [10/8興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D24b4799b-79b5-4bc0-be06-7c309fea59dc&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw29upLI6SgRk7vItZqcV_K5)
-- 2025/10/09 - [興櫃申報轉讓：10月08日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3Fsn%3D2269501002%26pu%3DNews_0009_3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2HV2MiToI801h6a145qxhY)
+- 2025/10/13 - [松川精密公告本公司股票初次上市前現金增資員工認購股款催繳事宜| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/aGQ79en&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1IlY5TLl8FfBxJLF_CvuoZ)
+- 2025/10/13 - [大山：公司盈餘轉增資新股訂10/17起上市買賣，新股權利證書同日終止上市 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/MLjBy6V&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw22pJC6uCaaCF0PiKyPVAdG)
+- 2025/10/13 - [松川精密初上市<b>過額配售</b>100張，佔公開承銷數量比例1.58% - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D4919baa7-a709-4055-82a1-df2122526f1d&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2fx8guKQe-itb6LLUXHX2O)
+- 2025/10/13 - [【公告】松川精密辦理股票初次上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%259D%25BE%25E5%25B7%259D%25E7%25B2%25BE%25E5%25AF%2586%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-074231025.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2-hZjcCBENo1pR6OuhPmAP)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
