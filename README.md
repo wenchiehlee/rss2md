@@ -8,7 +8,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/10/09 - [H2百貨電商旺季，推動光速火箭營運升溫- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7fd6252a-5764-43f9-a66a-a86600208144&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0AN5ETEToMQq5sj77ejh3H)
+- 2025/10/14 - [浩宇生醫聚焦腦部疾病治療2/14起<b>競拍</b>暫定3/7上櫃 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E6%25B5%25A9%25E5%25AE%2587%25E7%2594%259F%25E9%2586%25AB%25E8%2581%259A%25E7%2584%25A6%25E8%2585%25A6%25E9%2583%25A8%25E7%2596%25BE%25E7%2597%2585%25E6%25B2%25BB%25E7%2599%2582-2-14%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D%25E6%259A%25AB%25E5%25AE%259A3-7%25E4%25B8%258A%25E6%25AB%2583/ar-AA1yT017%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1opn_WfXBvLavHYSNLQ2UP)
+- 2025/10/14 - [台灣虎航公開申購今起跑！ 抽中現賺3.77萬元 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/news/other/%25E5%258F%25B0%25E7%2581%25A3%25E8%2599%258E%25E8%2588%25AA%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E4%25BB%258A%25E8%25B5%25B7%25E8%25B7%2591-%25E6%258A%25BD%25E4%25B8%25AD%25E7%258F%25BE%25E8%25B3%25BA3-77%25E8%2590%25AC%25E5%2585%2583/ar-AA1ujTrJ%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0vnHrP7XkI52V2sJ8kTlI_)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
