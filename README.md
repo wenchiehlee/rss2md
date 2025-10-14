@@ -2,7 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/10/08 - [《興櫃股》光速火箭明啟動<b>競拍</b>預計10月28日<b>掛牌</b>上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E5%2585%2589%25E9%2580%259F%25E7%2581%25AB%25E7%25AE%25AD%25E6%2598%258E%25E5%2595%259F%25E5%258B%2595%25E7%25AB%25B6%25E6%258B%258D-%25E9%25A0%2590%25E8%25A8%258810%25E6%259C%258828%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-235607083.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0yt5lwyHNI0TMet9Ns4MpZ)
+- 2025/10/13 - [H2百貨電商旺季，推動光速火箭營運升溫- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7fd6252a-5764-43f9-a66a-a86600208144&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0AN5ETEToMQq5sj77ejh3H)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
