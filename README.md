@@ -14,13 +14,10 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/10/14 - [松川精密公告本公司辦理股票初次上市前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Vx96jLV&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw005u4kcZxKKDGG71zx9mh7)
-- 2025/10/14 - [惠民實業初上櫃首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D19549ac8-354c-41eb-94fe-bf54d83e0307&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1QNOiZvLy4WfXJGj6SxS17)
-- 2025/10/14 - [惠民實業:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6191057&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ZIUO2b8eGJ2l1kQXh6NR7)
-- 2025/10/14 - [10/13興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Ddcd54e5c-e5e5-4f49-b62c-02752db5efc5&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3uSVxw5QLMBVs4tqOezqir)
-- 2025/10/14 - [【公告】東聯互動辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%259D%25B1%25E8%2581%25AF%25E4%25BA%2592%25E5%258B%2595%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-091423124.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw31FVhORaHcJuxDpyMqWb2K)
-- 2025/10/14 - [興櫃申報轉讓：10月13日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2271603002%26PU%3D0009&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3uwsHNwkMxeYreLyeaoH-n)
-- 2025/10/14 - [松川精密初上市<b>過額配售</b>100張，佔公開承銷數量比例1.58% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/nXyzjQq&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0IEAh2so_GMOH7T7DwMmp1)
+- 2025/10/16 - [金色三麥公告本公司股票初次上櫃前現金增資員工認購股款催繳事宜 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/gzrxG1g&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0wYa34j81EGGkf81otJXqh)
+- 2025/10/16 - [東聯互動公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/GgzjO68&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2DcSpVeHMos7wDrwL8R1y7)
+- 2025/10/16 - [金色三麥公告本公司辦理股票初次上櫃<b>過額配售</b>內容- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D2ee4a4b1-3008-41a5-80bd-d1f634a44e46&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw10KtX26c8z6gPw4_7LK-yk)
+- 2025/10/16 - [東聯互動初次上櫃<b>過額配售</b>10張，佔公開承銷比例0.4706% - 新聞 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D1f216c1e-7bec-469b-8335-53d9217970d2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Nhxt_r0NS6zyCu_ql_dEq)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
