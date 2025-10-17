@@ -14,10 +14,10 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/10/16 - [金色三麥公告本公司股票初次上櫃前現金增資員工認購股款催繳事宜 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/gzrxG1g&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0wYa34j81EGGkf81otJXqh)
-- 2025/10/16 - [東聯互動公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/GgzjO68&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2DcSpVeHMos7wDrwL8R1y7)
-- 2025/10/16 - [金色三麥公告本公司辦理股票初次上櫃<b>過額配售</b>內容- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D2ee4a4b1-3008-41a5-80bd-d1f634a44e46&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw10KtX26c8z6gPw4_7LK-yk)
-- 2025/10/16 - [東聯互動初次上櫃<b>過額配售</b>10張，佔公開承銷比例0.4706% - 新聞 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D1f216c1e-7bec-469b-8335-53d9217970d2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Nhxt_r0NS6zyCu_ql_dEq)
+- 2025/10/17 - [金色三麥公告本公司辦理股票初次上櫃前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/3Nw0XxW&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0RYVCrSGILqS12B0AdCE01)
+- 2025/10/16 - [金色三麥初上櫃前現增案員工認購股款催繳期間為10/16~11/17 | MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/l2nx3aL&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Dsn1OjOUQXDf5yIvZ3YVn)
+- 2025/10/16 - [中環9/22~10/15取得陽明6,100張，計約3.31億元- 台股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3De89c7f6d-91f0-4a29-b810-ed39799907ad%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3LMNt560VCVAHhF2Tnp1CY)
+- 2025/10/16 - [金色三麥初上櫃<b>過額配售</b>150張，佔公開承銷數量比例8.0863% - 台股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df390029b-fc6b-4bf2-980d-817420e69b7f%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1I4eNEb1MenHrajMExZOKW)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
