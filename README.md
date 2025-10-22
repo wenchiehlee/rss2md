@@ -14,10 +14,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/10/17 - [金色三麥公告本公司辦理股票初次上櫃前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/3Nw0XxW&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0RYVCrSGILqS12B0AdCE01)
-- 2025/10/16 - [金色三麥初上櫃前現增案員工認購股款催繳期間為10/16~11/17 | MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/l2nx3aL&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Dsn1OjOUQXDf5yIvZ3YVn)
-- 2025/10/16 - [中環9/22~10/15取得陽明6,100張，計約3.31億元- 台股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3De89c7f6d-91f0-4a29-b810-ed39799907ad%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3LMNt560VCVAHhF2Tnp1CY)
-- 2025/10/16 - [金色三麥初上櫃<b>過額配售</b>150張，佔公開承銷數量比例8.0863% - 台股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df390029b-fc6b-4bf2-980d-817420e69b7f%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1I4eNEb1MenHrajMExZOKW)
+- 2025/10/21 - [10/20興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df2bf948e-500a-43b6-8ebf-d174d527879f&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw07mo9qwaUmlkNrFF-mWS3J)
+- 2025/10/21 - [10月20日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2273976002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw36PBdtueUZ6v7P7bw0EI0_)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
