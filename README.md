@@ -2,7 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/10/13 - [H2百貨電商旺季，推動光速火箭營運升溫- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7fd6252a-5764-43f9-a66a-a86600208144&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0AN5ETEToMQq5sj77ejh3H)
+- 2025/10/28 - [聯發科小金雞ITH-KY將<b>掛牌</b>11/14公開申購 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E8%2581%25AF%25E7%2599%25BC%25E7%25A7%2591%25E5%25B0%258F%25E9%2587%2591%25E9%259B%259Eith-ky%25E5%25B0%2587%25E6%258E%259B%25E7%2589%258C-11-14%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC/ar-AA1tsT3m%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2QijAFJgXKsRMlc8jpipla)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
@@ -14,13 +14,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/10/27 - [松川精密公告本公司上市掛牌首五個營業日穩定價格操作結果| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oq7eVyq&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3UXgULcXxYUFpfzu4DPKi7)
-- 2025/10/27 - [皇家可口公告本公司股票即將終止興櫃交易並轉至臺灣證券交易所上巿交易 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/wJM82M0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1wJfywldsyJ4XXDYaRBGEG)
-- 2025/10/27 - [東聯互動公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果- 台股 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D533cb026-edd2-43fd-a765-f449ff8cb9c6%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3nIKiyMFLSSzXVhCN9bRHZ)
-- 2025/10/27 - [【公告】皇家可口辦理股票初次上市前現金增資收足股款暨現金增資基準日 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E7%259A%2587%25E5%25AE%25B6%25E5%258F%25AF%25E5%258F%25A3%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E6%2594%25B6%25E8%25B6%25B3%25E8%2582%25A1%25E6%25AC%25BE%25E6%259A%25A8%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E5%259F%25BA%25E6%25BA%2596%25E6%2597%25A5-092211619.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2XIQ1RMJhPnra19nVES61e)
 - 2025/10/27 - [皇家可口初上市<b>過額配售</b>440張，佔公開承銷數量4.89%(更正)](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D355e983e-89da-41f3-b3a9-35f8e5aea00f&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3wBXGSu3lkZUQ5tzFCQ2tq)
-- 2025/10/27 - [【公告】更正公告皇家可口辦理股票初次上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%259B%25B4%25E6%25AD%25A3%25E5%2585%25AC%25E5%2591%258A%25E7%259A%2587%25E5%25AE%25B6%25E5%258F%25AF%25E5%258F%25A3%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-090710966.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0gYpwsnQkcw5f5m4WKiJH7)
-- 2025/10/27 - [皇家可口初上市<b>過額配售</b>440張，佔公開承銷數量比例24%](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/news/newsviewer.aspx%3Fa%3D08d67c7c-a61e-432d-a574-d621a59dd441&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0zZV619xKVAk_lAeHK0qch)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
