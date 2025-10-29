@@ -16,7 +16,6 @@
 <!-- _feedinvestment2_ start -->
 - 2025/10/28 - [皇家可口公告本公司辦理股票初次上市前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WBz9qzE&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1pYARQ9jr3bZE3A24p_4ZB)
 - 2025/10/28 - [金色三麥初上櫃首五個營業日穩定價格操作結果：0股 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/news/newsviewer.aspx%3Fa%3D39ac5658-8eb9-441c-bdab-0b2d4f418393&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3UkLpBRxb_0pZa2qVu24i-)
-- 2025/10/27 - [皇家可口初上市<b>過額配售</b>440張，佔公開承銷數量4.89%(更正)](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D355e983e-89da-41f3-b3a9-35f8e5aea00f&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3wBXGSu3lkZUQ5tzFCQ2tq)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
