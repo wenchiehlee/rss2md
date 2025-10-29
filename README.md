@@ -14,8 +14,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/10/28 - [皇家可口公告本公司辦理股票初次上市前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WBz9qzE&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1pYARQ9jr3bZE3A24p_4ZB)
-- 2025/10/28 - [金色三麥初上櫃首五個營業日穩定價格操作結果：0股 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/news/newsviewer.aspx%3Fa%3D39ac5658-8eb9-441c-bdab-0b2d4f418393&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3UkLpBRxb_0pZa2qVu24i-)
+- 2025/10/29 - [興櫃申報轉讓：10月28日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2276429002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ai-ksM5gtjlUDV4kSoj3n)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
