@@ -8,8 +8,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/10/24 - [聯發科小金雞ITH-KY將<b>掛牌</b>11/14公開申購 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E8%2581%25AF%25E7%2599%25BC%25E7%25A7%2591%25E5%25B0%258F%25E9%2587%2591%25E9%259B%259Eith-ky%25E5%25B0%2587%25E6%258E%259B%25E7%2589%258C-11-14%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC/ar-AA1tsT3m%3Fcvid%3DDB8B5AC15029412F9D95D293C536DFC5%26ocid%3Dhpmsn%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2gl_Mqy4NBVRQo566tX4wt)
-- 2025/10/23 - [暉盛創新板上市未公開申購部分新股保留員工、報酬率高達66.6％ | 市場焦點](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9092727&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3sD0Sej6aWJTPoq4fIvT-D)
+- 2025/10/30 - [嘉實<b>競拍</b>底價68.38元| 櫃買動態| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9105090&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw38Y84uzX2jGeKOSBy_itqu)
+- 2025/10/30 - [嘉實明起<b>競拍</b>底價68.38元- 日報- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20251030700274-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1IKICj98luyL3qN3GdM1pW)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
