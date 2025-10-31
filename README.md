@@ -8,13 +8,18 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/10/31 - [嘉實資訊今開始<b>競拍</b>| 財富管理| 商情 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5636/9107615&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0pHdkNHrRLdpmxa4Bt-1Se)
+- 2025/10/31 - [下周7檔台股紅包<b>抽籤</b>登場！抽中永擎電子最高可望賺逾23萬元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E4%25B8%258B%25E5%2591%25A87%25E6%25AA%2594%25E5%258F%25B0%25E8%2582%25A1%25E7%25B4%2585%25E5%258C%2585%25E6%258A%25BD%25E7%25B1%25A4%25E7%2599%25BB%25E5%25A0%25B4%25EF%25BC%2581%25E6%258A%25BD%25E4%25B8%25AD%25E6%25B0%25B8%25E6%2593%258E%25E9%259B%25BB%25E5%25AD%2590%25E6%259C%2580%25E9%25AB%2598%25E5%258F%25AF%25E6%259C%259B%25E8%25B3%25BA%25E9%2580%25BE23%25E8%2590%25AC%25E5%2585%2583-104751792.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2pxBB97Evw8wcBFyx4dVcL)
+- 2025/10/31 - [嘉實10/31起以每股68.38元底價<b>競拍</b>，11/17<b>掛牌</b>上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2598%2589%25E5%25AF%25A610-31%25E8%25B5%25B7%25E4%25BB%25A5%25E6%25AF%258F%25E8%2582%25A168-38%25E5%2585%2583%25E5%25BA%2595%25E5%2583%25B9%25E7%25AB%25B6%25E6%258B%258D-11-17%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-230302401.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw20CEQWIKHN4oaUEtxHPzWD)
 - 2025/10/31 - [嘉實資訊10／31<b>競拍</b>11／5起申購11／17日<b>掛牌</b>上櫃](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%2598%2589%25E5%25AF%25A6%25E8%25B3%2587%25E8%25A8%258A10-31%25E7%25AB%25B6%25E6%258B%258D11-5%25E8%25B5%25B7%25E7%2594%25B3%25E8%25B3%25BC-11-17%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-075830524.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1mEu7WyKr5mg5MVMFBcJZj)
 - 2025/10/30 - [群益證主辦嘉實資訊10月31日開始<b>競拍</b>11月5日起申購 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7239/9105848&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw08UiwCZze3ICre31iWgk3i)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/10/29 - [興櫃申報轉讓：10月28日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2276429002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ai-ksM5gtjlUDV4kSoj3n)
+- 2025/10/31 - [暉盛創新板初次上市前現增案股款約2.11億元已全數收足，增資基準日10/31 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/60nNZmB&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ZzScLmF1v--qXZmVyfjBw)
+- 2025/10/31 - [【公告】暉盛辦理股票創新板初次上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%259A%2589%25E7%259B%259B%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2589%25B5%25E6%2596%25B0%25E6%259D%25BF%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-082309310.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0bdBrU845U3ChK6EI5Osw3)
+- 2025/10/31 - [暉盛初上市<b>過額配售</b>90張，占公開承銷數量比例4.89% - 新聞 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dcaf047f8-3a5a-4734-a0e1-54fe037cdd0d&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3LHZLscLBix8jQK_Mjeu7k)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
