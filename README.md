@@ -9,9 +9,7 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2025/10/31 - [嘉實資訊10／31<b>競拍</b>11／5起申購11／17日<b>掛牌</b>上櫃](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%2598%2589%25E5%25AF%25A6%25E8%25B3%2587%25E8%25A8%258A10-31%25E7%25AB%25B6%25E6%258B%258D11-5%25E8%25B5%25B7%25E7%2594%25B3%25E8%25B3%25BC-11-17%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-075830524.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1mEu7WyKr5mg5MVMFBcJZj)
-- 2025/10/30 - [嘉實<b>競拍</b>底價68.38元| 櫃買動態| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9105090&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw38Y84uzX2jGeKOSBy_itqu)
 - 2025/10/30 - [群益證主辦嘉實資訊10月31日開始<b>競拍</b>11月5日起申購 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7239/9105848&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw08UiwCZze3ICre31iWgk3i)
-- 2025/10/30 - [嘉實明起<b>競拍</b>底價68.38元- 日報- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20251030700274-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1IKICj98luyL3qN3GdM1pW)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
