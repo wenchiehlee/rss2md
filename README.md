@@ -9,7 +9,6 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2025/11/02 - [嘉實資訊(3158)10月31日開始<b>競拍</b>11月5日起申購11日<b>抽籤</b> - 四季線上](https://www.google.com/url?rct=j&sa=t&url=https://www.4gtv.tv/article/2025110109000006&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3UzB6D1RjGPhJrVgIkU4wc)
-- 2025/11/02 - [MONEYDJ母公司10月31日開始<b>競拍</b>11月5日起申購11日<b>抽籤</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/moneydj%25E6%25AF%258D%25E5%2585%25AC%25E5%258F%25B810%25E6%259C%258831%25E6%2597%25A5%25E9%2596%258B%25E5%25A7%258B%25E7%25AB%25B6%25E6%258B%258D-11%25E6%259C%25885%25E6%2597%25A5%25E8%25B5%25B7%25E7%2594%25B3%25E8%25B3%25BC11%25E6%2597%25A5%25E6%258A%25BD%25E7%25B1%25A4-132053867.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2YQyxw1UpI_xPhYEMgdPnm)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
