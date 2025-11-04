@@ -8,14 +8,23 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/11/02 - [嘉實資訊(3158)10月31日開始<b>競拍</b>11月5日起申購11日<b>抽籤</b> - 四季線上](https://www.google.com/url?rct=j&sa=t&url=https://www.4gtv.tv/article/2025110109000006&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3UzB6D1RjGPhJrVgIkU4wc)
+- 2025/11/04 - [童子賢「金孫」永擎今正式<b>競拍</b>暫定承銷價268元中簽潛在報酬率有望逾八成| 信傳媒](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/2DVv9Y8&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0d2H5S0nhfzDAFCUpaKCPI)
+- 2025/11/04 - [和碩「小金孫」永擎要上市了抽中新股有望大賺21.8萬元 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9114693&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3wSnTHwdxQwCAqwz8L3BJr)
+- 2025/11/04 - [和碩「小金孫」永擎要上市了抽中新股有望大賺21.8萬元 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/69087d2a8ff59b56a6032590&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3JD9Lbdi0X8dOCifQdFmJ5)
+- 2025/11/04 - [新股<b>抽籤</b>來了！永擎11/4 以底價252.83 元、東方風能11/3 以底價150 元<b>競拍</b> - 財經新報](https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2025/11/03/new-stock-lottery/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0GL1-PMCadb6SqI81AqQJF)
+- 2025/11/04 - [永擎11／19<b>掛牌</b>抽中一張可賺20萬AI伺服器助攻營收暴增266％ - 鏡新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.mnews.tw/external/mirrordaily28027&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0TcBXLI3VuE6jFA0dkuQF1)
+- 2025/11/03 - [抽中1張可望賺22萬！永擎明起上市前<b>競拍</b>承銷價268元 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://tw.nextapple.com/finance/20251103/2B3989BF9F0CE7C0DC81AA16BF45EB4D&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1VxQv_ewQDWMUznOhEHw4H)
+- 2025/11/03 - [永擎將轉上市，承銷價268元，明起<b>競拍</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25B0%25B8%25E6%2593%258E%25E5%25B0%2587%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9268%25E5%2585%2583-%25E6%2598%258E%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-032047147.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2VUb3xtECUiF36sgzoSDlQ)
+- 2025/11/03 - [永擎進行上市前<b>競拍</b>底價252.83元 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7253/9113417&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2ll_UNNQAOYxTL0W9IXXrS)
+- 2025/11/03 - [和碩「小金孫」永擎要上市了抽中新股有望大賺21.8萬元 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/9114693&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0wvnXq4-_uojQviirHjo9i)
+- 2025/11/03 - [嘉實資訊(3158)11月5日起申購11日<b>抽籤</b> - LINE Bank](https://www.google.com/url?rct=j&sa=t&url=https://www.linebank.com.tw/wealth-investment/topics/2525&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1aEh100Z_NbJUn7W9AyVU_)
+- 2025/11/03 - [永擎<b>競拍</b>開跑AI 伺服器帶動成長後市可期](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7253/9113562&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw31liiIwdptodyCaXHQ9Y55)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/10/31 - [暉盛創新板初次上市前現增案股款約2.11億元已全數收足，增資基準日10/31 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/60nNZmB&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ZzScLmF1v--qXZmVyfjBw)
-- 2025/10/31 - [【公告】暉盛辦理股票創新板初次上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%259A%2589%25E7%259B%259B%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2589%25B5%25E6%2596%25B0%25E6%259D%25BF%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-082309310.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0bdBrU845U3ChK6EI5Osw3)
-- 2025/10/31 - [暉盛初上市<b>過額配售</b>90張，占公開承銷數量比例4.89% - 新聞 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dcaf047f8-3a5a-4734-a0e1-54fe037cdd0d&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3LHZLscLBix8jQK_Mjeu7k)
+- 2025/11/03 - [昱臺國際公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3D5b0d8c5e-f3de-410b-96a0-cc3e4923de03&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0zhcJ4HRCJM_qHa10uUGKa)
+- 2025/11/03 - [光速火箭初次上櫃首5日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dfd50a1b3-1ee2-400f-8a81-bd859f800968&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2YPcE6oNYomjRtpfAeSHMK)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
