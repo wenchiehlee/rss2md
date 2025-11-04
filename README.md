@@ -2,7 +2,14 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/10/28 - [聯發科小金雞ITH-KY將<b>掛牌</b>11/14公開申購 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E8%2581%25AF%25E7%2599%25BC%25E7%25A7%2591%25E5%25B0%258F%25E9%2587%2591%25E9%259B%259Eith-ky%25E5%25B0%2587%25E6%258E%259B%25E7%2589%258C-11-14%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC/ar-AA1tsT3m%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2QijAFJgXKsRMlc8jpipla)
+- 2025/11/04 - [新股<b>抽籤</b>來了！永擎11/4 以底價252.83 元、東方風能11/3 以底價150 元<b>競拍</b> - 財經新報](https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2025/11/03/new-stock-lottery/&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0GL1-PMCadb6SqI81AqQJF)
+- 2025/11/04 - [永擎將轉上市，承銷價268元，明起<b>競拍</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25B0%25B8%25E6%2593%258E%25E5%25B0%2587%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9268%25E5%2585%2583-%25E6%2598%258E%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-032047147.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2VUb3xtECUiF36sgzoSDlQ)
+- 2025/11/04 - [抽中1張可望賺22萬！永擎明起上市前<b>競拍</b>承銷價268元 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://tw.nextapple.com/life/20251103/2B3989BF9F0CE7C0DC81AA16BF45EB4D&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2tAwbWkCEz7EX4pq_5vBDK)
+- 2025/11/04 - [搶ASIC散熱商機！邁萪11/6<b>競拍</b>底價100元預計11/21<b>掛牌</b>上市 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://tw.nextapple.com/finance/20251104/16098CF49D6C5D99A981BFF0297066F7&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw213h3Rnx6H4DTxQZm10JHV)
+- 2025/11/04 - [《興櫃股》邁科預計11月21日<b>掛牌</b>2026年營運展望樂觀](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20251104900666-420101&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw20Jw0osgJeis5w-8e-zzCs)
+- 2025/11/04 - [永擎11/4-11/6上市前<b>競拍</b>底價252.83元| 鉅亨網- 台股新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6215093&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2hG-stjJ6wd5cIqxfFUK86)
+- 2025/11/04 - [華豫寧<b>競拍</b>開跑11月21日<b>掛牌</b> - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9115870&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0lITXR3pbOuzXjet9ksQAh)
+- 2025/11/03 - [嘉實資訊(3158)11月5日起申購11日<b>抽籤</b> - LINE Bank](https://www.google.com/url?rct=j&sa=t&url=https://www.linebank.com.tw/wealth-investment/topics/2525&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1aEh100Z_NbJUn7W9AyVU_)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
