@@ -28,8 +28,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/11/03 - [昱臺國際公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3D5b0d8c5e-f3de-410b-96a0-cc3e4923de03&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0zhcJ4HRCJM_qHa10uUGKa)
-- 2025/11/03 - [光速火箭初次上櫃首5日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dfd50a1b3-1ee2-400f-8a81-bd859f800968&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2YPcE6oNYomjRtpfAeSHMK)
+- 2025/11/06 - [皇家可口上市掛牌首5個營業日穩定價格操作結果：0股- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D2541ceee-5b5e-4902-a0af-50d7264ec108&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2GVs_Y9dcJFuN_Tn_e0NDk)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
