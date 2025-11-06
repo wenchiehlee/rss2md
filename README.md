@@ -15,6 +15,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/11/06 - [資拓宏宇Q3獲利增7日啟動<b>競拍</b> - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%25B3%2587%25E6%258B%2593%25E5%25AE%258F%25E5%25AE%2587q3%25E7%258D%25B2%25E5%2588%25A9%25E5%25A2%259E-7%25E6%2597%25A5%25E5%2595%259F%25E5%258B%2595%25E7%25AB%25B6%25E6%258B%258D-163053511.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0dqWkOGMGkj05sTS6lHzRf)
+- 2025/11/05 - [散熱新星邁萪！越南設新廠衝刺產能11／21轉上市<b>掛牌</b> - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1746718&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0hHVHBfxv3ru5aCctVzGUq)
+- 2025/11/05 - [資拓宏宇啟動上市前<b>競拍</b>底價38.98元| 集中市場| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5710/9120218&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1_ez-yac7hjPNaXj2ywyRt)
 - 2025/11/05 - [邁科挺進AI散熱市場；越南新廠規劃中- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Db949efce-98fd-47e8-a3e6-9b88c01048e1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1zGiXvgWPyT7BzW2lDMCGv)
 - 2025/11/05 - [邁科挺進AI散熱市場；越南新廠規劃中- 台視財經](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/%3Fi%3D112025051016A40EE3BDB9CF453699514056467A61DD9EB9%26from%3D587&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0qxc8-RfrlvjkRO9bpcs6z)
 - 2025/11/05 - [散熱新星邁萪！越南設新廠衝刺產能11／21轉上市<b>掛牌</b>| 財經| 三立新聞網SETN.COM](https://www.google.com/url?rct=j&sa=t&url=https://www.setn.com/m/ampnews.aspx%3FNewsID%3D1746718&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0hqcRySr9yKWCMPjHstZGk)
