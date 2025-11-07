@@ -16,12 +16,6 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2025/11/07 - [散熱模組廠邁萪配合上市前公開承銷即起對外<b>競拍</b>至10日| 熱門亮點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5635/9122345&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw04xJ0hbzXHYtV3kZaUQwzY)
-- 2025/11/06 - [抽中2.3萬就入袋！資拓宏宇新股承銷價46元報酬率50% - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/money/3036852&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0y0GUgBS4Cg31vpZvrSWAP)
-- 2025/11/06 - [《興櫃股》資拓宏宇明<b>競拍</b>前3季每股盈餘0.87元 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20251106001481-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3A3Xzi8jko_pB_MyNCg1SH)
-- 2025/11/06 - [中華電小金雞資拓宏宇11/24<b>掛牌</b>！新股承銷價46元、抽中一張潛在獲利2.4萬元 - 財訊](https://www.google.com/url?rct=j&sa=t&url=https://www.wealth.com.tw/articles/bcd8861e-f35e-489e-a1ff-93a4004dbc5b&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2xU_so2kwWhzyxbJohfsyT)
-- 2025/11/06 - [嘉實上櫃前<b>競拍</b>完成，公開申購價80元，預計11月17日<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2598%2589%25E5%25AF%25A6%25E4%25B8%258A%25E6%25AB%2583%25E5%2589%258D%25E7%25AB%25B6%25E6%258B%258D%25E5%25AE%258C%25E6%2588%2590-%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E5%2583%25B980%25E5%2585%2583-%25E9%25A0%2590%25E8%25A8%258811%25E6%259C%258817%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-030643613.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0DnbeP6wCKbFyWIkZzUlcT)
-- 2025/11/06 - [2025/11/6 10:27 - 財訊快報](https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlineNews/NewsContent.asp%3FarticleNo%3D14202511060103&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw38RiTY9AB9n0rAAB4B2w4F)
-- 2025/11/06 - [嘉實資訊<b>競拍</b>完成公開申購價80元預計11／17<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2598%2589%25E5%25AF%25A6%25E8%25B3%2587%25E8%25A8%258A%25E7%25AB%25B6%25E6%258B%258D%25E5%25AE%258C%25E6%2588%2590-%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E5%2583%25B980%25E5%2585%2583-%25E9%25A0%2590%25E8%25A8%258811-17%25E6%258E%259B%25E7%2589%258C-031426962.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2TeC6V5EMC1Ff3RUaVz49f)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
