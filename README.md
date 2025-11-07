@@ -15,6 +15,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/11/07 - [散熱模組廠邁萪配合上市前公開承銷即起對外<b>競拍</b>至10日| 熱門亮點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5635/9122345&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw04xJ0hbzXHYtV3kZaUQwzY)
 - 2025/11/06 - [抽中2.3萬就入袋！資拓宏宇新股承銷價46元報酬率50% - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/money/3036852&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0y0GUgBS4Cg31vpZvrSWAP)
 - 2025/11/06 - [《興櫃股》資拓宏宇明<b>競拍</b>前3季每股盈餘0.87元 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20251106001481-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3A3Xzi8jko_pB_MyNCg1SH)
 - 2025/11/06 - [中華電小金雞資拓宏宇11/24<b>掛牌</b>！新股承銷價46元、抽中一張潛在獲利2.4萬元 - 財訊](https://www.google.com/url?rct=j&sa=t&url=https://www.wealth.com.tw/articles/bcd8861e-f35e-489e-a1ff-93a4004dbc5b&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2xU_so2kwWhzyxbJohfsyT)
