@@ -2,14 +2,9 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/11/04 - [新股<b>抽籤</b>來了！永擎11/4 以底價252.83 元、東方風能11/3 以底價150 元<b>競拍</b> - 財經新報](https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2025/11/03/new-stock-lottery/&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0GL1-PMCadb6SqI81AqQJF)
-- 2025/11/04 - [永擎將轉上市，承銷價268元，明起<b>競拍</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25B0%25B8%25E6%2593%258E%25E5%25B0%2587%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9268%25E5%2585%2583-%25E6%2598%258E%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-032047147.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2VUb3xtECUiF36sgzoSDlQ)
-- 2025/11/04 - [抽中1張可望賺22萬！永擎明起上市前<b>競拍</b>承銷價268元 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://tw.nextapple.com/life/20251103/2B3989BF9F0CE7C0DC81AA16BF45EB4D&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2tAwbWkCEz7EX4pq_5vBDK)
-- 2025/11/04 - [搶ASIC散熱商機！邁萪11/6<b>競拍</b>底價100元預計11/21<b>掛牌</b>上市 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://tw.nextapple.com/finance/20251104/16098CF49D6C5D99A981BFF0297066F7&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw213h3Rnx6H4DTxQZm10JHV)
-- 2025/11/04 - [《興櫃股》邁科預計11月21日<b>掛牌</b>2026年營運展望樂觀](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20251104900666-420101&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw20Jw0osgJeis5w-8e-zzCs)
-- 2025/11/04 - [永擎11/4-11/6上市前<b>競拍</b>底價252.83元| 鉅亨網- 台股新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6215093&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2hG-stjJ6wd5cIqxfFUK86)
-- 2025/11/04 - [華豫寧<b>競拍</b>開跑11月21日<b>掛牌</b> - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9115870&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0lITXR3pbOuzXjet9ksQAh)
-- 2025/11/03 - [嘉實資訊(3158)11月5日起申購11日<b>抽籤</b> - LINE Bank](https://www.google.com/url?rct=j&sa=t&url=https://www.linebank.com.tw/wealth-investment/topics/2525&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1aEh100Z_NbJUn7W9AyVU_)
+- 2025/11/08 - [嘉實上櫃前<b>競拍</b>完成，公開申購價80元，預計11月17日<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2598%2589%25E5%25AF%25A6%25E4%25B8%258A%25E6%25AB%2583%25E5%2589%258D%25E7%25AB%25B6%25E6%258B%258D%25E5%25AE%258C%25E6%2588%2590-%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E5%2583%25B980%25E5%2585%2583-%25E9%25A0%2590%25E8%25A8%258811%25E6%259C%258817%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-030643613.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0DnbeP6wCKbFyWIkZzUlcT)
+- 2025/11/07 - [中華電小金雞資拓宏宇11/24<b>掛牌</b>！新股承銷價46元、抽中一張潛在獲利2.4萬元 - 財訊](https://www.google.com/url?rct=j&sa=t&url=https://www.wealth.com.tw/articles/bcd8861e-f35e-489e-a1ff-93a4004dbc5b&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2xU_so2kwWhzyxbJohfsyT)
+- 2025/11/05 - [散熱新星邁萪！越南設新廠衝刺產能11／21轉上市<b>掛牌</b> - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1746718&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0hHVHBfxv3ru5aCctVzGUq)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
