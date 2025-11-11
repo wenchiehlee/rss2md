@@ -26,7 +26,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/11/06 - [皇家可口上市掛牌首5個營業日穩定價格操作結果：0股- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D2541ceee-5b5e-4902-a0af-50d7264ec108&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2GVs_Y9dcJFuN_Tn_e0NDk)
+- 2025/11/11 - [11/10未上市櫃公開發行公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Ded7d3b93-b4a5-4c0d-af05-366d667b2c6f&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Qg0lf8ZyDfKOJ51_3lBzo)
+- 2025/11/11 - [11/10興櫃公司持股轉讓明細- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Daf460f22-f242-4c1f-b634-67c21d3ddcfe&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3giZlO9aM1zNCQjY2CBvUK)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
