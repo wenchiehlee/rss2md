@@ -2,9 +2,10 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/11/08 - [嘉實上櫃前<b>競拍</b>完成，公開申購價80元，預計11月17日<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2598%2589%25E5%25AF%25A6%25E4%25B8%258A%25E6%25AB%2583%25E5%2589%258D%25E7%25AB%25B6%25E6%258B%258D%25E5%25AE%258C%25E6%2588%2590-%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E5%2583%25B980%25E5%2585%2583-%25E9%25A0%2590%25E8%25A8%258811%25E6%259C%258817%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-030643613.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0DnbeP6wCKbFyWIkZzUlcT)
-- 2025/11/07 - [中華電小金雞資拓宏宇11/24<b>掛牌</b>！新股承銷價46元、抽中一張潛在獲利2.4萬元 - 財訊](https://www.google.com/url?rct=j&sa=t&url=https://www.wealth.com.tw/articles/bcd8861e-f35e-489e-a1ff-93a4004dbc5b&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2xU_so2kwWhzyxbJohfsyT)
-- 2025/11/05 - [散熱新星邁萪！越南設新廠衝刺產能11／21轉上市<b>掛牌</b> - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1746718&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0hHVHBfxv3ru5aCctVzGUq)
+- 2025/11/11 - [《興櫃股》抽中現賺92萬元！法人怎看「興櫃股王」後市？一次搞懂 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E6%258A%25BD%25E4%25B8%25AD%25E7%258F%25BE%25E8%25B3%25BA92%25E8%2590%25AC%25E5%2585%2583-%25E6%25B3%2595%25E4%25BA%25BA%25E6%2580%258E%25E7%259C%258B-%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1%25E7%258E%258B-%25E5%25BE%258C%25E5%25B8%2582-023004360.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0PJGkaBJfHMIjP2_CHIsAP)
+- 2025/11/11 - [年底最強股票<b>抽籤</b>！「興櫃股王」鴻勁抽中一張就爽賺82萬，承銷價、中籤率、<b>抽籤</b>時間一次看](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/XY5BL1m&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3xfcp3SHhUYeGz_YWfMJQR)
+- 2025/11/11 - [鴻勁後天起<b>競拍</b>11/27將<b>掛牌</b>上市 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6230040&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0QxFD9dGMzmKQQCArf9kdf)
+- 2025/11/11 - [興櫃股王鴻勁擬11/27上市<b>競拍</b>底價1196元 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1%25E7%258E%258B%25E9%25B4%25BB%25E5%258B%2581%25E6%2593%25AC11-27%25E4%25B8%258A%25E5%25B8%2582-%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B91196%25E5%2585%2583/ar-AA1Q8UsP%3Focid%3Dfinance-verthp-feeds&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0stJbivUKAqsl-Yvh9QFrY)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
