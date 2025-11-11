@@ -10,7 +10,12 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/11/07 - [散熱模組廠邁萪配合上市前公開承銷即起對外<b>競拍</b>至10日| 熱門亮點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5635/9122345&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw04xJ0hbzXHYtV3kZaUQwzY)
+- 2025/11/11 - [興櫃股王鴻勁擬11/27上市<b>競拍</b>底價1196元 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1%25E7%258E%258B%25E9%25B4%25BB%25E5%258B%2581%25E6%2593%25AC11-27%25E4%25B8%258A%25E5%25B8%2582-%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B91196%25E5%2585%2583/ar-AA1Q8UsP%3Focid%3Dfinance-verthp-feeds&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0stJbivUKAqsl-Yvh9QFrY)
+- 2025/11/11 - [興櫃股王鴻勁擬11/27上市<b>競拍</b>底價1196元- 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202511/202511102532025.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1UNQzjCeNCqOYhByU_AkgG)
+- 2025/11/11 - [鴻勁後天起<b>競拍</b>11/27將<b>掛牌</b>上市 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%25B4%25BB%25E5%258B%2581%25E5%25BE%258C%25E5%25A4%25A9%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-11-27%25E5%25B0%2587%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-113050391.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0LhVNF5-6IIlqM5wDTLTNw)
+- 2025/11/10 - [鴻勁後天起<b>競拍</b>11/27將<b>掛牌</b>上市 - 玩股網](https://www.google.com/url?rct=j&sa=t&url=https://www.wantgoo.com/news/1240463&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1pD0OwWzSsFeT6hRiGMUDt)
+- 2025/11/10 - [興櫃股王鴻勁擬11/27上市<b>競拍</b>底價1196元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9130215&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1nylpxAuy3Smhs5hbHATp9)
+- 2025/11/10 - [受惠CSP客戶積極拉貨邁科Q3營收獲利雙創新高](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5635/9128283&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ipxNp89KPrz2mKHKi1oLL)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
