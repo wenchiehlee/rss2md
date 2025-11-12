@@ -20,6 +20,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/11/12 - [11/11興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D5f506d5f-d0a5-4076-a768-19cce90bd152&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2zaqZhmBQ4Q0vmV8ak6zdR)
+- 2025/11/12 - [11月11日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2284776002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3OkwqWEMSVxMIAlL9s7QDF)
 - 2025/11/11 - [11/10未上市櫃公開發行公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Ded7d3b93-b4a5-4c0d-af05-366d667b2c6f&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Qg0lf8ZyDfKOJ51_3lBzo)
 - 2025/11/11 - [11/10興櫃公司持股轉讓明細- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Daf460f22-f242-4c1f-b634-67c21d3ddcfe&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3giZlO9aM1zNCQjY2CBvUK)
 <!-- _feedinvestment2_ end -->
