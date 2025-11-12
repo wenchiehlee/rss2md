@@ -11,11 +11,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/11/11 - [年底最強股票<b>抽籤</b>！「興櫃股王」鴻勁抽中一張就爽賺82萬，承銷價、中籤率、<b>抽籤</b>時間一次看](https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11080267&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw366YcAp8CJeWSOKBkjO2Gv)
-- 2025/11/11 - [《興櫃股》抽中現賺92萬元！法人怎看「興櫃股王」後市？一次搞懂 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E6%258A%25BD%25E4%25B8%25AD%25E7%258F%25BE%25E8%25B3%25BA92%25E8%2590%25AC%25E5%2585%2583-%25E6%25B3%2595%25E4%25BA%25BA%25E6%2580%258E%25E7%259C%258B-%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1%25E7%258E%258B-%25E5%25BE%258C%25E5%25B8%2582-023004360.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0PJGkaBJfHMIjP2_CHIsAP)
-- 2025/11/11 - [興櫃股王鴻勁明<b>競拍</b>暫訂承銷價1495元若抽中潛在獲利高達92萬元 - 知新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/F01C2F156C2C263C60B28EADD46DEB41&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw01f6pIdIx3aJfd1D86j0bH)
-- 2025/11/11 - [年底最強股票<b>抽籤</b>！「興櫃股王」鴻勁抽中一張就爽賺82萬，承銷價、中籤率、<b>抽籤</b>時間一次看](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/XY5BL1m&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3xfcp3SHhUYeGz_YWfMJQR)
-- 2025/11/11 - [抽中現賺92萬！興櫃股王鴻勁11/27轉上市<b>抽籤</b>先備149.5萬](https://www.google.com/url?rct=j&sa=t&url=https://www.nownews.com/news/6752759&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0HwLfdxC5QqKdQSndMK3oY)
+- 2025/11/13 - [「興櫃股王」鴻勁上市新股1張150萬中信銀砸33億參與競標](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/3066428&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw15_b1h9RRc3FwRYljcxwfJ)
+- 2025/11/13 - [抽中一張賺92萬！興櫃股王鴻勁27日轉上市<b>抽籤</b>先備149.5萬](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%258A%25BD%25E4%25B8%25AD-%25E5%25BC%25B5%25E8%25B3%25BA92%25E8%2590%25AC-%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1%25E7%258E%258B27%25E6%2597%25A5%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582-%25E6%258A%25BD%25E7%25B1%25A4%25E5%2585%2588%25E5%2582%2599149-5%25E8%2590%25AC-194300580.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3EAGOhGQRYCFt1nSp1EEFi)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
