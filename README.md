@@ -27,8 +27,6 @@
 - 2025/11/13 - [萊德光電-KY 公告本公司辦理股票初次上櫃<b>過額配售</b>內容- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dd973cf5b-2437-4be0-a81e-89ba196b4907&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2sbzbilwhozZzLGWtOiive)
 - 2025/11/13 - [松川精密公告本公司總經理異動- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3Dfc0f3642-29eb-463c-945f-a0889c3bac04%26c%3DMB00&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1-n1VYI9PuSENqqjAjuV05)
 - 2025/11/13 - [嘉實:公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6236251&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0o-tGqO5v_qF9yLL8XzSnT)
-- 2025/11/12 - [11/11興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D5f506d5f-d0a5-4076-a768-19cce90bd152&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2zaqZhmBQ4Q0vmV8ak6zdR)
-- 2025/11/12 - [11月11日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2284776002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3OkwqWEMSVxMIAlL9s7QDF)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
