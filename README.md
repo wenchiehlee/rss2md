@@ -11,9 +11,12 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/11/13 - [盤前／興櫃股王轉上市鴻勁建議<b>競拍</b>價曝 - 奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%259B%25A4%25E5%2589%258D-%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1%25E7%258E%258B%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582-%25E9%25B4%25BB%25E5%258B%2581%25E5%25BB%25BA%25E8%25AD%25B0%25E7%25AB%25B6%25E6%258B%258D%25E5%2583%25B9%25E6%259B%259D-211800072.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2QomhqISoR1moANGX8J879)
-- 2025/11/13 - [鴻勁11/27轉上市！抽中一張潛在獲利88萬元公開申購日期、承銷價一次看 - 財訊](https://www.google.com/url?rct=j&sa=t&url=https://www.wealth.com.tw/articles/6922d88c-b279-43c7-905f-fde6402d5eb3&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1G-SNtKNaGUg5ceOcRAxpx)
-- 2025/11/13 - [中信金這次不玩狼來了！砸33億元參與興櫃股王鴻勁競標、卡位半導體檢測之星| 太報](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/gz5aGx2&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1bwUi4_bpCzYbV9J1Wv7u9)
+- 2025/11/15 - [最新消息| 國泰綜合證券Cathay Securities Corporation](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20251114%26CSeqNO%3DE9140225&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3uhKKQ7KmDiBOgdwh0hkes)
+- 2025/11/15 - [最新消息| 國泰綜合證券Cathay Securities Corporation](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20251114%26CSeqNO%3DE9140243&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2w0vkyBDUDcSA3f7zuqc4F)
+- 2025/11/14 - [中華電信「小金雞」資拓宏宇將上市！小資族花不到5萬元就能抽 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/11074/9140243&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3gzQdvcM6jmT1bZiGxLIOD)
+- 2025/11/14 - [這家散熱廠將<b>掛牌</b>上市17日最後機會、抽中報酬率高達33％ | 櫃買動態| 證券| 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9140205&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3EKkOYsaBV-aNicF2FiRWr)
+- 2025/11/14 - [這家散熱廠將<b>掛牌</b>上市17日最後機會、抽中報酬率高達33％ | 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/11074/9140205&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0qYx_5PTtOg7CVxtmahq8_)
+- 2025/11/13 - [抽中可望賺逾12萬！ 「它」11/25開放申購 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/news/other/%25E6%258A%25BD%25E4%25B8%25AD%25E5%258F%25AF%25E6%259C%259B%25E8%25B3%25BA%25E9%2580%25BE12%25E8%2590%25AC-%25E5%25AE%2583-11-25%25E9%2596%258B%25E6%2594%25BE%25E7%2594%25B3%25E8%25B3%25BC/ar-AA1u3v8F%3Fcvid%3D8CAD0F637FEE498396D75D3A97CB31CB%26ocid%3Dhpmsn%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1hImLW_paImV_9JGrw8tR1)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
