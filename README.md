@@ -12,13 +12,7 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2025/11/15 - [小資族抽起來！華豫寧申購僅需3萬元報酬率逾兩成| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9140225&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1XTwSjXqqyfykz3R1CF0Mh)
-- 2025/11/15 - [最新消息| 國泰綜合證券Cathay Securities Corporation](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20251114%26CSeqNO%3DE9140225&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3uhKKQ7KmDiBOgdwh0hkes)
-- 2025/11/15 - [最新消息| 國泰綜合證券Cathay Securities Corporation](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20251114%26CSeqNO%3DE9140243&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2w0vkyBDUDcSA3f7zuqc4F)
 - 2025/11/14 - [中華電信「小金雞」資拓宏宇將上市！小資族花不到5萬元就能抽| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9140243%3Ffrom%3Dudn_ch2_menu_v2_main_cate&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1iI3nq11ssKLedX2KPTfsR)
-- 2025/11/14 - [中華電信「小金雞」資拓宏宇將上市！小資族花不到5萬元就能抽 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/11074/9140243&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3gzQdvcM6jmT1bZiGxLIOD)
-- 2025/11/14 - [這家散熱廠將<b>掛牌</b>上市17日最後機會、抽中報酬率高達33％ | 櫃買動態| 證券| 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9140205&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3EKkOYsaBV-aNicF2FiRWr)
-- 2025/11/14 - [這家散熱廠將<b>掛牌</b>上市17日最後機會、抽中報酬率高達33％ | 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/11074/9140205&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0qYx_5PTtOg7CVxtmahq8_)
-- 2025/11/13 - [抽中可望賺逾12萬！ 「它」11/25開放申購 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/news/other/%25E6%258A%25BD%25E4%25B8%25AD%25E5%258F%25AF%25E6%259C%259B%25E8%25B3%25BA%25E9%2580%25BE12%25E8%2590%25AC-%25E5%25AE%2583-11-25%25E9%2596%258B%25E6%2594%25BE%25E7%2594%25B3%25E8%25B3%25BC/ar-AA1u3v8F%3Fcvid%3D8CAD0F637FEE498396D75D3A97CB31CB%26ocid%3Dhpmsn%26apiversion%3Dv2%26noservercache%3D1%26domshim%3D1%26renderwebcomponents%3D1%26wcseo%3D1%26batchservertelemetry%3D1%26noservertelemetry%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1hImLW_paImV_9JGrw8tR1)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
