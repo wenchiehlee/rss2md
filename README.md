@@ -23,6 +23,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/11/15 - [永崴投控公告本公司對子公司富威電力股份有限公司降低持股比例達百分之十以上](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/7N9QXRr&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw24nZbj8TP-UX4Za2DyYhcV)
 - 2025/11/15 - [永崴投控:公告本公司對子公司富威電力股份有限公司降低持股比例達百分之十以上 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6238479&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0gLc7BUOoaQYJ6wGSp_pme)
 - 2025/11/15 - [東方風能公告本公司股票初次上市前現金增資收足股款暨現金增資基準日| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/DRXNvaV&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw26IGynSaGDOW2zgDLTEzlM)
 - 2025/11/14 - [嘉實初上櫃前現增案股款約3.29億元已全數收足，增資基準日11/13 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oq96MJP&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3z7t_IVcUANR8AG46FGeHX)
