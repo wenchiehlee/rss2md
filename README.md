@@ -12,7 +12,6 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2025/11/16 - [興櫃股王鴻勁<b>掛牌</b>倒數！抽中一張爽賺75萬11月27日<b>掛牌</b>上市| 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1751656&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0M-mBu1KpD3Iu28Sc8M4hP)
-- 2025/11/15 - [小資族抽起來！華豫寧申購僅需3萬元報酬率逾兩成| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9140225&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1XTwSjXqqyfykz3R1CF0Mh)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
