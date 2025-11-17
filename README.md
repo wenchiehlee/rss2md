@@ -11,7 +11,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/11/16 - [興櫃股王鴻勁<b>掛牌</b>倒數！抽中一張爽賺75萬11月27日<b>掛牌</b>上市| 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1751656&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0M-mBu1KpD3Iu28Sc8M4hP)
+- 2025/11/17 - [華擎小金雞永擎11/19<b>掛牌</b>上市申購潛在獲利逾12萬| 股匯投資](https://www.google.com/url?rct=j&sa=t&url=https://www.nownews.com/news/6754929&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2tCKdJChqyvIC_AiuL_LEK)
+- 2025/11/17 - [興櫃股王鴻勁擬11/27上市<b>競拍</b>底價1196元 - MSN](https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/money/topstories/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1%25E7%258E%258B%25E9%25B4%25BB%25E5%258B%2581%25E6%2593%25AC11-27%25E4%25B8%258A%25E5%25B8%2582-%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B91196%25E5%2585%2583/ar-AA1Q8UsP%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3GTC_YRWvMty3_I_f8GWFm)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
