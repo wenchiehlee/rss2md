@@ -16,7 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/11/15 - [永崴投控公告本公司對子公司富威電力股份有限公司降低持股比例達百分之十以上](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/7N9QXRr&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw24nZbj8TP-UX4Za2DyYhcV)
+- 2025/11/17 - [東方風能初上市<b>過額配售</b>100張，佔公開承銷股數0.59% - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D36a04172-cc11-47b3-ab6d-a56a1a4aa491&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0u2G7WWNKoo1K_ekPPkPUH)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
