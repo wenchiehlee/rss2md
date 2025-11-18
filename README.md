@@ -16,6 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/11/18 - [永擎本公司股票即將終止興櫃交易並轉至臺灣證券交易所上市交易| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/qoLwl8w&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1y8SrFfClS--DE6OLlay4o)
 - 2025/11/18 - [永擎：公司股票11/19起轉上市買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/QweN0ee&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1LEkImLouRp-qeqBsnwSSP)
 - 2025/11/18 - [永擎本公司辦理股票初次上市前現金增資收足股款暨現金增資基準日| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/x2k7Bo6&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1iEqFnIkdEK6zvlU0rvIr4)
 - 2025/11/18 - [東方風能公告本公司股票即將終止興櫃交易並轉至臺灣證券交易所上巿交易| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/OpynX1D&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2xOZP3zai1rOMeYbXzxTPr)
