@@ -12,6 +12,10 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/11/19 - [興櫃股王轉上市申購現賺88萬元改寫台股歷史「三高」新標竿 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9147897%3Flist_ch2_index&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw25nXP7Q6eR68A7-uab_dHN)
+- 2025/11/18 - [抽中一張現賺74萬！鴻勁(7769)興櫃轉上市凍結市場資金千億元破紀錄：申購日期、<b>抽籤</b>日曝光](https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/money-31e4da33-c447-11f0-84f5-336940950e20&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3Yhz_XS7k5A8PR-PxGSpJG)
+- 2025/11/18 - [先準備149萬！興櫃股王鴻勁公開申購開跑，抽中現賺估逾74萬 - 商周](https://www.google.com/url?rct=j&sa=t&url=https://www.businessweekly.com.tw/business/blog/3019988&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2GooRCOXLT0CxhyGWA2B_s)
+- 2025/11/18 - [和碩「金孫」永擎明<b>掛牌</b>上市<b>競拍</b>均價334.95元申購中籤率低至0.67% | 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6241507&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2yYZFT5FeaxDTDz-NM1Kjm)
 - 2025/11/17 - [鴻勁公開申購起跑抽中1張估可賺逾74萬元| 產業熱點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5612/9145459&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1fiCKwDQcQfEmD28t6a_Xh)
 <!-- _feedinvestment1_1_ end -->
 
