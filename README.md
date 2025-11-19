@@ -12,6 +12,12 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/11/19 - [【即時新聞】鴻勁(7769)申購熱度爆表，吸金逾2500億、轉型效益帶動毛利率衝近六成](https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/newsyoudeservetoknow-aeffc0ff-c4f4-11f0-9660-de9b28df3464&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ULM6-CkFlqN2KAd2Rbm2t)
+- 2025/11/19 - [【即時新聞】鴻勁(7769)上市承銷吸金逾2500億，今<b>抽籤</b>中籤估賺百萬引投資熱潮](https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/newsyoudeservetoknow-a4302863-c4f2-11f0-877b-d32c314de9be&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw37_kTcCPEHw77_PaBLRk2a)
+- 2025/11/19 - [最新消息| 國泰綜合證券Cathay Securities Corporation](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20251119%26CSeqNO%3DE9148359&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2cIKeV1sbDARQg67AtdYmy)
+- 2025/11/19 - [興櫃股王鴻勁27日<b>掛牌競拍</b>價飆到2030.37…抽中可望現賺88萬| 股市要聞 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/9148359&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2Q044Mz3Y5Z2ZEWmMUSCfR)
+- 2025/11/19 - [和碩「金孫」永擎明<b>掛牌</b>上市<b>競拍</b>均價334.95元申購中籤率低至0.67% - 優分析](https://www.google.com/url?rct=j&sa=t&url=https://uanalyze.com.tw/articles/3770539170&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0y-IUQ9-XOpoTmtrnoDWE-)
+- 2025/11/19 - [興櫃股王轉上市申購現賺88萬元改寫台股歷史「三高」新標竿 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9147897&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw24dnUKVHay23iGh3p2S0tg)
 - 2025/11/19 - [興櫃股王轉上市申購現賺88萬元改寫台股歷史「三高」新標竿 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9147897%3Flist_ch2_index&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw25nXP7Q6eR68A7-uab_dHN)
 - 2025/11/18 - [抽中一張現賺74萬！鴻勁(7769)興櫃轉上市凍結市場資金千億元破紀錄：申購日期、<b>抽籤</b>日曝光](https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/money-31e4da33-c447-11f0-84f5-336940950e20&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3Yhz_XS7k5A8PR-PxGSpJG)
 - 2025/11/18 - [先準備149萬！興櫃股王鴻勁公開申購開跑，抽中現賺估逾74萬 - 商周](https://www.google.com/url?rct=j&sa=t&url=https://www.businessweekly.com.tw/business/blog/3019988&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2GooRCOXLT0CxhyGWA2B_s)
@@ -28,12 +34,12 @@
 
 ## mkdocs-investment
 <!-- _feedinvestment3_ start -->
-- 2025/11/18 - [月營收表 廣達 (2382)](https://wenchiehlee-investment.github.io/blog/2025/11/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E5%BB%A3%E9%81%94-2382/)
-- 2025/11/18 - [月營收表 中華電 (2412)](https://wenchiehlee-investment.github.io/blog/2025/11/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E4%B8%AD%E8%8F%AF%E9%9B%BB-2412/)
-- 2025/11/18 - [月營收表 聯發科 (2454)](https://wenchiehlee-investment.github.io/blog/2025/11/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E8%81%AF%E7%99%BC%E7%A7%91-2454/)
-- 2025/11/18 - [月營收表 敦陽科 (2480)](https://wenchiehlee-investment.github.io/blog/2025/11/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E6%95%A6%E9%99%BD%E7%A7%91-2480/)
-- 2025/11/18 - [月營收表 聯詠 (3034)](https://wenchiehlee-investment.github.io/blog/2025/11/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E8%81%AF%E8%A9%A0-3034/)
-- 2025/11/18 - [月營收表 群聯 (8299)](https://wenchiehlee-investment.github.io/blog/2025/11/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E7%BE%A4%E8%81%AF-8299/)
+- 2025/11/19 - [月營收表 廣達 (2382)](https://wenchiehlee-investment.github.io/blog/2025/11/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E5%BB%A3%E9%81%94-2382/)
+- 2025/11/19 - [月營收表 中華電 (2412)](https://wenchiehlee-investment.github.io/blog/2025/11/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E4%B8%AD%E8%8F%AF%E9%9B%BB-2412/)
+- 2025/11/19 - [月營收表 聯發科 (2454)](https://wenchiehlee-investment.github.io/blog/2025/11/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E8%81%AF%E7%99%BC%E7%A7%91-2454/)
+- 2025/11/19 - [月營收表 敦陽科 (2480)](https://wenchiehlee-investment.github.io/blog/2025/11/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E6%95%A6%E9%99%BD%E7%A7%91-2480/)
+- 2025/11/19 - [月營收表 聯詠 (3034)](https://wenchiehlee-investment.github.io/blog/2025/11/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E8%81%AF%E8%A9%A0-3034/)
+- 2025/11/19 - [月營收表 群聯 (8299)](https://wenchiehlee-investment.github.io/blog/2025/11/%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%A8-%E7%BE%A4%E8%81%AF-8299/)
 - 2025/08/04 - [台股資料流向與7層分析架構整合](https://wenchiehlee-investment.github.io/blog/2025/07/%E5%8F%B0%E8%82%A1%E8%B3%87%E6%96%99%E6%B5%81%E5%90%91%E8%88%877%E5%B1%A4%E5%88%86%E6%9E%90%E6%9E%B6%E6%A7%8B%E6%95%B4%E5%90%88/)
 - 2025/07/01 - [股票資訊分析堆疊架構（7-Level Stock Information Stack）](https://wenchiehlee-investment.github.io/blog/2025/06/%E8%82%A1%E7%A5%A8%E8%B3%87%E8%A8%8A%E5%88%86%E6%9E%90%E5%A0%86%E7%96%8A%E6%9E%B6%E6%A7%8B7-level-stock-information-stack/)
 - 2024/12/22 - [過額配售是什麼？以 **8272 全景軟體** 為例](https://wenchiehlee-investment.github.io/blog/2024/10/%E9%81%8E%E9%A1%8D%E9%85%8D%E5%94%AE%E6%98%AF%E4%BB%80%E9%BA%BC%E4%BB%A5-8272-%E5%85%A8%E6%99%AF%E8%BB%9F%E9%AB%94-%E7%82%BA%E4%BE%8B/)
