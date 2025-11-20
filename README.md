@@ -18,7 +18,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/11/19 - [11/18興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D015a3cdc-b21d-4c18-b8c4-b7c696f241e7&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw05D-Ric7gtj8TdlzjuQAyg)
+- 2025/11/21 - [邁科公告本公司股票初次上市前現金增資員工認購股款催繳事宜| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/MLnmNjQ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1gLLL2oVbv6VCHxdfKceCd)
+- 2025/11/20 - [邁科公告本公司辦理股票初次上市<b>過額配售</b>內容- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Da976ff7e-fdc5-437b-837b-45b97e9c7739&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1uxoRRo2xv2djWpMR73HfK)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
