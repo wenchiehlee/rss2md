@@ -22,9 +22,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/11/19 - [11/18興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/BEQnv2N&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Gertw4gVEtPKQv7Dcf3Ei)
 - 2025/11/19 - [11/18興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D015a3cdc-b21d-4c18-b8c4-b7c696f241e7&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw05D-Ric7gtj8TdlzjuQAyg)
-- 2025/11/19 - [興櫃申報轉讓：11月18日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2287947002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2-6YysU498Rcvhbxtc0fao)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
@@ -74,9 +72,6 @@
 
 # wenchiehlee@life
 <!-- _feedlife_ start -->
-- 2020/11/17 - [陸寄居蟹愛吃的東西](https://wenchiehlee1020.medium.com/%E9%99%B8%E5%AF%84%E5%B1%85%E8%9F%B9%E6%84%9B%E5%90%83%E7%9A%84%E6%9D%B1%E8%A5%BF-b56592041d42?source=rss-3f9fbe6f3140------2)
-- 2020/11/11 - [趕海地圖](https://wenchiehlee1020.medium.com/%E8%B6%95%E6%B5%B7%E5%9C%B0%E5%9C%96-6a3432ad0ed1?source=rss-3f9fbe6f3140------2)
-- 2020/07/11 - [純釀青芒果酒 (6/13)](https://wenchiehlee1020.medium.com/%E7%B4%94%E9%87%80%E9%9D%92%E8%8A%92%E6%9E%9C%E9%85%92-6-13-10296871dcfe?source=rss-3f9fbe6f3140------2)
 - 2012/04/16 - [2012 古典樂 HD](http://wenchiehlee.blogspot.com/2012/04/2012-hd_16.html)
 - 2010/12/10 - [Television 2010 - Ericsson ConsumerLab Study](http://wenchiehlee.blogspot.com/2010/12/television-2010-ericsson-consumerlab.html)
 - 2010/06/02 - [2009年Linux Netbook市佔率將下滑 2009/3/17](http://wenchiehlee.blogspot.com/2010/06/2009linux-netbook-2009317.html)
