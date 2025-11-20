@@ -12,12 +12,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/11/19 - [【即時新聞】鴻勁(7769)申購熱度爆表，吸金逾2500億、轉型效益帶動毛利率衝近六成](https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/newsyoudeservetoknow-aeffc0ff-c4f4-11f0-9660-de9b28df3464&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ULM6-CkFlqN2KAd2Rbm2t)
-- 2025/11/19 - [【即時新聞】鴻勁(7769)上市承銷吸金逾2500億，今<b>抽籤</b>中籤估賺百萬引投資熱潮](https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/newsyoudeservetoknow-a4302863-c4f2-11f0-877b-d32c314de9be&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw37_kTcCPEHw77_PaBLRk2a)
-- 2025/11/19 - [最新消息| 國泰綜合證券Cathay Securities Corporation](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20251119%26CSeqNO%3DE9148359&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2cIKeV1sbDARQg67AtdYmy)
-- 2025/11/19 - [興櫃股王鴻勁27日<b>掛牌競拍</b>價飆到2030.37…抽中可望現賺88萬| 股市要聞 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/9148359&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2Q044Mz3Y5Z2ZEWmMUSCfR)
-- 2025/11/19 - [和碩「金孫」永擎明<b>掛牌</b>上市<b>競拍</b>均價334.95元申購中籤率低至0.67% - 優分析](https://www.google.com/url?rct=j&sa=t&url=https://uanalyze.com.tw/articles/3770539170&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0y-IUQ9-XOpoTmtrnoDWE-)
-- 2025/11/19 - [興櫃股王轉上市申購現賺88萬元改寫台股歷史「三高」新標竿 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9147897&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw24dnUKVHay23iGh3p2S0tg)
+- 2025/11/20 - [鴻勁公開申購逾20萬筆凍結市場資金近3000億元 - 華視新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202511/202511202535783.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw00KTTv5gDTxN4s_U1vtUrO)
+- 2025/11/20 - [鴻勁公開申購逾20萬筆凍結市場資金近3000億元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%25B4%25BB%25E5%258B%2581%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E9%2580%25BE20%25E8%2590%25AC%25E7%25AD%2586-%25E5%2587%258D%25E7%25B5%2590%25E5%25B8%2582%25E5%25A0%25B4%25E8%25B3%2587%25E9%2587%2591%25E8%25BF%25913000%25E5%2584%2584%25E5%2585%2583-063353377.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2b-JuO3p5q8nOw5F0C52MH)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
