@@ -70,6 +70,9 @@
 
 # wenchiehlee@life
 <!-- _feedlife_ start -->
+- 2020/11/17 - [陸寄居蟹愛吃的東西](https://wenchiehlee1020.medium.com/%E9%99%B8%E5%AF%84%E5%B1%85%E8%9F%B9%E6%84%9B%E5%90%83%E7%9A%84%E6%9D%B1%E8%A5%BF-b56592041d42?source=rss-3f9fbe6f3140------2)
+- 2020/11/11 - [趕海地圖](https://wenchiehlee1020.medium.com/%E8%B6%95%E6%B5%B7%E5%9C%B0%E5%9C%96-6a3432ad0ed1?source=rss-3f9fbe6f3140------2)
+- 2020/07/11 - [純釀青芒果酒 (6/13)](https://wenchiehlee1020.medium.com/%E7%B4%94%E9%87%80%E9%9D%92%E8%8A%92%E6%9E%9C%E9%85%92-6-13-10296871dcfe?source=rss-3f9fbe6f3140------2)
 - 2012/04/16 - [2012 古典樂 HD](http://wenchiehlee.blogspot.com/2012/04/2012-hd_16.html)
 - 2010/12/10 - [Television 2010 - Ericsson ConsumerLab Study](http://wenchiehlee.blogspot.com/2010/12/television-2010-ericsson-consumerlab.html)
 - 2010/06/02 - [2009年Linux Netbook市佔率將下滑 2009/3/17](http://wenchiehlee.blogspot.com/2010/06/2009linux-netbook-2009317.html)
