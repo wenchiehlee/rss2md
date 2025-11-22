@@ -25,6 +25,7 @@
 <!-- _feedinvestment2_ start -->
 - 2025/11/22 - [鴻勁本公司辦理股票初次上市<b>過額配售</b>內容- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D76022631-3c0b-49f2-a043-2273a8ffc3c2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3V7bfmy_SYKvJ7U_yZCEjI)
 - 2025/11/22 - [鴻勁本公司股票初次上市前現金增資員工認購股款催繳事宜| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/0MNoGBD&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1g3bPZK4gRP8cMx4WYP9Y9)
+- 2025/11/22 - [鴻勁本公司辦理股票初次上市<b>過額配售</b>內容| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/l251G0g&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw13aXdBO-YB57H5H-UW6yR1)
 - 2025/11/22 - [資拓宏宇初上市前現增案股款約3.57億元已全數收足，增資基準日11/21 | MoneyDJ理財網 ...](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/OpyP2Ky&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2mbDB8x7JGwVcJLLUjJH9m)
 - 2025/11/22 - [華豫寧公告本公司113年度員工認股權憑證認股價格調整| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/MLnmnQQ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0YqFkl94qF9jB_KmiIXeyf)
 - 2025/11/22 - [華豫寧公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/5yeEeBK&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1sRzB3TzmhsnfPMRz26lBn)
