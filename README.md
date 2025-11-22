@@ -12,13 +12,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/11/22 - [資服新兵報到仁大資訊12/4<b>抽籤</b>10日<b>掛牌</b>承銷價41元| 優分析UAnalyze - 掌握全球財經脈動](https://www.google.com/url?rct=j&sa=t&url=https://uanalyze.com.tw/articles/1163939718&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw05BuR5BwwC85ZahC9EjoXt)
 - 2025/11/22 - [仁大11/25起<b>競拍</b>金融AI成第2成長曲線 - 奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E4%25BB%2581%25E5%25A4%25A711-25%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E9%2587%2591%25E8%259E%258Dai%25E6%2588%2590%25E7%25AC%25AC2%25E6%2588%2590%25E9%2595%25B7%25E6%259B%25B2%25E7%25B7%259A-151726180.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1xmiDE45DFrrAcKXtdojKJ)
 - 2025/11/21 - [資服新兵報到仁大資訊12/4<b>抽籤</b>10日<b>掛牌</b>承銷價41元| 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/print/6247095%3Futm_source%3DB2Bconcordsa248602fd6bf%26utm_medium%3DNewsApi%26embed%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3z9Mox-tVsjYyMd2zqFXqn)
-- 2025/11/21 - [資服新兵報到仁大資訊12/4<b>抽籤</b>10日<b>掛牌</b>承銷價41元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%25B3%2587%25E6%259C%258D%25E6%2596%25B0%25E5%2585%25B5%25E5%25A0%25B1%25E5%2588%25B0-%25E4%25BB%2581%25E5%25A4%25A7%25E8%25B3%2587%25E8%25A8%258A12-4%25E6%258A%25BD%25E7%25B1%25A4-10%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B941%25E5%2585%2583-101120391.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3a7DXUNfXg0UyyOLyFFl32)
-- 2025/11/21 - [仁大資訊啟動<b>競拍</b>底價32.8元 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/11074/9155276&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw14hRuZ-rrkrkrVOgItiM_o)
-- 2025/11/21 - [仁大資訊啟動<b>競拍</b>底價32.8元| 櫃買動態| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9155276&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3Eo7WvIx1T-63rx-BHhojX)
-- 2025/11/21 - [《興櫃股》仁大資訊11月25日起<b>競拍</b>底價32.8元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E4%25BB%2581%25E5%25A4%25A7%25E8%25B3%2587%25E8%25A8%258A11%25E6%259C%258825%25E6%2597%25A5%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E5%25BA%2595%25E5%2583%25B932-8%25E5%2585%2583-080015407.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2ncF3uCJaCZ9nOpVc5wbVR)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
