@@ -37,7 +37,6 @@
 - 2025/11/21 - [【公告】台泥蘇澳廠火災情形及因應措施 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%258F%25B0%25E6%25B3%25A5%25E8%2598%2587%25E6%25BE%25B3%25E5%25BB%25A0%25E7%2581%25AB%25E7%2581%25BD%25E6%2583%2585%25E5%25BD%25A2%25E5%258F%258A%25E5%259B%25A0%25E6%2587%2589%25E6%258E%25AA%25E6%2596%25BD-024625632.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw26CgmAmCst0Ll7UyJMEwCZ)
 - 2025/11/21 - [萊德光電-KY初上櫃掛牌首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dbaa1bd80-26e8-4e34-97d2-ccc7e5d82dd5&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0WJu4mu5_djmL9JC4mrEU1)
 - 2025/11/21 - [格斯科技*第一次股臨會決議辦理私募普通股增資案等重要事項- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D561071fc-1cb9-45b9-b801-96c6d09952f5%26c%3DMB00&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1fc-pQM51gQENHYy8-C-wH)
-- 2025/11/21 - [興櫃申報轉讓：11月20日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2288913002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0AJMy3bB2JlQpu8teKseg3)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
