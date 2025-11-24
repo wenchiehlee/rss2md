@@ -20,6 +20,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/11/24 - [力積電11/25參加花旗證券舉辦之法說會| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/x2kqRWr&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1hihlf1uFLLB8r77DbylkF)
+- 2025/11/24 - [11/24櫃買市場三大法人合計買超股票27.31億元| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/BEQyNyN&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1EbJk3lWziz_O-CHQepehr)
 - 2025/11/24 - [櫃買中心預計11/27舉辦崴寶上櫃掛牌典禮| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/kE50wLZ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1OrjgRpCqgVo7KpFw1df3f)
 - 2025/11/24 - [【公告】華豫寧洽定上櫃買賣開始日並自同日起終止興櫃買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E8%258F%25AF%25E8%25B1%25AB%25E5%25AF%25A7%25E6%25B4%25BD%25E5%25AE%259A%25E4%25B8%258A%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3%25E9%2596%258B%25E5%25A7%258B%25E6%2597%25A5%25E4%25B8%25A6%25E8%2587%25AA%25E5%2590%258C%25E6%2597%25A5%25E8%25B5%25B7%25E7%25B5%2582%25E6%25AD%25A2%25E8%2588%2588%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3-083709944.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1U01Sh6l-98_TqhcP_Bjpj)
 - 2025/11/24 - [邁科：公司股票11/25起轉上市買賣- 台股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3D3ac6d797-6ca1-488b-bb92-cff49a7785cf%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0hdZnP4TpOauoMN1pLicRQ)
