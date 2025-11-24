@@ -13,8 +13,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/11/22 - [仁大11/25起<b>競拍</b>金融AI成第2成長曲線 - 奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E4%25BB%2581%25E5%25A4%25A711-25%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E9%2587%2591%25E8%259E%258Dai%25E6%2588%2590%25E7%25AC%25AC2%25E6%2588%2590%25E9%2595%25B7%25E6%259B%25B2%25E7%25B7%259A-151726180.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1xmiDE45DFrrAcKXtdojKJ)
-- 2025/11/21 - [資服新兵報到仁大資訊12/4<b>抽籤</b>10日<b>掛牌</b>承銷價41元| 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/print/6247095%3Futm_source%3DB2Bconcordsa248602fd6bf%26utm_medium%3DNewsApi%26embed%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3z9Mox-tVsjYyMd2zqFXqn)
+- 2025/11/24 - [仁大資訊明起每股底價32.8元<b>競拍</b>，12/10<b>掛牌</b>，承銷價每股41元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E4%25BB%2581%25E5%25A4%25A7%25E8%25B3%2587%25E8%25A8%258A%25E6%2598%258E%25E8%25B5%25B7%25E6%25AF%258F%25E8%2582%25A1%25E5%25BA%2595%25E5%2583%25B932-8%25E5%2585%2583%25E7%25AB%25B6%25E6%258B%258D-12-10%25E6%258E%259B%25E7%2589%258C-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9%25E6%25AF%258F%25E8%2582%25A141%25E5%2585%2583-035755114.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0wrwq-SQubtiXGIqCjmbY6)
+- 2025/11/24 - [仁大資訊12/10<b>掛牌</b> - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E4%25BB%2581%25E5%25A4%25A7%25E8%25B3%2587%25E8%25A8%258A-12-10%25E6%258E%259B%25E7%2589%258C-100911579.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1ra9c3owaPmG-NUWz37CLb)
+- 2025/11/24 - [仁大資訊11/25展開<b>競拍</b>，將於12/10<b>掛牌</b>- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/news/newsviewer.aspx%3Fa%3Dbd0f6cb0-f9dc-4d98-87b9-aadff59266d0&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1SAuWF9pjU0iV_CnWpyvBu)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
