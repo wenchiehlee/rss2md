@@ -20,6 +20,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/11/25 - [崴寶初上櫃前現增案員工認購股款催繳期間為11/25~12/26 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/3NypM5M&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw24zintBETDm2H-YpIRjHXT)
 - 2025/11/24 - [力積電11/25參加花旗證券舉辦之法說會| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/x2kqRWr&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1hihlf1uFLLB8r77DbylkF)
 - 2025/11/24 - [11/24櫃買市場三大法人合計買超股票27.31億元| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/BEQyNyN&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1EbJk3lWziz_O-CHQepehr)
 - 2025/11/24 - [陸前10月發電裝機容量年增17.3% 太陽能增逾四成| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/XY5lzlw&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0TlY5j8Ld7wP5aKxcIEtiP)
