@@ -19,7 +19,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/11/22 - [鴻勁本公司辦理股票初次上市<b>過額配售</b>內容| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/l251G0g&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw13aXdBO-YB57H5H-UW6yR1)
+- 2025/11/24 - [華豫寧初上櫃前現增案股款約1.97億元已全數收足，增資基準日11/21 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oq90Y9y&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0uYIk4bA2GvPpbU5xGz67r)
+- 2025/11/24 - [華豫寧113年度員工認股權憑證認股價格11/21起調整為39.09元| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/vX3pO33&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2gBwI6ST2PNrVtOX-HF__4)
+- 2025/11/24 - [華豫寧初次上櫃<b>過額配售</b>100張，佔公開承銷股數比例1.90% - 新聞 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df6782925-5487-4b9f-a2fa-1a09cf5744a6&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw02Cp9bM-3cey6CnItgYd6Z)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
