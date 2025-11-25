@@ -13,9 +13,12 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/11/24 - [仁大資訊明起每股底價32.8元<b>競拍</b>，12/10<b>掛牌</b>，承銷價每股41元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E4%25BB%2581%25E5%25A4%25A7%25E8%25B3%2587%25E8%25A8%258A%25E6%2598%258E%25E8%25B5%25B7%25E6%25AF%258F%25E8%2582%25A1%25E5%25BA%2595%25E5%2583%25B932-8%25E5%2585%2583%25E7%25AB%25B6%25E6%258B%258D-12-10%25E6%258E%259B%25E7%2589%258C-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9%25E6%25AF%258F%25E8%2582%25A141%25E5%2585%2583-035755114.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0wrwq-SQubtiXGIqCjmbY6)
-- 2025/11/24 - [仁大資訊12/10<b>掛牌</b> - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E4%25BB%2581%25E5%25A4%25A7%25E8%25B3%2587%25E8%25A8%258A-12-10%25E6%258E%259B%25E7%2589%258C-100911579.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1ra9c3owaPmG-NUWz37CLb)
-- 2025/11/24 - [仁大資訊11/25展開<b>競拍</b>，將於12/10<b>掛牌</b>- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/news/newsviewer.aspx%3Fa%3Dbd0f6cb0-f9dc-4d98-87b9-aadff59266d0&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1SAuWF9pjU0iV_CnWpyvBu)
+- 2025/11/25 - [君曜擬12/10上櫃<b>競拍</b>起跑底價48.06元| 證券| 中央社CNA](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202511250115.aspx&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0-1YX4rkLAzfCEg1NTnCmL)
+- 2025/11/25 - [君曜擬12/10上櫃<b>競拍</b>起跑底價48.06元- 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202511/202511252537414.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1kn9rfdIXGhegj0hi6TrfK)
+- 2025/11/25 - [啟動AI金融化布局！仁大資訊營收連三升12/10<b>掛牌</b>倒數 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1756022&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2q7s_bf-_ZLxwUS7U-N4IS)
+- 2025/11/25 - [君曜擬12/10上櫃<b>競拍</b>起跑底價48.06元 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7240/9161592%3Ffrom%3Dudn-ch1_breaknews-1-99-news&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3r-ULTeLIFOaIKljlOwQDG)
+- 2025/11/25 - [君曜擬12/10上櫃<b>競拍</b>起跑底價48.06元| 產業熱點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5612/9161592&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2jYa4_39MImI22OaLRVeoC)
+- 2025/11/25 - [啟動AI金融化布局！仁大資訊營收連三升12/10<b>掛牌</b>倒數 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://stock.setn.com/news/1756022&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2VoDhRQ_J6v4szIYtKZR89)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
