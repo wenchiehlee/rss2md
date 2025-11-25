@@ -21,6 +21,7 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2025/11/25 - [崴寶初上櫃前現增案員工認購股款催繳期間為11/25~12/26 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/3NypM5M&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw24zintBETDm2H-YpIRjHXT)
+- 2025/11/25 - [崴寶初次上櫃<b>過額配售</b>420張，佔公開承銷數量比例14.97% - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Deb6d46aa-b526-4bb8-8b78-01d2e28fc956&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3PloiV4zQfHAqmXe4J3DPF)
 - 2025/11/24 - [力積電11/25參加花旗證券舉辦之法說會| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/x2kqRWr&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1hihlf1uFLLB8r77DbylkF)
 - 2025/11/24 - [11/24櫃買市場三大法人合計買超股票27.31億元| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/BEQyNyN&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1EbJk3lWziz_O-CHQepehr)
 - 2025/11/24 - [陸前10月發電裝機容量年增17.3% 太陽能增逾四成| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/XY5lzlw&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0TlY5j8Ld7wP5aKxcIEtiP)
@@ -32,9 +33,6 @@
 - 2025/11/24 - [鴻勁初上市前現增案員工認購股款催繳期間為11/24~12/24 | MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/kE50o82&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3MFyBfkrIpGhb7VuC-w9w_)
 - 2025/11/24 - [11/21上市近二日融資使用率前20名排行| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PG7g37o&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2s8gehG7xjvx0V_3UISkPK)
 - 2025/11/24 - [11/21上櫃融資減少排行前20名| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/kE50o51&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2tM98tFm8_LbWcmAKTFBjL)
-- 2025/11/24 - [華豫寧初上櫃前現增案股款約1.97億元已全數收足，增資基準日11/21 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oq90Y9y&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0uYIk4bA2GvPpbU5xGz67r)
-- 2025/11/24 - [華豫寧113年度員工認股權憑證認股價格11/21起調整為39.09元| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/vX3pO33&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2gBwI6ST2PNrVtOX-HF__4)
-- 2025/11/24 - [華豫寧初次上櫃<b>過額配售</b>100張，佔公開承銷股數比例1.90% - 新聞 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df6782925-5487-4b9f-a2fa-1a09cf5744a6&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw02Cp9bM-3cey6CnItgYd6Z)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
