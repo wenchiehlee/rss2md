@@ -19,7 +19,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/11/26 - [嘉實:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6250840&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1apMnhckAVGbpwyRvfvb-9)
+- 2025/11/27 - [永擎本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D4855d837-d539-4fbc-a118-3d983e41aa30&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw15cqPVWEwr0LWHo6YWELuz)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
