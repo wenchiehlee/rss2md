@@ -25,6 +25,7 @@
 ## mkdocs-investment
 <!-- _feedinvestment3_ start -->
 - 2025/11/27 - [股利分配總覽報告 - 全部股票](https://wenchiehlee-investment.github.io/blog/2025/11/%E8%82%A1%E5%88%A9%E5%88%86%E9%85%8D%E7%B8%BD%E8%A6%BD%E5%A0%B1%E5%91%8A---%E5%85%A8%E9%83%A8%E8%82%A1%E7%A5%A8/)
+- 2025/11/27 - [📊 完整營收報告總覽 - 所有股票](https://wenchiehlee-investment.github.io/blog/2025/11/-%E5%AE%8C%E6%95%B4%E7%87%9F%E6%94%B6%E5%A0%B1%E5%91%8A%E7%B8%BD%E8%A6%BD---%E6%89%80%E6%9C%89%E8%82%A1%E7%A5%A8/)
 - 2025/11/27 - [股利分配報告 光寶科 (2301)](https://wenchiehlee-investment.github.io/blog/2025/11/%E8%82%A1%E5%88%A9%E5%88%86%E9%85%8D%E5%A0%B1%E5%91%8A-%E5%85%89%E5%AF%B6%E7%A7%91-2301/)
 - 2025/11/27 - [股利分配報告 聯電 (2303)](https://wenchiehlee-investment.github.io/blog/2025/11/%E8%82%A1%E5%88%A9%E5%88%86%E9%85%8D%E5%A0%B1%E5%91%8A-%E8%81%AF%E9%9B%BB-2303/)
 - 2025/11/27 - [股利分配報告 台達電 (2308)](https://wenchiehlee-investment.github.io/blog/2025/11/%E8%82%A1%E5%88%A9%E5%88%86%E9%85%8D%E5%A0%B1%E5%91%8A-%E5%8F%B0%E9%81%94%E9%9B%BB-2308/)
@@ -43,7 +44,6 @@
 - 2025/11/27 - [股利分配報告 微星 (2377)](https://wenchiehlee-investment.github.io/blog/2025/11/%E8%82%A1%E5%88%A9%E5%88%86%E9%85%8D%E5%A0%B1%E5%91%8A-%E5%BE%AE%E6%98%9F-2377/)
 - 2025/11/27 - [股利分配報告 瑞昱 (2379)](https://wenchiehlee-investment.github.io/blog/2025/11/%E8%82%A1%E5%88%A9%E5%88%86%E9%85%8D%E5%A0%B1%E5%91%8A-%E7%91%9E%E6%98%B1-2379/)
 - 2025/11/27 - [股利分配報告 廣達 (2382)](https://wenchiehlee-investment.github.io/blog/2025/11/%E8%82%A1%E5%88%A9%E5%88%86%E9%85%8D%E5%A0%B1%E5%91%8A-%E5%BB%A3%E9%81%94-2382/)
-- 2025/11/27 - [股利分配報告 台光電 (2383)](https://wenchiehlee-investment.github.io/blog/2025/11/%E8%82%A1%E5%88%A9%E5%88%86%E9%85%8D%E5%A0%B1%E5%91%8A-%E5%8F%B0%E5%85%89%E9%9B%BB-2383/)
 <!-- _feedinvestment3_ end -->
 
 # wenchiehlee@work
