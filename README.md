@@ -9,6 +9,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/11/29 - [上櫃新兵報到海柏特12／17<b>掛牌</b>- 日報- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20251129700184-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw38xRNR9k_WNhDO5LCGL3WE)
 - 2025/11/28 - [海柏特連3年營收雙位數成長預計12/2啟動上櫃前<b>競價拍賣</b> - 中央社](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/419993&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3hFcZYj_QDi-DubmwY-wvG)
 <!-- _feedinvestment1_1_ end -->
 
