@@ -9,12 +9,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/11/25 - [君曜擬12/10上櫃<b>競拍</b>起跑底價48.06元| 證券| 中央社CNA](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202511250115.aspx&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0-1YX4rkLAzfCEg1NTnCmL)
-- 2025/11/25 - [君曜擬12/10上櫃<b>競拍</b>起跑底價48.06元- 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202511/202511252537414.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1kn9rfdIXGhegj0hi6TrfK)
-- 2025/11/25 - [啟動AI金融化布局！仁大資訊營收連三升12/10<b>掛牌</b>倒數 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1756022&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2q7s_bf-_ZLxwUS7U-N4IS)
-- 2025/11/25 - [君曜擬12/10上櫃<b>競拍</b>起跑底價48.06元 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7240/9161592%3Ffrom%3Dudn-ch1_breaknews-1-99-news&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3r-ULTeLIFOaIKljlOwQDG)
-- 2025/11/25 - [君曜擬12/10上櫃<b>競拍</b>起跑底價48.06元| 產業熱點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5612/9161592&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2jYa4_39MImI22OaLRVeoC)
-- 2025/11/25 - [啟動AI金融化布局！仁大資訊營收連三升12/10<b>掛牌</b>倒數 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://stock.setn.com/news/1756022&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2VoDhRQ_J6v4szIYtKZR89)
+- 2025/11/28 - [海柏特連3年營收雙位數成長預計12/2啟動上櫃前<b>競價拍賣</b> - 中央社](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/419993&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3hFcZYj_QDi-DubmwY-wvG)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
