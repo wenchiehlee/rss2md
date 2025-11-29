@@ -10,7 +10,6 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2025/11/29 - [宏碁小金雞海柏特12/17<b>掛牌</b>！5日公開申購抽中有機會賺2萬 - 知新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/917014ADF2B5D7684219779076B99EA6&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw20AmxTEVzv4KjsZTyBLhRL)
-- 2025/11/29 - [上櫃新兵報到海柏特12／17<b>掛牌</b>- 日報- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20251129700184-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw38xRNR9k_WNhDO5LCGL3WE)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
