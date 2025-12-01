@@ -9,7 +9,10 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/11/29 - [宏碁小金雞海柏特12/17<b>掛牌</b>！5日公開申購抽中有機會賺2萬 - 知新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/917014ADF2B5D7684219779076B99EA6&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw20AmxTEVzv4KjsZTyBLhRL)
+- 2025/12/01 - [【即時新聞】宏碁旗下海柏特宣布12月17日<b>掛牌</b>上櫃，最新<b>競價拍賣</b>與承銷價資訊曝光](https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/newsyoudeservetoknow-fcf0c663-ce7d-11f0-992f-862b53ec42ea&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3n0wbl3Qycfwpmqa4nGjN4)
+- 2025/12/01 - [海柏特12月17日<b>掛牌</b>預計展開上櫃前<b>競價拍賣</b> - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9174083&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1EMGLeSdCFskQ1BpYgHpuK)
+- 2025/12/01 - [最新消息| 國泰綜合證券Cathay Securities Corporation](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20251201%26CSeqNO%3DE9174083&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3gP6wS4TCXyufs74ukeCNg)
+- 2025/12/01 - [海柏特12/2展開<b>競拍</b>，將於12/17上櫃| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/KwzJoy0&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Z75KPgFIEkn3H9ftRiv68)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
