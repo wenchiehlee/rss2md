@@ -9,6 +9,12 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/12/02 - [仁大資訊<b>競拍</b>均價47.7元申購中籤報酬率逾40％、現賺近1.8萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9175053&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3-0sJ4CZItFQi5qBC8dm2a)
+- 2025/12/01 - [12/4辦理仁大資訊初上櫃普通股公開申購電腦<b>抽籤</b>說明| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/GgmYZNQ&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1VXq5GUNz1dvQ3CRWcIRiG)
+- 2025/12/01 - [市場不買單？君曜<b>競拍</b>均價58.4元、承銷價跟著調降中籤報酬率22％ | 店頭未上市 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9175060&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2b5XZKhXiLTiWdLJUxes6p)
+- 2025/12/01 - [市場不買單？君曜<b>競拍</b>均價58.4元、承銷價跟著調降中籤報酬率22](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9175060&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3MgFeTk2qrZuP1LGsQkZK9)
+- 2025/12/01 - [本周5檔新股<b>抽籤</b>紅包、銅板價讓小資族有望以小搏大抽中這檔賺2萬元 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9174625&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0SiduZBdrFcXb7hPVn8Mw2)
+- 2025/12/01 - [本周5檔新股<b>抽籤</b>紅包、銅板價讓小資族有望以小搏大抽中這檔賺2萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9174625%3Ffrom%3Dedn_maintab_index&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2Z3TytGsT6aEusMwKUl4az)
 - 2025/12/01 - [【即時新聞】宏碁旗下海柏特宣布12月17日<b>掛牌</b>上櫃，最新<b>競價拍賣</b>與承銷價資訊曝光](https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/newsyoudeservetoknow-fcf0c663-ce7d-11f0-992f-862b53ec42ea&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3n0wbl3Qycfwpmqa4nGjN4)
 - 2025/12/01 - [海柏特12月17日<b>掛牌</b>預計展開上櫃前<b>競價拍賣</b> - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9174083&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1EMGLeSdCFskQ1BpYgHpuK)
 - 2025/12/01 - [最新消息| 國泰綜合證券Cathay Securities Corporation](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20251201%26CSeqNO%3DE9174083&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3gP6wS4TCXyufs74ukeCNg)
