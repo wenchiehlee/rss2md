@@ -17,7 +17,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/11/27 - [永擎本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D4855d837-d539-4fbc-a118-3d983e41aa30&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw15cqPVWEwr0LWHo6YWELuz)
+- 2025/12/01 - [華豫寧公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df0d57bcd-ae65-4cdc-8c67-42267833ae2b&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0bFVTmH3g2tkZ0juvtC9Ur)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
