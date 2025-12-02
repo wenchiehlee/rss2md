@@ -16,12 +16,6 @@
 - 2025/12/02 - [海柏特（6884）底價30元12/2至12/4為期3天啟動上櫃前<b>競拍</b> - 蕃新聞](https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20251202779656&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3DCtZEKSEu86A2GEHAFZga)
 - 2025/12/02 - [海柏特（6884）底價30元12/2至12/4為期3天啟動上櫃前<b>競拍</b> - 中央社](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/420170&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2p4-lwIk603qb08CDsc9HM)
 - 2025/12/02 - [德鴻<b>競拍</b>均價42.6元申購中籤現賺1.3萬元、報酬率達43.5% | 市場焦點| 證券| 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9177184&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3lR23I4i8Dx4JBI4zMRYxD)
-- 2025/12/02 - [仁大資訊<b>競拍</b>均價47.7元申購中籤報酬率逾40％、現賺近1.8萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9175053&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3-0sJ4CZItFQi5qBC8dm2a)
-- 2025/12/01 - [12/4辦理仁大資訊初上櫃普通股公開申購電腦<b>抽籤</b>說明| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/GgmYZNQ&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1VXq5GUNz1dvQ3CRWcIRiG)
-- 2025/12/01 - [市場不買單？君曜<b>競拍</b>均價58.4元、承銷價跟著調降中籤報酬率22％ | 店頭未上市 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9175060&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2b5XZKhXiLTiWdLJUxes6p)
-- 2025/12/01 - [市場不買單？君曜<b>競拍</b>均價58.4元、承銷價跟著調降中籤報酬率22](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9175060&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3MgFeTk2qrZuP1LGsQkZK9)
-- 2025/12/01 - [本周5檔新股<b>抽籤</b>紅包、銅板價讓小資族有望以小搏大抽中這檔賺2萬元 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9174625&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0SiduZBdrFcXb7hPVn8Mw2)
-- 2025/12/01 - [本周5檔新股<b>抽籤</b>紅包、銅板價讓小資族有望以小搏大抽中這檔賺2萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9174625%3Ffrom%3Dedn_maintab_index&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2Z3TytGsT6aEusMwKUl4az)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
