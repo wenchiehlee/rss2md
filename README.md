@@ -2,8 +2,11 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/11/25 - [啟動AI金融化布局！仁大資訊營收連三升12/10<b>掛牌</b>倒數 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://stock.setn.com/news/1756022&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2VoDhRQ_J6v4szIYtKZR89)
-- 2025/11/24 - [仁大資訊11/25展開<b>競拍</b>，將於12/10<b>掛牌</b>- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/news/newsviewer.aspx%3Fa%3Dbd0f6cb0-f9dc-4d98-87b9-aadff59266d0&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1SAuWF9pjU0iV_CnWpyvBu)
+- 2025/12/02 - [海柏特（6884）底價30元12/2至12/4為期3天啟動上櫃前<b>競拍</b> - 中央社](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/420170&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2p4-lwIk603qb08CDsc9HM)
+- 2025/12/02 - [本周5檔新股<b>抽籤</b>紅包、銅板價讓小資族有望以小搏大抽中這檔賺2萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9174625&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3joyxm2dN4BfYvHKW17CUY)
+- 2025/12/02 - [【即時新聞】宏碁旗下海柏特宣布12月17日<b>掛牌</b>上櫃，最新<b>競價拍賣</b>與承銷價資訊曝光](https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/newsyoudeservetoknow-fcf0c663-ce7d-11f0-992f-862b53ec42ea&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3n0wbl3Qycfwpmqa4nGjN4)
+- 2025/12/01 - [海柏特12月17日<b>掛牌</b>預計展開上櫃前<b>競價拍賣</b>｜新聞快訊 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/692d27e28ff59b56a68e0e79&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3qKLmc6hChz_cElYW3X8WZ)
+- 2025/12/01 - [海柏特12月17日<b>掛牌</b>預計展開上櫃前<b>競價拍賣</b>| 集中市場 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5710/9174083&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2PzJaJh3tgwqyv4Q4hT7Ox)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
