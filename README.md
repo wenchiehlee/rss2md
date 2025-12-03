@@ -20,7 +20,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/12/01 - [華豫寧公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df0d57bcd-ae65-4cdc-8c67-42267833ae2b&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0bFVTmH3g2tkZ0juvtC9Ur)
+- 2025/12/03 - [台灣證交所即時重大訊息- 公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 非凡新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.ustv.com.tw/companynews/177343&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0xjxgOZlh7vidv2YwO01ww)
+- 2025/12/03 - [資拓宏宇本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3Df39da24c-8c33-4ffa-8361-60c0a50da25a%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Vbm7jaOC7VMhMA8oOsCXa)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
