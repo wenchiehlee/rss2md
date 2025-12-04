@@ -12,6 +12,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/12/05 - [驊陞科技<b>競拍</b>6,552張拍賣底價32元- 證券- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20251204701170-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2Rnfw--WbWtSZ9Z7yCoP_8)
+- 2025/12/05 - [驊陞預計12/22上市<b>競拍</b>底價32元- 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202512/202512042540791.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3zenURHiLgBCb5nf6BBKtR)
+- 2025/12/04 - [影像晶片黑馬來了！它本月22日<b>掛牌</b>雙引擎佈局推升成長 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://stock.setn.com/news/1760542&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2iFbfMCPkDtqIGrrcE0ZxL)
 - 2025/12/04 - [傑霖12/22上櫃<b>競拍</b>底價每股45元- 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202512/202512032540456.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Oy0KFn1f6_tFilvNS_QuS)
 - 2025/12/04 - [《興櫃股》影像通訊新股傑霖上櫃前<b>競拍</b>將開跑](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20251203900516-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw01mhEbWLgvBt1DwAfLzkgy)
 - 2025/12/04 - [傑霖12/22上櫃<b>競拍</b>底價每股45元| 證券 - 中央社](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202512030267.aspx&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw297yWqt_CPAPTGcdeZumqr)
