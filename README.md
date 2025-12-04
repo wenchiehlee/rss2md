@@ -27,6 +27,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/12/04 - [12/3興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/j752VDL&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3w5c8laqLuahWj-yu0wFN1)
+- 2025/12/04 - [鴻勁本公司上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D072af53b-603e-4516-8974-6cd56b3cc8e4&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3nF7_bn0PJFmtDsqhObs2y)
+- 2025/12/04 - [邁科公告本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D10a47bf4-5b23-4817-a377-47a1359f4898&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ZUeFSY-_FO7iK4-mUDix6)
 - 2025/12/04 - [12/3興櫃公司持股轉讓明細 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D13b5456d-07fc-4fa9-9dd6-f906c149fec2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1lRVd5KhNuKXSrTHs2exJ-)
 - 2025/12/04 - [興櫃申報轉讓：12月03日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2293430002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1lqqJ-WSeFi7tm6vnPTe5W)
 <!-- _feedinvestment2_ end -->
