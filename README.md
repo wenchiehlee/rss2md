@@ -29,8 +29,6 @@
 <!-- _feedinvestment2_ start -->
 - 2025/12/04 - [12/3興櫃公司持股轉讓明細 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D13b5456d-07fc-4fa9-9dd6-f906c149fec2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1lRVd5KhNuKXSrTHs2exJ-)
 - 2025/12/04 - [興櫃申報轉讓：12月03日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2293430002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1lqqJ-WSeFi7tm6vnPTe5W)
-- 2025/12/03 - [台灣證交所即時重大訊息- 公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 非凡新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.ustv.com.tw/companynews/177343&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0xjxgOZlh7vidv2YwO01ww)
-- 2025/12/03 - [資拓宏宇本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3Df39da24c-8c33-4ffa-8361-60c0a50da25a%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Vbm7jaOC7VMhMA8oOsCXa)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
