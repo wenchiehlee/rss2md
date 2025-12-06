@@ -22,8 +22,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2025/12/06 - [常廣:公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6262546&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw24DpxNFSBtj0k-0ea0pmpc)
-- 2025/12/06 - [越峰114年11月營收3.03億、年增21.61% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/8n1wyqq&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2-4hiJyPl0ULfJEtM_Q5HI)
-- 2025/12/06 - [正淩114年11月營收1.26億、年增14.40% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/nXPYy3L&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3aCKjNGGlt5G43SALOCu7U)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
