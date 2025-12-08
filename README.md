@@ -21,7 +21,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/12/06 - [常廣:公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6262546&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw24DpxNFSBtj0k-0ea0pmpc)
+- 2025/12/08 - [共信-KY】台股第一家獲納中國首版商保創新藥目錄、【常廣】辦理股票初次上櫃<b>過額配售</b>承銷價 ...](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/featured/item/91402.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2bkysDlC5fijT4x7TuWfbs)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
