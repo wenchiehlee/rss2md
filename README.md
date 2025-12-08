@@ -12,11 +12,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2025/12/05 - [新股紅包好誘人！這檔抽中1張賺1張中籤可落袋8.6萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9184535&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2W3N35TEQOrOdccNOKXW7h)
-- 2025/12/05 - [《興櫃股》驊陞今起進行<b>競拍</b>每股底價32元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E9%25A9%258A%25E9%2599%259E%25E4%25BB%258A%25E8%25B5%25B7%25E9%2580%25B2%25E8%25A1%258C%25E7%25AB%25B6%25E6%258B%258D-%25E6%25AF%258F%25E8%2582%25A1%25E5%25BA%2595%25E5%2583%25B932%25E5%2585%2583-003058782.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1_BPKclN3n9eoNspgll1HW)
-- 2025/12/05 - [《興櫃股》驊陞科技<b>競拍</b>6552張拍賣底價32元 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D6017560001%26PU%3D0010&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Burcz9FHVGNrG6l_Ml-DD)
-- 2025/12/04 - [驊陞預計12/22上市<b>競拍</b>底價32元- 放言Fount Media](https://www.google.com/url?rct=j&sa=t&url=https://www.fountmedia.io/article/330712&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Tln4l_J2uFqvbBcvZKtI_)
-- 2025/12/04 - [傑霖科技12/22<b>掛牌</b>上櫃暫定承銷價53.1 元12/3起<b>競拍</b> - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/print/6260204&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw18hNLgljgCQ_V0ih7KL1T5)
+- 2025/12/08 - [宏碁旗下「小金虎」海柏特<b>競拍</b>均價43.88元申購報酬率超狂逾76％ | 市場焦點](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9190088&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw39Gijrhc3vpfmEhrlZI2Ez)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
