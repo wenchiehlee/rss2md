@@ -24,7 +24,6 @@
 - 2025/12/08 - [仁大資訊公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/3Nyqx8o&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1r7VRDCB2T9I01JxHILrKO)
 - 2025/12/08 - [【公告】仁大資訊辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E4%25BB%2581%25E5%25A4%25A7%25E8%25B3%2587%25E8%25A8%258A%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-084424333.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw39OPjvu5xbHGoVKF1ExTMi)
 - 2025/12/08 - [仁大資訊初次上櫃<b>過額配售</b>50張，佔公開承銷股數比例1.42% - 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Daef7481c-685c-400d-8ef2-94e8fef9a114&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw37wkHEgPYih7OeWMsBbgQp)
-- 2025/12/08 - [共信-KY】台股第一家獲納中國首版商保創新藥目錄、【常廣】辦理股票初次上櫃<b>過額配售</b>承銷價 ...](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/featured/item/91402.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2bkysDlC5fijT4x7TuWfbs)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
