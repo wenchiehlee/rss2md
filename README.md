@@ -16,7 +16,6 @@
 - 2025/12/09 - [捷創擬12/23上櫃<b>競拍</b>底價68元| 證券 - 中央社](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202512090325.aspx&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1rM4ruhaFtQxoo6gj-0c1S)
 - 2025/12/09 - [上櫃新兵報到！捷創以底價68 元展開<b>競拍</b>、威聯通12/10 進行公開申購 - 財經新報](https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2025/12/09/new-recruits-stock/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0BwT7H6MxAhH7xpRtpwIw6)
 - 2025/12/09 - [宏碁旗下「小金虎」海柏特<b>競拍</b>均價43.88元申購報酬率超狂逾76％ | 股市要聞](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/9190088&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1wVmKMR2ebsA0ak9Vdi4oo)
-- 2025/12/08 - [宏碁旗下「小金虎」海柏特<b>競拍</b>均價43.88元申購報酬率超狂逾76％ | 市場焦點](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9190088&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw39Gijrhc3vpfmEhrlZI2Ez)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
