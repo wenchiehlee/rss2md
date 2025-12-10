@@ -11,6 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/12/11 - [矽科宏晟啟動<b>競拍</b>12/30<b>掛牌</b>上櫃 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%259F%25BD%25E7%25A7%2591%25E5%25AE%258F%25E6%2599%259F%25E5%2595%259F%25E5%258B%2595%25E7%25AB%25B6%25E6%258B%258D-12-30%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-192243329.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw153LY1a-OfcKvFeo1hRukD)
 - 2025/12/11 - [漢達12月23日將<b>掛牌</b>上櫃公開申購將啟動每股86.8元、抽中可賺1.4萬 - 國泰綜合證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20251210%26CSeqNO%3DE9193685&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3P8beRkFev_Uz6N4zM02XC)
 - 2025/12/11 - [漢達<b>競拍</b>投標今截止底價72.33元將<b>掛牌</b>上櫃- 財經 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20251210001860-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw07m23XmUa5uLKYkKHKMknE)
 - 2025/12/10 - [跟著台積電攻先進製程走有日系血統的矽科宏晟將上櫃！12/17公開申購 - 鏡新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.mnews.tw/external/mirrordaily34184&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2lJCdCA1ijS9nb1a63WJ7f)
