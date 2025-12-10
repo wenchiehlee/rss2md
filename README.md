@@ -2,11 +2,10 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/12/02 - [海柏特（6884）底價30元12/2至12/4為期3天啟動上櫃前<b>競拍</b> - 中央社](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/420170&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2p4-lwIk603qb08CDsc9HM)
-- 2025/12/02 - [本周5檔新股<b>抽籤</b>紅包、銅板價讓小資族有望以小搏大抽中這檔賺2萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9174625&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3joyxm2dN4BfYvHKW17CUY)
-- 2025/12/02 - [【即時新聞】宏碁旗下海柏特宣布12月17日<b>掛牌</b>上櫃，最新<b>競價拍賣</b>與承銷價資訊曝光](https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/newsyoudeservetoknow-fcf0c663-ce7d-11f0-992f-862b53ec42ea&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3n0wbl3Qycfwpmqa4nGjN4)
-- 2025/12/01 - [海柏特12月17日<b>掛牌</b>預計展開上櫃前<b>競價拍賣</b>｜新聞快訊 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/692d27e28ff59b56a68e0e79&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3qKLmc6hChz_cElYW3X8WZ)
-- 2025/12/01 - [海柏特12月17日<b>掛牌</b>預計展開上櫃前<b>競價拍賣</b>| 集中市場 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5710/9174083&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2PzJaJh3tgwqyv4Q4hT7Ox)
+- 2025/12/10 - [矽科宏晟12日起<b>競拍</b>12月30日<b>掛牌</b>交易、暫定承銷價188元- 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5274273&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1j0vcumWh4FzFxvkfbeaQ2)
+- 2025/12/10 - [宏碁旗下「小金虎」海柏特<b>競拍</b>均價43.88元申購報酬率超狂逾76％ | 市場焦點| 證券| 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9190088&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw39Gijrhc3vpfmEhrlZI2Ez)
+- 2025/12/10 - [漢達<b>競拍</b>投標今截止底價72.33元、23日<b>掛牌</b>上櫃 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5613/9193992&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0r8wjlT39c8uaCmgOLX-vR)
+- 2025/12/04 - [傑霖科技12/22<b>掛牌</b>上櫃暫定承銷價53.1 元12/3起<b>競拍</b> - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/print/6260204&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw18hNLgljgCQ_V0ih7KL1T5)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
