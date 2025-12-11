@@ -27,7 +27,6 @@
 - 2025/12/11 - [《興櫃股》矽科宏晟11月營收年增二成年底上櫃<b>掛牌</b> - 翻爆- 翻報](https://www.google.com/url?rct=j&sa=t&url=https://turnnewsapp.com/livenews/finance/20251211001178-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3tiawtRKTcl4GlLs_QThtv)
 - 2025/12/11 - [驊陞科技完成<b>競拍</b>；AI顯卡/車用領域料挹注動能| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/wJYQGDG&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1LnBeIAYzrATCdNAxtaJyV)
 - 2025/12/11 - [能率亞洲完成<b>競拍</b>；公開申購價18元- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3De9e5496a-b6af-4b1a-9d59-33fb70e0d68e&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2NYZMVOLtQmKH2P1NbulHn)
-- 2025/12/11 - [矽科宏晟啟動<b>競拍</b>12/30<b>掛牌</b>上櫃 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%259F%25BD%25E7%25A7%2591%25E5%25AE%258F%25E6%2599%259F%25E5%2595%259F%25E5%258B%2595%25E7%25AB%25B6%25E6%258B%258D-12-30%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-192243329.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw153LY1a-OfcKvFeo1hRukD)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
