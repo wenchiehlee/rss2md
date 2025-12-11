@@ -11,6 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/12/11 - [能率亞洲完成<b>競拍</b>22日上櫃公開申購價18元 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%2583%25BD%25E7%258E%2587%25E4%25BA%259E%25E6%25B4%25B2%25E5%25AE%258C%25E6%2588%2590%25E7%25AB%25B6%25E6%258B%258D22%25E6%2597%25A5%25E4%25B8%258A%25E6%25AB%2583-%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E5%2583%25B918%25E5%2585%2583-092654796.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2oegCp5IUEYTpyn5Sckgoy)
 - 2025/12/11 - [驊陞<b>競拍</b>超額認購3.68倍公開承銷價40元| 優分析UAnalyze - 理解市場．參與市場](https://www.google.com/url?rct=j&sa=t&url=https://uanalyze.com.tw/articles/8955941816&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0A_CviY8jy4OEGaq5dhG5h)
 - 2025/12/11 - [驊陞<b>競拍</b>超額認購3.68倍公開承銷價40元| 鉅亨網- 台股新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6271681&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2F_f9E9KXgMsP4t1DzvUJe)
 - 2025/12/11 - [能率亞洲完成上櫃前<b>競價拍賣</b>公開申購價18元擬於12/22<b>掛牌</b>| 鉅亨網- 台股新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6271499&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ONDUOq8HkVLs30JUW48P1)
