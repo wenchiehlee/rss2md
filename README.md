@@ -34,7 +34,6 @@
 - 2025/12/11 - [12/10興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/pe1o3DG&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw17_tW7Canog9bxbk87McxO)
 - 2025/12/11 - [12/10興櫃公司持股轉讓明細](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Deedd236a-76d1-49f9-8637-7f1f9b71d223&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1wsleQmpZZuheWiftXBLAd)
 - 2025/12/11 - [興櫃申報轉讓：12月10日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2297726002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3G864GA3KGh2OVwmm_r7_4)
-- 2025/12/10 - [仁大資訊：公司股票12/10起轉上櫃買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E4%25BB%2581%25E5%25A4%25A7%25E8%25B3%2587%25E8%25A8%258A-%25E5%2585%25AC%25E5%258F%25B8%25E8%2582%25A1%25E7%25A5%25A812-10%25E8%25B5%25B7%25E8%25BD%2589%25E4%25B8%258A%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3-001400404.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw34td0aBXiWOkmd14JpWeQe)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
