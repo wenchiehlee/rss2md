@@ -31,9 +31,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/12/11 - [12/10興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/pe1o3DG&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw17_tW7Canog9bxbk87McxO)
-- 2025/12/11 - [12/10興櫃公司持股轉讓明細](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Deedd236a-76d1-49f9-8637-7f1f9b71d223&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1wsleQmpZZuheWiftXBLAd)
-- 2025/12/11 - [興櫃申報轉讓：12月10日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2297726002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3G864GA3KGh2OVwmm_r7_4)
+- 2025/12/12 - [《業績-資服》仁大資訊11月營收為2.11億元，年減29.66% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25A5%25AD%25E7%25B8%25BE-%25E8%25B3%2587%25E6%259C%258D-%25E4%25BB%2581%25E5%25A4%25A7%25E8%25B3%2587%25E8%25A8%258A11%25E6%259C%2588%25E7%2587%259F%25E6%2594%25B6%25E7%2582%25BA2-11%25E5%2584%2584%25E5%2585%2583-%25E5%25B9%25B4%25E6%25B8%259B29-234631136.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1dW1YNlwolmuZ6FKdNlgRZ)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
