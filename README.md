@@ -27,6 +27,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/12/16 - [常廣初上櫃首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dc0085e82-3b22-4ae9-9608-39f28aa81f69&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1h-Eg5lGR65VwC67cLDyaC)
 - 2025/12/16 - [12/15興櫃公司持股轉讓明細](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D20a02f03-8428-4c0f-8425-848f6c30e043&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw01n5ZdiNnr5KLZfNfTKoi2)
 - 2025/12/16 - [興櫃申報轉讓：12月15日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2299230002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Clb2FM-GyGEPP6dTHFHxW)
 - 2025/12/15 - [海柏特初上櫃<b>過額配售</b>100張，佔公開承銷數量比例5.40% | MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/0MNRBqn&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3DiN83By__MzoJOv_Qhf_8)
