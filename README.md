@@ -2,10 +2,13 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/12/10 - [矽科宏晟12日起<b>競拍</b>12月30日<b>掛牌</b>交易、暫定承銷價188元- 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5274273&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1j0vcumWh4FzFxvkfbeaQ2)
-- 2025/12/10 - [宏碁旗下「小金虎」海柏特<b>競拍</b>均價43.88元申購報酬率超狂逾76％ | 市場焦點| 證券| 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9190088&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw39Gijrhc3vpfmEhrlZI2Ez)
-- 2025/12/10 - [漢達<b>競拍</b>投標今截止底價72.33元、23日<b>掛牌</b>上櫃 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5613/9193992&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0r8wjlT39c8uaCmgOLX-vR)
-- 2025/12/04 - [傑霖科技12/22<b>掛牌</b>上櫃暫定承銷價53.1 元12/3起<b>競拍</b> - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/print/6260204&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw18hNLgljgCQ_V0ih7KL1T5)
+- 2025/12/17 - [能率亞洲完成上櫃前<b>競價拍賣</b>公開申購價18元擬於12/22<b>掛牌</b>| 鉅亨網- 台股新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6271499&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ONDUOq8HkVLs30JUW48P1)
+- 2025/12/16 - [《興櫃股》矽科宏晟11月營收年增二成年底上櫃<b>掛牌</b>](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20251211900128-420101&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0rJPe_LvZlVAsZcqx-Of6D)
+- 2025/12/16 - [矽科宏晟明起<b>競拍</b>；續擴大跨國客戶占比 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dc6ce2c83-d6a8-47e3-8aaa-71511d237689&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2JrsNhKnMtYasNyP_wO6Cj)
+- 2025/12/16 - [能率亞洲完成上櫃前<b>競價拍賣</b>公開申購價18元擬於12/22<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2583%25BD%25E7%258E%2587%25E4%25BA%259E%25E6%25B4%25B2%25E5%25AE%258C%25E6%2588%2590%25E4%25B8%258A%25E6%25AB%2583%25E5%2589%258D%25E7%25AB%25B6%25E5%2583%25B9%25E6%258B%258D%25E8%25B3%25A3-%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E5%2583%25B918%25E5%2585%2583%25E6%2593%25AC%25E6%2596%25BC12-22%25E6%258E%259B%25E7%2589%258C-072444941.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2DA-iLEDzQEE9L4uv0USu3)
+- 2025/12/15 - [《興櫃股》威聯通公開申購凍結資金逾800億元抽中投資人賺近20萬元 - 旺得富理財網](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20251215900229-420101&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0H_KSDiUTscSfSpg-0LAEh)
+- 2025/12/15 - [威聯通預計於12月22日<b>掛牌</b>上櫃<b>競拍</b>、申購皆熱絡 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9203467&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ssa42JQ8QAGNIiQBOxkea)
+- 2025/12/11 - [驊陞<b>競拍</b>超額認購3.68倍公開承銷價40元 - TradingView](https://www.google.com/url?rct=j&sa=t&url=https://tw.tradingview.com/news/cnyes:58bd4b467acdf:0/&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1qSuYmTfpAnCHKeqvE5hlE)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
