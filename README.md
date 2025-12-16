@@ -15,9 +15,6 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2025/12/16 - [威聯通公開申購凍結資金842億元預計12/22<b>掛牌</b>上櫃](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/print/6275554&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0CURD5zlRKwUkN72075Blk)
-- 2025/12/16 - [威聯通22日<b>掛牌</b>上櫃 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20251216700269-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1WVQJF6zA8wWGYCptEr6wR)
-- 2025/12/16 - [威聯通申購凍資842億12月22日轉上櫃抽中一張估賺19.4萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9204939&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0hyJ8I6JRepN9n_Kf9wEIV)
-- 2025/12/15 - [捷創公開申購12/15結束抽中1張估可獲利8.4萬元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258D%25B7%25E5%2589%25B5%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC12-15%25E7%25B5%2590%25E6%259D%259F-%25E6%258A%25BD%25E4%25B8%25AD1%25E5%25BC%25B5%25E4%25BC%25B0%25E5%258F%25AF%25E7%258D%25B2%25E5%2588%25A98-4%25E8%2590%25AC%25E5%2585%2583-022156499.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1fYUsWwtLv9LIyjL6LUVyR)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
