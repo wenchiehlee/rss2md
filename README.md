@@ -11,6 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/12/16 - [威聯通公開申購凍結資金842億元預計12/22<b>掛牌</b>上櫃](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/print/6275554&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0CURD5zlRKwUkN72075Blk)
 - 2025/12/16 - [威聯通22日<b>掛牌</b>上櫃 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20251216700269-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1WVQJF6zA8wWGYCptEr6wR)
 - 2025/12/16 - [威聯通申購凍資842億12月22日轉上櫃抽中一張估賺19.4萬元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9204939&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0hyJ8I6JRepN9n_Kf9wEIV)
 - 2025/12/16 - [威聯通公開申購凍結逾800億資金預計12/22上櫃](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/cna/20251215/index-17657754534726818003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1BoY3ck9oROXaptxUyt18A)
