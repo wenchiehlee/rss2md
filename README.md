@@ -19,6 +19,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/12/17 - [德鴻公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/7N9nRRJ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ViuuJfnoj6chTO_vPbzxS)
 - 2025/12/17 - [能率亞洲公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2583%25BD%25E7%258E%2587%25E4%25BA%259E%25E6%25B4%25B2-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-092500664.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0rN0H4wbHD0dAG4ln__iqB)
 - 2025/12/17 - [君曜公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/MLngYmD&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0LI3s2v2IzVnZG2KIjtYho)
 - 2025/12/17 - [能率亞洲公告本公司股票初次上櫃前現金增資員工認購股款催繳事宜 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/1DnBEwv&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw31G4ASv3KgzhbEV2R3ijJo)
