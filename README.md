@@ -27,7 +27,6 @@
 - 2025/12/16 - [仁大資訊公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/MLngLy0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ueF4Kr3Fh9cIdrwPpq-tg)
 - 2025/12/16 - [豊漁公告本公司董事會通過發言人、財務主管及會計主管任命案 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Da132205a-d4f5-474f-bb63-81378259e17c%26c%3DMB00&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw09w5pxuIOugy-v-kM0Pofh)
 - 2025/12/16 - [傑霖科技:公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6277561&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw18XanyJsC7_d_nEB8YkP9r)
-- 2025/12/16 - [常廣初上櫃首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dc0085e82-3b22-4ae9-9608-39f28aa81f69&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1h-Eg5lGR65VwC67cLDyaC)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
