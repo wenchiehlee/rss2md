@@ -19,6 +19,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/12/18 - [威聯通初上櫃<b>過額配售</b>100張，佔公開承銷數量比例3.94% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/aG5jzeo&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1cYrWA1Jk0pyrMdczvTfN0)
 - 2025/12/18 - [威聯通競拍、公開申購成績亮眼 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25A8%2581%25E8%2581%25AF%25E9%2580%259A-%25E7%25AB%25B6%25E6%258B%258D-%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E6%2588%2590%25E7%25B8%25BE%25E4%25BA%25AE%25E7%259C%25BC-201000339.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2IkijsdzXUxHnf__rppfxg)
 - 2025/12/18 - [東友公告本公司受邀參加康和證券舉辦之線上法人說明會| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Ggm6L2R&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0qHvQzM6AddQBN7dM6fq6Z)
 - 2025/12/17 - [德鴻公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/7N9nRRJ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ViuuJfnoj6chTO_vPbzxS)
@@ -36,8 +37,6 @@
 - 2025/12/17 - [【公告】威聯通辦理初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%25A8%2581%25E8%2581%25AF%25E9%2580%259A%25E8%25BE%25A6%25E7%2590%2586%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-083119771.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0RmX998g06TKZ5kVAkzAAY)
 - 2025/12/17 - [威聯通初上櫃<b>過額配售</b>100張，佔公開承銷數量比例3.94% - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Ddc304593-e661-414c-93ed-8cf19c3de296&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1m42LGcMXeE4rLbo0lIMBm)
 - 2025/12/17 - [傑霖科技初次上櫃<b>過額配售</b>100張，佔公開承銷股數比例5.5648% - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%2582%2591%25E9%259C%2596%25E7%25A7%2591%25E6%258A%2580%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE100%25E5%25BC%25B5-%25E4%25BD%2594%25E5%2585%25AC%25E9%2596%258B%25E6%2589%25BF%25E9%258A%25B7%25E8%2582%25A1%25E6%2595%25B8%25E6%25AF%2594%25E4%25BE%258B5-5648-003500952.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw08EdxYR0TkMeKoFhPJ-yKN)
-- 2025/12/17 - [傑霖科技初次上櫃<b>過額配售</b>100張，佔公開承銷股數比例5.5648% - 新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D9d579122-fbff-4826-bb37-f340cc43a698&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw00stE8uoXizVQrgX-5nYpi)
-- 2025/12/17 - [興櫃申報轉讓：12月16日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2299710002%26PU%3D0009&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0uK1APwobn10TS2KxQtHAt)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
