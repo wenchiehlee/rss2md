@@ -14,6 +14,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2025/12/18 - [威聯通<b>競拍</b>、公開申購成績亮眼 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25A8%2581%25E8%2581%25AF%25E9%2580%259A-%25E7%25AB%25B6%25E6%258B%258D-%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E6%2588%2590%25E7%25B8%25BE%25E4%25BA%25AE%25E7%259C%25BC-201000339.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2IkijsdzXUxHnf__rppfxg)
 - 2025/12/18 - [威聯通<b>競拍</b>、公開申購成績亮眼- 日報- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20251218700319-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1x-5NYg54pgCnOvNCWZUT8)
 <!-- _feedinvestment1_1_ end -->
 
