@@ -19,6 +19,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/12/20 - [合正公告本公司名稱由「合正科技股份有限公司」更名為「光譜電工股份有限公司」 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2590%2588%25E6%25AD%25A3-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E5%2590%258D%25E7%25A8%25B1%25E7%2594%25B1-%25E5%2590%2588%25E6%25AD%25A3%25E7%25A7%2591%25E6%258A%2580%25E8%2582%25A1%25E4%25BB%25BD%25E6%259C%2589%25E9%2599%2590%25E5%2585%25AC%25E5%258F%25B8-%25E6%259B%25B4%25E5%2590%258D%25E7%2582%25BA-%25E5%2585%2589%25E8%25AD%259C%25E9%259B%25BB%25E5%25B7%25A5%25E8%2582%25A1%25E4%25BB%25BD%25E6%259C%2589%25E9%2599%2590%25E5%2585%25AC%25E5%258F%25B8-230300931.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw24VoZ-3EwFlKOQQmsDtiPO)
 - 2025/12/19 - [漢達(6620)上櫃<b>過額配售</b>350張，佔公開承銷數量比例3.5% - 環球生技月刊](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D82501%26range%3Dnews&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3k8Uh3qiUeIgBe-WLM_oSu)
 <!-- _feedinvestment2_ end -->
 
