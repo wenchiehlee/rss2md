@@ -19,7 +19,6 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/12/19 - [【公告】傑霖科技股票終止興櫃買賣並轉至證券櫃檯買賣中心上櫃交易 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%2582%2591%25E9%259C%2596%25E7%25A7%2591%25E6%258A%2580%25E8%2582%25A1%25E7%25A5%25A8%25E7%25B5%2582%25E6%25AD%25A2%25E8%2588%2588%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3%25E4%25B8%25A6%25E8%25BD%2589%25E8%2587%25B3%25E8%25AD%2589%25E5%2588%25B8%25E6%25AB%2583%25E6%25AA%25AF%25E8%25B2%25B7%25E8%25B3%25A3%25E4%25B8%25AD%25E5%25BF%2583%25E4%25B8%258A%25E6%25AB%2583%25E4%25BA%25A4%25E6%2598%2593-095503114.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0lMn4405W2ECCTO-E00NZW)
 - 2025/12/19 - [漢達(6620)上櫃<b>過額配售</b>350張，佔公開承銷數量比例3.5% - 環球生技月刊](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D82501%26range%3Dnews&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3k8Uh3qiUeIgBe-WLM_oSu)
 <!-- _feedinvestment2_ end -->
 
