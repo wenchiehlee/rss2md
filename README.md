@@ -20,8 +20,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2025/12/23 - [漢達今上櫃承銷價84.33元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25BC%25A2%25E9%2581%2594%25E4%25BB%258A%25E4%25B8%258A%25E6%25AB%2583-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B984-33%25E5%2585%2583-201000169.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1jPtjj3eYdTpR1YkX-5HW6)
-- 2025/12/22 - [現賺7900元！驊陞科技掛牌上市漲近2成蜜月行情甜 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%258F%25BE%25E8%25B3%25BA7900%25E5%2585%2583%25EF%25BC%2581%25E9%25A9%258A%25E9%2599%259E%25E7%25A7%2591%25E6%258A%2580%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582%25E6%25BC%25B2%25E8%25BF%25912%25E6%2588%2590-%25E8%259C%259C%25E6%259C%2588%25E8%25A1%258C%25E6%2583%2585%25E7%2594%259C-020252366.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ueHKtPDf44igixjUOUe6-)
-- 2025/12/22 - [驊陞12/22起上市買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%25A9%258A%25E9%2599%259E12-22%25E8%25B5%25B7%25E4%25B8%258A%25E5%25B8%2582%25E8%25B2%25B7%25E8%25B3%25A3-000400950.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2J-5DQSejhTmsaiFvy7vTy)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
