@@ -21,12 +21,11 @@
 <!-- _feedinvestment2_ start -->
 - 2025/12/23 - [新劑型新藥股添生力軍！漢達今轉上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2596%25B0%25E5%258A%2591%25E5%259E%258B%25E6%2596%25B0%25E8%2597%25A5%25E8%2582%25A1%25E6%25B7%25BB%25E7%2594%259F%25E5%258A%259B%25E8%25BB%258D-%25E6%25BC%25A2%25E9%2581%2594%25E4%25BB%258A%25E8%25BD%2589%25E4%25B8%258A%25E6%25AB%2583-010400809.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0LEY19zM1zg8AeZ4qCzOL3)
 - 2025/12/23 - [《生醫股》漢達今上櫃承銷價84.33元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%2594%259F%25E9%2586%25AB%25E8%2582%25A1-%25E6%25BC%25A2%25E9%2581%2594%25E4%25BB%258A%25E4%25B8%258A%25E6%25AB%2583-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B984-33%25E5%2585%2583-002403837.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2L8oGkpsVnJBtkOqWdkuOI)
-- 2025/12/23 - [漢達今上櫃承銷價84.33元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25BC%25A2%25E9%2581%2594%25E4%25BB%258A%25E4%25B8%258A%25E6%25AB%2583-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B984-33%25E5%2585%2583-201000169.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1jPtjj3eYdTpR1YkX-5HW6)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
 <!-- _feedinvestment3_ start -->
-- 2025/12/21 - [台股資料流向與7層分析架構整合](https://wenchiehlee.github.io/mkdocs-investment/blog/2025/07/%E5%8F%B0%E8%82%A1%E8%B3%87%E6%96%99%E6%B5%81%E5%90%91%E8%88%877%E5%B1%A4%E5%88%86%E6%9E%90%E6%9E%B6%E6%A7%8B%E6%95%B4%E5%90%88/)
+- 2025/12/24 - [台股資料流向與7層分析架構整合](https://wenchiehlee.github.io/mkdocs-investment/blog/2025/07/%E5%8F%B0%E8%82%A1%E8%B3%87%E6%96%99%E6%B5%81%E5%90%91%E8%88%877%E5%B1%A4%E5%88%86%E6%9E%90%E6%9E%B6%E6%A7%8B%E6%95%B4%E5%90%88/)
 - 2025/07/01 - [股票資訊分析堆疊架構（7-Level Stock Information Stack）](https://wenchiehlee.github.io/mkdocs-investment/blog/2025/06/%E8%82%A1%E7%A5%A8%E8%B3%87%E8%A8%8A%E5%88%86%E6%9E%90%E5%A0%86%E7%96%8A%E6%9E%B6%E6%A7%8B7-level-stock-information-stack/)
 - 2024/12/22 - [過額配售是什麼？以 **8272 全景軟體** 為例](https://wenchiehlee.github.io/mkdocs-investment/blog/2024/10/%E9%81%8E%E9%A1%8D%E9%85%8D%E5%94%AE%E6%98%AF%E4%BB%80%E9%BA%BC%E4%BB%A5-8272-%E5%85%A8%E6%99%AF%E8%BB%9F%E9%AB%94-%E7%82%BA%E4%BE%8B/)
 <!-- _feedinvestment3_ end -->
