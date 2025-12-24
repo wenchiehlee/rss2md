@@ -21,7 +21,6 @@
 <!-- _feedinvestment2_ start -->
 - 2025/12/24 - [12/23興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oq97zRq&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0nU0sznZQZ3plzwOab_hyk)
 - 2025/12/24 - [12月23日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2302216002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1XhjsQd_xKWgHHW1EZwQl_)
-- 2025/12/23 - [新劑型新藥股添生力軍！漢達今轉上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2596%25B0%25E5%258A%2591%25E5%259E%258B%25E6%2596%25B0%25E8%2597%25A5%25E8%2582%25A1%25E6%25B7%25BB%25E7%2594%259F%25E5%258A%259B%25E8%25BB%258D-%25E6%25BC%25A2%25E9%2581%2594%25E4%25BB%258A%25E8%25BD%2589%25E4%25B8%258A%25E6%25AB%2583-010400809.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0LEY19zM1zg8AeZ4qCzOL3)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
