@@ -19,8 +19,11 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2025/12/24 - [12/23興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oq97zRq&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0nU0sznZQZ3plzwOab_hyk)
-- 2025/12/24 - [12月23日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2302216002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1XhjsQd_xKWgHHW1EZwQl_)
+- 2025/12/26 - [海柏特:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6289344&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3WgukdG8sNW_mGMfEXxheo)
+- 2025/12/26 - [矽科宏晟公告本公司辦理股票初次上櫃前現金增資收足股款暨現金增資基準日](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/QweqOal&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1iw2KzyTEyJA03WbIL-h5i)
+- 2025/12/26 - [矽科宏晟公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%259F%25BD%25E7%25A7%2591%25E5%25AE%258F%25E6%2599%259F-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-093300051.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3DCHxadi8W9jF34f7VnJqW)
+- 2025/12/26 - [矽科宏晟公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D77e3d84b-7bc6-448d-848b-94176f19d93c&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3qoaQR6g8PhppXUpXmyJO2)
+- 2025/12/26 - [海柏特公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D0016025a-d2f7-43a9-a18a-716122ff7064&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0AAEb7n_romcK48FxiFCbi)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
