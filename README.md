@@ -20,7 +20,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2025/12/27 - [第一金證券認購(售)權證終止上市彙總表| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/j7583pa&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ezcLGhYt9ZMntIgrofwFf)
-- 2025/12/26 - [矽科宏晟:公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6289559&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw03QWdYtlm0HjYZT0MMkdGH)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
