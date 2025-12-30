@@ -24,7 +24,6 @@
 - 2025/12/30 - [驊陞:公告本公司上市掛牌首五個營業日穩定價格操作結果 - Anue鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6293309&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0CAF7mmWyMfRf3LY3Sdmu9)
 - 2025/12/30 - [嘉雨思-創公告本公司創新板上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D71e743a1-ac2a-4b56-9d4d-02b2c91c3ad5&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0xfsYeM1dSemE-Dkp3Pjlh)
 - 2025/12/30 - [驊陞上市首5日穩定價格操作結果：0股](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D82e3a65f-4338-43a4-a1ac-9076be4b75a1&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0KRtlrq8ZB3u9pC4FbwxLw)
-- 2025/12/30 - [矽科宏晟公告本公司股票終止興櫃買賣並轉至證券櫃檯買賣中心上櫃交易](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/eL0K3pD&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2YbpuVuulOx_GyymCoFHHz)
 - 2025/12/29 - [矽科宏晟初上櫃<b>過額配售</b>100張，佔公開承銷數量比例2.69% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/XY5KV9Z&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1L_cN_PUnDUunFZ6SAELzo)
 <!-- _feedinvestment2_ end -->
 
