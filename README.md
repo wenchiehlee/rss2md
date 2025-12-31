@@ -9,6 +9,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/01/01 - [輝創1／16上市<b>競拍</b>底價33.06元- 證券．權證- 工商時報 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20260101000423-260206&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0XH2bhMPA2DRjqedK2qsEE)
 - 2025/12/31 - [輝創競拍啟動AI感測技術推升營運新循環 - 自立晚報](https://www.google.com/url?rct=j&sa=t&url=https://www.idn.com.tw/news/news_content.aspx%3Fcatid%3D3%26catsid%3D1%26catdid%3D0%26artid%3D20251231kofang003&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1U_Ydd681ZSyOAzbHrcRx7)
 - 2025/12/31 - [長廣啟動<b>競拍</b>搶攻AI、HPC擴產潮 - Yahoo奇摩新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E9%2595%25B7%25E5%25BB%25A3%25E5%2595%259F%25E5%258B%2595%25E7%25AB%25B6%25E6%258B%258D-%25E6%2590%25B6%25E6%2594%25BBai-hpc%25E6%2593%25B4%25E7%2594%25A2%25E6%25BD%25AE-094914149.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0DdWYKE-vDviSYf_qA83uc)
 - 2025/12/31 - [長廣1/16<b>掛牌</b>承銷價125元搶攻AI、HPC擴產潮](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202512/202512312549085.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Ekx13AsT5R8icWMCV1ZD3)
