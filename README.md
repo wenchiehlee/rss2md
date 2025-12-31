@@ -19,6 +19,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2025/12/31 - [捷創科技公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3Df3ba82ea-fb68-41a4-8815-8f0c0fae4efa%26utm_source%3D26185718666857963796571826%26utm_medium%3DRSS&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2LbzJZX27KbG0OZyUWFfty)
 - 2025/12/31 - [漢達公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Ggmw2o6&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1nHFzYqI9Fc1sTuyRdd8UN)
 - 2025/12/30 - [矽科宏晟普通股及現增股款繳納憑證12/30起轉上櫃買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/8n1LaRM&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw03yArSUkyh8UKDpCLxjkpH)
 - 2025/12/30 - [驊陞:公告本公司上市掛牌首五個營業日穩定價格操作結果 - Anue鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6293309&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0CAF7mmWyMfRf3LY3Sdmu9)
