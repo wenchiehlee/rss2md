@@ -11,7 +11,6 @@
 <!-- _feedinvestment1_1_ start -->
 - 2026/01/01 - [長廣精機<b>競拍</b>至1/5 - 台灣新生報](https://www.google.com/url?rct=j&sa=t&url=http://www.tssdnews.com.tw/%3FFID%3D64%26CID%3D847664&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0WCDMLBTXZYWfpoD2SuHvg)
 - 2026/01/01 - [《興櫃股》輝創1月16日上市<b>競拍</b>底價33.06元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E8%25BC%259D%25E5%2589%25B51%25E6%259C%258816%25E6%2597%25A5%25E4%25B8%258A%25E5%25B8%2582-%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B933-06%25E5%2585%2583-071953213.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2Bd-DbbcVzfo0lXJ1oNSFu)
-- 2026/01/01 - [輝創1／16上市<b>競拍</b>底價33.06元- 證券．權證- 工商時報 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20260101000423-260206&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0XH2bhMPA2DRjqedK2qsEE)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
