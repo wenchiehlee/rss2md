@@ -10,6 +10,7 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2026/01/06 - [大東電明展開<b>競拍</b>作業隨半導體供應鏈赴美布局 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5300842&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3EC4TWaa_c8Aywi4lp5ZyG)
+- 2026/01/06 - [《興櫃股》大東電去年業績首度破60億 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3Fsn%3D6046436001%26pu%3DNews_0046&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw10y0kTXbFKBKcIEn5TPYkK)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
