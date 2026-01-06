@@ -9,6 +9,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/01/06 - [大東電明展開<b>競拍</b>作業隨半導體供應鏈赴美布局 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5300842&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3EC4TWaa_c8Aywi4lp5ZyG)
 - 2026/01/06 - [大東電7日起<b>競拍</b>底價150.4元擬22日<b>掛牌</b>上市| 證券| 中央社CNA](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202601050320.aspx&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3TSO2BE92SxFTvp0P--QAO)
 - 2026/01/06 - [AI與HPC需求回溫！這家迎載板擴產成長動能再現16日<b>掛牌</b> - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1776352&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1-tRM4GKrA7Kfm1N9QlZoj)
 - 2026/01/06 - [大東電攻AI需求電網商機2025全年營收首度突破60億關卡創高 - 優分析](https://www.google.com/url?rct=j&sa=t&url=https://uanalyze.com.tw/articles/7028344202&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3AgSvGetp6DMCY9c5FMRUy)
