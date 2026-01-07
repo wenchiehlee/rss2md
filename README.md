@@ -13,6 +13,10 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/01/08 - [長廣承銷價訂125元明天爲公開申購最終日抽中一張賺15萬元 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6301769&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1q1D4X0MDc5lppXTB3Ulig)
+- 2026/01/08 - [富邦證券輔導輝創電子完成<b>競拍</b>承銷價40元 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260108700235-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw19YPrrG_3I6Km1h9zxCqpF)
+- 2026/01/07 - [旅天下（6961）底價46.61元1/7至1/9為期3天啟動<b>競拍</b> - 中央社](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/423323&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2UQkCRUL4WbY9PB-IZwd7f)
+- 2026/01/07 - [富邦證券輔導輝創電子完成<b>競拍</b>承銷價40元1/16<b>掛牌</b>上市 - Yahoo新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25AF%258C%25E9%2582%25A6%25E8%25AD%2589%25E5%2588%25B8%25E8%25BC%2594%25E5%25B0%258E%25E8%25BC%259D%25E5%2589%25B5%25E9%259B%25BB%25E5%25AD%2590%25E5%25AE%258C%25E6%2588%2590%25E7%25AB%25B6%25E6%258B%258D-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B940%25E5%2585%2583-1-16%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-101112270.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Yy5MOMlL7WcJpQ1ZC1uD1)
 - 2026/01/06 - [《興櫃股》大東電去年業績首度破60億 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3Fsn%3D6046436001%26pu%3DNews_0046&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw10y0kTXbFKBKcIEn5TPYkK)
 <!-- _feedinvestment1_1_ end -->
 
