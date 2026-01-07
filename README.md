@@ -2,8 +2,12 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2025/12/31 - [輝創<b>競拍</b>7072張、底價33.06元；1/16<b>掛牌</b>- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D0b59d223-7fbf-4bcb-82c3-6072007336c4&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0W0DcrksAr-aQuO_4SNlGo)
-- 2025/12/31 - [車用新兵輝創今起<b>競拍</b>底價33.06元1/16<b>掛牌</b> - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6294190&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2mONxM29-Llity__kx5WPf)
+- 2026/01/07 - [輝創完成<b>競拍</b>1/16每股40元<b>掛牌</b>上市](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20260107/index-76778633128432224003.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1yAk-BNiSrzM8UaqQc23IL)
+- 2026/01/07 - [富邦證券輔導輝創電子今完成<b>競拍</b>承銷價40元 - 財富自由](https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/t1enhegpszxc&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1RTjcxFuZFVzjpSnNS2hSm)
+- 2026/01/07 - [大東電2025年營收創高；明展開<b>競拍</b>作業](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df6e1ca5d-8840-4002-b980-784c45e2b23f&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3eQ8X1hq8r6YQXawmD4g-f)
+- 2026/01/07 - [大東電7日起<b>競拍</b>底價150.4元擬22日<b>掛牌</b>上市| 證券| 中央社CNA](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202601050320.aspx&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3TSO2BE92SxFTvp0P--QAO)
+- 2026/01/06 - [億而得IP 權利金呈穩定收益來源，22 日上櫃<b>掛牌</b>挺2026 年重回成長軌道 - 財經新報](https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2026/01/05/the-ip-royalties-generated-by-the-company-provide-a-stable-source-of-income/&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2kW5y1nvG38ncclCdfNU7T)
+- 2026/01/06 - [大東電明展開<b>競拍</b>作業隨半導體供應鏈赴美布局 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/amp/article/breakingnews/5300842&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw12M2havB_jek4IpQ_Xm_Mz)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
@@ -15,7 +19,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/01/02 - [威聯通初次上櫃首5日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df16817d8-487c-4cd4-9e2b-0c8db0bce206&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0pA4B6cKm8aTZEyvgMHkXv)
+- 2026/01/07 - [矽科宏晟初上櫃首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3Dc9f43b91-3e63-4717-a4a0-6766436bc2a1&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2e8EsXkGRKm4byJMlzehgb)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
