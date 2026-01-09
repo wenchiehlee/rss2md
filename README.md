@@ -16,6 +16,8 @@
 - 2026/01/09 - [AI資料中心電力需求增大東電<b>競拍</b>底價150.4元擬1/22日<b>掛牌</b> - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260108/C821F1FCF92119FDB7C40B767F9F72FA&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw23b4plPBY9FFAIE1BSlpmk)
 - 2026/01/09 - [富邦證券輔導輝創完成<b>競拍</b>承銷價訂為40元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AF%258C%25E9%2582%25A6%25E8%25AD%2589%25E5%2588%25B8%25E8%25BC%2594%25E5%25B0%258E%25E8%25BC%259D%25E5%2589%25B5%25E5%25AE%258C%25E6%2588%2590%25E7%25AB%25B6%25E6%258B%258D-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9%25E8%25A8%2582%25E7%2582%25BA40%25E5%2585%2583-022000663.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1sLz5Mh_Agd_tM_LAUu93B)
 - 2026/01/08 - [富邦證券輔導輝創電子完成<b>競拍</b>預計1月16日<b>掛牌</b>上市| 財富管理 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5636/9252335%3Ffrom%3Dedn_subcatelist_cate&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3N_b-cXivv_E7y95hdKyAs)
+- 2026/01/08 - [富邦證輔導輝創電子完成<b>競拍</b>！均價44.17元公開申購今截止 - 墨新聞](https://www.google.com/url?rct=j&sa=t&url=https://more-news.tw/500978/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0KZuiRxu67klQqadYTX6VW)
+- 2026/01/08 - [富邦證輔導輝創電子完成<b>競拍</b>！均價44.17元公開申購今截止 - PChome Online 新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/pinview/20260108/index-76783088092224317003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2kmVBy4IaIm4QV5oGSeIv4)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
