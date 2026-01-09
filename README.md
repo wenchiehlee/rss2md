@@ -13,6 +13,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/01/10 - [富邦證券輔導輝創完成<b>競拍</b>承銷價訂為40元| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/l25WyaX&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3R3BNoNRR52UB1kchr-YF0)
 - 2026/01/08 - [富邦證輔導輝創電子完成<b>競拍</b>！均價44.17元公開申購今截止 - 墨新聞](https://www.google.com/url?rct=j&sa=t&url=https://more-news.tw/500978/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0KZuiRxu67klQqadYTX6VW)
 - 2026/01/08 - [富邦證輔導輝創電子完成<b>競拍</b>！均價44.17元公開申購今截止 - PChome Online 新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/pinview/20260108/index-76783088092224317003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2kmVBy4IaIm4QV5oGSeIv4)
 <!-- _feedinvestment1_1_ end -->
