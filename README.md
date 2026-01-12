@@ -13,7 +13,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/01/10 - [富邦證券輔導輝創完成<b>競拍</b>承銷價訂為40元| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/l25WyaX&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3R3BNoNRR52UB1kchr-YF0)
+- 2026/01/13 - [安葆12月營收創新高，擬1月28日<b>掛牌</b>上櫃，13日起展開<b>競拍</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AE%2589%25E8%2591%258612%25E6%259C%2588%25E7%2587%259F%25E6%2594%25B6%25E5%2589%25B5%25E6%2596%25B0%25E9%25AB%2598-%25E6%2593%25AC1%25E6%259C%258828%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-13%25E6%2597%25A5%25E8%25B5%25B7%25E5%25B1%2595%25E9%2596%258B%25E7%25AB%25B6%25E6%258B%258D-083456499.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3O-Ex7_w_7Z4NSlNaqcQM6)
+- 2026/01/13 - [AI電力基建商機爆發！安葆<b>競拍</b>底價113.39元12月營收9.21億創高 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260113/7162F2F57DC65E38E8E17EFD6EAD4B52&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3lcDe5zTLe5RZjz4Xu_dWb)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
