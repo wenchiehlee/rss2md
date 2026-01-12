@@ -18,7 +18,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/01/07 - [矽科宏晟初上櫃首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3Dc9f43b91-3e63-4717-a4a0-6766436bc2a1&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2e8EsXkGRKm4byJMlzehgb)
+- 2026/01/12 - [興櫃申報轉讓：01月09日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2308893002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw18BVz9o1mTnuHUph9Amkv0)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
