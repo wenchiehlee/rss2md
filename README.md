@@ -20,7 +20,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/01/12 - [1/9興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Da5047ee0-1169-4815-9de9-7c9bf6473c20&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw04f5MYJ4RemS9QKLI8n4H8)
-- 2026/01/12 - [興櫃申報轉讓：01月09日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2308893002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw18BVz9o1mTnuHUph9Amkv0)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
