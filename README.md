@@ -13,6 +13,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/01/13 - [安葆<b>競拍</b>起跑底價113.39元雅特力底價24元| 產業熱點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5612/9262417%3Ffrom%3Dedn_newestlist_rank&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1_kGJ_CznckrzUFp1eO2Ge)
+- 2026/01/13 - [安葆<b>競拍</b>起跑底價113.39元雅特力底價24元| 證券| 中央社CNA](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202601130159.aspx&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2csR5HexaQUBkYxn5W6cLQ)
+- 2026/01/13 - [《興櫃股》投資人快把握大東電承銷價188元抽中一張賺7萬｜新聞快訊 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6965c35531c1ba247a774733&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3PLm-_J2YHeh9B7nZM21hg)
 - 2026/01/13 - [安葆12月營收創新高，擬1月28日<b>掛牌</b>上櫃，13日起展開<b>競拍</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AE%2589%25E8%2591%258612%25E6%259C%2588%25E7%2587%259F%25E6%2594%25B6%25E5%2589%25B5%25E6%2596%25B0%25E9%25AB%2598-%25E6%2593%25AC1%25E6%259C%258828%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-13%25E6%2597%25A5%25E8%25B5%25B7%25E5%25B1%2595%25E9%2596%258B%25E7%25AB%25B6%25E6%258B%258D-083456499.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3O-Ex7_w_7Z4NSlNaqcQM6)
 - 2026/01/13 - [AI電力基建商機爆發！安葆<b>競拍</b>底價113.39元12月營收9.21億創高 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260113/7162F2F57DC65E38E8E17EFD6EAD4B52&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3lcDe5zTLe5RZjz4Xu_dWb)
 <!-- _feedinvestment1_1_ end -->
