@@ -2,27 +2,17 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/01/07 - [輝創完成<b>競拍</b>1/16每股40元<b>掛牌</b>上市](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20260107/index-76778633128432224003.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1yAk-BNiSrzM8UaqQc23IL)
-- 2026/01/07 - [富邦證券輔導輝創電子今完成<b>競拍</b>承銷價40元 - 財富自由](https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/t1enhegpszxc&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1RTjcxFuZFVzjpSnNS2hSm)
-- 2026/01/07 - [大東電2025年營收創高；明展開<b>競拍</b>作業](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df6e1ca5d-8840-4002-b980-784c45e2b23f&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3eQ8X1hq8r6YQXawmD4g-f)
-- 2026/01/07 - [大東電7日起<b>競拍</b>底價150.4元擬22日<b>掛牌</b>上市| 證券| 中央社CNA](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202601050320.aspx&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3TSO2BE92SxFTvp0P--QAO)
-- 2026/01/06 - [億而得IP 權利金呈穩定收益來源，22 日上櫃<b>掛牌</b>挺2026 年重回成長軌道 - 財經新報](https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2026/01/05/the-ip-royalties-generated-by-the-company-provide-a-stable-source-of-income/&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2kW5y1nvG38ncclCdfNU7T)
-- 2026/01/06 - [大東電明展開<b>競拍</b>作業隨半導體供應鏈赴美布局 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/amp/article/breakingnews/5300842&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw12M2havB_jek4IpQ_Xm_Mz)
+- 2026/01/14 - [大東電<b>競拍</b>均價230.03元申購中籤現賺7.7萬元 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9262975&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0PUqGPbDV-NHA2l5oGO3uS)
+- 2026/01/14 - [安葆<b>競拍</b>起跑底價113.39元雅特力底價24元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AE%2589%25E8%2591%2586%25E7%25AB%25B6%25E6%258B%258D%25E8%25B5%25B7%25E8%25B7%2591%25E5%25BA%2595%25E5%2583%25B9113-39%25E5%2585%2583-%25E9%259B%2585%25E7%2589%25B9%25E5%258A%259B%25E5%25BA%2595%25E5%2583%25B924%25E5%2585%2583-055204540.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0YjqFhisGLfeBoSp3xug9F)
+- 2026/01/12 - [抽中一張賺近10萬元！安葆卡位半導體建廠電力系統商機13日起<b>競拍</b>- 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/amp/mirrordaily_39844&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2hDHKuuyrnWJtlpkXB8TjD)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/01/14 - [【即時新聞】億而得-創<b>競拍</b>拍定均價69.41元且申購獲利逾3成 - 投資網誌](https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/newsyoudeservetoknow-d405fb61-f0f1-11f0-8f6f-05b8ce61ad16%3Futm_source%3Dforum_article%26utm_medium%3Darticle_link&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw26En5rhT52TZCQ_kqNxkJm)
+- 2026/01/14 - [雅特力<b>競拍</b>底價24元 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9263317&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2M2P03zI3jh_fvapik19d4)
 - 2026/01/14 - [雅特力<b>競拍</b>底價24元| 櫃買動態| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9263317%3Ffrom%3Dedn_related_storybottom&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Ml6EzBuFgP8wyzmEuMOSc)
-- 2026/01/13 - [旅天下<b>競拍</b>均價60.97元申購中籤報酬率近三成| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9263000&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1vn3P35s4eLbiiGC-XtNuR)
-- 2026/01/13 - [旅天下<b>競拍</b>均價60.97元申購中籤報酬率近三成| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9263000%3Ffrom%3Dedn_previous_story&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw13zXD7kan8akN_H2UznVH8)
-- 2026/01/13 - [雅特力<b>競拍</b>明登場底價24元、暫訂承銷價30元預計1/29<b>掛牌</b>上櫃 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9261855%3Ffrom%3Dedn_newestlist_rank&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2ZKv6FMUqOtTq9nGwzupNC)
-- 2026/01/13 - [大東電<b>競拍</b>均價230.03元申購中籤現賺7.7萬元 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9262975&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0PUqGPbDV-NHA2l5oGO3uS)
-- 2026/01/13 - [安葆<b>競拍</b>起跑底價113.39元雅特力底價24元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AE%2589%25E8%2591%2586%25E7%25AB%25B6%25E6%258B%258D%25E8%25B5%25B7%25E8%25B7%2591%25E5%25BA%2595%25E5%2583%25B9113-39%25E5%2585%2583-%25E9%259B%2585%25E7%2589%25B9%25E5%258A%259B%25E5%25BA%2595%25E5%2583%25B924%25E5%2585%2583-055204540.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0YjqFhisGLfeBoSp3xug9F)
-- 2026/01/13 - [《興櫃股》安葆訂單能見度直達2028年13日起<b>競拍</b> - 翻報](https://www.google.com/url?rct=j&sa=t&url=https://turnnewsapp.com/livenews/finance/20260113001963-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2fTEaJL8SAe8ZSHnZl0UQp)
-- 2026/01/13 - [《興櫃股》投資人快把握大東電承銷價188元抽中一張賺7萬 - 旺得富理財網](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260113900298-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw36XcEIhI___PJdPVQL0bsc)
-- 2026/01/13 - [旅天下<b>競拍</b>均價60.97元申購中籤報酬率近三成| 股市要聞 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/9263000&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw03UJt13cLAGzSeQXKBQotU)
-- 2026/01/13 - [安葆12月營收創新高13日起<b>競拍</b>](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25AE%2589%25E8%2591%258612%25E6%259C%2588%25E7%2587%259F%25E6%2594%25B6%25E5%2589%25B5%25E6%2596%25B0%25E9%25AB%2598-13%25E6%2597%25A5%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-185312073.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1NsZ0AzVo2262ZF7mzyMYu)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
