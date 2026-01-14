@@ -23,9 +23,6 @@
 - 2026/01/13 - [《興櫃股》投資人快把握大東電承銷價188元抽中一張賺7萬 - 旺得富理財網](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260113900298-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw36XcEIhI___PJdPVQL0bsc)
 - 2026/01/13 - [旅天下<b>競拍</b>均價60.97元申購中籤報酬率近三成| 股市要聞 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7251/9263000&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw03UJt13cLAGzSeQXKBQotU)
 - 2026/01/13 - [安葆12月營收創新高13日起<b>競拍</b>](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25AE%2589%25E8%2591%258612%25E6%259C%2588%25E7%2587%259F%25E6%2594%25B6%25E5%2589%25B5%25E6%2596%25B0%25E9%25AB%2598-13%25E6%2597%25A5%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-185312073.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1NsZ0AzVo2262ZF7mzyMYu)
-- 2026/01/13 - [安葆<b>競拍</b>起跑底價113.39元雅特力底價24元| 產業熱點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5612/9262417%3Ffrom%3Dedn_newestlist_rank&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1_kGJ_CznckrzUFp1eO2Ge)
-- 2026/01/13 - [安葆<b>競拍</b>起跑底價113.39元雅特力底價24元| 證券| 中央社CNA](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202601130159.aspx&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2csR5HexaQUBkYxn5W6cLQ)
-- 2026/01/13 - [《興櫃股》投資人快把握大東電承銷價188元抽中一張賺7萬｜新聞快訊 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6965c35531c1ba247a774733&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3PLm-_J2YHeh9B7nZM21hg)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
