@@ -18,6 +18,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/01/15 - [輝創：公司股票1/16起轉上市買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%25BC%259D%25E5%2589%25B5-%25E5%2585%25AC%25E5%258F%25B8%25E8%2582%25A1%25E7%25A5%25A81-16%25E8%25B5%25B7%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582%25E8%25B2%25B7%25E8%25B3%25A3-013000527.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw39KsxNVwP7uyAdL0WWdho4)
+- 2026/01/15 - [長廣公告本公司股票即將終止興櫃交易並轉至臺灣證券交易所上市交易 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9mqN0qx&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw11ikzvQw2e72zdCfI26HE-)
+- 2026/01/15 - [輝創公告本公司股票即將終止興櫃交易並轉至證券交易所上巿交易| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PGDljDR&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1-nKlQZhmhwE38HdYfWfLl)
 - 2026/01/15 - [【公告】元樟生技新增協辦推薦證券商事宜 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%2585%2583%25E6%25A8%259F%25E7%2594%259F%25E6%258A%2580%25E6%2596%25B0%25E5%25A2%259E%25E5%258D%2594%25E8%25BE%25A6%25E6%258E%25A8%25E8%2596%25A6%25E8%25AD%2589%25E5%2588%25B8%25E5%2595%2586%25E4%25BA%258B%25E5%25AE%259C-072418888.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1ZiXa_3wz-H3afVyqxSWxc)
 - 2026/01/14 - [輝創初上市<b>過額配售</b>300張，佔公開承銷數量3.39% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/3NyOKBr&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1gxT0PrUBVnX5J-FQ6tXzR)
 - 2026/01/14 - [《台股盤後》量縮收漲234點、日K連三紅，再寫新高| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/60PNK2n&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3jxk_0u6ZL-LqWIhJIQQBw)
