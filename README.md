@@ -10,8 +10,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/01/14 - [大東電公開申購今日截止；潛在報酬率逾4成| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/j75DMPx&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ooZAxv37QePpZlTuQnNCM)
-- 2026/01/14 - [雅特力<b>競拍</b>底價24元 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/amp/story/7254/9263317&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3EI5s9ai-rDeaOxWji9b0q)
+- 2026/01/15 - [久舜營造上櫃前<b>競拍</b>時間1月19~21日23日開標、預計2月3日<b>掛牌</b> - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260115%26CSeqNO%3DE9268359&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3Oh1jiBmd1ecjj_zfu8mUi)
+- 2026/01/15 - [久舜營造上櫃前<b>競拍</b>時間1月19~21日23日開標、預計2月3日<b>掛牌</b> - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7241/9268359&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2IODH856XE-JUIgKG0NMD3)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
