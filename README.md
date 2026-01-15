@@ -11,8 +11,6 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2026/01/14 - [大東電公開申購今日截止；潛在報酬率逾4成| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/j75DMPx&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ooZAxv37QePpZlTuQnNCM)
-- 2026/01/14 - [【即時新聞】億而得-創<b>競拍</b>拍定均價69.41元且申購獲利逾3成 - 投資網誌](https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/newsyoudeservetoknow-d405fb61-f0f1-11f0-8f6f-05b8ce61ad16%3Futm_source%3Dforum_article%26utm_medium%3Darticle_link&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw26En5rhT52TZCQ_kqNxkJm)
-- 2026/01/14 - [雅特力<b>競拍</b>底價24元 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9263317&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2M2P03zI3jh_fvapik19d4)
 - 2026/01/14 - [雅特力<b>競拍</b>底價24元 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/amp/story/7254/9263317&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3EI5s9ai-rDeaOxWji9b0q)
 <!-- _feedinvestment1_1_ end -->
 
