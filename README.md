@@ -16,9 +16,6 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/01/15 - [輝創：公司股票1/16起轉上市買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%25BC%259D%25E5%2589%25B5-%25E5%2585%25AC%25E5%258F%25B8%25E8%2582%25A1%25E7%25A5%25A81-16%25E8%25B5%25B7%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582%25E8%25B2%25B7%25E8%25B3%25A3-013000527.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw39KsxNVwP7uyAdL0WWdho4)
-- 2026/01/15 - [長廣公告本公司股票即將終止興櫃交易並轉至臺灣證券交易所上市交易 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9mqN0qx&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw11ikzvQw2e72zdCfI26HE-)
-- 2026/01/15 - [輝創公告本公司股票即將終止興櫃交易並轉至證券交易所上巿交易| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PGDljDR&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1-nKlQZhmhwE38HdYfWfLl)
 - 2026/01/15 - [輝創公告本公司股票即將終止興櫃交易並轉至證券交易所上巿交易 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%25BC%259D%25E5%2589%25B5-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E8%2582%25A1%25E7%25A5%25A8%25E5%258D%25B3%25E5%25B0%2587%25E7%25B5%2582%25E6%25AD%25A2%25E8%2588%2588%25E6%25AB%2583%25E4%25BA%25A4%25E6%2598%2593%25E4%25B8%25A6%25E8%25BD%2589%25E8%2587%25B3%25E8%25AD%2589%25E5%2588%25B8%25E4%25BA%25A4%25E6%2598%2593%25E6%2589%2580%25E4%25B8%258A%25E5%25B7%25BF%25E4%25BA%25A4%25E6%2598%2593-003300670.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3zaCUTBb8WiYQ-P3acc2nO)
 <!-- _feedinvestment2_ end -->
 
