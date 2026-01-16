@@ -16,7 +16,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/01/15 - [輝創公告本公司股票即將終止興櫃交易並轉至證券交易所上巿交易 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%25BC%259D%25E5%2589%25B5-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E8%2582%25A1%25E7%25A5%25A8%25E5%258D%25B3%25E5%25B0%2587%25E7%25B5%2582%25E6%25AD%25A2%25E8%2588%2588%25E6%25AB%2583%25E4%25BA%25A4%25E6%2598%2593%25E4%25B8%25A6%25E8%25BD%2589%25E8%2587%25B3%25E8%25AD%2589%25E5%2588%25B8%25E4%25BA%25A4%25E6%2598%2593%25E6%2589%2580%25E4%25B8%258A%25E5%25B7%25BF%25E4%25BA%25A4%25E6%2598%2593-003300670.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3zaCUTBb8WiYQ-P3acc2nO)
+- 2026/01/16 - [輝創、長廣1/16開始上市買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%25BC%259D%25E5%2589%25B5-%25E9%2595%25B7%25E5%25BB%25A31-16%25E9%2596%258B%25E5%25A7%258B%25E4%25B8%258A%25E5%25B8%2582%25E8%25B2%25B7%25E8%25B3%25A3-234500382.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0gNTJqGiRPSYjzhFpNDpsj)
+- 2026/01/16 - [興櫃申報轉讓：01月15日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2311082002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Um5dqrT691isFhvn6vZMm)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
