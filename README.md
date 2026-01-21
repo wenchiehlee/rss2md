@@ -16,6 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/01/21 - [旅天下公告本公司辦理股票初次上櫃前現金增資收足股款暨現金增資基準日| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/aG8qQMP&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Ci_Ngn1M2depChpgT_4_H)
 - 2026/01/20 - [故公布相關財務業務等重大訊息，以利投資人區別瞭解| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/gz8yYqz&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0oU0UUB4-BYwc-5nlgyBGx)
 - 2026/01/20 - [大東電初上市前現增案股款約13.1億元已全數收足，增資基準日1/20 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/BEqG31N&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2U2bKoYZ-3jFwkGUsfUBbt)
 - 2026/01/20 - [大東電初上市<b>過額配售</b>150張，佔公開承銷數量比例2.78% | MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/EXZp2Mn&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2iMVm2h4Vwlvyp9M5xWN98)
