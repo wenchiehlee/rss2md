@@ -16,6 +16,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/01/23 - [1/22興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D9744aff5-9e5d-4ecb-9f72-a30b6acae0a3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0_pkBK2ctpigJ97HPGsz5A)
+- 2026/01/23 - [興櫃申報轉讓：01月22日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2313473002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw35csK4loiCobUv6QCwL1eU)
 - 2026/01/22 - [1/21興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/3NeDGwW&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1NJZwIcH-waUTHWKq_WPPt)
 - 2026/01/22 - [1/21興櫃公司持股轉讓明細- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D22ed99d5-6027-458b-99f8-2146d5e64315&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0juEVilPHAjAGTeflsVmG6)
 - 2026/01/22 - [《旅天下專訪3》優化效率，不排除資本合作擴充產能 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2597%2585%25E5%25A4%25A9%25E4%25B8%258B%25E5%25B0%2588%25E8%25A8%25AA3-%25E5%2584%25AA%25E5%258C%2596%25E6%2595%2588%25E7%258E%2587-%25E4%25B8%258D%25E6%258E%2592%25E9%2599%25A4%25E8%25B3%2587%25E6%259C%25AC%25E5%2590%2588%25E4%25BD%259C%25E6%2593%25B4%25E5%2585%2585%25E7%2594%25A2%25E8%2583%25BD-030200165.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1JLv0YixffeLwiWv2ADjx2)
