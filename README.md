@@ -22,10 +22,10 @@
 
 ## mkdocs-investment
 <!-- _feedinvestment3_ start -->
-- 2025/12/24 - [過額配售是什麼？以 **8272 全景軟體** 為例](https://wenchiehlee.github.io/mkdocs-investment/blog/2024/10/%E9%81%8E%E9%A1%8D%E9%85%8D%E5%94%AE%E6%98%AF%E4%BB%80%E9%BA%BC%E4%BB%A5-8272-%E5%85%A8%E6%99%AF%E8%BB%9F%E9%AB%94-%E7%82%BA%E4%BE%8B/)
-- 2025/12/24 - [股票資訊分析堆疊架構（7-Level Stock Information Stack）](https://wenchiehlee.github.io/mkdocs-investment/blog/2025/06/%E8%82%A1%E7%A5%A8%E8%B3%87%E8%A8%8A%E5%88%86%E6%9E%90%E5%A0%86%E7%96%8A%E6%9E%B6%E6%A7%8B7-level-stock-information-stack/)
-- 2025/12/24 - [股票資訊分析堆疊架構（7-Level Stock Information Stack）](https://wenchiehlee.github.io/mkdocs-investment/blog/2025/06/%E8%82%A1%E7%A5%A8%E8%B3%87%E8%A8%8A%E5%88%86%E6%9E%90%E5%A0%86%E7%96%8A%E6%9E%B6%E6%A7%8B7-level-stock-information-stack/)
-- 2025/12/24 - [台股資料流向與7層分析架構整合](https://wenchiehlee.github.io/mkdocs-investment/blog/2025/07/%E5%8F%B0%E8%82%A1%E8%B3%87%E6%96%99%E6%B5%81%E5%90%91%E8%88%877%E5%B1%A4%E5%88%86%E6%9E%90%E6%9E%B6%E6%A7%8B%E6%95%B4%E5%90%88/)
+- 2026/01/24 - [過額配售是什麼？以 **8272 全景軟體** 為例](https://wenchiehlee.github.io/mkdocs-investment/blog/2024/10/%E9%81%8E%E9%A1%8D%E9%85%8D%E5%94%AE%E6%98%AF%E4%BB%80%E9%BA%BC%E4%BB%A5-8272-%E5%85%A8%E6%99%AF%E8%BB%9F%E9%AB%94-%E7%82%BA%E4%BE%8B/)
+- 2026/01/24 - [股票資訊分析堆疊架構（7-Level Stock Information Stack）](https://wenchiehlee.github.io/mkdocs-investment/blog/2025/06/%E8%82%A1%E7%A5%A8%E8%B3%87%E8%A8%8A%E5%88%86%E6%9E%90%E5%A0%86%E7%96%8A%E6%9E%B6%E6%A7%8B7-level-stock-information-stack/)
+- 2026/01/24 - [股票資訊分析堆疊架構（7-Level Stock Information Stack）](https://wenchiehlee.github.io/mkdocs-investment/blog/2025/06/%E8%82%A1%E7%A5%A8%E8%B3%87%E8%A8%8A%E5%88%86%E6%9E%90%E5%A0%86%E7%96%8A%E6%9E%B6%E6%A7%8B7-level-stock-information-stack/)
+- 2026/01/24 - [台股資料流向與7層分析架構整合](https://wenchiehlee.github.io/mkdocs-investment/blog/2025/07/%E5%8F%B0%E8%82%A1%E8%B3%87%E6%96%99%E6%B5%81%E5%90%91%E8%88%877%E5%B1%A4%E5%88%86%E6%9E%90%E6%9E%B6%E6%A7%8B%E6%95%B4%E5%90%88/)
 <!-- _feedinvestment3_ end -->
 
 # wenchiehlee@work
