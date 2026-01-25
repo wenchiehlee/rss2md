@@ -16,8 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/01/23 - [華安公告本公司買回庫藏股期間屆滿執行情形 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%258F%25AF%25E5%25AE%2589-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E8%25B2%25B7%25E5%259B%259E%25E5%25BA%25AB%25E8%2597%258F%25E8%2582%25A1%25E6%259C%259F%25E9%2596%2593%25E5%25B1%2586%25E6%25BB%25BF%25E5%259F%25B7%25E8%25A1%258C%25E6%2583%2585%25E5%25BD%25A2-071700418.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2jI0w786QLu6vCk6Ftsxkj)
-- 2026/01/23 - [輝創上市首五個營業日穩定價格操作結果：0股- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D1567d1d5-9089-4ba7-973f-902c7da34c64&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2vWXCjhDYQE6HcPR4xpCvF)
+- 2026/01/24 - [輝創:公告本公司上市掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6320472&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw20sHrEe1K0QNu_dYmW1R80)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
