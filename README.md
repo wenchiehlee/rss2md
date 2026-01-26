@@ -16,6 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/01/26 - [1/26新台幣兌美元匯率以31.508元作收，升值7.0分| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/XY8jZ5Z&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0wijSrGdYf0Owlmzhwh-JY)
 - 2026/01/26 - [安葆初上櫃前現增案股款約7.54億元已全數收足，增資基準日1/26 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/JPqXQwk&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1rUfN6tOtn3eNsW1yDB2Pj)
 - 2026/01/26 - [長廣上市首五個營業日穩定價格操作結果：0股 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%2595%25B7%25E5%25BB%25A3%25E4%25B8%258A%25E5%25B8%2582%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-0%25E8%2582%25A1-071400142.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1tJiVUDHul4Bq8qZf_nrCl)
 - 2026/01/26 - [安葆初上櫃前現增案股款約7.54億元已全數收足，增資基準日1/26 - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3D85c6f469-a221-43bb-a0d1-e7065f89a996%26c%3DMB00&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ylg1_s7-8KLBJDKh77hNo)
