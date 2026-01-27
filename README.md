@@ -20,8 +20,6 @@
 - 2026/01/27 - [興櫃申報轉讓：01月26日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2314417002%26PU%3D0009&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1ZL-tCF9SIkl_1JmxnKHBD)
 - 2026/01/27 - [M31 3/11參加永豐金證券舉辦之線上法說會| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/vXMkP7E&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw38st-wOmchaaxK_QGSuE0D)
 - 2026/01/26 - [1/26新台幣兌美元匯率以31.508元作收，升值7.0分| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/XY8jZ5Z&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0wijSrGdYf0Owlmzhwh-JY)
-- 2026/01/26 - [安葆初上櫃前現增案股款約7.54億元已全數收足，增資基準日1/26 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/JPqXQwk&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1rUfN6tOtn3eNsW1yDB2Pj)
-- 2026/01/26 - [長廣公告本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D3651d76d-46e8-400e-8ec8-64804a3e68be&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw31BDzGuE-L1SCDLQV2q9hb)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
