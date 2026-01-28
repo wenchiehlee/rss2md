@@ -10,8 +10,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/01/15 - [久舜營造上櫃前<b>競拍</b>時間1月19~21日23日開標、預計2月3日<b>掛牌</b> - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260115%26CSeqNO%3DE9268359&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3Oh1jiBmd1ecjj_zfu8mUi)
-- 2026/01/15 - [久舜營造上櫃前<b>競拍</b>時間1月19~21日23日開標、預計2月3日<b>掛牌</b> - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7241/9268359&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2IODH856XE-JUIgKG0NMD3)
+- 2026/01/28 - [「下次走樓梯」一句話引爆捷運大戰！手扶梯讓道釀衝突法官這原因判他拘役 - 鏡新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.mnews.tw/external/mirrordaily42448&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Z_cn6LmnqpvQ6H6UhEaTL)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
