@@ -10,7 +10,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/01/28 - [「下次走樓梯」一句話引爆捷運大戰！手扶梯讓道釀衝突法官這原因判他拘役 - 鏡新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.mnews.tw/external/mirrordaily42448&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Z_cn6LmnqpvQ6H6UhEaTL)
+- 2026/02/03 - [長廣1/16<b>掛牌</b>承銷價125元搶攻AI、HPC擴產潮 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E9%2595%25B7%25E5%25BB%25A3116%25E6%258E%259B%25E7%2589%258C%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9125%25E5%2585%2583-%25E6%2590%25B6%25E6%2594%25BBai-hpc%25E6%2593%25B4%25E7%2594%25A2%25E6%25BD%25AE/ar-AA1TjRjO&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2orTXEl-vGCNGiCti_oszq)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
@@ -22,7 +22,6 @@
 - 2026/02/03 - [公告本公司辦理股票初次創新板第一上市<b>過額配售</b>內容 - 非凡新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.ustv.com.tw/companynews/185887&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1rQhvmEf4sN8IO7YgbACsy)
 - 2026/02/03 - [中籤率不到1%！久舜掛牌蜜月行情發酵上櫃首日漲逾一成 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E4%25B8%25AD%25E7%25B1%25A4%25E7%258E%2587%25E4%25B8%258D%25E5%2588%25B01%25EF%25BC%2581%25E4%25B9%2585%25E8%2588%259C%25E6%258E%259B%25E7%2589%258C%25E8%259C%259C%25E6%259C%2588%25E8%25A1%258C%25E6%2583%2585%25E7%2599%25BC%25E9%2585%25B5-%25E4%25B8%258A%25E6%25AB%2583%25E9%25A6%2596%25E6%2597%25A5%25E6%25BC%25B2%25E9%2580%25BE%25E4%25B8%2580%25E6%2588%2590-024021841.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3JCyhWDYyvzcogQe71jLsS)
 - 2026/02/03 - [久舜公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WB8ZvVR&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw32BR78zTU2V11PD0xHjaYn)
-- 2026/02/02 - [久舜：公司股票2/3起轉上櫃買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/LXpZ5o2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0die10zpzEp5TTSxeQWQtG)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
