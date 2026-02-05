@@ -17,8 +17,6 @@
 <!-- _feedinvestment2_ start -->
 - 2026/02/04 - [富田-創公告本公司創新板上市掛牌首五個營業日穩定價格操作結果| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/BEqw3EG&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3ZYJg0GFTGx8Z2sZfCZq-E)
 - 2026/02/04 - [【公告】雅特力-KY初次上櫃掛牌首五個營業日穩定價格操作結果 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E9%259B%2585%25E7%2589%25B9%25E5%258A%259B-ky%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-085307490.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1XGog4jlYxNH9eE0sPEXbT)
-- 2026/02/04 - [雅特力-KY 公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3De2dbe58f-ebe7-48c6-afc9-7e27379109cb&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw17y4k2Mb0F08z_3wgxB-Sl)
-- 2026/02/04 - [南港買回庫藏股提前執行完畢 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%258D%2597%25E6%25B8%25AF%25E8%25B2%25B7%25E5%259B%259E%25E5%25BA%25AB%25E8%2597%258F%25E8%2582%25A1%25E6%258F%2590%25E5%2589%258D%25E5%259F%25B7%25E8%25A1%258C%25E5%25AE%258C%25E7%2595%25A2-%25E5%2585%25B12-200%25E5%25BC%25B5-%25E5%259D%2587%25E5%2583%25B936-69%25E5%2585%2583-014000903.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3RD4fjOvtQqZmNx5TIcV6k)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
