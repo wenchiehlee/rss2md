@@ -15,7 +15,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/02/10 - [心誠鎂上市掛牌首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D2e1402e1-02fc-458d-9d46-5de5cbe6cd83&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2fRttUuO2odxx8Hdm0N5mz)
+- 2026/02/12 - [奧義賽博-KY創公告本公司創新板第一上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=http://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D3d0595a2-f0b0-40f3-8beb-556a7eda7eba&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Xca1NMDZpWILkhgFDIpqW)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
