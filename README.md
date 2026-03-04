@@ -15,7 +15,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/02/12 - [奧義賽博-KY創公告本公司創新板第一上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=http://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D3d0595a2-f0b0-40f3-8beb-556a7eda7eba&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Xca1NMDZpWILkhgFDIpqW)
+- 2026/03/03 - [日盛台駿- 查詢- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/search/list.aspx%3Findex1%3D7%26_Query_%3D%25E6%2597%25A5%25E7%259B%259B%25E5%258F%25B0%25E9%25A7%25BF%26_QueryType_%3DNW&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0i9yrqsQTivHFQCNdScAfI)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
