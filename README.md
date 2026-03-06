@@ -10,7 +10,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/02/03 - [長廣1/16<b>掛牌</b>承銷價125元搶攻AI、HPC擴產潮 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E9%2595%25B7%25E5%25BB%25A3116%25E6%258E%259B%25E7%2589%258C%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9125%25E5%2585%2583-%25E6%2590%25B6%25E6%2594%25BBai-hpc%25E6%2593%25B4%25E7%2594%25A2%25E6%25BD%25AE/ar-AA1TjRjO&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2orTXEl-vGCNGiCti_oszq)
+- 2026/03/06 - [宏碁遊戲3/25轉創新板<b>掛牌</b>；高加值業務占比揚 - 台視](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/%3Fi%3D0320260618175B521FE4F0F14380B7901B38803CD2A70F7D%26from%3D587&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0tn7uLBLPqStJPfz8P3g41)
+- 2026/03/06 - [宏碁遊戲辦理上市前<b>競價拍賣</b>預計3月25日<b>掛牌</b> - 經濟日報- UDN](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5612/9364070%3Fform%3Dudn_ch2_common3_cate&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2KF9ZgNFgMSscTwKJ96JnX)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
