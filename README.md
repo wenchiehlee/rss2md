@@ -2,9 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/01/21 - [久舜營造上櫃前<b>競拍</b>時間1月19~21日23日開標、預計2月3日<b>掛牌</b> - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9268359&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw07kJmGhaxRubtohnAzgdPe)
-- 2026/01/21 - [能源整合服務商安葆轉上櫃抽中現賺快20萬元、報酬率148％ | 櫃買動態| 證券| 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9275238&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1kH7NnoQtxA3hL4SnDF6CI)
-- 2026/01/21 - [安葆<b>競拍</b>起跑底價113.39元雅特力底價24元 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E5%25AE%2589%25E8%2591%2586%25E7%25AB%25B6%25E6%258B%258D%25E8%25B5%25B7%25E8%25B7%2591%25E5%25BA%2595%25E5%2583%25B9113-39%25E5%2585%2583-%25E9%259B%2585%25E7%2589%25B9%25E5%258A%259B%25E5%25BA%2595%25E5%2583%25B924%25E5%2585%2583/ar-AA1U6j45%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw31xc1YK_mlY6vHdnW6n1_f)
+- 2026/03/06 - [宏碁遊戲3/25轉創新板<b>掛牌</b>；高加值業務占比揚 - 台視](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/%3Fi%3D0320260618175B521FE4F0F14380B7901B38803CD2A70F7D%26from%3D587&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0tn7uLBLPqStJPfz8P3g41)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
