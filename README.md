@@ -8,6 +8,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/03/12 - [倍利科上市前<b>競拍</b>底價678.26元暫定每股承銷價780元 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260311701513-430502&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2LDIkGY8UXIKl3mq77klEA)
+- 2026/03/12 - [倍利科訂3月30日以780元<b>掛牌</b>上市先進封裝設備黑馬 - UDN](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9373768&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0e83t7u-Gk_VVIgY7y3N3Q)
+- 2026/03/11 - [先進封裝需求居高不下倍利科營收大躍進、訂單能見度高30日正式<b>掛牌</b>上市 - 鏡週刊](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/amp/mirrordaily_49130&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Xa68AgsFN_mqJqKO6o0tC)
 - 2026/03/11 - [宏碁遊戲今起<b>競拍</b>每股承銷價暫訂38.66元預訂3/25​<b>掛牌</b> - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260310/F7DD6BA5FA2B57EF508D20E11372F37A&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw24X19mk1mxTnk8xY43HnwN)
 <!-- _feedinvestment1_1_ end -->
 
