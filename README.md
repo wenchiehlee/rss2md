@@ -8,7 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/03/08 - [宏碁遊戲雙成長引擎辦理上市前<b>競價拍賣</b> - Yahoo新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25AE%258F%25E7%25A2%2581%25E9%2581%258A%25E6%2588%25B2%25E9%259B%2599%25E6%2588%2590%25E9%2595%25B7%25E5%25BC%2595%25E6%2593%258E-%25E8%25BE%25A6%25E7%2590%2586%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E7%25AB%25B6%25E5%2583%25B9%25E6%258B%258D%25E8%25B3%25A3-201148376.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3yVIF3YyBnL8Ws3O_7FePK)
+- 2026/03/11 - [宏碁遊戲今起<b>競拍</b>每股承銷價暫訂38.66元預訂3/25​<b>掛牌</b> - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260310/F7DD6BA5FA2B57EF508D20E11372F37A&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw24X19mk1mxTnk8xY43HnwN)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
