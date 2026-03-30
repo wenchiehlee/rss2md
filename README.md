@@ -10,18 +10,18 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/03/18 - [世紀風電公開申購至18日中籤戶潛在獲利32％ - 上市櫃](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260317900683-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2d1KR0oaro7hHhLqsOgcib)
-- 2026/03/18 - [又有一檔搶破頭千金股來了！倍利科3／18起公開申購承銷價暫訂780元 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260317701620-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0uTsNv9LH2FMAB17XKYYO6)
-- 2026/03/18 - [民盛完成<b>競拍</b>/承銷價93.33元；預計3/25<b>掛牌</b>| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PG3mGMl&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3s8O0Zg5lY4yY6rKaoLf3c)
-- 2026/03/17 - [富邦證券輔導宏碁遊戲完成<b>競拍</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AF%258C%25E9%2582%25A6%25E8%25AD%2589%25E5%2588%25B8%25E8%25BC%2594%25E5%25B0%258E-%25E5%25AE%258F%25E7%25A2%2581%25E9%2581%258A%25E6%2588%25B2%25E5%25AE%258C%25E6%2588%2590%25E7%25AB%25B6%25E6%258B%258D-201000435.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1h9MHJp0WPSVGD-lgPBmOT)
+- 2026/03/30 - [千金股新兵！倍利科<b>掛牌</b>蜜月熱抽中1張大賺83.5萬元、報酬率107% | 店頭未上市 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9410936&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw27kwzp6hoM-Zn-qAoCJpIl)
+- 2026/03/30 - [宏碁智新4／20<b>掛牌</b>上櫃4／1起<b>競拍</b>4／8公開申購 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260330701180-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1dQY35X6SsqhWCdw53kmNd)
+- 2026/03/30 - [神數獲利穩健看漲預計4月20日<b>掛牌</b>上市- 股市 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9411820&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3r8xsCHfk8Xt7FkfbLrDTT)
+- 2026/03/30 - [【即時新聞】宏碁集團旗下宏碁智新宣布上櫃<b>競價拍賣</b>，4月20日<b>掛牌</b>底價28.97元總張數2040張](https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/newsyoudeservetoknow-1178c942-2c2b-11f1-ae5f-87f04a5036ac&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw098Wftq9Ksl-O-s7t8T8e8)
+- 2026/03/30 - [宏碁智新4/20上櫃瞄準印度、東南亞家電市場 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9412232%3Ffrom%3Dedn_newestlist_rank&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3hEANWK_-1NTsKBf6jwSAA)
+- 2026/03/30 - [宏碁智新辦理上櫃前<b>競價拍賣</b>4月20日<b>掛牌</b>上櫃 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9412080&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3yoTUfvTeJUvEitkB3RDcs)
+- 2026/03/30 - [宏碁智新4／20<b>掛牌</b>上櫃4／1起<b>競拍</b>4／8公開申購 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AE%258F%25E7%25A2%2581%25E6%2599%25BA%25E6%2596%25B04-20%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-4-1%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-4-075707341.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw326fVkYEBiK9OcwMN5NH9p)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/03/29 - [討論牆| 倍利科初上市<b>過額配售</b>：0股 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/PG3gw9R&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0BgnzJKulJYPjBv5q3mxR7)
-- 2026/03/28 - [討論牆| 竣邦-KY初上櫃<b>過額配售</b>404張，佔公開承銷數量比例14.67% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/8n5wY7n&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3RtygSJEZPE9ygkL5ZCqwy)
-- 2026/03/28 - [討論牆| 公勝保經初次上櫃<b>過額配售</b>30張，佔公開承銷數量比例1.18% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/EXeBnwO&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3gFFs04Y2tY4TDjAC0I4XG)
-- 2026/03/28 - [討論牆| 倍利科公告本公司辦理股票初次上市<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/kEo02qM&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw39RNu09NUz5-mkyM0pK9AG)
+- 2026/03/30 - [世紀* 公告本公司董事會通過114年度董事酬勞及員工酬勞分派案。 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E4%25B8%2596%25E7%25B4%2580-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E8%2591%25A3%25E4%25BA%258B%25E6%259C%2583%25E9%2580%259A%25E9%2581%258E114%25E5%25B9%25B4%25E5%25BA%25A6%25E8%2591%25A3%25E4%25BA%258B%25E9%2585%25AC%25E5%258B%259E%25E5%258F%258A%25E5%2593%25A1%25E5%25B7%25A5%25E9%2585%25AC%25E5%258B%259E%25E5%2588%2586%25E6%25B4%25BE%25E6%25A1%2588-085700953.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2cGZHYFDvQbhIa_I3VBOLf)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
