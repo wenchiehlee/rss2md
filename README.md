@@ -27,7 +27,6 @@
 - 2026/04/02 - [宏碁遊戲-創:本公司創新板上市掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6405976&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw22GvrBz2JYsWkvQi_gv_3X)
 - 2026/04/02 - [【公告】泰宗辦理股票初次上市前現金增資收足股款暨現金增資基準日 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%25B3%25B0%25E5%25AE%2597%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E6%2594%25B6%25E8%25B6%25B3%25E8%2582%25A1%25E6%25AC%25BE%25E6%259A%25A8%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E5%259F%25BA%25E6%25BA%2596%25E6%2597%25A5-071909792.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3R_jkhlfGp5nWgRhHAmL5c)
 - 2026/04/02 - [【太景】流感新藥遞交南韓三期臨床試驗許可申請、《4/1日法人買超》外資買超前三名：國光生 ...](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/featured/item/94427.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw14T4yKhNN2l130BFDhYMXB)
-- 2026/04/01 - [台灣證交所即時重大訊息- 本公司辦理股票初次上市<b>過額配售</b>內容 - 非凡新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.ustv.com.tw/companynews/206539&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1228A87pk-VvqDs3Rximw3)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
