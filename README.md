@@ -18,6 +18,11 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/04/02 - [世紀風電上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D3cec0222-9378-47dc-8831-ee31e91652ed&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3-lpT2dVzfn3IX0f91zHZz)
+- 2026/04/02 - [世紀風電:公告本公司上市掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6406063&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1bwjvo6eirT41m-TW1gzHL)
+- 2026/04/02 - [泰宗初上市前現增案股款約9.66億元已全數收足，基準日4/2 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/OpMXVXD&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3zPnw6P3mZU4bsXUl6Rrwo)
+- 2026/04/02 - [宏碁遊戲-創:本公司創新板上市掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6405976&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw22GvrBz2JYsWkvQi_gv_3X)
+- 2026/04/02 - [【太景】流感新藥遞交南韓三期臨床試驗許可申請、《4/1日法人買超》外資買超前三名：國光生 ...](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/featured/item/94427.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw14T4yKhNN2l130BFDhYMXB)
 - 2026/04/01 - [泰宗(4169)辦理股票初次上市<b>過額配售</b>內容(4/1股價180.5元) - 生技投資第一站 - Genet觀點](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/company-news/item/94425.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1IX2ytzWJ3nnAHrEVnL1QI)
 - 2026/04/01 - [泰宗(4169)初上市<b>過額配售</b>50張，佔公開承銷數量比例0.75% - 環球生技月刊](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D85122&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2CVJBAnZ5XOEGxyVRhM6Rw)
 - 2026/04/01 - [泰宗:本公司辦理股票初次上市<b>過額配售</b>內容 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6404457&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2AER4DwKPxY3nfD79jUXPi)
