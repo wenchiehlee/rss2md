@@ -10,10 +10,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/03/31 - [智慧家電成新戰場！這家搶攻印度4月20日正式<b>掛牌</b>上櫃 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://stock.setn.com/news/1815366&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3bdSZpEdZ7CH8yxzmxqrTj)
-- 2026/03/31 - [《興櫃股》宏碁智新辦上櫃前<b>競價拍賣</b>4月20日上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1-%25E5%25AE%258F%25E7%25A2%2581%25E6%2599%25BA%25E6%2596%25B0%25E8%25BE%25A6%25E4%25B8%258A%25E6%25AB%2583%25E5%2589%258D%25E7%25AB%25B6%25E5%2583%25B9%25E6%258B%258D%25E8%25B3%25A3-4%25E6%259C%258820%25E6%2597%25A5%25E4%25B8%258A%25E6%25AB%2583-001300732.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ix1AiEukmuKpbLTxMRdgi)
-- 2026/03/31 - [宏碁智新4/20<b>掛牌</b>上櫃- 日報- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260331700237-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Sg3mviXQiJ6iXlaLH5VYY)
-- 2026/03/30 - [聯光通2月自結虧損400萬元EPS -0.04元- 股市 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9412226&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw05o9uFI9hVfX_y9pm_xoiU)
+- 2026/04/02 - [智慧家電成新戰場! 這家搶攻印度4月20日正式<b>掛牌</b>上櫃 - MSN](https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/money/topstories/%25E6%2599%25BA%25E6%2585%25A7%25E5%25AE%25B6%25E9%259B%25BB%25E6%2588%2590%25E6%2596%25B0%25E6%2588%25B0%25E5%25A0%25B4-%25E9%2580%2599%25E5%25AE%25B6%25E6%2590%25B6%25E6%2594%25BB%25E5%258D%25B0%25E5%25BA%25A6-4%25E6%259C%258820%25E6%2597%25A5%25E6%25AD%25A3%25E5%25BC%258F%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583/ar-AA1ZLPNP%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3I98hCpfc6H32iuroVcgcb)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
