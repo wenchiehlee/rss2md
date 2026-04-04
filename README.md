@@ -16,8 +16,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/04/03 - [討論牆| 泰宗初上市<b>過額配售</b>50張，佔公開承銷數量比例0.75% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/vXOPVPm&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2O_jdmhonIj-jZdU931GEI)
-- 2026/04/03 - [泰宗本公司辦理股票初次上市前現金增資收足股款暨現金增資基準日| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/zNwgzVk&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0WcTXufsDnOp-ibysswTi_)
-- 2026/04/03 - [討論牆| 泰宗本公司辦理股票初次上市<b>過額配售</b>內容 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/mWMom0n&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0aax8aOmCygZThMd5r-Jf3)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
