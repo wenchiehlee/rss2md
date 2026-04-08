@@ -15,8 +15,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/04/08 - [泰宗(4169.TW) 走勢圖 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/4169.TW&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1FX87kk9cyjXArO2DBMwkQ)
-- 2026/04/07 - [公勝保經:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6409371&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3br4PLZeXu3iQQMnLJbEmt)
-- 2026/04/07 - [公勝保經公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D61e51da0-3352-4a38-899f-302e1deb2101&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2SKYznGDyZTCoiQoZsWOB2)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
