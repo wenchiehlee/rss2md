@@ -2,9 +2,8 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/03/17 - [潛在獲利幅度達6成！宏碁遊戲IPO申購到明日3／25<b>掛牌</b>上市](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260316900652-420101&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0HxR1BS0mlbajDlvju-q9t)
-- 2026/03/17 - [富邦證券輔導民盛應用完成<b>競拍</b>承銷價93.33元 - 中央社CNA](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/428125&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2hE8Q_0PsoyyL6MTD6aqom)
-- 2026/03/16 - [民盛完成<b>競拍</b>/承銷價93.33元；預計3/25<b>掛牌</b>- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/z/DJA/News/DJANewsDetail_1C802AB8-BDE9-4410-B8DA-3E0CABB2EEBC.djhtm&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3TOW0bgCw0_5f47Nxcpt-f)
+- 2026/04/08 - [立盈4/10起<b>競拍</b>4/27每股120元<b>掛牌</b>上櫃 - 自立晚報-](https://www.google.com/url?rct=j&sa=t&url=https://www.idn.com.tw/news/news_content.aspx%3Fcatid%3D3%26catsid%3D1%26catdid%3D0%26artid%3D20260408kofang016&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3R2BKaH-jFw7s1TpwXuUKq)
+- 2026/04/08 - [立盈4/10起<b>競拍</b>/底價102.56元；技術服務佔比走升](https://www.google.com/url?rct=j&sa=t&url=http://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3Dfecd6a95-e7d2-458d-9167-eab8afc6e1d3&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3wqTK5wfagkbEPmskIWv_9)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
