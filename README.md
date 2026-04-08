@@ -14,6 +14,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/04/08 - [泰宗(4169.TW) 相關新聞 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/4169.TW/news&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3MFWMgFiN93nd70X28Bhvp)
 - 2026/04/08 - [泰宗(4169.TW) 走勢圖 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/4169.TW&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1FX87kk9cyjXArO2DBMwkQ)
 <!-- _feedinvestment2_ end -->
 
