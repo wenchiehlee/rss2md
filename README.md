@@ -9,13 +9,14 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/04/02 - [智慧家電成新戰場! 這家搶攻印度4月20日正式<b>掛牌</b>上櫃 - MSN](https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/money/topstories/%25E6%2599%25BA%25E6%2585%25A7%25E5%25AE%25B6%25E9%259B%25BB%25E6%2588%2590%25E6%2596%25B0%25E6%2588%25B0%25E5%25A0%25B4-%25E9%2580%2599%25E5%25AE%25B6%25E6%2590%25B6%25E6%2594%25BB%25E5%258D%25B0%25E5%25BA%25A6-4%25E6%259C%258820%25E6%2597%25A5%25E6%25AD%25A3%25E5%25BC%258F%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583/ar-AA1ZLPNP%3Focid%3Dfinance-verthp-feeds%26apiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3I98hCpfc6H32iuroVcgcb)
+- 2026/04/09 - [立盈4/10起競拍4/27每股120元掛牌上櫃 - 自立晚報](https://www.google.com/url?rct=j&sa=t&url=https://www.idn.com.tw/news/news_content.aspx%3Fcatid%3D3%26catsid%3D1%26catdid%3D0%26artid%3D20260408kofang016&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3R2BKaH-jFw7s1TpwXuUKq)
+- 2026/04/09 - [又1檔興櫃千金股要<b>掛牌</b>上櫃抽中可賺77.7萬元、報酬率123.7% | 市場焦點| 證券| 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9429258&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1nGsnByaT5QIR4gMstK87n)
+- 2026/04/08 - [立盈4/10起<b>競拍</b>/底價102.56元；技術服務佔比走升](https://www.google.com/url?rct=j&sa=t&url=http://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3Dfecd6a95-e7d2-458d-9167-eab8afc6e1d3&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3wqTK5wfagkbEPmskIWv_9)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/04/08 - [泰宗(4169.TW) 相關新聞 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/4169.TW/news&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3MFWMgFiN93nd70X28Bhvp)
-- 2026/04/08 - [泰宗(4169.TW) 走勢圖 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/4169.TW&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1FX87kk9cyjXArO2DBMwkQ)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
