@@ -11,9 +11,6 @@
 <!-- _feedinvestment1_1_ start -->
 - 2026/04/09 - [抽中一張有望萬元入袋！「KTV南霸天」享溫馨4/28<b>掛牌</b>上市 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258A%25BD%25E4%25B8%25AD%25E4%25B8%2580%25E5%25BC%25B5%25E6%259C%2589%25E6%259C%259B%25E8%2590%25AC%25E5%2585%2583%25E5%2585%25A5%25E8%25A2%258B%25EF%25BC%2581%25E3%2580%258Cktv%25E5%258D%2597%25E9%259C%25B8%25E5%25A4%25A9%25E3%2580%258D%25E4%25BA%25AB%25E6%25BA%25AB%25E9%25A6%25A8428%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-071247436.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1QXz00oUqsRL3_6_IH8zvB)
 - 2026/04/09 - [《興櫃股》立盈明起<b>競拍</b>每股底價102.56元- 財經- 時報資訊](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20260409002036-260410%3Fctrack%3Dpc_main_rtime_p07&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0_3MifQPp0uEnEaLATnChS)
-- 2026/04/09 - [立盈4/10起競拍4/27每股120元掛牌上櫃 - 自立晚報](https://www.google.com/url?rct=j&sa=t&url=https://www.idn.com.tw/news/news_content.aspx%3Fcatid%3D3%26catsid%3D1%26catdid%3D0%26artid%3D20260408kofang016&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3R2BKaH-jFw7s1TpwXuUKq)
-- 2026/04/09 - [又1檔興櫃千金股要<b>掛牌</b>上櫃抽中可賺77.7萬元、報酬率123.7% | 市場焦點| 證券| 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9429258&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1nGsnByaT5QIR4gMstK87n)
-- 2026/04/08 - [立盈4/10起<b>競拍</b>/底價102.56元；技術服務佔比走升](https://www.google.com/url?rct=j&sa=t&url=http://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3Dfecd6a95-e7d2-458d-9167-eab8afc6e1d3&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3wqTK5wfagkbEPmskIWv_9)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
