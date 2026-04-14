@@ -14,7 +14,10 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/04/10 - [泰宗(4169.TW) 個股公告 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/4169.TWO/announcement&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0I8N5b4xIKaD8XJ8ieqzDA)
+- 2026/04/14 - [4/13興櫃公司持股轉讓明細 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/4-13%25E8%2588%2588%25E6%25AB%2583%25E5%2585%25AC%25E5%258F%25B8%25E6%258C%2581%25E8%2582%25A1%25E8%25BD%2589%25E8%25AE%2593%25E6%2598%258E%25E7%25B4%25B0-002400013.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw10nkppIXTrvkXvVDLdeG9S)
+- 2026/04/14 - [討論牆| 意騰-KY初次上市<b>過額配售</b>：0股 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/9ml0WwR&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3gj06ZdfXpG6tFSklJmAuD)
+- 2026/04/14 - [興櫃申報轉讓：04月13日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2350974002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0R_sUQKnj-TUJZNO4b9HAQ)
+- 2026/04/14 - [4/13興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D31eab2d7-a4ff-4d48-996c-ebd137236ea5&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3UeJvgd2WGrF3LYeN3taC0)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
