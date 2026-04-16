@@ -14,6 +14,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/04/17 - [合富-KY截至3月底應收帳款餘額約36.69億元，其中已逾期約17.08億元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2590%2588%25E5%25AF%258C-ky%25E6%2588%25AA%25E8%2587%25B33%25E6%259C%2588%25E5%25BA%2595%25E6%2587%2589%25E6%2594%25B6%25E5%25B8%25B3%25E6%25AC%25BE%25E9%25A4%2598%25E9%25A1%258D%25E7%25B4%258436-69%25E5%2584%2584%25E5%2585%2583-%25E5%2585%25B6%25E4%25B8%25AD%25E5%25B7%25B2%25E9%2580%25BE%25E6%259C%259F%25E7%25B4%258417-08%25E5%2584%2584%25E5%2585%2583-004200541.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1hgBZ04NVq1iiQU8Pm92To)
 - 2026/04/17 - [新台幣兌美元匯價中午暫收31.540元，升值1.10角| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WB6QLka&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2MGvX6R14TGC_Nhd2Uh6kP)
 - 2026/04/16 - [神數初上市前現增案股款約5.61億元已全數收足，增資基準日4/16 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/kEo6Ezo&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1LUkUuQQzzJQiFMa-6jAf2)
 - 2026/04/16 - [寶雅公告本公司115年度第1季財務報告預計提報董事會召開日期| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/YamNax8&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw22bJ102lm8fglwQIsiJ-tD)
