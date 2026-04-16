@@ -14,6 +14,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/04/17 - [新台幣兌美元匯價中午暫收31.540元，升值1.10角| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WB6QLka&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2MGvX6R14TGC_Nhd2Uh6kP)
 - 2026/04/16 - [神數初上市前現增案股款約5.61億元已全數收足，增資基準日4/16 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/kEo6Ezo&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1LUkUuQQzzJQiFMa-6jAf2)
 - 2026/04/16 - [寶雅公告本公司115年度第1季財務報告預計提報董事會召開日期| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/YamNax8&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw22bJ102lm8fglwQIsiJ-tD)
 - 2026/04/16 - [宏碁智新公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/EXe18y2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0KQ1ChvFupnnhdmuqRhv2R)
