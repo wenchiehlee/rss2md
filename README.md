@@ -9,7 +9,19 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/04/13 - [半導體廢料變黃金！立盈靠這招打造高獲利預計4月27日<b>掛牌</b> - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1821614&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0uE7BajtGPY9zJ-LVOgDTx)
+- 2026/04/18 - [頌勝擬5/7上市<b>競拍</b>底價215元- 財經 - 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202604/202604173021003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ZGh8QcWIZX-mSTzeAr2X7)
+- 2026/04/18 - [頌勝擬5/7上市<b>競拍</b>底價215元 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/69e220c3a2aa8bdc31a3d00e&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1kOHt6PjCfLo-ZzYENxmM6)
+- 2026/04/18 - [頌勝<b>競拍</b>底價215元預計5/7<b>掛牌</b>上市 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6423971&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3suegLqxVKoRjuthwm4qR2)
+- 2026/04/17 - [南霸天「享溫馨」轉上市掀<b>抽籤</b>熱報酬率兩成現賺六千吸五萬人瘋搶 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1823998&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0pekg_WFpeKRgcty8pou-R)
+- 2026/04/17 - [南霸天「享溫馨」轉上市掀<b>抽籤</b>熱報酬率兩成現賺六千吸五萬人瘋搶 - Yahoo新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%258D%2597%25E9%259C%25B8%25E5%25A4%25A9-%25E4%25BA%25AB%25E6%25BA%25AB%25E9%25A6%25A8-%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582%25E6%258E%2580%25E6%258A%25BD%25E7%25B1%25A4%25E7%2586%25B1-%25E5%25A0%25B1%25E9%2585%25AC%25E7%258E%2587%25E5%2585%25A9%25E6%2588%2590%25E7%258F%25BE%25E8%25B3%25BA%25E5%2585%25AD%25E5%258D%2583%25E5%2590%25B8%25E4%25BA%2594%25E8%2590%25AC%25E4%25BA%25BA%25E7%2598%258B%25E6%2590%25B6-093900386.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2B3DDH4HEl2bJJE4tSA60b)
+- 2026/04/17 - [富邦證輔導敍豐企業4月20日起<b>競拍</b>深耕高階IC載板濕製程設備](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9447615&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0eehx-IKdpckw55X1CP-yZ)
+- 2026/04/17 - [頌勝訂5月7日以258元上市<b>掛牌</b>交易衝刺半導體應用營收](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9448241&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2Lyhw3DPkPoQUWrWlbFznA)
+- 2026/04/17 - [從鞋墊做到半導體CMP研磨墊！頌勝搶先進封裝商機5月<b>掛牌</b>上市 - 鏡新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.mnews.tw/external/mirrordaily56013&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1qmStVTHOTWAfCf9qsZ1iY)
+- 2026/04/17 - [從鞋墊做到半導體CMP研磨墊！頌勝搶先進封裝商機5月<b>掛牌</b>上市 - 鏡報](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrordaily.news/story/56013&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Eza5wueHjXhiR9WM1f65v)
+- 2026/04/17 - [頌勝擬5月7日上市<b>競拍</b>底價215元 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/11074/9448686&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ECYoix_I887NLt5f6REQU)
+- 2026/04/17 - [頌勝擬5/7上市<b>競拍</b>底價215元 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9448686&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0QekVajK8C9gqj8Br8aGhc)
+- 2026/04/17 - [「KTV 南霸天」享溫馨轉上市申購報酬率達兩成- 股市 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9448192&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1YbM6yLlVw1-1dZz1CpLwO)
+- 2026/04/17 - [頌勝<b>競拍</b>底價215元預計5/7<b>掛牌</b>上市 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%25A0%258C%25E5%258B%259D%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B9215%25E5%2585%2583-%25E9%25A0%2590%25E8%25A8%25885-7%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-090115247.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3VCnXaEVzZmrHIdzat-Dbv)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
