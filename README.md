@@ -28,8 +28,6 @@
 <!-- _feedinvestment2_ start -->
 - 2026/04/18 - [討論牆| 宏碁智新初次上櫃<b>過額配售</b>100張，佔公開承銷數量比例3.92% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/l2GOovX&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3CY4UYya2iVbsOP25XGVFT)
 - 2026/04/18 - [神數本公司股票即將終止興櫃交易並轉至臺灣證券交易所上市交易| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/MLokzqM&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Z1ftsuCi0bHZKq6x6k0C_)
-- 2026/04/18 - [神數(7821.TW) 相關新聞 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/7821.TW/news&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0UwFIFR0OD1Fh5xMSp7SB_)
-- 2026/04/18 - [神數本公司辦理股票初次上市<b>過額配售</b>內容| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/2D35DpB&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw15TxIpuNzm2SEs4mHwn8eQ)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
