@@ -14,8 +14,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/04/18 - [討論牆| 宏碁智新初次上櫃<b>過額配售</b>100張，佔公開承銷數量比例3.92% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/l2GOovX&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3CY4UYya2iVbsOP25XGVFT)
-- 2026/04/18 - [神數本公司股票即將終止興櫃交易並轉至臺灣證券交易所上市交易| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/MLokzqM&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Z1ftsuCi0bHZKq6x6k0C_)
+- 2026/04/20 - [宏碁智新掛牌上櫃漲逾25% 未來營運聚焦新興市場 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AE%258F%25E7%25A2%2581%25E6%2599%25BA%25E6%2596%25B0%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583%25E6%25BC%25B2%25E9%2580%25BE25-%25E6%259C%25AA%25E4%25BE%2586%25E7%2587%259F%25E9%2581%258B%25E8%2581%259A%25E7%2584%25A6%25E6%2596%25B0%25E8%2588%2588%25E5%25B8%2582%25E5%25A0%25B4-025030972.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw15AEAKvrJkxYkXf7UaT4vx)
+- 2026/04/20 - [宏碁智新普通股、現增股款繳納憑證4/20起開始轉上櫃買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AE%258F%25E7%25A2%2581%25E6%2599%25BA%25E6%2596%25B0%25E6%2599%25AE%25E9%2580%259A%25E8%2582%25A1-%25E7%258F%25BE%25E5%25A2%259E%25E8%2582%25A1%25E6%25AC%25BE%25E7%25B9%25B3%25E7%25B4%258D%25E6%2586%2591%25E8%25AD%25894-20%25E8%25B5%25B7%25E9%2596%258B%25E5%25A7%258B%25E8%25BD%2589%25E4%25B8%258A%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3-002500191.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0bShW86FpP7nYXo7khfbCH)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
