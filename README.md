@@ -2,8 +2,10 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/04/14 - [《興櫃股》立盈明起<b>競拍</b>每股底價102.56元 - 旺得富理財網](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260409900352-420101&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3IBtSpiUltqmydSLE40XCB)
-- 2026/04/14 - [抽中一張有望萬元入袋！「KTV南霸天」享溫馨4/28<b>掛牌</b>上市 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%258A%25BD%25E4%25B8%25AD%25E4%25B8%2580%25E5%25BC%25B5%25E6%259C%2589%25E6%259C%259B%25E8%2590%25AC%25E5%2585%2583%25E5%2585%25A5%25E8%25A2%258B%25EF%25BC%2581%25E3%2580%258Cktv%25E5%258D%2597%25E9%259C%25B8%25E5%25A4%25A9%25E3%2580%258D%25E4%25BA%25AB%25E6%25BA%25AB%25E9%25A6%25A8428%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-071247436.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1QXz00oUqsRL3_6_IH8zvB)
+- 2026/04/20 - [耀穎5月4日公開<b>抽籤</b>5月8日以53元上櫃<b>掛牌</b>交易 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9453228&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3yFCn4SAXYhrIBKUAsl8AG)
+- 2026/04/20 - [耀穎5月8日<b>掛牌</b>暫定每股承銷價53元- 上市櫃](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260420900624-420101%3Futm_source%3Dwantrich%26utm_medium%3Dtextline%26utm_campaign%3Darticle%26utm_term%3Dpromote%26utm_content%3D1&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw01evmLW0pn-qx5UPmyw4MH)
+- 2026/04/18 - [頌勝<b>競拍</b>底價215元預計5/7<b>掛牌</b>上市 - 優分析](https://www.google.com/url?rct=j&sa=t&url=https://uanalyze.com.tw/articles/2313050826&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw09oQefzYtN9JP9QskWaCAq)
+- 2026/04/17 - [頌勝擬5/7上市<b>競拍</b>底價215元 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9448686&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0QekVajK8C9gqj8Br8aGhc)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
