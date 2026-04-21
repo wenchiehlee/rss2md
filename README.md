@@ -11,6 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/04/21 - [卡位AI與矽光子商機！耀穎<b>競拍</b>底價50元5/8<b>掛牌</b>上櫃 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260421/4ED338B1439964443090366E92EDA269&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1DRUnbFpBDGrwfQHjTljvU)
 - 2026/04/21 - [耀穎5月8日上櫃，安卓手機出貨變少但鍍膜層數變多，牽動成長動能 - 財訊快報](https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlineNews/NewsContent.asp%3FarticleNo%3D14202604210084&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0aoSpH2itkB7dKB5MbtuA8)
 - 2026/04/21 - [耀穎光電5/8登錄上櫃<b>競拍</b>底價每股50元 - BigMedia鉅聞天下](https://www.google.com/url?rct=j&sa=t&url=https://www.bigmedia.com.tw/article/1776672611725&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3uIF8PcQnG9JEgYTRaLYK7)
 - 2026/04/20 - [半導體材料新兵頌勝明起<b>競拍</b>！ 暫定每股258元5/7<b>掛牌</b>上市 - 知新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/9F52488DEDD2ECC4D276908DABA311C1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3vUmUa0m-fAL-4I5ot8Xn0)
