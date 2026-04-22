@@ -16,6 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/04/22 - [中籤戶賺大發！創新服務今掛牌上櫃飆漲164% 抽中1張帳面獲利逾百萬元 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6428911&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3C2WiAn4QeaYn62adevkdR)
 - 2026/04/22 - [個股：創新服務今上櫃，早盤股價衝上1635元，三大成長動能牽動未來營運 - 東森財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://fnc.ebc.net.tw/fncnews/stock/209554&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0haf5hAv1Li08iU4scuSYz)
 - 2026/04/22 - [中籤現賺百萬！ 創新服務上櫃首日飆漲160%殺進千金股 - ETtoday財經雲](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/3153419&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2vVreJ9bFjV6AWaaSMQIvf)
 - 2026/04/22 - [4/21興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/QwYekG3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Wnl-VObbpWWPTForB0an4)
