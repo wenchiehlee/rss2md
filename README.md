@@ -28,7 +28,6 @@
 - 2026/04/23 - [討論牆| 宏碁遊戲公告本公司辦理股票初次創新板上市<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/qozwgM2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2gk1AUu25Q9WbqVpAZ7tDS)
 - 2026/04/23 - [立盈公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25AB%258B%25E7%259B%2588-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E5%2589%258D%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E6%2594%25B6%25E8%25B6%25B3%25E8%2582%25A1%25E6%25AC%25BE%25E6%259A%25A8%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E5%259F%25BA%25E6%25BA%2596%25E6%2597%25A5-083300110.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw37LbG-C67e0E5lRSpTd886)
 - 2026/04/23 - [討論牆| 愛派司公告本公司辦理股票初次上市<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/8nl39QZ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1nklXL953N4LG9zpwd_63J)
-- 2026/04/23 - [中籤者現賺96.2 萬元！創新服務上櫃首日飆至1590 元上演蜜月行情| 科技新報](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/OpMy3Km&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1mJf9hrCHSsRG4X50bBo_v)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
