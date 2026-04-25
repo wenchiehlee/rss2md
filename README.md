@@ -11,16 +11,13 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/04/24 - [最高377元搶到？敍豐企業<b>競拍</b>吸睛登場| 民視新聞網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PG332nM&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2SKzMovxXFAr8Pos1IjmKY)
-- 2026/04/24 - [敘豐完成<b>競拍</b>，承銷價128元，預計5/6<b>掛牌</b>上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2595%2598%25E8%25B1%2590%25E5%25AE%258C%25E6%2588%2590%25E7%25AB%25B6%25E6%258B%258D-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9128%25E5%2585%2583-%25E9%25A0%2590%25E8%25A8%25885-6%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-062756087.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2HWAR9uBCZ1FNjUcAYuzk-)
-- 2026/04/24 - [富邦證券輔導敍豐企業完成<b>競拍</b>承銷價128元| 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/9461920&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw37dgu6i-geupqtdLGNhplb)
-- 2026/04/24 - [富邦證券輔導敍豐企業完成<b>競拍</b>承銷價128元| 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9461920%3Ffrom%3Dedn_next_story&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw19-JKoVmfA6fmJc8Um4aWq)
+- 2026/04/25 - [富邦證券輔導敍豐企業完成<b>競拍</b>承銷價128元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9463872&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2JqAxSzJtdNRFhB7V0Mlt1)
+- 2026/04/25 - [富邦證券輔導敍豐企業完成<b>競拍</b>承銷價128元- 威傳媒新聞-WinNews](https://www.google.com/url?rct=j&sa=t&url=https://www.winnews.com.tw/265672/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2UpUN_ziKCVZBa4R-u0e_3)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/04/25 - [討論牆| 台數科：鑫傳<b>過額配售</b>程序完成，公司對其持股比例調整為65.17% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/kEXkv82&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3hBrgMztAV03G7vplv7YxV)
-- 2026/04/25 - [立盈公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/vXOMJYl&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1uwbMYx7avOcI_iLs1b9yT)
 - 2026/04/24 - [享溫馨本公司辦理股票初次上市<b>過額配售</b>內容（更正主旨） | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/60QQR1a&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw28FdMaP4MU9xujOXExI688)
 <!-- _feedinvestment2_ end -->
 
