@@ -17,6 +17,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/04/26 - [享溫馨本公司辦理股票初次上市前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9m668X3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1xBTIrzQfgoG_ifxoGxxRR)
 - 2026/04/25 - [討論牆| 台數科：鑫傳<b>過額配售</b>程序完成，公司對其持股比例調整為65.17% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/kEXkv82&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3hBrgMztAV03G7vplv7YxV)
 - 2026/04/24 - [享溫馨本公司辦理股票初次上市<b>過額配售</b>內容（更正主旨） | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/60QQR1a&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw28FdMaP4MU9xujOXExI688)
 <!-- _feedinvestment2_ end -->
