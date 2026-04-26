@@ -2,10 +2,10 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/04/20 - [耀穎5月4日公開<b>抽籤</b>5月8日以53元上櫃<b>掛牌</b>交易 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9453228&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3yFCn4SAXYhrIBKUAsl8AG)
-- 2026/04/20 - [耀穎5月8日<b>掛牌</b>暫定每股承銷價53元- 上市櫃](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260420900624-420101%3Futm_source%3Dwantrich%26utm_medium%3Dtextline%26utm_campaign%3Darticle%26utm_term%3Dpromote%26utm_content%3D1&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw01evmLW0pn-qx5UPmyw4MH)
-- 2026/04/18 - [頌勝<b>競拍</b>底價215元預計5/7<b>掛牌</b>上市 - 優分析](https://www.google.com/url?rct=j&sa=t&url=https://uanalyze.com.tw/articles/2313050826&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw09oQefzYtN9JP9QskWaCAq)
-- 2026/04/17 - [頌勝擬5/7上市<b>競拍</b>底價215元 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9448686&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0QekVajK8C9gqj8Br8aGhc)
+- 2026/04/26 - [友霖生技擬8/21<b>掛牌</b>上市暫定承銷價28元 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E5%258F%258B%25E9%259C%2596%25E7%2594%259F%25E6%258A%2580%25E6%2593%25AC821%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-%25E6%259A%25AB%25E5%25AE%259A%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B928%25E5%2585%2583/ar-AA1JRwgk%3Fapiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw13tHTHHMS0FkhlBwqA10jQ)
+- 2026/04/26 - [最高377元搶到？敍豐企業<b>競拍</b>吸睛登場 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%259C%2580%25E9%25AB%2598377%25E5%2585%2583%25E6%2590%25B6%25E5%2588%25B0-%25E6%2595%258D%25E8%25B1%2590%25E4%25BC%2581%25E6%25A5%25AD%25E7%25AB%25B6%25E6%258B%258D%25E5%2590%25B8%25E7%259D%259B%25E7%2599%25BB%25E5%25A0%25B4-090201591.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0xYe75hzIUFP63x94I5ihO)
+- 2026/04/24 - [卡位AI與矽光子商機！耀穎<b>競拍</b>底價50元5/8<b>掛牌</b>上櫃 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260421/4ED338B1439964443090366E92EDA269&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1DRUnbFpBDGrwfQHjTljvU)
+- 2026/04/22 - [耀穎5月8日上櫃，安卓手機出貨變少但鍍膜層數變多，牽動成長動能 - 東森財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://fnc.ebc.net.tw/fncnews/else/209488&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1leeqggLcBfuRWDR3XUB4c)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
