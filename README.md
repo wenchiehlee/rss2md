@@ -17,6 +17,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/04/27 - [永笙-KY 本公司辦理股票初次上市<b>過額配售</b>內容 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7bbc6e49-cf04-4e42-a1de-ed646fbd047d&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Bw1jQl0uBIz5hg3LqnOf1)
+- 2026/04/27 - [美股指數期貨最新報價8:37 | MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/EXeOY2m&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1b13rCVP4hIfJ3aXRD9nhY)
 - 2026/04/27 - [享溫馨初次上市<b>過額配售</b>50張，佔公開承銷數量比例0.97% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E4%25BA%25AB%25E6%25BA%25AB%25E9%25A6%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE50%25E5%25BC%25B5-%25E4%25BD%2594%25E5%2585%25AC%25E9%2596%258B%25E6%2589%25BF%25E9%258A%25B7%25E6%2595%25B8%25E9%2587%258F%25E6%25AF%2594%25E4%25BE%258B0-97-004700119.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2nLztwduHhtrbgJsp5zGXG)
 <!-- _feedinvestment2_ end -->
 
