@@ -11,8 +11,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/04/25 - [富邦證券輔導敍豐企業完成<b>競拍</b>承銷價128元| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9463872&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2JqAxSzJtdNRFhB7V0Mlt1)
-- 2026/04/25 - [富邦證券輔導敍豐企業完成<b>競拍</b>承銷價128元- 威傳媒新聞-WinNews](https://www.google.com/url?rct=j&sa=t&url=https://www.winnews.com.tw/265672/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2UpUN_ziKCVZBa4R-u0e_3)
+- 2026/04/29 - [溢泰實業4/30起<b>競拍</b>；擁水資源變剛需動能](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Daab4faee-a95d-429d-853f-f76d2bdbceb0&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2E9ic_mK8BqWUp9ObYOH3_)
+- 2026/04/29 - [溢泰啟動<b>競拍</b>5/18每股70元<b>掛牌</b>上市](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20260428/index-77737716303877224003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw32DPEs802X4AjNAWZgazBH)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
@@ -26,8 +26,6 @@
 - 2026/04/28 - [【公告】宏碁智新初次上櫃掛牌首五個營業日穩定價格操作結果 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%25AE%258F%25E7%25A2%2581%25E6%2599%25BA%25E6%2596%25B0%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-094810079.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1bPS0G6QmaRG4OOLwcjpSk)
 - 2026/04/28 - [神數本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3De5c1893c-d66b-48df-a842-7dc08fa36c19&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw00R1-KjW1jJQuCqxxqcN47)
 - 2026/04/28 - [享溫馨(7760.TW) 相關新聞 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/7760.TW/news&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3-EXpDf_0IfeM7b6huj8VA)
-- 2026/04/28 - [享溫馨普通股暨現增股款繳納憑證4/28起上市買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E4%25BA%25AB%25E6%25BA%25AB%25E9%25A6%25A8%25E6%2599%25AE%25E9%2580%259A%25E8%2582%25A1%25E6%259A%25A8%25E7%258F%25BE%25E5%25A2%259E%25E8%2582%25A1%25E6%25AC%25BE%25E7%25B9%25B3%25E7%25B4%258D%25E6%2586%2591%25E8%25AD%25894-28%25E8%25B5%25B7%25E4%25B8%258A%25E5%25B8%2582%25E8%25B2%25B7%25E8%25B3%25A3-002000007.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0GvZ3_YnMJEfmJzq6aQZb2)
-- 2026/04/28 - [4/30辦理頌勝科技初上市普通股公開申購電腦抽籤說明 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/4-30%25E8%25BE%25A6%25E7%2590%2586%25E9%25A0%258C%25E5%258B%259D%25E7%25A7%2591%25E6%258A%2580%25E5%2588%259D%25E4%25B8%258A%25E5%25B8%2582%25E6%2599%25AE%25E9%2580%259A%25E8%2582%25A1%25E5%2585%25AC%25E9%2596%258B%25E7%2594%25B3%25E8%25B3%25BC%25E9%259B%25BB%25E8%2585%25A6%25E6%258A%25BD%25E7%25B1%25A4%25E8%25AA%25AA%25E6%2598%258E-002800594.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0fl_AeUojYHnmmg_i9exam)
 - 2026/04/27 - [【公告】永笙-KY辦理股票初次上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%25B0%25B8%25E7%25AC%2599-ky%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-111447848.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0CDFsla7FJp04DWXSCYrBw)
 <!-- _feedinvestment2_ end -->
 
