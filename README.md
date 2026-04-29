@@ -2,10 +2,8 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/04/26 - [友霖生技擬8/21<b>掛牌</b>上市暫定承銷價28元 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E5%258F%258B%25E9%259C%2596%25E7%2594%259F%25E6%258A%2580%25E6%2593%25AC821%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-%25E6%259A%25AB%25E5%25AE%259A%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B928%25E5%2585%2583/ar-AA1JRwgk%3Fapiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw13tHTHHMS0FkhlBwqA10jQ)
-- 2026/04/26 - [最高377元搶到？敍豐企業<b>競拍</b>吸睛登場 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%259C%2580%25E9%25AB%2598377%25E5%2585%2583%25E6%2590%25B6%25E5%2588%25B0-%25E6%2595%258D%25E8%25B1%2590%25E4%25BC%2581%25E6%25A5%25AD%25E7%25AB%25B6%25E6%258B%258D%25E5%2590%25B8%25E7%259D%259B%25E7%2599%25BB%25E5%25A0%25B4-090201591.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0xYe75hzIUFP63x94I5ihO)
-- 2026/04/24 - [卡位AI與矽光子商機！耀穎<b>競拍</b>底價50元5/8<b>掛牌</b>上櫃 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260421/4ED338B1439964443090366E92EDA269&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1DRUnbFpBDGrwfQHjTljvU)
-- 2026/04/22 - [耀穎5月8日上櫃，安卓手機出貨變少但鍍膜層數變多，牽動成長動能 - 東森財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://fnc.ebc.net.tw/fncnews/else/209488&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1leeqggLcBfuRWDR3XUB4c)
+- 2026/04/29 - [天能綠電<b>競拍</b>超額認購2.67倍、5/11將強勢<b>掛牌</b>| 鉅亨網- 台股新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6436460&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3kjmuSAN_vLuSmZl6YN_Se)
+- 2026/04/29 - [基米上市<b>競拍</b>完成公開申購承銷價22.06元抽中者投報率34% - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260429%26CSeqNO%3DE9472019&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1tgiE6vkfgmJxX3WzxQ5uq)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
@@ -19,7 +17,6 @@
 <!-- _feedinvestment2_ start -->
 - 2026/04/29 - [崇舜申請上市今年來第五家 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25B4%2587%25E8%2588%259C%25E7%2594%25B3%25E8%25AB%258B%25E4%25B8%258A%25E5%25B8%2582-%25E4%25BB%258A%25E5%25B9%25B4%25E4%25BE%2586%25E7%25AC%25AC%25E4%25BA%2594%25E5%25AE%25B6-201000711.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Ok7L7XP1dCo3DlU3VBVLo)
 - 2026/04/29 - [KY 代子公司Buima Holding Limited公告出售Buima HoldingHong Kong Limited之股權處分案完成交割](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25A1%2593%25E9%25BC%258E-ky-%25E4%25BB%25A3%25E5%25AD%2590%25E5%2585%25AC%25E5%258F%25B8buima-holding-limited%25E5%2585%25AC%25E5%2591%258A%25E5%2587%25BA%25E5%2594%25AEbuima-155700283.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw00BpBaSvPFJuBC8F9aOVUw)
-- 2026/04/28 - [享溫馨(7760.TW) 相關新聞 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/7760.TW/news&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3-EXpDf_0IfeM7b6huj8VA)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
