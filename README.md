@@ -30,7 +30,6 @@
 - 2026/04/29 - [討論牆| 享溫馨初次上市<b>過額配售</b>50張，佔公開承銷數量比例0.97% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/PG3eq7l&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1v3Ykw3vskZ3DBCPTi-a14)
 - 2026/04/29 - [創新服務初上櫃首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D4f564dd8-c70b-46d0-8848-0fc190afe90f&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ebkNw4YX2p01maCM2dsDi)
 - 2026/04/29 - [崇舜申請上市今年來第五家 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25B4%2587%25E8%2588%259C%25E7%2594%25B3%25E8%25AB%258B%25E4%25B8%258A%25E5%25B8%2582-%25E4%25BB%258A%25E5%25B9%25B4%25E4%25BE%2586%25E7%25AC%25AC%25E4%25BA%2594%25E5%25AE%25B6-201000711.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Ok7L7XP1dCo3DlU3VBVLo)
-- 2026/04/29 - [KY 代子公司Buima Holding Limited公告出售Buima HoldingHong Kong Limited之股權處分案完成交割](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25A1%2593%25E9%25BC%258E-ky-%25E4%25BB%25A3%25E5%25AD%2590%25E5%2585%25AC%25E5%258F%25B8buima-holding-limited%25E5%2585%25AC%25E5%2591%258A%25E5%2587%25BA%25E5%2594%25AEbuima-155700283.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw00BpBaSvPFJuBC8F9aOVUw)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
