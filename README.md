@@ -25,9 +25,12 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/04/30 - [永笙-KY(4178.TW) 相關新聞 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/4178.TWO/news&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3lI2hvGOOvVjwQguq3-5Sa)
+- 2026/04/30 - [4/29興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/wJmvnDw&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ovmUAfquOOxwS0KPhSx9n)
 - 2026/04/30 - [4/29興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D9386b16f-5e9c-46c0-ad74-9d36db6e4c68&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1H5nLKDRzFK55fQ4rc1K_X)
 - 2026/04/30 - [永笙-KY(4178.TW) 走勢圖 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/4178.TW&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1BlJ9tyLj64WWIxWnzY3kh)
 - 2026/04/30 - [興櫃申報轉讓：04月29日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2357513002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1zS0fNO6rtWvkl0USf-bzh)
+- 2026/04/30 - [討論牆| 永笙-KY初次上市<b>過額配售</b>100張，佔公開承銷數量比例0.5% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/MLo7nga&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0R1Ow8-lhQk_R8hh684E5M)
 - 2026/04/30 - [討論牆| 永笙-KY 本公司辦理股票初次上市<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/VxXRZ3y&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3BL9y_J1ZNBasGkIGbnNPd)
 - 2026/04/29 - [討論牆| 享溫馨初次上市<b>過額配售</b>50張，佔公開承銷數量比例0.97% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/PG3eq7l&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1v3Ykw3vskZ3DBCPTi-a14)
 - 2026/04/29 - [創新服務初上櫃首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D4f564dd8-c70b-46d0-8848-0fc190afe90f&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ebkNw4YX2p01maCM2dsDi)
