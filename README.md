@@ -29,7 +29,6 @@
 - 2026/04/30 - [永笙-KY(4178.TW) 走勢圖 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/4178.TW&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1BlJ9tyLj64WWIxWnzY3kh)
 - 2026/04/30 - [興櫃申報轉讓：04月29日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2357513002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1zS0fNO6rtWvkl0USf-bzh)
 - 2026/04/30 - [討論牆| 永笙-KY初次上市<b>過額配售</b>100張，佔公開承銷數量比例0.5% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/MLo7nga&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0R1Ow8-lhQk_R8hh684E5M)
-- 2026/04/30 - [討論牆| 永笙-KY 本公司辦理股票初次上市<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/VxXRZ3y&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3BL9y_J1ZNBasGkIGbnNPd)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
