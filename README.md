@@ -9,11 +9,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/05/01 - [基米5/11創新板<b>掛牌</b>，承銷價22.06元，中籤潛在報酬率34% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%259F%25BA%25E7%25B1%25B35-11%25E5%2589%25B5%25E6%2596%25B0%25E6%259D%25BF%25E6%258E%259B%25E7%2589%258C-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B922-06%25E5%2585%2583-%25E4%25B8%25AD%25E7%25B1%25A4%25E6%25BD%259B%25E5%259C%25A8%25E5%25A0%25B1%25E9%2585%25AC%25E7%258E%258734-003020469.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0oBGv7HWgvRGNmOzaOM_oX)
 - 2026/04/30 - [天能綠電將上櫃！公開承銷中籤價差逾4萬元| NOWNEWS今日新聞 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Gg5NaJ6&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw21O7zNGTpPfpuYSN5w_UAM)
-- 2026/04/30 - [天能綠電<b>競拍</b>超額認購2.67倍5月11日將強勢<b>掛牌</b> - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/6850/9474039%3Ffrom%3Dsearchresult&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3iP-OfkgXHuLjSexWrtlAi)
-- 2026/04/30 - [基米5/11創新板<b>掛牌</b>，承銷價22.06元，中籤潛在報酬率34% - 財訊快報](https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlineNews/NewsContent.asp%3FarticleNo%3D14202604300036&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw25G-aZU5GuxhDjYU2Ku1kW)
-- 2026/04/30 - [天能綠電上櫃倒數「抽紅包」！申購最後一天、中籤價差逾4萬元 - NOWnews今日新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.nownews.com/amp/news/6812468&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0JK00bftUEj4WBrAkoOvAf)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
