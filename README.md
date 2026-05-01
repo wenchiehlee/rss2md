@@ -19,7 +19,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/05/01 - [享溫馨(7760.TW) 個股公告 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/7760.TWO/announcement&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Afgla38n6pIukkZ_KF8th)
-- 2026/04/30 - [【公告】創鉅材料訂5月11日興櫃買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%2589%25B5%25E9%2589%2585%25E6%259D%2590%25E6%2596%2599%25E8%25A8%25825%25E6%259C%258811%25E6%2597%25A5%25E8%2588%2588%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3-134900641.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1CjXDrG3P-SrcgaUGmiA72)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
