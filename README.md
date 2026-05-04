@@ -14,7 +14,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/05/01 - [享溫馨(7760.TW) 個股公告 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/7760.TWO/announcement&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Afgla38n6pIukkZ_KF8th)
+- 2026/05/04 - [4/30興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/2D3Lmv6&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw11lvAUfiB1Xo3tqZXRSEcU)
+- 2026/05/04 - [4/30興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Ddedeb0f3-e415-4aea-9cf2-7ee32a75321f&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2M37EvoyOO4ZqfL4bOpDn2)
+- 2026/05/04 - [興櫃申報轉讓：04月30日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3Fsn%3D2358120002%26pu%3DNews_0009_3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw31yHlDA66g3qqrJOspwm_x)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
