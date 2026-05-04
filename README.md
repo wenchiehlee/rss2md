@@ -14,9 +14,14 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/05/04 - [頌勝科技公告本公司115年第一季財務報告董事會召開日期 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%25A0%258C%25E5%258B%259D%25E7%25A7%2591%25E6%258A%2580-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8115%25E5%25B9%25B4%25E7%25AC%25AC-%25E5%25AD%25A3%25E8%25B2%25A1%25E5%258B%2599%25E5%25A0%25B1%25E5%2591%258A%25E8%2591%25A3%25E4%25BA%258B%25E6%259C%2583%25E5%258F%25AC%25E9%2596%258B%25E6%2597%25A5%25E6%259C%259F-090300935.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2hoTJbu1Tq1gKpbXDZaUfY)
+- 2026/05/04 - [敘豐公告本公司辦理股票初次上櫃前現金增資收足股款暨現金增資基準日](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/qozlROK&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2t2YpZp1D98EZS3LDdBuWH)
+- 2026/05/04 - [頌勝科技初次上市<b>過額配售</b>350張，佔公開承銷數量比例4.99% - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df9654ea9-a28f-4590-8fc8-5e8d0d24df84%26utm_source%3D676757186626576818576726%26utm_medium%3DRSS&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1rjizaEM2ztlB9B12b94x8)
 - 2026/05/04 - [4/30興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/2D3Lmv6&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw11lvAUfiB1Xo3tqZXRSEcU)
 - 2026/05/04 - [4/30興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Ddedeb0f3-e415-4aea-9cf2-7ee32a75321f&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2M37EvoyOO4ZqfL4bOpDn2)
+- 2026/05/04 - [興櫃申報轉讓：04月30日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2358120002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw03LAsbc7-RH1eHHiXkR379)
 - 2026/05/04 - [興櫃申報轉讓：04月30日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3Fsn%3D2358120002%26pu%3DNews_0009_3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw31yHlDA66g3qqrJOspwm_x)
+- 2026/05/04 - [討論牆| 歐買尬：配合綠界科技申請上櫃需要，提供老股供辦理<b>過額配售</b> - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/MLmrZGQ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw08GsSZ1Bwwf7UZT_rcs_am)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
