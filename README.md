@@ -9,7 +9,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/04/30 - [天能綠電將上櫃！公開承銷中籤價差逾4萬元| NOWNEWS今日新聞 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Gg5NaJ6&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw21O7zNGTpPfpuYSN5w_UAM)
+- 2026/05/05 - [聚恆科技5月22日每股26元創新板上市，7日起<b>競拍</b> - 財訊快報](https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlineNews/NewsContent.asp%3FarticleNo%3D14202605050126&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3iLDo6xoS6XXGyi9esz-0p)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
@@ -19,7 +19,6 @@
 - 2026/05/05 - [興櫃申報轉讓：05月04日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2358718002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2JxRcQUjKWG5xoo35YtYfQ)
 - 2026/05/05 - [頌勝科技公告本公司115年第一季財務報告董事會召開日期| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/2D3LqjB&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ewyG-trhp4VOA33_ZCi_P)
 - 2026/05/05 - [頌勝科技初次上市<b>過額配售</b>350張，佔公開承銷數量比例4.99% | MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Gg5VwzL&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0pDo0ydOEiSicLq9OoBJD4)
-- 2026/05/04 - [頌勝科技初次上市<b>過額配售</b>350張，佔公開承銷數量比例4.99% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%25A0%258C%25E5%258B%259D%25E7%25A7%2591%25E6%258A%2580%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE350%25E5%25BC%25B5-%25E4%25BD%2594%25E5%2585%25AC%25E9%2596%258B%25E6%2589%25BF%25E9%258A%25B7%25E6%2595%25B8%25E9%2587%258F%25E6%25AF%2594%25E4%25BE%258B4-99-090000669.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2YO-QfDgZqkuApa-xMyT7F)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
