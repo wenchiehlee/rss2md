@@ -9,6 +9,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/05/06 - [新股上市／水資源變黃金！這家打造水處理王國擬5月18日<b>掛牌</b>上市 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://stock.setn.com/news/1834116&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0f8baNIohyMH31oix2lRYw)
 - 2026/05/05 - [聚恆科技5月22日每股26元創新板上市，7日起<b>競拍</b> - 財訊快報](https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlineNews/NewsContent.asp%3FarticleNo%3D14202605050126&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3iLDo6xoS6XXGyi9esz-0p)
 <!-- _feedinvestment1_1_ end -->
 
