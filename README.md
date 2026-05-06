@@ -19,6 +19,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/05/06 - [耀穎初上櫃<b>過額配售</b>70張，佔公開承銷股數比例2.89% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2580%2580%25E7%25A9%258E%25E5%2588%259D%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE70%25E5%25BC%25B5-%25E4%25BD%2594%25E5%2585%25AC%25E9%2596%258B%25E6%2589%25BF%25E9%258A%25B7%25E8%2582%25A1%25E6%2595%25B8%25E6%25AF%2594%25E4%25BE%258B2-89-082900107.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2nh3duJ3fUZSxfhoWJ8txb)
 - 2026/05/06 - [耀穎初上櫃<b>過額配售</b>70張，佔公開承銷股數比例2.89% - 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7fa0e623-3dd0-4778-a9a0-920f6a731fe8&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2b5rf_fUT2dxRMN-qeGLMb)
 - 2026/05/06 - [立盈初上櫃首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dced3082c-edbf-4c31-b40d-ebe675ff9320&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2EvT3HNXgm3DHYN_zVOYyY)
 - 2026/05/06 - [享溫馨上市掛牌首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D771eefd6-109b-486b-ab8a-a324c41e0318&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2gne_pOePa3M_XnIUBnqg4)
