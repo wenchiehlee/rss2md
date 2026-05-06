@@ -15,6 +15,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/05/06 - [立盈初上櫃首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dced3082c-edbf-4c31-b40d-ebe675ff9320&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2EvT3HNXgm3DHYN_zVOYyY)
+- 2026/05/06 - [享溫馨上市掛牌首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D771eefd6-109b-486b-ab8a-a324c41e0318&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2gne_pOePa3M_XnIUBnqg4)
 - 2026/05/06 - [5/5興櫃公司持股轉讓明細- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D5e139c13-c47d-471f-be04-3741148cce76&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1JfFgaiW41I6Q-Gze14pCm)
 - 2026/05/06 - [05月05日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2359417002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2H3oFIjnLInrA9ZMaNBVGj)
 - 2026/05/05 - [頌勝科技公告本公司115年第一季財務報告董事會召開日期| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/2D3LqjB&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ewyG-trhp4VOA33_ZCi_P)
