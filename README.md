@@ -2,15 +2,19 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/04/29 - [天能綠電<b>競拍</b>超額認購2.67倍、5/11將強勢<b>掛牌</b>| 鉅亨網- 台股新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6436460&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3kjmuSAN_vLuSmZl6YN_Se)
-- 2026/04/29 - [基米上市<b>競拍</b>完成公開申購承銷價22.06元抽中者投報率34% - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260429%26CSeqNO%3DE9472019&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1tgiE6vkfgmJxX3WzxQ5uq)
+- 2026/05/06 - [基米5/11創新板<b>掛牌</b>，承銷價22.06元，中籤潛在報酬率34% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%259F%25BA%25E7%25B1%25B35-11%25E5%2589%25B5%25E6%2596%25B0%25E6%259D%25BF%25E6%258E%259B%25E7%2589%258C-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B922-06%25E5%2585%2583-%25E4%25B8%25AD%25E7%25B1%25A4%25E6%25BD%259B%25E5%259C%25A8%25E5%25A0%25B1%25E9%2585%25AC%25E7%258E%258734-003020469.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0oBGv7HWgvRGNmOzaOM_oX)
+- 2026/05/06 - [華洋精機預計5/25日<b>掛牌</b>上櫃每股暫定85元 - 財富自由](https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/lpfwah77rgxq&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0zwGzmHIpGKP2YGOusPALE)
+- 2026/05/06 - [華洋精機預計5/25日<b>掛牌</b>上櫃每股暫定85元- 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/amp/article/breakingnews/5427558&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0QGGsB3TUAk45rIK92iGQ1)
+- 2026/04/30 - [基米5月11日<b>掛牌</b>承銷價22.06元 - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260430%26CSeqNO%3DE9472511&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3J1WaVgiBcw24kNpJSFMFV)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/05/06 - [華洋5/8-5/12<b>競拍</b>5/25每股85元上櫃](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20260507/index-77810045018965224003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1OlS_vi3MSBKMWtVoJcUHB)
+- 2026/05/06 - [華洋精機預計5/25日<b>掛牌</b>上櫃每股暫定85元 - 財富自由](https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/lpfwah77rgxq&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0zwGzmHIpGKP2YGOusPALE)
+- 2026/05/06 - [華洋精機預計5/25日<b>掛牌</b>上櫃每股暫定85元- 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/amp/article/breakingnews/5427558&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0QGGsB3TUAk45rIK92iGQ1)
 - 2026/05/06 - [新股上市／水資源變黃金！這家打造水處理王國擬5月18日<b>掛牌</b>上市 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://stock.setn.com/news/1834116&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0f8baNIohyMH31oix2lRYw)
-- 2026/05/05 - [聚恆科技5月22日每股26元創新板上市，7日起<b>競拍</b> - 財訊快報](https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlineNews/NewsContent.asp%3FarticleNo%3D14202605050126&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3iLDo6xoS6XXGyi9esz-0p)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
