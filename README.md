@@ -14,9 +14,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/05/05 - [5/4興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/wJmP6o0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1rGGXkH85piTJ1ZHuUMhs2)
-- 2026/05/05 - [5/4興櫃公司持股轉讓明細- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dcf961039-8d34-4e34-b2f2-7e8006ae2574&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Hv0_vTsDgls_UuObonINp)
-- 2026/05/05 - [興櫃申報轉讓：05月04日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2358718002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2JxRcQUjKWG5xoo35YtYfQ)
+- 2026/05/06 - [5/5興櫃公司持股轉讓明細- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D5e139c13-c47d-471f-be04-3741148cce76&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1JfFgaiW41I6Q-Gze14pCm)
+- 2026/05/06 - [05月05日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2359417002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2H3oFIjnLInrA9ZMaNBVGj)
 - 2026/05/05 - [頌勝科技公告本公司115年第一季財務報告董事會召開日期| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/2D3LqjB&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ewyG-trhp4VOA33_ZCi_P)
 - 2026/05/05 - [頌勝科技初次上市<b>過額配售</b>350張，佔公開承銷數量比例4.99% | MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Gg5VwzL&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0pDo0ydOEiSicLq9OoBJD4)
 <!-- _feedinvestment2_ end -->
