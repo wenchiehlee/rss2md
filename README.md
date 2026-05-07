@@ -11,6 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/05/07 - [華洋精機<b>競拍</b>底價80.19元搶CoWoS檢測商機、EPS兩年翻倍 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/local/20260507/A883B1F1F51854932B268734A3594EED&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3S2NLbTwtNhaHtDOoi4hyz)
 - 2026/05/06 - [華洋5/8-5/12<b>競拍</b>5/25每股85元上櫃](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20260507/index-77810045018965224003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1OlS_vi3MSBKMWtVoJcUHB)
 - 2026/05/06 - [華洋精機預計5/25日<b>掛牌</b>上櫃每股暫定85元 - 財富自由](https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/lpfwah77rgxq&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0zwGzmHIpGKP2YGOusPALE)
 - 2026/05/06 - [華洋精機預計5/25日<b>掛牌</b>上櫃每股暫定85元- 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/amp/article/breakingnews/5427558&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0QGGsB3TUAk45rIK92iGQ1)
