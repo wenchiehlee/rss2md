@@ -14,7 +14,6 @@
 - 2026/05/06 - [華洋5/8-5/12<b>競拍</b>5/25每股85元上櫃](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20260507/index-77810045018965224003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1OlS_vi3MSBKMWtVoJcUHB)
 - 2026/05/06 - [華洋精機預計5/25日<b>掛牌</b>上櫃每股暫定85元 - 財富自由](https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/lpfwah77rgxq&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0zwGzmHIpGKP2YGOusPALE)
 - 2026/05/06 - [華洋精機預計5/25日<b>掛牌</b>上櫃每股暫定85元- 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/amp/article/breakingnews/5427558&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0QGGsB3TUAk45rIK92iGQ1)
-- 2026/05/06 - [新股上市／水資源變黃金！這家打造水處理王國擬5月18日<b>掛牌</b>上市 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://stock.setn.com/news/1834116&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0f8baNIohyMH31oix2lRYw)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
