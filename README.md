@@ -11,6 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/05/08 - [溢泰實業IPO申購至明日潛在套利空間達48％ - 上市櫃](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260507900689-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1pzNczVJbDgdSN4FQDAGkr)
 - 2026/05/07 - [華洋精機<b>競拍</b>底價80.19元搶CoWoS檢測商機、EPS兩年翻倍 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/local/20260507/A883B1F1F51854932B268734A3594EED&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3S2NLbTwtNhaHtDOoi4hyz)
 <!-- _feedinvestment1_1_ end -->
 
