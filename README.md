@@ -17,6 +17,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/05/08 - [證交所審議委員會審議通過泰合初次申請股票上市案 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%25AD%2589%25E4%25BA%25A4%25E6%2589%2580%25E5%25AF%25A9%25E8%25AD%25B0%25E5%25A7%2594%25E5%2593%25A1%25E6%259C%2583%25E5%25AF%25A9%25E8%25AD%25B0%25E9%2580%259A%25E9%2581%258E%25E6%25B3%25B0%25E5%2590%2588%25E5%2588%259D%25E6%25AC%25A1%25E7%2594%25B3%25E8%25AB%258B%25E8%2582%25A1%25E7%25A5%25A8%25E4%25B8%258A%25E5%25B8%2582%25E6%25A1%2588-234600074.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2hiZ3Lm1zjAc0NEp74kJFj)
 - 2026/05/08 - [基米(4195)辦理股票初次上市前現金增資755.2萬股每股22.06元收足股款1.66億元暨現金 ...](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/company-news/item/95191.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1-N2BgVJyi87JO-Q1A5Qo8)
 - 2026/05/08 - [基米(4195)辦理股票初次上市<b>過額配售</b>內容(5/7股價29.05元) - 生技投資第一站 - Genet觀點](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/company-news/item/95192.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw35DSSBjHI_w2FVAgvIzTem)
 - 2026/05/08 - [基米(4195)5/11股票即將終止興櫃交易並轉至臺灣證券交易所創新板上市交易(5/7股價29.05元)](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/company-news/item/95193.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2NDmXdEX7V_CqzK3KMnBBa)
@@ -36,7 +37,6 @@
 - 2026/05/07 - [天能綠電初次上櫃<b>過額配售</b>185張、佔公開承銷數量6.30% - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3Dde5e8e58-c2cd-47b6-bfc2-f0f785b23b03&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw32ZoId8h29OALkz2VG97sO)
 - 2026/05/07 - [【公告】基米辦理股票初次上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%259F%25BA%25E7%25B1%25B3%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-062548119.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1UtwZH2ZTurezWnUavtTbI)
 - 2026/05/07 - [基米本公司辦理股票初次上市<b>過額配售</b>內容 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3Dd883d56e-6ac0-46a3-857a-1f4f31644c0d&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3587vePAsWH1XpSUb2BZs6)
-- 2026/05/07 - [《半導體》頌勝科技轉上市飆漲逾5成抽中現賺14萬](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260507900244-420101%3Futm_source%3Dwantrich%26utm_medium%3Dtextline%26utm_campaign%3Darticle%26utm_term%3Dpromote%26utm_content%3D2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw24D_hlt0YJSARrmucgdoRS)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
