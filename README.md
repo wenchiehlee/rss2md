@@ -16,7 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/05/09 - [基米本公司股票即將終止興櫃交易並轉至臺灣證券交易所創新板上市交易| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/XYOQxwZ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1rnaTDJf6WbjYGGFCvO5MS)
+- 2026/05/09 - [討論牆| 天能綠電公告本公司辦理股票初次上櫃<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/wJmooNp&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1WC4mdGLB3cH8kwQmzX5he)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
