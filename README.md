@@ -11,7 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/05/08 - [溢泰實業IPO申購至明日潛在套利空間達48％ - 上市櫃](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260507900689-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1pzNczVJbDgdSN4FQDAGkr)
+- 2026/05/11 - [上櫃新股／先進封裝檢測設備爆發！這家卡位黃金賽道擬5月25日<b>掛牌</b> - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://stock.setn.com/news/1836554&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2wR9fEGO9ZYbpLWo-CRWQK)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
