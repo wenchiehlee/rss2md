@@ -16,7 +16,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/05/09 - [討論牆| 天能綠電公告本公司辦理股票初次上櫃<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/wJmooNp&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1WC4mdGLB3cH8kwQmzX5he)
+- 2026/05/12 - [5/11興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Db3f884ea-ea27-420a-9ec7-424136fb714a&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2bHtVYJEH9O9L9pEIsgx9Q)
+- 2026/05/12 - [興櫃申報轉讓：05月11日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2364230002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw16t9RimKJCdm8tRomIo6kl)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
