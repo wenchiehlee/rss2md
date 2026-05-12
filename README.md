@@ -16,6 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/05/12 - [浩鼎(4174)董事會決議配合轉投資圓祥生技上櫃提供<b>過額配售</b>作業](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D86296%26kind%3D21&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1BQa1LaaiP7MjaFZ1cNNHA)
 - 2026/05/12 - [5/11興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Db3f884ea-ea27-420a-9ec7-424136fb714a&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2bHtVYJEH9O9L9pEIsgx9Q)
 - 2026/05/12 - [興櫃申報轉讓：05月11日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2364230002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw16t9RimKJCdm8tRomIo6kl)
 <!-- _feedinvestment2_ end -->
