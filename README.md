@@ -2,10 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/05/06 - [基米5/11創新板<b>掛牌</b>，承銷價22.06元，中籤潛在報酬率34% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%259F%25BA%25E7%25B1%25B35-11%25E5%2589%25B5%25E6%2596%25B0%25E6%259D%25BF%25E6%258E%259B%25E7%2589%258C-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B922-06%25E5%2585%2583-%25E4%25B8%25AD%25E7%25B1%25A4%25E6%25BD%259B%25E5%259C%25A8%25E5%25A0%25B1%25E9%2585%25AC%25E7%258E%258734-003020469.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0oBGv7HWgvRGNmOzaOM_oX)
-- 2026/05/06 - [華洋精機預計5/25日<b>掛牌</b>上櫃每股暫定85元 - 財富自由](https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/lpfwah77rgxq&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0zwGzmHIpGKP2YGOusPALE)
-- 2026/05/06 - [華洋精機預計5/25日<b>掛牌</b>上櫃每股暫定85元- 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/amp/article/breakingnews/5427558&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0QGGsB3TUAk45rIK92iGQ1)
-- 2026/04/30 - [基米5月11日<b>掛牌</b>承銷價22.06元 - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260430%26CSeqNO%3DE9472511&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3J1WaVgiBcw24kNpJSFMFV)
+- 2026/05/11 - [上櫃新股／先進封裝檢測設備爆發！這家卡位黃金賽道擬5月25日<b>掛牌</b> - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://stock.setn.com/news/1836554&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2wR9fEGO9ZYbpLWo-CRWQK)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
@@ -17,8 +14,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/05/12 - [浩鼎(4174)董事會決議配合轉投資圓祥生技上櫃提供<b>過額配售</b>作業](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D86296%26kind%3D21&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1BQa1LaaiP7MjaFZ1cNNHA)
-- 2026/05/12 - [5/11興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Db3f884ea-ea27-420a-9ec7-424136fb714a&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2bHtVYJEH9O9L9pEIsgx9Q)
-- 2026/05/12 - [興櫃申報轉讓：05月11日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2364230002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw16t9RimKJCdm8tRomIo6kl)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
