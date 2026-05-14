@@ -6,12 +6,12 @@
 - 2026/05/13 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37％ | 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/9500821&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ZHWEbv4ym_Xjpm85q_XG-)
 - 2026/05/13 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37％ | 市場焦點| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9500821%3Ffrom%3Dedn_newestlist_rank&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1zYJ6n5vhnGm3Hhq86o_Fc)
 - 2026/05/13 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37 - 股市 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9500821&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ApzzxO9nSjg1Fr9CFAqLT)
-- 2026/05/11 - [上櫃新股／先進封裝檢測設備爆發！這家卡位黃金賽道擬5月25日<b>掛牌</b> - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://stock.setn.com/news/1836554&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2wR9fEGO9ZYbpLWo-CRWQK)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/05/14 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37 - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260513%26CSeqNO%3DE9500821&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2YqwaVx65zxVjXDRbjbWMs)
 - 2026/05/13 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37％｜新聞快訊 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a0467c4de5d6e550407e3d3&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0cBqdHHBaAhk8hug9esepp)
 - 2026/05/13 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37％ | 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/9500821&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ZHWEbv4ym_Xjpm85q_XG-)
 - 2026/05/13 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37％ | 市場焦點| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9500821%3Ffrom%3Dedn_newestlist_rank&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1zYJ6n5vhnGm3Hhq86o_Fc)
