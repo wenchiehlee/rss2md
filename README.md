@@ -12,15 +12,13 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2026/05/14 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37 - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260513%26CSeqNO%3DE9500821&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2YqwaVx65zxVjXDRbjbWMs)
-- 2026/05/13 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37％｜新聞快訊 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a0467c4de5d6e550407e3d3&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0cBqdHHBaAhk8hug9esepp)
-- 2026/05/13 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37％ | 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/9500821&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ZHWEbv4ym_Xjpm85q_XG-)
-- 2026/05/13 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37％ | 市場焦點| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9500821%3Ffrom%3Dedn_newestlist_rank&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1zYJ6n5vhnGm3Hhq86o_Fc)
-- 2026/05/13 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37 - 股市 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9500821&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2ApzzxO9nSjg1Fr9CFAqLT)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/05/12 - [浩鼎(4174)董事會決議配合轉投資圓祥生技上櫃提供<b>過額配售</b>作業](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D86296%26kind%3D21&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1BQa1LaaiP7MjaFZ1cNNHA)
+- 2026/05/14 - [敘豐:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6458349&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3V8tSHJtKcxU8KqAtRFh6m)
+- 2026/05/14 - [討論牆| 濾能初上櫃<b>過額配售</b>100張，佔公開承銷數量4.99% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/9mVxEoE&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1evnBpUAPDC5frebuYwfZK)
+- 2026/05/14 - [敘豐初上櫃首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D2f5a9063-df29-4515-bb1e-d6ae6f8ea03a&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw137bBsNrCKB8iWIsshY_NY)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
