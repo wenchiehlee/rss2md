@@ -27,10 +27,7 @@
 - 2026/05/15 - [雲象科技初次創新版上市<b>過額配售</b>：0股](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D55926991-9445-454c-9616-f9827c359226&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0MKzzEQOPprzMbISS9YTOV)
 - 2026/05/15 - [[公告] 雲象科技:公告本公司辦理股票初次創新版上市<b>過額配售</b>內容 - 股市](https://www.google.com/url?rct=j&sa=t&url=https://pchome.megatime.com.tw/m/news/cat2/20260515/9700007803202605154.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0OBbf4NfBjTejkwpOGD253)
 - 2026/05/15 - [討論牆| 家碩初上櫃<b>過額配售</b>數量：0股 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/1DBJ3x2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw16O1SYrSFT3XGt4tlFDk_E)
-- 2026/05/14 - [敘豐:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6458349&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3V8tSHJtKcxU8KqAtRFh6m)
-- 2026/05/14 - [討論牆| 濾能初上櫃<b>過額配售</b>100張，佔公開承銷數量4.99% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/9mVxEoE&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1evnBpUAPDC5frebuYwfZK)
 - 2026/05/14 - [耀穎公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果- 台股 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3D0b0876e3-f41b-4e00-97f4-313235980196%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0751Z4MLCJcCvu10Fl-Ayk)
-- 2026/05/14 - [敘豐初上櫃首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D2f5a9063-df29-4515-bb1e-d6ae6f8ea03a&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw137bBsNrCKB8iWIsshY_NY)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
