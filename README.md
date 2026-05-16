@@ -16,6 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/05/16 - [討論牆| 耀穎初上櫃<b>過額配售</b>70張，佔公開承銷股數比例2.89% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/0MGzQPP&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ehac81PMN5v3RMVmYiK79)
 - 2026/05/16 - [討論牆| 溢泰實業初上市<b>過額配售</b>100張，佔公開承銷數量比例0.65% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/BEJ2RrN&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw19U13GcZJGwIdqwvP_O_N0)
 - 2026/05/16 - [溢泰實業(7818.TW) 個股公告 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/7818.TWO/announcement&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2tONIx6GK3vQrdDUoSDA5d)
 - 2026/05/15 - [溢泰實業：公司股票5/18起轉上市買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WBKa7ya&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2PJZBvVbmrl22HSa4GFOE_)
