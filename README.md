@@ -16,6 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/05/16 - [溢泰實業(7818.TW) 個股公告 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/7818.TWO/announcement&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2tONIx6GK3vQrdDUoSDA5d)
 - 2026/05/15 - [溢泰實業初上市<b>過額配售</b>100張，佔公開承銷數量比例0.65% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25BA%25A2%25E6%25B3%25B0%25E5%25AF%25A6%25E6%25A5%25AD%25E5%2588%259D%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE100%25E5%25BC%25B5-%25E4%25BD%2594%25E5%2585%25AC%25E9%2596%258B%25E6%2589%25BF%25E9%258A%25B7%25E6%2595%25B8%25E9%2587%258F%25E6%25AF%2594%25E4%25BE%258B0-65-064700629.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0qGsoayZjSr0LWa7gEHw1A)
 - 2026/05/15 - [溢泰實業：公司股票5/18起轉上市買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25BA%25A2%25E6%25B3%25B0%25E5%25AF%25A6%25E6%25A5%25AD-%25E5%2585%25AC%25E5%258F%25B8%25E8%2582%25A1%25E7%25A5%25A85-18%25E8%25B5%25B7%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582%25E8%25B2%25B7%25E8%25B3%25A3-064700497.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3OrmfZhipx9jVbMPXi3Xew)
 - 2026/05/15 - [頌勝科技本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D946d9794-2606-42d7-a48a-a1dba8b6180e&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3uzVMN7nsYqiTWsqi_ztUG)
