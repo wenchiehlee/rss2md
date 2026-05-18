@@ -23,6 +23,7 @@
 - 2026/05/18 - [5/15興櫃公司持股轉讓明細](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D23a2d7c7-5ff9-405d-8690-d74b630f890e&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2OvyI_831fTJbeQInIKre3)
 - 2026/05/18 - [興櫃申報轉讓：05月15日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2367257002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ACWCvMKTyAm3u-ScvUn7J)
 - 2026/05/18 - [討論牆| 神數初上市<b>過額配售</b>500張，佔公開承銷數量比例4.71% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/JP1MPNy&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0csmE21YYTG8NiMKNp6pqV)
+- 2026/05/17 - [討論牆| 溢泰實業本公司辦理股票初次上市<b>過額配售</b>內容 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/9mvN59V&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw34dzdnZW1SByKC4gyYz8Q-)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
