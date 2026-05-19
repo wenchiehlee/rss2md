@@ -16,7 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/05/17 - [討論牆| 溢泰實業本公司辦理股票初次上市<b>過額配售</b>內容 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/9mvN59V&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw34dzdnZW1SByKC4gyYz8Q-)
+- 2026/05/19 - [天能綠電公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D0646d877-dd81-45f5-8fd7-0be11e2d1de8&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3nBVLktyu1Rv8tif3qrvse)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
