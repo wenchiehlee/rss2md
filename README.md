@@ -16,13 +16,6 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/05/18 - [5/15興櫃公司持股轉讓明細 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/5-15%25E8%2588%2588%25E6%25AB%2583%25E5%2585%25AC%25E5%258F%25B8%25E6%258C%2581%25E8%2582%25A1%25E8%25BD%2589%25E8%25AE%2593%25E6%2598%258E%25E7%25B4%25B0-002500785.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2H0SL2MB2jaiGV9KpWsYdh)
-- 2026/05/18 - [5/15興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/5yPkEeM&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1xolpgLdSDhY3h0ou-enX8)
-- 2026/05/18 - [溢泰實業普通股暨現增股款繳納憑證5/18起上市買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9mvzEy3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Am7gf2KlxcKf8HGKhLFuu)
-- 2026/05/18 - [雲象科技競價拍賣完成，得標加權平均價格23.12元| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/KwNZX6m&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw15tMV7WUfKUo30GzFnSfOC)
-- 2026/05/18 - [5/15興櫃公司持股轉讓明細](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D23a2d7c7-5ff9-405d-8690-d74b630f890e&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2OvyI_831fTJbeQInIKre3)
-- 2026/05/18 - [興櫃申報轉讓：05月15日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2367257002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ACWCvMKTyAm3u-ScvUn7J)
-- 2026/05/18 - [討論牆| 神數初上市<b>過額配售</b>500張，佔公開承銷數量比例4.71% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/JP1MPNy&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0csmE21YYTG8NiMKNp6pqV)
 - 2026/05/17 - [討論牆| 溢泰實業本公司辦理股票初次上市<b>過額配售</b>內容 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/9mvN59V&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw34dzdnZW1SByKC4gyYz8Q-)
 <!-- _feedinvestment2_ end -->
 
