@@ -17,6 +17,7 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/05/23 - [討論牆| 上品初上巿<b>過額配售</b>400張，佔公開承銷數量5.09% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/oqO6VE5&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0BqXOI_8FTt9iPFJLuvYLa)
+- 2026/05/23 - [精誠金融公告本公司辦理初次上櫃<b>過額配售</b>內容| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/nXK6gKo&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ibrvXsujNjVTHp08vqW_s)
 - 2026/05/23 - [華洋精機初上櫃<b>過額配售</b>：0股| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/NvyWGvn&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0pU4jIHfRZe8a8VVWtwEyp)
 - 2026/05/23 - [櫃買中心預計5/27舉辦精誠金融上櫃掛牌典禮| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/LXz8ky0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3L2o0ts-1NrmFpuZ3U0__o)
 - 2026/05/22 - [精誠金融公告本公司115年股東常會重要決議事項| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/rmKVgKP&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0vJePRxnkw7fqXDTPnxqpi)
