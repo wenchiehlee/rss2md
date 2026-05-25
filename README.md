@@ -16,8 +16,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/05/25 - [興櫃申報轉讓：05月22日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3Fsn%3D2369921002%26pu%3DNews_0002_2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1OICQkd56HbDcr0wwTAVRt)
 - 2026/05/24 - [討論牆| 精誠金融公告本公司辦理初次上櫃<b>過額配售</b>內容 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/nXK6gKo&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0BygBXv8NHBDKPh1z1LTlj)
-- 2026/05/23 - [討論牆| 華洋精機初上櫃<b>過額配售</b>：0股 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/NvyWGvn&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2FjTK1rsNIwmc9FSI0BaEj)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
