@@ -17,9 +17,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/05/26 - [精誠金融公告本公司初次上櫃前現金增資收足股款暨現金增資基準日| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/RB5NjmY&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3DzDG97TjxJRev9WVGUSnz)
-- 2026/05/25 - [華洋精機普通股、現增股款繳納憑證5/25起開始轉上櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/nXKql5D&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2B_G9xpU1rOaRiMzudix1U)
-- 2026/05/25 - [5/22興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Op7nozB&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0eRKAEq5PoE5NP2GmezWJl)
-- 2026/05/25 - [5/22興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D5edb4ca0-d230-4839-abaa-83ae6fd796a5&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3vrUCsgqgw38muxe-G6HAd)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
