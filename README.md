@@ -17,7 +17,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/05/26 - [溢泰實業上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dfba8a9b4-fd7f-405a-8fdd-1ffb8a298ec5&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3f6JLuFPPFexKpW0vHtX3u)
-- 2026/05/26 - [精誠金融公告本公司初次上櫃前現金增資收足股款暨現金增資基準日| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/RB5NjmY&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3DzDG97TjxJRev9WVGUSnz)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
