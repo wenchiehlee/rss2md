@@ -16,6 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/05/29 - [漢康-KY創(7827.TW) 相關新聞 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/7827.TWO/news&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Lcao5szledWl2JAN9au69)
 - 2026/05/29 - [漢康-KY：公司股票5/29起轉上市買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/XYKjnvw&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2HY3bJ0Uqr0IwEWmozOuXV)
 - 2026/05/29 - [雲象科技-創公告本公司創新板上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dbca4341f-2c0a-4a61-80ed-abc8bd8ebad1&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2q_zjSnQWjMZEQ1sLWzVSJ)
 - 2026/05/28 - [漢康-KY(7827)創新板初上市<b>過額配售</b>423張，占公開承銷數量比例5.00% - 環球生技月刊](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D86878%26kind%3D21&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3FUBI1k96IPaMSNL2fBtF1)
