@@ -19,6 +19,7 @@
 - 2026/06/02 - [聚恆-創:公告本公司創新板上市掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6479560&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1BGa-UyPD_DDkavKKi485G)
 - 2026/06/01 - [5/29興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/BEJMKLW&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2iTYQJCqKfFEcqaEa2z2SK)
 - 2026/06/01 - [5/29興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Da3d86f48-da7f-464d-949c-3ad97ca06d6d&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1ihNIAE0gZpeuuqljgBr9F)
+- 2026/06/01 - [聚恆-創公告本公司創新板上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Ddd844bd4-5fe5-40a5-9433-a39b0b7e587b%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw20pcTJq-HahC7w3Ghze_is)
 - 2026/06/01 - [興櫃申報轉讓：05月29日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3Fsn%3D2372829002%26pu%3DNews_0046&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0aDaj_Rql6ExvUj1xSIyI_)
 <!-- _feedinvestment2_ end -->
 
