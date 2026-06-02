@@ -18,7 +18,6 @@
 <!-- _feedinvestment2_ start -->
 - 2026/06/02 - [華洋精機:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6480915&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0rLhBuJEasW7ea30XHiFTy)
 - 2026/06/02 - [華洋精機公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D1f7e2a60-31aa-4b2b-ab77-aebd48e62c65&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0btJvmvHmAMd3aLsJ_v5F8)
-- 2026/06/01 - [聚恆-創公告本公司創新板上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Ddd844bd4-5fe5-40a5-9433-a39b0b7e587b%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw20pcTJq-HahC7w3Ghze_is)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
