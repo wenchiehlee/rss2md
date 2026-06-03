@@ -16,8 +16,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/06/02 - [華洋精機:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6480915&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0rLhBuJEasW7ea30XHiFTy)
-- 2026/06/02 - [華洋精機公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D1f7e2a60-31aa-4b2b-ab77-aebd48e62c65&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0btJvmvHmAMd3aLsJ_v5F8)
+- 2026/06/04 - [圓祥生技(6945)初上櫃<b>過額配售</b>500張，佔公開承銷股數比例5.15%](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D87144%26kind%3D21&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3o5rwi0W7qRQUnNoFXP3Tb)
+- 2026/06/03 - [圓祥生技初上櫃<b>過額配售</b>500張，佔公開承銷股數比例5.15% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%259C%2593%25E7%25A5%25A5%25E7%2594%259F%25E6%258A%2580%25E5%2588%259D%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE500%25E5%25BC%25B5-%25E4%25BD%2594%25E5%2585%25AC%25E9%2596%258B%25E6%2589%25BF%25E9%258A%25B7%25E8%2582%25A1%25E6%2595%25B8%25E6%25AF%2594%25E4%25BE%258B5-15-075400782.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1RI4rJDnmW7JU_nX_Ye5GH)
+- 2026/06/03 - [圓祥生技公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/XYK2k3e&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw36Ln8p3nusjk622ewLVpZJ)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
