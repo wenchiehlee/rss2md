@@ -16,7 +16,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/06/04 - [精誠金融公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25B2%25BE%25E8%25AA%25A0%25E9%2587%2591%25E8%259E%258D-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C%25E9%25A6%2596%25E4%25BA%2594%25E5%2580%258B%25E7%2587%259F%25E6%25A5%25AD%25E6%2597%25A5%25E7%25A9%25A9%25E5%25AE%259A%25E5%2583%25B9%25E6%25A0%25BC%25E6%2593%258D%25E4%25BD%259C%25E7%25B5%2590%25E6%259E%259C-063700069.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw33smfaRcGQs9VbRqhxHIep)
+- 2026/06/05 - [精誠金融初上櫃首五個營業日穩定價格操作結果 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/YaKZyKB&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw35BWDR07oZrcQH3PPbknhR)
+- 2026/06/05 - [圓祥生技：公司股票6/5起轉上櫃買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/QwBZgqj&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3HWH8nycJ1b88WxlIsj70S)
+- 2026/06/05 - [討論牆| 圓祥生技初上櫃<b>過額配售</b>500張，佔公開承銷股數比例5.15% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/QwBvL9j&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1dc8hEaV0XHc27NUuKdb96)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
