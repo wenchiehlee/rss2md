@@ -2,10 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/05/13 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37％｜新聞快訊 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a0467c4de5d6e550407e3d3&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0cBqdHHBaAhk8hug9esepp)
-- 2026/05/13 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37％ | 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/9500821&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ZHWEbv4ym_Xjpm85q_XG-)
-- 2026/05/13 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37％ | 市場焦點| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9500821%3Ffrom%3Dedn_newestlist_rank&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1zYJ6n5vhnGm3Hhq86o_Fc)
-- 2026/05/13 - [聚恆轉創新版上市未公開<b>抽籤競拍</b>得標者溢價逾37 - 股市 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7254/9500821&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ApzzxO9nSjg1Fr9CFAqLT)
+- 2026/06/05 - [達人網6／15以36元<b>掛牌</b>上櫃公開申購至明天潛在獲利空間67％ - 證券- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260604701082-430201&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3mn04JkDnmhN6hZ_ulzmnX)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
