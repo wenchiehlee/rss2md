@@ -8,7 +8,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/06/05 - [達人網6／15以36元<b>掛牌</b>上櫃公開申購至明天潛在獲利空間67％ - 證券- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260604701082-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3mn04JkDnmhN6hZ_ulzmnX)
+- 2026/06/09 - [《興櫃股》和迅10日起<b>競拍</b>每股承鎖價47.5元](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20260608002806-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1PQGGsdjlKvKwTeeyFV2EK)
+- 2026/06/09 - [和迅6/10-6/12<b>競拍</b>6/26<b>掛牌</b>上櫃 - Yahoo新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%2592%258C%25E8%25BF%25856-10-6-12%25E7%25AB%25B6%25E6%258B%258D-6-185850496.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0QSA2Bn13DjaxeRxxXYoT3)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
