@@ -18,6 +18,7 @@
 <!-- _feedinvestment2_ start -->
 - 2026/06/09 - [6/8興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3De27aa471-20cd-4e66-9ff6-d9e913a74e32&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3HdIt52mXkyh-GQEVxMyu4)
 - 2026/06/09 - [興櫃申報轉讓：06月08日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2376710002%26PU%3D0009&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3e663r1uYOSxuZwl0kDlbe)
+- 2026/06/09 - [興櫃申報轉讓：06月08日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2376710002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2l6hkwB__85AkKJSpyIhO1)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
