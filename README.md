@@ -2,7 +2,9 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/06/05 - [達人網6／15以36元<b>掛牌</b>上櫃公開申購至明天潛在獲利空間67％ - 證券- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260604701082-430201&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3mn04JkDnmhN6hZ_ulzmnX)
+- 2026/06/09 - [和迅明起<b>競拍</b>、6/26<b>掛牌</b>上櫃；攻再生醫療商機 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D323d3bd9-3bc8-4366-921f-5ff5a71e256d&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3_af-WiMD4JGeTONFwKzyt)
+- 2026/06/09 - [台灣虎航<b>競拍</b>超額認購28.3倍<b>競拍</b>平均價62.38元 - 財富自由](https://www.google.com/url?rct=j&sa=t&url=http://stock.ltn.com.tw/article/mqxjbqffrj6b&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2HMTnoR9m7B5LuOtZxCIpe)
+- 2026/06/08 - [《興櫃股》和迅10日起<b>競拍</b>每股承鎖價47.5元](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260608900479-420101%3Futm_source%3Drelatedreading%26utm_medium%3Dinternal%26utm_campaign%3Dauto%26utm_content%3D1&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2kf1qZ_woDYTVU1PXdIwQk)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
