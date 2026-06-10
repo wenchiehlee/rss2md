@@ -18,7 +18,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/06/09 - [興櫃申報轉讓：06月08日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2376710002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2l6hkwB__85AkKJSpyIhO1)
+- 2026/06/10 - [華洋精機(6983.TWO) 個股公告 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/6983.TW/announcement&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3tPHbOeciQOJ00jSSVSpn1)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
