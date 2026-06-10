@@ -10,14 +10,14 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/06/09 - [《興櫃股》和迅10日起<b>競拍</b>每股承鎖價47.5元](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20260608002806-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1PQGGsdjlKvKwTeeyFV2EK)
-- 2026/06/09 - [和迅6/10-6/12<b>競拍</b>6/26<b>掛牌</b>上櫃 - Yahoo新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%2592%258C%25E8%25BF%25856-10-6-12%25E7%25AB%25B6%25E6%258B%258D-6-185850496.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0QSA2Bn13DjaxeRxxXYoT3)
+- 2026/06/09 - [和迅明起<b>競拍</b>，預計6月26日<b>掛牌</b>，雙軌並進搶攻再生醫療商機 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2592%258C%25E8%25BF%2585%25E6%2598%258E%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E9%25A0%2590%25E8%25A8%25886%25E6%259C%258826%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C-%25E9%259B%2599%25E8%25BB%258C%25E4%25B8%25A6%25E9%2580%25B2%25E6%2590%25B6%25E6%2594%25BB%25E5%2586%258D%25E7%2594%259F%25E9%2586%25AB%25E7%2599%2582%25E5%2595%2586%25E6%25A9%259F-000807561.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2dZDeklo889aKCP1PdJyBb)
+- 2026/06/09 - [和迅明起<b>競拍</b>、6/26<b>掛牌</b>上櫃；攻再生醫療商機 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2592%258C%25E8%25BF%2585%25E6%2598%258E%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-6-26%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-%25E6%2594%25BB%25E5%2586%258D%25E7%2594%259F%25E9%2586%25AB%25E7%2599%2582%25E5%2595%2586%25E6%25A9%259F-013900128.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3YzxOhL7tdjIkrnNpQKU8D)
+- 2026/06/09 - [和迅明起<b>競拍</b>、6/26<b>掛牌</b>上櫃；攻再生醫療商機 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D323d3bd9-3bc8-4366-921f-5ff5a71e256d&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3_af-WiMD4JGeTONFwKzyt)
+- 2026/06/09 - [台灣虎航<b>競拍</b>超額認購28.3倍<b>競拍</b>平均價62.38元 - 財富自由](https://www.google.com/url?rct=j&sa=t&url=http://stock.ltn.com.tw/article/mqxjbqffrj6b&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2HMTnoR9m7B5LuOtZxCIpe)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/06/09 - [6/8興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3De27aa471-20cd-4e66-9ff6-d9e913a74e32&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3HdIt52mXkyh-GQEVxMyu4)
-- 2026/06/09 - [興櫃申報轉讓：06月08日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2376710002%26PU%3D0009&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3e663r1uYOSxuZwl0kDlbe)
 - 2026/06/09 - [興櫃申報轉讓：06月08日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2376710002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2l6hkwB__85AkKJSpyIhO1)
 <!-- _feedinvestment2_ end -->
 
