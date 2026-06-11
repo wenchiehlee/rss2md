@@ -18,6 +18,14 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/06/11 - [6/10興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/yzWPO3Q&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1AyMPX3SiOqoJ8_xAy8CVz)
+- 2026/06/11 - [6/10興櫃公司持股轉讓明細](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D03c7ab3e-25a5-4a50-8051-03b41d5a7849&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw07ffKmoBvYiATIEePwbBw4)
+- 2026/06/11 - [達人網公告本公司辦理股票初次上櫃前現金增資收足股款暨現金增資基準日](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/EXOPnMv&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0S-fGz1-USQYv-92t-iKgu)
+- 2026/06/11 - [達人網公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D49885201-55d4-4ac7-b4bd-3eb48d5185bc&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0O4r_NcxcqaEgUrfElBnYw)
+- 2026/06/11 - [立弘公告本公司股票初次上櫃前現金增資員工認購股款催繳事宜 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/KwNGZBN&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ZYViQZ8wfSDHeOITJoUGC)
+- 2026/06/11 - [東擎科技公告本公司調整現金股利配息率 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3Dd8a9e202-ecf8-4e08-9b37-0ab5035fdc45%26c%3DMB00&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2KBAkTgPS7fWEPyOyOO8hC)
+- 2026/06/11 - [【公告】立弘辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E7%25AB%258B%25E5%25BC%2598%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-084100573.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2uh6rLsjdNoRUlPk3ie2Lr)
+- 2026/06/11 - [興櫃申報轉讓：06月10日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2378607002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3fx8OvbLA9gLsdRIdKxn1m)
 - 2026/06/10 - [華洋精機(6983.TWO) 個股公告 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/6983.TW/announcement&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3tPHbOeciQOJ00jSSVSpn1)
 <!-- _feedinvestment2_ end -->
 
