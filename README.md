@@ -18,7 +18,11 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/06/11 - [達人網初上櫃<b>過額配售</b>100張，佔公開承銷數量比例6.24% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%2581%2594%25E4%25BA%25BA%25E7%25B6%25B2%25E5%2588%259D%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE100%25E5%25BC%25B5-%25E4%25BD%2594%25E5%2585%25AC%25E9%2596%258B%25E6%2589%25BF%25E9%258A%25B7%25E6%2595%25B8%25E9%2587%258F%25E6%25AF%2594%25E4%25BE%258B6-24-090000984.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2wFXkVbhkblJqXnVOtzeWK)
+- 2026/06/12 - [立弘公告本公司辦理股票初次上櫃<b>過額配售</b>內容| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PGe2mK0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2gtTLYvGZW1SCFX1sRoASm)
+- 2026/06/12 - [討論牆| 達人網初上櫃<b>過額配售</b>100張，佔公開承銷數量比例6.24% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/9mvMpKV&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1O2pI8tJm_VYjHwPAE22H_)
+- 2026/06/12 - [6月12日Genet新聞: 【立弘】股票初次上櫃<b>過額配售</b>承銷價:每股18.88元、【太醫】除息基準日7 ...](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/featured/item/96048.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw29bpPYMLbP_EhOV1GrVarL)
+- 2026/06/12 - [達人網公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%2581%2594%25E4%25BA%25BA%25E7%25B6%25B2-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E6%25B4%25BD%25E5%25AE%259A%25E4%25B8%258A%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3%25E9%2596%258B%25E5%25A7%258B%25E6%2597%25A5%25E4%25B8%25A6%25E8%2587%25AA%25E5%2590%258C%25E6%2597%25A5%25E8%25B5%25B7%25E7%25B5%2582%25E6%25AD%25A2%25E8%2588%2588%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3-093100035.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0id0jA9lBulOJXiRgy0-MW)
+- 2026/06/12 - [達人網初上櫃<b>過額配售</b>100張，佔公開承銷數量比例6.24% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9mvMpKV&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2RwK2ELHmJSNNzqHu4daed)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
