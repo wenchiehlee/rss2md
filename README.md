@@ -18,6 +18,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/06/13 - [達人網公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/vXa2E2o&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw19qJsGkhzAnMPoCbKix9O3)
+- 2026/06/13 - [討論牆| 立弘公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/PGe2mK0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3j4Nx7GatVMQfxoFeSX2YP)
 - 2026/06/12 - [立弘公告本公司辦理股票初次上櫃<b>過額配售</b>內容| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PGe2mK0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2gtTLYvGZW1SCFX1sRoASm)
 - 2026/06/12 - [討論牆| 達人網初上櫃<b>過額配售</b>100張，佔公開承銷數量比例6.24% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/9mvMpKV&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1O2pI8tJm_VYjHwPAE22H_)
 - 2026/06/12 - [6月12日Genet新聞: 【立弘】股票初次上櫃<b>過額配售</b>承銷價:每股18.88元、【太醫】除息基準日7 ...](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/featured/item/96048.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw29bpPYMLbP_EhOV1GrVarL)
