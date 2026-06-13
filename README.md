@@ -20,11 +20,6 @@
 <!-- _feedinvestment2_ start -->
 - 2026/06/13 - [達人網公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/vXa2E2o&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw19qJsGkhzAnMPoCbKix9O3)
 - 2026/06/13 - [討論牆| 立弘公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/PGe2mK0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3j4Nx7GatVMQfxoFeSX2YP)
-- 2026/06/12 - [立弘公告本公司辦理股票初次上櫃<b>過額配售</b>內容| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PGe2mK0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2gtTLYvGZW1SCFX1sRoASm)
-- 2026/06/12 - [討論牆| 達人網初上櫃<b>過額配售</b>100張，佔公開承銷數量比例6.24% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/9mvMpKV&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1O2pI8tJm_VYjHwPAE22H_)
-- 2026/06/12 - [6月12日Genet新聞: 【立弘】股票初次上櫃<b>過額配售</b>承銷價:每股18.88元、【太醫】除息基準日7 ...](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/featured/item/96048.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw29bpPYMLbP_EhOV1GrVarL)
-- 2026/06/12 - [達人網公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%2581%2594%25E4%25BA%25BA%25E7%25B6%25B2-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E6%25B4%25BD%25E5%25AE%259A%25E4%25B8%258A%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3%25E9%2596%258B%25E5%25A7%258B%25E6%2597%25A5%25E4%25B8%25A6%25E8%2587%25AA%25E5%2590%258C%25E6%2597%25A5%25E8%25B5%25B7%25E7%25B5%2582%25E6%25AD%25A2%25E8%2588%2588%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3-093100035.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0id0jA9lBulOJXiRgy0-MW)
-- 2026/06/12 - [達人網初上櫃<b>過額配售</b>100張，佔公開承銷數量比例6.24% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9mvMpKV&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2RwK2ELHmJSNNzqHu4daed)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
