@@ -18,8 +18,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/06/13 - [達人網公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/vXa2E2o&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw19qJsGkhzAnMPoCbKix9O3)
-- 2026/06/13 - [討論牆| 立弘公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/PGe2mK0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3j4Nx7GatVMQfxoFeSX2YP)
+- 2026/06/15 - [圓祥生技公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D28228ecc-6ac2-4486-be38-df576f2f5ad9&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0TaP-NF1m48e_bytJC5bTf)
+- 2026/06/15 - [討論牆| 展碁國際初上巿<b>過額配售</b>100張，佔公開承銷數量1.50% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/lxpvRG&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1osVtPyXhycafgKi5el7cF)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
