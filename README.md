@@ -18,7 +18,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/06/16 - [圓祥生技:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - Anue鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6499644&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2uOciAW3wamWb7vxAESfzY)
+- 2026/06/20 - [討論牆| 達人網公告本公司辦理股票初次上櫃<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/NvyYDZO&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Jim6Z9AZVHIrQQDKRE_0X)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
