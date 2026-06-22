@@ -18,7 +18,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/06/20 - [討論牆| 達人網公告本公司辦理股票初次上櫃<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/NvyYDZO&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Jim6Z9AZVHIrQQDKRE_0X)
+- 2026/06/22 - [6/18興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Op72PYv&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2v2EVfbFVe0fQ0BEHUKO_p)
+- 2026/06/22 - [6/18興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3Dcb17b63b-f11a-4414-b7ec-528312bd668b&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2C3s1TwWeKZew2UPU_RqQR)
+- 2026/06/22 - [興櫃申報轉讓：06月18日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2382045002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0uFrq0cHCX_LFyoMLqNQnk)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
