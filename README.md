@@ -10,6 +10,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/06/26 - [毛利率超過90%!新藥廠營收連三年創高搶攻再生醫療今<b>掛牌</b>上櫃 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/topstories/%25E6%25AF%259B%25E5%2588%25A9%25E7%258E%2587%25E8%25B6%2585%25E9%2581%258E90-%25E5%2592%258C%25E8%25BF%2585%25E7%2587%259F%25E6%2594%25B6%25E9%2580%25A3%25E4%25B8%2589%25E5%25B9%25B4%25E5%2589%25B5%25E9%25AB%2598-%25E6%2590%25B6%25E6%2594%25BB%25E5%2586%258D%25E7%2594%259F%25E9%2586%25AB%25E7%2599%2582%25E4%25BB%258A%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583/ar-AA26xHEh&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw04wqI4WBUvgm4NciiKzlVA)
 - 2026/06/26 - [毛利率超過90%！和迅營收連三年創高搶攻再生醫療今<b>掛牌</b>上櫃 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1861939&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw13l35azBGUOphoOcNYuLc8)
 <!-- _feedinvestment1_1_ end -->
 
