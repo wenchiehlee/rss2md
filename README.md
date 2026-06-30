@@ -15,9 +15,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/06/25 - [和迅公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/MLVnVKM&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1nRAza0tmSHdXWiLFHPAPF)
-- 2026/06/25 - [和迅公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2592%258C%25E8%25BF%2585-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E6%25B4%25BD%25E5%25AE%259A%25E4%25B8%258A%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3%25E9%2596%258B%25E5%25A7%258B%25E6%2597%25A5%25E4%25B8%25A6%25E8%2587%25AA%25E5%2590%258C%25E6%2597%25A5%25E8%25B5%25B7%25E7%25B5%2582%25E6%25AD%25A2%25E8%2588%2588%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3-094200108.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3W4RYZIjOHSqXZDicPfxHz)
-- 2026/06/25 - [立弘(1780)初次上櫃掛牌首五個營業日穩定價格操作結果(6/24股價27元) - 生技投資第一站](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/company-news/item/96245.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3TzwXosU0gTn1kBEHrBTME)
+- 2026/06/30 - [盤中速報- 和迅(6986)急拉3.38%報47.0元，成交292張| 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/id/6517035&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2AR0UQjwHySaobNr3pzkWU)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
