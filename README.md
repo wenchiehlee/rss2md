@@ -2,9 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/06/09 - [和迅明起<b>競拍</b>、6/26<b>掛牌</b>上櫃；攻再生醫療商機 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D323d3bd9-3bc8-4366-921f-5ff5a71e256d&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3_af-WiMD4JGeTONFwKzyt)
-- 2026/06/09 - [台灣虎航<b>競拍</b>超額認購28.3倍<b>競拍</b>平均價62.38元 - 財富自由](https://www.google.com/url?rct=j&sa=t&url=http://stock.ltn.com.tw/article/mqxjbqffrj6b&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2HMTnoR9m7B5LuOtZxCIpe)
-- 2026/06/08 - [《興櫃股》和迅10日起<b>競拍</b>每股承鎖價47.5元](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260608900479-420101%3Futm_source%3Drelatedreading%26utm_medium%3Dinternal%26utm_campaign%3Dauto%26utm_content%3D1&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2kf1qZ_woDYTVU1PXdIwQk)
+- 2026/06/30 - [毛利率超過90%！和迅營收連三年創高搶攻再生醫療今<b>掛牌</b>上櫃 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1861939&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw13l35azBGUOphoOcNYuLc8)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
@@ -16,7 +14,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/07/01 - [討論牆| 裕山初上櫃<b>過額配售</b>100張，占公開承銷數量3.00% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/Opv3oJV%3Futm_source%3Damp&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1LUfnsom9hfsf1QUql13zM)
-- 2026/06/30 - [盤中速報- 和迅(6986)急拉3.38%報47.0元，成交292張| 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/id/6517035&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2AR0UQjwHySaobNr3pzkWU)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
