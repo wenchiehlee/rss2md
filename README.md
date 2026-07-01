@@ -15,6 +15,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/07/01 - [討論牆| 裕山初上櫃<b>過額配售</b>100張，占公開承銷數量3.00% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/Opv3oJV%3Futm_source%3Damp&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1LUfnsom9hfsf1QUql13zM)
 - 2026/06/30 - [盤中速報- 和迅(6986)急拉3.38%報47.0元，成交292張| 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/id/6517035&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2AR0UQjwHySaobNr3pzkWU)
 <!-- _feedinvestment2_ end -->
 
