@@ -13,7 +13,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/07/03 - [盤中速報- 和迅(6986)大漲7.22%，報50.5元| 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6521698&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0xJsrfUVBym68_RLas1uix)
+- 2026/07/06 - [和迅:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6523831&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3SUtpuvUGQQYtmys6dsNfM)
+- 2026/07/06 - [和迅(6986)初上櫃首五個營業日穩定價格操作結果：0股 - 環球生技月刊](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D88037&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1RwkPuJZNUbkJX0OXhNRGl)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
