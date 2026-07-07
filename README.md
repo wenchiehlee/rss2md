@@ -8,7 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/07/04 - [水資源變黃金!溢泰打造水處理王國擬5月18日<b>掛牌</b>上市 - MSN](https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/money/topstories/%25E6%2596%25B0%25E8%2582%25A1%25E4%25B8%258A%25E5%25B8%2582-%25E6%25B0%25B4%25E8%25B3%2587%25E6%25BA%2590%25E8%25AE%258A%25E9%25BB%2583%25E9%2587%2591-%25E6%25BA%25A2%25E6%25B3%25B0%25E6%2589%2593%25E9%2580%25A0%25E6%25B0%25B4%25E8%2599%2595%25E7%2590%2586%25E7%258E%258B%25E5%259C%258B-%25E6%2593%25AC5%25E6%259C%258818%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582/ar-AA22tHmo%3Fapiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0u1NiHO27Su3QhpmzNeIUx)
+- 2026/07/07 - [台鎔科技55元底價怎麼形成？ - 延伸閱讀文章](https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/e281ad2b-9255-41db-8457-88cd1497addb&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3kjwoQhrcFjoCDk_PYf1-I)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
