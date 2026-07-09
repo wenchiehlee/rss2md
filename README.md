@@ -13,8 +13,10 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/07/06 - [和迅:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6523831&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3SUtpuvUGQQYtmys6dsNfM)
-- 2026/07/06 - [和迅(6986)初上櫃首五個營業日穩定價格操作結果：0股 - 環球生技月刊](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D88037&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1RwkPuJZNUbkJX0OXhNRGl)
+- 2026/07/09 - [7/8興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oqKEXMW&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1K4dHTiCVGqkAN-YKOoSs7)
+- 2026/07/09 - [興櫃申報轉讓：07月08日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2389665002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2wu7h9BPoDkxCDcNdLwi_l)
+- 2026/07/09 - [7/8興櫃公司持股轉讓明細 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/7-8%25E8%2588%2588%25E6%25AB%2583%25E5%2585%25AC%25E5%258F%25B8%25E6%258C%2581%25E8%2582%25A1%25E8%25BD%2589%25E8%25AE%2593%25E6%2598%258E%25E7%25B4%25B0-002500308.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0CKgkjnrDyMU5nFjJVc_VI)
+- 2026/07/09 - [7/8興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df4fbd1b0-60be-4da2-bf1b-ca693913f531&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2kIFd8STY639kJi9p4q9GI)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
