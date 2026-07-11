@@ -8,7 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/07/07 - [台鎔科技55元底價怎麼形成？ - 延伸閱讀文章](https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/e281ad2b-9255-41db-8457-88cd1497addb&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3kjwoQhrcFjoCDk_PYf1-I)
+- 2026/07/10 - [新股<b>抽籤</b>來了！力智3日開放申購抽中一張秒賺33萬| 財經| 三立新聞網SETN.COM](https://www.google.com/url?rct=j&sa=t&url=https://www.setn.com/news/1051513&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2k_idVDB-15YC9ZYnud5VR)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
