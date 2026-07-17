@@ -14,7 +14,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/07/14 - [海昌生技公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/609xQgj&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ENfsk9zjUHLQtyq8AHSvm)
+- 2026/07/17 - [7/16興櫃公司持股轉讓明細](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df1c933e9-0a04-4892-806d-2a78b5e1eca5&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3XozrDNwYU4W0LPGTfxllT)
+- 2026/07/17 - [興櫃申報轉讓：07月16日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2393240002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw13cpIxa1I8hLqYNHTkJYvF)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
