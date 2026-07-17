@@ -8,8 +8,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/07/15 - [台鎔科技23日以66元<b>掛牌</b>！公開申購期限只到明天中籤戶潛在獲利22％ - 證券- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260714701507-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2Irkl_0D6JINxRTEAFno_7)
-- 2026/07/15 - [台鎔科技23日以66元<b>掛牌</b>！公開申購期限只到明天中籤戶潛在獲利22 - 旺得富理財網](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260714900594-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1ddq8njAIOr3Fn5sjsNBpc)
+- 2026/07/17 - [大鵬科完成<b>競拍</b>/承銷價180.53元預計7/28<b>掛牌</b>上市- 台視財經](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/072026171310958DFDDCFF914877AD7D5D2C87ED4ED5603F/587&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw14xzL1CViVjCvGWtf3swwZ)
+- 2026/07/17 - [大鵬科完成<b>競拍</b>/承銷價180.53元預計7/28<b>掛牌</b>上市- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/z/DJA/News/DJANewsDetail_D5CAD1BD-0B85-4496-A479-4A5B09B180B0.djhtm&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2VNeks-BLUydTcYTa0tsuY)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
