@@ -8,8 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/07/17 - [大鵬科完成<b>競拍</b>/承銷價180.53元預計7/28<b>掛牌</b>上市- 台視財經](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/072026171310958DFDDCFF914877AD7D5D2C87ED4ED5603F/587&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw14xzL1CViVjCvGWtf3swwZ)
-- 2026/07/17 - [大鵬科完成<b>競拍</b>/承銷價180.53元預計7/28<b>掛牌</b>上市- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/z/DJA/News/DJANewsDetail_D5CAD1BD-0B85-4496-A479-4A5B09B180B0.djhtm&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2VNeks-BLUydTcYTa0tsuY)
+- 2026/07/18 - [富邦證券輔導大鵬科技完成<b>競拍</b>承銷價180.53元 - MSN](https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/money/%25E4%25B8%2580%25E8%2588%25AC/%25E5%25AF%258C%25E9%2582%25A6%25E8%25AD%2589%25E5%2588%25B8%25E8%25BC%2594%25E5%25B0%258E%25E5%25A4%25A7%25E9%25B5%25AC%25E7%25A7%2591%25E6%258A%2580%25E5%25AE%258C%25E6%2588%2590%25E7%25AB%25B6%25E6%258B%258D-%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9180-53%25E5%2585%2583/ar-AA285RRQ%3Fapiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0jS4AD8DmkaZfjCwty_wRJ)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
