@@ -15,8 +15,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/07/17 - [7/16興櫃公司持股轉讓明細](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df1c933e9-0a04-4892-806d-2a78b5e1eca5&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3XozrDNwYU4W0LPGTfxllT)
-- 2026/07/17 - [興櫃申報轉讓：07月16日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2393240002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw13cpIxa1I8hLqYNHTkJYvF)
+- 2026/07/20 - [7/17未上市櫃公開發行公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dc725684c-e994-4d26-9aec-2a8c085bfff3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2bta2Y-gK51KDfPxHuZ_JV)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
