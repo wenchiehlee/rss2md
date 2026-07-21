@@ -15,7 +15,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/07/20 - [7/17未上市櫃公開發行公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/LXyXjYa&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2_R2_56sNTbuV-P5mkk9to)
-- 2026/07/20 - [7/17未上市櫃公開發行公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dc725684c-e994-4d26-9aec-2a8c085bfff3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2bta2Y-gK51KDfPxHuZ_JV)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
