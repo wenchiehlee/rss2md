@@ -2,7 +2,9 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/06/30 - [毛利率超過90%！和迅營收連三年創高搶攻再生醫療今<b>掛牌</b>上櫃 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1861939&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw13l35azBGUOphoOcNYuLc8)
+- 2026/07/21 - [大鵬科完成<b>競拍</b>/承銷價180.53元預計7/28<b>掛牌</b>上市- 台視財經](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/072026171310958DFDDCFF914877AD7D5D2C87ED4ED5603F/587&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw14xzL1CViVjCvGWtf3swwZ)
+- 2026/07/19 - [毛利率超過90%!和迅營收連三年創高搶攻再生醫療今<b>掛牌</b>上櫃 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/%25E4%25B8%2580%25E8%2588%25AC/%25E6%25AF%259B%25E5%2588%25A9%25E7%258E%2587%25E8%25B6%2585%25E9%2581%258E90-%25E5%2592%258C%25E8%25BF%2585%25E7%2587%259F%25E6%2594%25B6%25E9%2580%25A3%25E4%25B8%2589%25E5%25B9%25B4%25E5%2589%25B5%25E9%25AB%2598-%25E6%2590%25B6%25E6%2594%25BB%25E5%2586%258D%25E7%2594%259F%25E9%2586%25AB%25E7%2599%2582%25E4%25BB%258A%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583/ar-AA26xHEh&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw18v-ML3cSVFMLL5_-strJU)
+- 2026/07/19 - [大鵬科完成<b>競拍</b>/承銷價180.53元預計7/28<b>掛牌</b>上市- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dd5cad1bd-0b85-4496-a479-4a5b09b180b0&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2CxXa4AmGFh9Jntczm5xtO)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
