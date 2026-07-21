@@ -10,8 +10,10 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/07/19 - [富邦證券輔導大鵬科技完成<b>競拍</b>承銷價180.53元| 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/9637127&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1ijALyNib4jWmzSwZmn4LN)
-- 2026/07/19 - [富邦證券輔導大鵬科技完成<b>競拍</b>承銷價180.53元| 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9637127%3Ffrom%3Dedn_hotestlist_storybottom&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ROojD-RNYL4v1ghDZSv83)
+- 2026/07/22 - [群益金鼎證券主辦華德動能7/24起<b>競拍</b> - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260722700371-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw17doN9jlKAxVMtuXoC-wo2)
+- 2026/07/21 - [《興櫃股》華德動能24日起<b>競拍</b>預計8月10日上市](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260721900338-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2LbL6zI3n2pUIawMD_-AXu)
+- 2026/07/21 - [華德動能<b>競拍</b>底價22元8/10<b>掛牌</b>創新板上市 - Yahoo 財經](https://www.google.com/url?rct=j&sa=t&url=https://hk.finance.yahoo.com/news/%25E8%258F%25AF%25E5%25BE%25B7%25E5%258B%2595%25E8%2583%25BD%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B922%25E5%2585%2583-8-10%25E6%258E%259B%25E7%2589%258C%25E5%2589%25B5%25E6%2596%25B0%25E6%259D%25BF%25E4%25B8%258A%25E5%25B8%2582-050645187.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3glzVD-RHRLhcnVKMU3qWt)
+- 2026/07/21 - [華德動能<b>競拍</b>底價22元8/10<b>掛牌</b>創新板上市 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/id/6541362&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1PqL5dkMxS0tzRHc4ea8XW)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
