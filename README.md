@@ -10,8 +10,11 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/07/24 - [和運租車拚8月上市！<b>競拍</b>底價每股35.59元「這時間」開標 - 東森財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://fnc.ebc.net.tw/fncnews/headline/214917&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw10JZ5jiWl7i9lEoKIxdwF4)
-- 2026/07/23 - [群益金鼎證主辦華德動能創新板上市24日起<b>競拍</b>29日起申購](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/9645767&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2ShrfU62KKY9WYbZRwcsTp)
+- 2026/07/25 - [群益金鼎證券主辦華德動能今日起<b>競拍</b>29日起申購| 財富管理| 商情 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5636/9648263&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0RusEhlfiPxqBjXtAAKQco)
+- 2026/07/25 - [最新股票<b>抽籤</b>／新應材抽中「價差7萬」，這檔拿4.2萬能多賺1張多！哪幾檔值得注意？申購一次看](https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.com.tw/article/category/183008/post/202607240012/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3YwHkHCHJpmb_JH_OWORka)
+- 2026/07/25 - [群益金鼎證券主辦華德動能創新板上市24日起<b>競拍</b>29日起申購 - 財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.wearn.com/c2047082.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0R0mIw7dqH_pALcgHM8LGf)
+- 2026/07/24 - [群益金鼎證券主辦華德動能創新板上市24日起<b>競拍</b>29日起申購](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9648312&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0xU7o1Pe4vY3u9k7LZAaD8)
+- 2026/07/24 - [群益金鼎證券主辦華德動能創新板上市24日起<b>競拍</b>29日起申購](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/9648312&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw31Op8MOS7AzPM1usjyI1Xo)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
