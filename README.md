@@ -16,11 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/07/25 - [大鵬科CLMX：公司股票7/28起轉上市買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25A4%25A7%25E9%25B5%25AC%25E7%25A7%2591clmx-%25E5%2585%25AC%25E5%258F%25B8%25E8%2582%25A1%25E7%25A5%25A87-28%25E8%25B5%25B7%25E8%25BD%2589%25E4%25B8%258A%25E5%25B8%2582%25E8%25B2%25B7%25E8%25B3%25A3-080800310.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw185VgMC1jfWZoIIB4h1GuB)
-- 2026/07/25 - [海昌生技公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PG50Qjj&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0tR-EweJ7mFCoNxLYR8SAj)
-- 2026/07/24 - [大鵬科CLMX 公告本公司辦理股票初次上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25A4%25A7%25E9%25B5%25AC%25E7%25A7%2591clmx-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-074900842.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1KJmjfjYT_zgulAVqv_Y0t)
-- 2026/07/24 - [大鵬科CLMX 公告本公司辦理股票初次上市<b>過額配售</b>內容 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D8dfd2c73-e141-466a-89b0-0f08b1d741e6&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0eHk0rHU9AXJ9HOJo7_kno)
-- 2026/07/24 - [【公告】大鵬科CLMX辦理股票初次上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%25A4%25A7%25E9%25B5%25AC%25E7%25A7%2591clmx%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-075724958.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3DlTLvUmXlURAhU69dqHAI)
+- 2026/07/28 - [討論牆| 映興初上櫃<b>過額配售</b>351張，佔公開承銷數量9.99% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/178Wq2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2OAYZRj0FhS0aRCRi5KVgj)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
