@@ -2,9 +2,10 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/07/21 - [大鵬科完成<b>競拍</b>/承銷價180.53元預計7/28<b>掛牌</b>上市- 台視財經](https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/072026171310958DFDDCFF914877AD7D5D2C87ED4ED5603F/587&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw14xzL1CViVjCvGWtf3swwZ)
-- 2026/07/19 - [毛利率超過90%!和迅營收連三年創高搶攻再生醫療今<b>掛牌</b>上櫃 - MSN](https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/money/%25E4%25B8%2580%25E8%2588%25AC/%25E6%25AF%259B%25E5%2588%25A9%25E7%258E%2587%25E8%25B6%2585%25E9%2581%258E90-%25E5%2592%258C%25E8%25BF%2585%25E7%2587%259F%25E6%2594%25B6%25E9%2580%25A3%25E4%25B8%2589%25E5%25B9%25B4%25E5%2589%25B5%25E9%25AB%2598-%25E6%2590%25B6%25E6%2594%25BB%25E5%2586%258D%25E7%2594%259F%25E9%2586%25AB%25E7%2599%2582%25E4%25BB%258A%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583/ar-AA26xHEh&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw18v-ML3cSVFMLL5_-strJU)
-- 2026/07/19 - [大鵬科完成<b>競拍</b>/承銷價180.53元預計7/28<b>掛牌</b>上市- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dd5cad1bd-0b85-4496-a479-4a5b09b180b0&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2CxXa4AmGFh9Jntczm5xtO)
+- 2026/07/28 - [最新股票<b>抽籤</b>／新應材抽中「價差7萬」，這檔拿4.2萬能多賺1張多！哪幾檔值得注意？申購一次看](https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.com.tw/article/category/183008/post/202607240012/&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3YwHkHCHJpmb_JH_OWORka)
+- 2026/07/24 - [和運租車拚8月上市！<b>競拍</b>底價每股35.59元「這時間」開標 - 東森財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://fnc.ebc.net.tw/fncnews/headline/214917&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw10JZ5jiWl7i9lEoKIxdwF4)
+- 2026/07/23 - [華德動能<b>競拍</b>底價每股22元預計8/10於創新板上市 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7b15b305-847b-47d6-a4a9-0cc8f4598efb&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3b8_poJZ5kTcpPMfDuWvBL)
+- 2026/07/23 - [華德動能8/10創新板<b>掛牌</b>每股<b>競拍</b>底價22元 - 財富自由](https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/su7nxu5w1jys&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw04KU_-O9oRRqvxpFvWUVjf)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
