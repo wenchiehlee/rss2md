@@ -23,6 +23,7 @@
 - 2026/07/31 - [和運租車上市前<b>競價拍賣</b>完成預計8/11<b>掛牌</b>上市 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5524288&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Tbng_CwaCSJFm6n40w2vP)
 - 2026/07/31 - [和運租車擬8/11每股42元<b>掛牌</b>上市| 市場焦點| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9663018&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1set3fhQaGWTMzjpUvLJWS)
 - 2026/07/31 - [和運租車<b>競拍</b>超額認購1.88倍8月11日<b>掛牌</b>上市| 市場焦點 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9662997%3Ffrom%3Dedn_related_storybottom&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2U58_x-metapWW2V4waYas)
+- 2026/07/31 - [<b>競價拍賣</b>的四種劇情：新股<b>競拍</b>，什麼時候是禮物](https://www.google.com/url?rct=j&sa=t&url=https://vocus.cc/article/amp/6a6aec25fd89780001c59e68&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1zMtnYnpMYqjKV620Ml7ie)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
