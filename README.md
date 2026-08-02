@@ -11,6 +11,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/08/01 - [和運租車（7855）上市前<b>競價拍賣</b>完成預計8月11日<b>掛牌</b>上市 - TCar 試車頻道](https://www.google.com/url?rct=j&sa=t&url=https://www.tcar.tv/article.php%3Finfoid%3D13810%26pmid%3D5&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2GgKhqreGl8WXWrnLTUB1c)
 - 2026/07/31 - [<b>競價拍賣</b>的四種劇情：新股<b>競拍</b>，什麼時候是禮物](https://www.google.com/url?rct=j&sa=t&url=https://vocus.cc/article/amp/6a6aec25fd89780001c59e68&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1zMtnYnpMYqjKV620Ml7ie)
 <!-- _feedinvestment1_1_ end -->
 
