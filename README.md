@@ -21,9 +21,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/07/31 - [台鎔科技:本公司上市掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6554632&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw29wCK4Lr39bqZKMhScSdH5)
-- 2026/07/31 - [永悅健康-創公告本公司創新板上市掛牌首五個營業日穩定價格操作結果| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Ggw22PP&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw13K3XKeeUBEHKkPpda-NR1)
-- 2026/07/31 - [台鎔科技上市掛牌首五個營業日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3Dc9be813c-b5f1-4f2d-aa0a-eb22ccb0e871&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3JGlBLcULcBUN63p7kr5No)
+- 2026/08/04 - [討論牆| 天能綠電初次上櫃<b>過額配售</b>185張、佔公開承銷數量6.30% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/LXvPP0M&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0VaZH0gmEFbNKLDi8vHeIv)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
