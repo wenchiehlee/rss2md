@@ -2,10 +2,14 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/07/28 - [最新股票<b>抽籤</b>／新應材抽中「價差7萬」，這檔拿4.2萬能多賺1張多！哪幾檔值得注意？申購一次看](https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.com.tw/article/category/183008/post/202607240012/&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3YwHkHCHJpmb_JH_OWORka)
-- 2026/07/24 - [和運租車拚8月上市！<b>競拍</b>底價每股35.59元「這時間」開標 - 東森財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://fnc.ebc.net.tw/fncnews/headline/214917&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw10JZ5jiWl7i9lEoKIxdwF4)
-- 2026/07/23 - [華德動能<b>競拍</b>底價每股22元預計8/10於創新板上市 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7b15b305-847b-47d6-a4a9-0cc8f4598efb&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3b8_poJZ5kTcpPMfDuWvBL)
-- 2026/07/23 - [華德動能8/10創新板<b>掛牌</b>每股<b>競拍</b>底價22元 - 財富自由](https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/su7nxu5w1jys&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw04KU_-O9oRRqvxpFvWUVjf)
+- 2026/08/04 - [和運租車<b>競拍</b>超額認購倍數1.88倍8/11每股42元<b>掛牌</b>上市 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6554445&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0I3p-4J5lciU87sQYrh-o7)
+- 2026/08/04 - [和運租車<b>競拍</b>超額認購1.88倍；擬8/11<b>掛牌</b>上市 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2592%258C%25E9%2581%258B%25E7%25A7%259F%25E8%25BB%258A%25E7%25AB%25B6%25E6%258B%258D%25E8%25B6%2585%25E9%25A1%258D%25E8%25AA%258D%25E8%25B3%25BC1-88%25E5%2580%258D-%25E6%2593%25AC8-11%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-014300509.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3b_U0bHIpzqb02I21l05sH)
+- 2026/08/04 - [和運租車8月11日將上市、抽中新股有望翻倍賺獲利5.8萬、報酬率138% | 集中市場 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5710/9660944&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3TmlNHgUHRzO9TrCAKLzOK)
+- 2026/08/03 - [和運租車上市前<b>競價拍賣</b>完成，預計8月11日<b>掛牌</b>上市 - Yahoo汽車](https://www.google.com/url?rct=j&sa=t&url=https://autos.yahoo.com.tw/%25E5%2592%258C%25E9%2581%258B%25E7%25A7%259F%25E8%25BB%258A%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E7%25AB%25B6%25E5%2583%25B9%25E6%258B%258D%25E8%25B3%25A3%25E5%25AE%258C%25E6%2588%2590-%25E9%25A0%2590%25E8%25A8%25888%25E6%259C%258811%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-191152288.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3OcYPbRkHZyk-Pt_DrwyR4)
+- 2026/08/01 - [抽中有望翻倍賺！和運租車上市前<b>競價拍賣</b>完成8月11日上市 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/money/4000299&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2X0aOp736Z83fxh9oBhKcZ)
+- 2026/07/31 - [和運租車<b>競拍</b>超額認購倍數1.88倍8/11每股42元<b>掛牌</b>上市 - 優分析](https://www.google.com/url?rct=j&sa=t&url=https://uanalyze.com.tw/articles/5693952547&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3vOMEtLU2dX-37n_3zMQxo)
+- 2026/07/31 - [和運租車上市前<b>競價拍賣</b>完成，預計8月11日<b>掛牌</b>上市 - U-CAR新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.u-car.com.tw/article/89306&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw101vLjH-7PcJl_qJ1rlVAM)
+- 2026/07/31 - [和運租車上市前<b>競價拍賣</b>完成預計8/11<b>掛牌</b>上市 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5524288&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Tbng_CwaCSJFm6n40w2vP)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
