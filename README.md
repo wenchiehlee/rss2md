@@ -11,9 +11,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/08/03 - [和運完成上市前競拍賣7/30公開申購 - 自立晚報](https://www.google.com/url?rct=j&sa=t&url=https://www.idn.com.tw/news/news_content.aspx%3Fcatid%3D3%26catsid%3D1%26catdid%3D0%26artid%3D20260802kofang001&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1uSUnf8yUpYTLxSh6jo1We)
-- 2026/08/03 - [AUTONET Mobile News: &lt;title&gt;和運租車（7855）上市前<b>競價拍賣</b>完成預計8月11日<b>掛牌</b>上市](https://www.google.com/url?rct=j&sa=t&url=http://mobile.autonet.com.tw/cgi-bin/file_view.cgi%3Fc6080010260803&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2KLnjQLYd0gAaRxpU2SmRb)
-- 2026/08/03 - [和泰車打造第二成長曲線| 集中市場| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5710/9666298&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1r48o3oKA2WueYdzq4BXst)
+- 2026/08/04 - [和運租車上市前<b>競價拍賣</b>完成，預計8月11日<b>掛牌</b>上市 - CarStuff 人車事](https://www.google.com/url?rct=j&sa=t&url=https://www.carstuff.com.tw/car-news/item/42989-8-11.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1EFiZm6QbqIi8dlwvgm9qw)
+- 2026/08/03 - [和運租車<b>競拍</b>超額認購1.88倍；擬8/11<b>掛牌</b>上市 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2592%258C%25E9%2581%258B%25E7%25A7%259F%25E8%25BB%258A%25E7%25AB%25B6%25E6%258B%258D%25E8%25B6%2585%25E9%25A1%258D%25E8%25AA%258D%25E8%25B3%25BC1-88%25E5%2580%258D-%25E6%2593%25AC8-11%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-014300509.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3b_U0bHIpzqb02I21l05sH)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
