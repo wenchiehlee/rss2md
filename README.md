@@ -15,8 +15,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/08/04 - [和運租車上市前<b>競價拍賣</b>完成，預計8月11日<b>掛牌</b>上市 - CarStuff 人車事](https://www.google.com/url?rct=j&sa=t&url=https://www.carstuff.com.tw/car-news/item/42989-8-11.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1EFiZm6QbqIi8dlwvgm9qw)
-- 2026/08/03 - [和運租車<b>競拍</b>超額認購1.88倍；擬8/11<b>掛牌</b>上市 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2592%258C%25E9%2581%258B%25E7%25A7%259F%25E8%25BB%258A%25E7%25AB%25B6%25E6%258B%258D%25E8%25B6%2585%25E9%25A1%258D%25E8%25AA%258D%25E8%25B3%25BC1-88%25E5%2580%258D-%25E6%2593%25AC8-11%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-014300509.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3b_U0bHIpzqb02I21l05sH)
+- 2026/08/04 - [車市買氣回溫！前7月<b>掛牌</b>數突破24萬輛Toyota仍稱霸 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/cars/4001941&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0NehfJ7FF58iG6exrT3Lmm)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
