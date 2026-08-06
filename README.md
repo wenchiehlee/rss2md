@@ -20,7 +20,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/08/04 - [討論牆| 天能綠電初次上櫃<b>過額配售</b>185張、佔公開承銷數量6.30% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/LXvPP0M&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0VaZH0gmEFbNKLDi8vHeIv)
+- 2026/08/06 - [大鵬科CLMX 公告本公司上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D4f0eaf26-885f-4082-844e-f2492c37ca16&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1nDBkfVdid2Ap7PJTp8G7J)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
