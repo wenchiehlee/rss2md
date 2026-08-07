@@ -15,11 +15,12 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/08/04 - [車市買氣回溫！前7月<b>掛牌</b>數突破24萬輛Toyota仍稱霸 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/cars/4001941&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0NehfJ7FF58iG6exrT3Lmm)
+- 2026/08/06 - [和運租車擬8/11每股42元<b>掛牌</b>上市導入AI打造車輛週期管理模式 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260806/C5ED861A16E3C7C28A0D3EE20FA8ACC8&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0to3e4r9ucrXpHqf652AJ4)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/08/06 - [【公告】華德動能辦理股票初次上市<b>過額配售</b>內容增資基準日 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E8%258F%25AF%25E5%25BE%25B7%25E5%258B%2595%25E8%2583%25BD%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9%25E5%25A2%259E%25E8%25B3%2587%25E5%259F%25BA%25E6%25BA%2596%25E6%2597%25A5-082405772.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw10g3T4H7uav08Z2GL9r5aP)
 - 2026/08/06 - [大鵬科CLMX 公告本公司上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D4f0eaf26-885f-4082-844e-f2492c37ca16&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1nDBkfVdid2Ap7PJTp8G7J)
 <!-- _feedinvestment2_ end -->
 
