@@ -20,6 +20,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/08/07 - [和運租車初上市<b>過額配售</b>：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D24aefe5d-b4e6-489d-9bdd-58efbb50b592&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3L9fUem2THjNdT1w6zdfpu)
 - 2026/08/07 - [興櫃申報轉讓：08月06日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2401984002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw21GtHrhHf1va-9Bvg_oFls)
 - 2026/08/07 - [8/6興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/zN8GR9W&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Kq1_wp9jQKTvaVIE1qjPj)
 - 2026/08/07 - [8/6興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3Dd618fbaf-5033-4b21-9546-4c45f3ad9bb5&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0o2Gwshw-_luIa1Me2lehP)
