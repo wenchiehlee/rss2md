@@ -21,7 +21,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/08/08 - [華德動能-創(2237.TW) 走勢圖 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/2237.TW&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2okQa3uwkzAMFAbYxi3E-8)
-- 2026/08/07 - [和運租車初上市<b>過額配售</b>：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D24aefe5d-b4e6-489d-9bdd-58efbb50b592&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3L9fUem2THjNdT1w6zdfpu)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
