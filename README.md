@@ -20,7 +20,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/08/09 - [和運租車初上市<b>過額配售</b>：0股| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/gzRJqrz&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0-k8sjekwJ_28jSo_hIQuy)
+- 2026/08/10 - [和運租車115年7月營收27.03億、年增7.02% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PG5nxXr&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3DzZmZNRJKYZxyN9P4IS0V)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
