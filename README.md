@@ -20,6 +20,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/08/10 - [華德動能-創(2237.TW) 相關新聞 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/2237.TW/news&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Uj_lrLaCDHBMGbqFmU7L3)
 - 2026/08/10 - [和運租車115年7月營收27.03億、年增7.02% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PG5nxXr&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3DzZmZNRJKYZxyN9P4IS0V)
 <!-- _feedinvestment2_ end -->
 
