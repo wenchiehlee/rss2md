@@ -15,7 +15,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/08/06 - [和運租車擬8/11每股42元<b>掛牌</b>上市導入AI打造車輛週期管理模式 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260806/C5ED861A16E3C7C28A0D3EE20FA8ACC8&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0to3e4r9ucrXpHqf652AJ4)
+- 2026/08/12 - [興櫃價高不可攀上市秒縮水和運租車蜜月行情熄火股民哀號！專家說話了 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1887874&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1oHt8ZZ9z-mcv2KNrjjBDP)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
