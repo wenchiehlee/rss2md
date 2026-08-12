@@ -16,7 +16,6 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2026/08/12 - [興櫃價高不可攀上市秒縮水和運租車蜜月行情熄火股民哀號！專家說話了](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%2588%2588%25E6%25AB%2583%25E5%2583%25B9%25E9%25AB%2598%25E4%25B8%258D%25E5%258F%25AF%25E6%2594%2580%25E4%25B8%258A%25E5%25B8%2582%25E7%25A7%2592%25E7%25B8%25AE%25E6%25B0%25B4-%25E5%2592%258C%25E9%2581%258B%25E7%25A7%259F%25E8%25BB%258A%25E8%259C%259C%25E6%259C%2588%25E8%25A1%258C%25E6%2583%2585%25E7%2586%2584%25E7%2581%25AB%25E8%2582%25A1%25E6%25B0%2591%25E5%2596%258A%25E5%258F%2597%25E9%25A8%2599-111500950.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1TzmY08iOxUepiZZIz4Iqv)
-- 2026/08/12 - [興櫃價高不可攀上市秒縮水和運租車蜜月行情熄火股民哀號！專家說話了 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1887874&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1oHt8ZZ9z-mcv2KNrjjBDP)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
