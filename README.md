@@ -20,7 +20,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/08/10 - [華德動能-創(2237.TW) 相關新聞 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/2237.TW/news&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Uj_lrLaCDHBMGbqFmU7L3)
+- 2026/08/18 - [[華德動能-創2237.TW] 本公司創新板上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.jp/news/twse_major_2237_1150817_175834&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0-29KFLaM60-NM_TPG1B7j)
+- 2026/08/17 - [華德動能-創(2237.TW) 個股公告 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/2237.TW/announcement&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2T4XC212ff0xaADSdU9cLo)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
