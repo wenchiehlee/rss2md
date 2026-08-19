@@ -22,8 +22,6 @@
 <!-- _feedinvestment2_ start -->
 - 2026/08/19 - [[和運租車7855.TW] 公告本公司初次上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.jp/news/twse_major_7855_1150819_084927&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1qKOIDXwAmoVZvLgF-ZxrR)
 - 2026/08/19 - [和運租車公告本公司初次上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D9659e035-82a7-42c8-b411-dff2e2845862&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Y_KOzm2rzvsWFSCL7e177)
-- 2026/08/19 - [[台鎔科技6947.TW] 公告本公司董事會決議配發現金股利基準日 - BigGo ファイナンス](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.jp/news/twse_major_6947_1150818_180940&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2gVY3xGD8htd1zT8gvyB7A)
-- 2026/08/18 - [華德動能-創創新板上市首5日穩定價格操作結果：0股- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3Dd6b0ab3e-880b-48ee-9104-3035410679cb&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3PYGpsfq-jxdXiyZhflWDs)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
