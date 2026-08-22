@@ -20,8 +20,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/08/19 - [[和運租車7855.TW] 公告本公司初次上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.jp/news/twse_major_7855_1150819_084927&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1qKOIDXwAmoVZvLgF-ZxrR)
-- 2026/08/19 - [和運租車公告本公司初次上市掛牌首五個營業日穩定價格操作結果](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D9659e035-82a7-42c8-b411-dff2e2845862&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Y_KOzm2rzvsWFSCL7e177)
+- 2026/08/22 - [討論牆| 正基初上櫃<b>過額配售</b>100張，佔公開承銷數量1.96% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/60J3ExN&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Vc-NOod7DJ0xjMXurwHtt)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
