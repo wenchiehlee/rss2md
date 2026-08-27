@@ -15,7 +15,12 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/08/12 - [興櫃價高不可攀上市秒縮水和運租車蜜月行情熄火股民哀號！專家說話了](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%2588%2588%25E6%25AB%2583%25E5%2583%25B9%25E9%25AB%2598%25E4%25B8%258D%25E5%258F%25AF%25E6%2594%2580%25E4%25B8%258A%25E5%25B8%2582%25E7%25A7%2592%25E7%25B8%25AE%25E6%25B0%25B4-%25E5%2592%258C%25E9%2581%258B%25E7%25A7%259F%25E8%25BB%258A%25E8%259C%259C%25E6%259C%2588%25E8%25A1%258C%25E6%2583%2585%25E7%2586%2584%25E7%2581%25AB%25E8%2582%25A1%25E6%25B0%2591%25E5%2596%258A%25E5%258F%2597%25E9%25A8%2599-111500950.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1TzmY08iOxUepiZZIz4Iqv)
+- 2026/08/27 - [和亞智慧9月10日<b>掛牌</b>上櫃！<b>競拍</b>底價39.1元AI光學檢測搶攻半導體、智慧製造](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2592%258C%25E4%25BA%259E%25E6%2599%25BA%25E6%2585%25A79%25E6%259C%258810%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-%25E7%25AB%25B6%25E6%258B%258D%25E5%25BA%2595%25E5%2583%25B939-1%25E5%2585%2583-ai%25E5%2585%2589%25E5%25AD%25B8%25E6%25AA%25A2%25E6%25B8%25AC%25E6%2590%25B6%25E6%2594%25BB%25E5%258D%258A%25E5%25B0%258E%25E9%25AB%2594-%25E6%2599%25BA%25E6%2585%25A7%25E8%25A3%25BD%25E9%2580%25A0-064131775.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2o4ON9DbgU6LLNfFlCmuwP)
+- 2026/08/27 - [和亞聚焦AI光學影像8/26起<b>競拍</b>](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20260826/index-78774790673913224003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2woFV9knCtVQVST4S2EHsn)
+- 2026/08/26 - [群益金鼎證券主辦和亞智慧8月26日起<b>競拍</b>](https://www.google.com/url?rct=j&sa=t&url=https://news.wearn.com/c2087286.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3w5RdxKsw-dobZmfKdrQ8E)
+- 2026/08/26 - [群益金鼎證券主辦和亞智慧8月26日起<b>競拍</b>8月31日起申購 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5636/9715045&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3LRJCcKzv3gIZ_zty-_GXh)
+- 2026/08/26 - [和亞智慧9月10日<b>掛牌</b>上櫃！<b>競拍</b>底價39.1元AI光學檢測搶攻半導體 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/LXyr8pr%3Fview%3Dtopic%26referral%3DAI&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1PobPu0vkMh0KYSwQBinAE)
+- 2026/08/26 - [群益金鼎證券主辦和亞智慧8月26日起<b>競拍</b>、8月31日起申購| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9714865&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0FewUwM-VGqJRo4Dz88U_T)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
