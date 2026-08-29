@@ -15,13 +15,14 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/08/27 - [和亞智慧9月10日<b>掛牌</b>上櫃！<b>競拍</b>底價39.1元AI光學檢測搶攻半導體](https://www.google.com/url?rct=j&sa=t&url=https://health.ftvnews.com.tw/news/detail/2026826W0394&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2ZGFZjpI7nKeP7Lq7W8GDS)
-- 2026/08/27 - [和亞智慧9月10日<b>掛牌</b>上櫃！<b>競拍</b>底價39.1元AI光學檢測搶攻半導體、智慧製造 - 四季線上](https://www.google.com/url?rct=j&sa=t&url=https://www.4gtv.tv/article/2026082602000021&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1h8PLxnJvjDh1LeoE52OqV)
+- 2026/08/29 - [床的世界將上櫃每股承銷價18元｜新聞快訊 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a91b0850a527338b6fa483d&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1zah33vjhBEtdCurRLZ-EZ)
+- 2026/08/29 - [床的世界將上櫃每股承銷價18元| 個股情報| 股市| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9720662&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2ZImv_RS3n_UFqk2-xt7nL)
+- 2026/08/28 - [床的世界<b>競拍</b>底價15元暫定承銷價18元、9月16日<b>掛牌</b>](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5612/9720256&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw11MGzP5BqH5QAhHXD9Jqxp)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/08/22 - [討論牆| 正基初上櫃<b>過額配售</b>100張，佔公開承銷數量1.96% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/60J3ExN&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Vc-NOod7DJ0xjMXurwHtt)
+- 2026/08/28 - [富邦綜合證券為主辦承銷商時，穩定價格操作專戶買回與<b>過額配售</b>如... - 股市爆料同學會](https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/98db3550-9554-4eb2-bade-ff28a4eddc4e&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0meWGATQZG5tn0dAtfq03H)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
