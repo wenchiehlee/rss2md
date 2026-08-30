@@ -18,9 +18,6 @@
 - 2026/08/29 - [《興櫃股》床的世界預計9月16日上櫃](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260829900101-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1x0KgLREmPXC-hzIvkfqCM)
 - 2026/08/29 - [和亞智慧公開承銷熱度怎麼看？](https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/1c30149e-bd9d-4cf3-a935-17695fedd21e&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1DmoDfSDJPXiehnh5TD-01)
 - 2026/08/29 - [和亞智慧公開承銷申購倍數高嗎？](https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/19fca349-6027-4721-ba7b-99715e82300d&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3gTgppMoE6a0H7rHRtrSha)
-- 2026/08/29 - [床的世界將上櫃每股承銷價18元｜新聞快訊 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a91b0850a527338b6fa483d&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1zah33vjhBEtdCurRLZ-EZ)
-- 2026/08/29 - [床的世界將上櫃每股承銷價18元| 個股情報| 股市| 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9720662&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2ZImv_RS3n_UFqk2-xt7nL)
-- 2026/08/28 - [床的世界<b>競拍</b>底價15元暫定承銷價18元、9月16日<b>掛牌</b>](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5612/9720256&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw11MGzP5BqH5QAhHXD9Jqxp)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
