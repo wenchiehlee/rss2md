@@ -26,7 +26,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/08/29 - [若沒有額外發行股數，掛牌後股價主要受哪些因素影響? - 股市爆料同學會](https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/ecf2520a-47b5-4456-97b2-524792f31b13&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Pp16HFv-rnqLSN2Nma4QB)
-- 2026/08/28 - [富邦綜合證券為主辦承銷商時，穩定價格操作專戶買回與<b>過額配售</b>如... - 股市爆料同學會](https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/98db3550-9554-4eb2-bade-ff28a4eddc4e&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0meWGATQZG5tn0dAtfq03H)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
