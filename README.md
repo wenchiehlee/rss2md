@@ -2,22 +2,15 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/08/04 - [和運租車<b>競拍</b>超額認購倍數1.88倍8/11每股42元<b>掛牌</b>上市 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6554445&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0I3p-4J5lciU87sQYrh-o7)
-- 2026/08/04 - [和運租車<b>競拍</b>超額認購1.88倍；擬8/11<b>掛牌</b>上市 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2592%258C%25E9%2581%258B%25E7%25A7%259F%25E8%25BB%258A%25E7%25AB%25B6%25E6%258B%258D%25E8%25B6%2585%25E9%25A1%258D%25E8%25AA%258D%25E8%25B3%25BC1-88%25E5%2580%258D-%25E6%2593%25AC8-11%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-014300509.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3b_U0bHIpzqb02I21l05sH)
-- 2026/08/04 - [和運租車8月11日將上市、抽中新股有望翻倍賺獲利5.8萬、報酬率138% | 集中市場 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5710/9660944&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3TmlNHgUHRzO9TrCAKLzOK)
-- 2026/08/03 - [和運租車上市前<b>競價拍賣</b>完成，預計8月11日<b>掛牌</b>上市 - Yahoo汽車](https://www.google.com/url?rct=j&sa=t&url=https://autos.yahoo.com.tw/%25E5%2592%258C%25E9%2581%258B%25E7%25A7%259F%25E8%25BB%258A%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E7%25AB%25B6%25E5%2583%25B9%25E6%258B%258D%25E8%25B3%25A3%25E5%25AE%258C%25E6%2588%2590-%25E9%25A0%2590%25E8%25A8%25888%25E6%259C%258811%25E6%2597%25A5%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-191152288.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3OcYPbRkHZyk-Pt_DrwyR4)
-- 2026/08/01 - [抽中有望翻倍賺！和運租車上市前<b>競價拍賣</b>完成8月11日上市 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/money/4000299&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2X0aOp736Z83fxh9oBhKcZ)
-- 2026/07/31 - [和運租車<b>競拍</b>超額認購倍數1.88倍8/11每股42元<b>掛牌</b>上市 - 優分析](https://www.google.com/url?rct=j&sa=t&url=https://uanalyze.com.tw/articles/5693952547&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3vOMEtLU2dX-37n_3zMQxo)
-- 2026/07/31 - [和運租車上市前<b>競價拍賣</b>完成，預計8月11日<b>掛牌</b>上市 - U-CAR新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.u-car.com.tw/article/89306&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw101vLjH-7PcJl_qJ1rlVAM)
-- 2026/07/31 - [和運租車上市前<b>競價拍賣</b>完成預計8/11<b>掛牌</b>上市 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5524288&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Tbng_CwaCSJFm6n40w2vP)
+- 2026/08/31 - [床的世界<b>競拍</b>底價15元暫定承銷價18元、9月16日<b>掛牌</b>](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a9155210a527338b6ca4cb0&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Rp3FJVzDKZnZlk30BnY0r)
+- 2026/08/27 - [和亞智慧9月10日<b>掛牌</b>上櫃！<b>競拍</b>底價39.1元AI光學檢測搶攻半導體](https://www.google.com/url?rct=j&sa=t&url=https://health.ftvnews.com.tw/news/detail/2026826W0394&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ZGFZjpI7nKeP7Lq7W8GDS)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/08/29 - [《興櫃股》床的世界預計9月16日上櫃](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260829900101-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1x0KgLREmPXC-hzIvkfqCM)
-- 2026/08/29 - [和亞智慧公開承銷熱度怎麼看？](https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/1c30149e-bd9d-4cf3-a935-17695fedd21e&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1DmoDfSDJPXiehnh5TD-01)
-- 2026/08/29 - [和亞智慧公開承銷申購倍數高嗎？](https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/19fca349-6027-4721-ba7b-99715e82300d&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3gTgppMoE6a0H7rHRtrSha)
+- 2026/09/01 - [和亞智慧<b>抽籤</b>價差為何受關注？](https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/fcedde43-9f90-40c8-a54a-c72ff530de88&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0KsuLWvgVQh9I1paljeVND)
+- 2026/08/31 - [和亞智慧(7825)<b>競拍</b>底價39.1元，承銷熱度如何影響<b>掛牌</b>初期定價? - 延伸閱讀文章](https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/a273d6db-e58d-4e1f-8df8-9e16d6eb0ce1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0zh2VaLDyXchhOFqFeADNL)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
