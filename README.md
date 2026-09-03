@@ -15,7 +15,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/08/29 - [若沒有額外發行股數，掛牌後股價主要受哪些因素影響? - 股市爆料同學會](https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/ecf2520a-47b5-4456-97b2-524792f31b13&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Pp16HFv-rnqLSN2Nma4QB)
+- 2026/09/04 - [興櫃申報轉讓：09月03日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2416155002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0gfqVDYIE8R0GfNf9tk4KA)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
