@@ -9,8 +9,20 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/09/01 - [和亞智慧<b>抽籤</b>價差為何受關注？](https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/fcedde43-9f90-40c8-a54a-c72ff530de88&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0KsuLWvgVQh9I1paljeVND)
-- 2026/08/31 - [和亞智慧(7825)<b>競拍</b>底價39.1元，承銷熱度如何影響<b>掛牌</b>初期定價? - 延伸閱讀文章](https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/a273d6db-e58d-4e1f-8df8-9e16d6eb0ce1&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0zh2VaLDyXchhOFqFeADNL)
+- 2026/09/04 - [漢測9月下旬上櫃<b>掛牌</b>！<b>競拍</b>底價1800元上半年EPS衝21.5元 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260904/0FB1148C4ABE45A5A9AA13E01111753A&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw10T5fpy7qtX2EYljLqGhaq)
+- 2026/09/04 - [史上最大紅包來了！ 抽中1張爽賺250萬這檔興櫃股王<b>抽籤</b>秀一次看 - Yahoo新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%258F%25B2%25E4%25B8%258A%25E6%259C%2580%25E5%25A4%25A7%25E7%25B4%2585%25E5%258C%2585%25E4%25BE%2586%25E4%25BA%2586-%25E6%258A%25BD%25E4%25B8%25AD1%25E5%25BC%25B5%25E7%2588%25BD%25E8%25B3%25BA250%25E8%2590%25AC-%25E9%2580%2599%25E6%25AA%2594%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1%25E7%258E%258B%25E6%258A%25BD%25E7%25B1%25A4%25E7%25A7%2580-%25E6%25AC%25A1%25E7%259C%258B-084600786.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ziTK-26lNPfL8bwgA5eF8)
+- 2026/09/04 - [漢測競拍登場獲利增速遠勝營收 - 自立晚報](https://www.google.com/url?rct=j&sa=t&url=https://www.idn.com.tw/news/news_content.aspx%3Fcatid%3D3%26catsid%3D1%26catdid%3D0%26artid%3D20260903kofang017&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Z-MSIl1e_Dwq07jxvf4T8)
+- 2026/09/04 - [漢測承銷價每股2250元若抽中1張潛在報酬率翻倍｜新聞快訊 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a994c2d0a527338b666dadd&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0gtbEk3I79nOreIHcs6-SC)
+- 2026/09/04 - [史上最大紅包來了！ 抽中1張爽賺250萬這檔興櫃股王<b>抽籤</b>秀一次看 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1901064&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw163vHHikjfEPaO2m22VjPY)
+- 2026/09/04 - [興櫃股王漢測寫史上最貴承銷價！每股2250元抽中1張現賺1張| 經濟日報| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/gzRRL38&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2mWBEKK4EoThv31uXfF0xX)
+- 2026/09/04 - [興櫃股王22日將上櫃漢測承銷價2250元創高| 個股情報 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9733296&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0wOw9GMq3w_CWw0Yi1k0fh)
+- 2026/09/04 - [興櫃股王22日將上櫃漢測承銷價2250元創高 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/11074/9733296&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1AZ8HB7mGchdwfcUwVV5Tk)
+- 2026/09/03 - [漢測承銷價每股2250元史上最貴9/16<b>抽籤</b>抽中一張翻倍賺 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6596419&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw22Qylasoop26oVsLYJ1Zbw)
+- 2026/09/03 - [興櫃股王漢測寫史上最貴承銷價！每股2250元抽中1張現賺1張| 個股情報 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9732384&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0aty-5yypk2zpGt5wyNvqZ)
+- 2026/09/03 - [漢測承銷價每股2250元若抽中1張潛在報酬率翻倍| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/11074/9732855&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw03-6-6NbjsA72ZpLbebhAZ)
+- 2026/09/03 - [漢測承銷價每股2250元若抽中1張潛在報酬率翻倍| 櫃買動態 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9732855%3Ffrom%3Dedn_newestlist_rank&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1HYLqbEiHVw5F7to4N1ScX)
+- 2026/09/03 - [漢測<b>競拍</b>登場<b>競拍</b>底價1800元每人最高投標張數524張| 科技產業| 產經 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7240/9732809&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw01_RPq9llFJF5ItmyzqkWM)
+- 2026/09/03 - [興櫃股王漢測寫史上最貴承銷價！每股2250元抽中1張現賺1張 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/11074/9732384&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1xB7lNvumGIvRCzYAxns1Z)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
