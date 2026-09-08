@@ -9,8 +9,12 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/09/06 - [漢測2250元承銷價創台股新高！抽中一張賺257萬元 - 樂聯網](https://www.google.com/url?rct=j&sa=t&url=https://leho.com.tw/archives/375782&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1VWzRmEnS0aox85qYks2__)
-- 2026/09/06 - [漢測10日開始申購！上櫃承銷價2250元創史上新高抽中1張最高賺257萬 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25BC%25A2%25E6%25B8%25AC10%25E6%2597%25A5%25E9%2596%258B%25E5%25A7%258B%25E7%2594%25B3%25E8%25B3%25BC-%25E4%25B8%258A%25E6%25AB%2583%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B92250%25E5%2585%2583%25E5%2589%25B5%25E5%258F%25B2%25E4%25B8%258A%25E6%2596%25B0%25E9%25AB%2598-%25E6%258A%25BD%25E4%25B8%25AD1%25E5%25BC%25B5%25E6%259C%2580%25E9%25AB%2598%25E8%25B3%25BA257%25E8%2590%25AC-014500640.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw155GEgXQ3OTCpUyfdE-Syj)
+- 2026/09/08 - [床的世界上櫃IPO每股18元申購至8日潛在套利空間近24 - 旺得富理財網](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260907900527-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Uzr9m1GuUmhftOPCENty2)
+- 2026/09/08 - [獨家》中一張賺上百萬！興櫃股王漢測現增太香壽險公司忍不住出手了 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260907701712-430305&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw30_RNhgNT7e3Mt52Wc5n9y)
+- 2026/09/08 - [漢測8月營收年增125.94% - 財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20260908/index-78880299951452224003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2vfnZOk1JK0upo4vobAMOC)
+- 2026/09/07 - [床的世界預計9/16<b>掛牌</b>上櫃每股承銷價18元](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D40a789a8-f5f9-4e92-9618-5c5c5988d1e2&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1QJ02N44nBe4NYa6RHMbHY)
+- 2026/09/07 - [床的世界預計9/16<b>掛牌</b>上櫃每股承銷價18元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25BA%258A%25E7%259A%2584%25E4%25B8%2596%25E7%2595%258C%25E9%25A0%2590%25E8%25A8%25889-16%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-%25E6%25AF%258F%25E8%2582%25A1%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B918%25E5%2585%2583-072700472.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2rv4YTcMFnqpbUnS4CwbhT)
+- 2026/09/07 - [漢測9/22<b>掛牌</b>，台股大紅包！承銷價2250元創台股新高，半年EPS 21.5元，AI測試](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6599260&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3jFNIF9-PTAcLPAQUKHXQI)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
