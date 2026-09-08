@@ -2,13 +2,29 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/08/31 - [床的世界<b>競拍</b>底價15元暫定承銷價18元、9月16日<b>掛牌</b>](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a9155210a527338b6ca4cb0&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Rp3FJVzDKZnZlk30BnY0r)
-- 2026/08/27 - [和亞智慧9月10日<b>掛牌</b>上櫃！<b>競拍</b>底價39.1元AI光學檢測搶攻半導體](https://www.google.com/url?rct=j&sa=t&url=https://health.ftvnews.com.tw/news/detail/2026826W0394&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2ZGFZjpI7nKeP7Lq7W8GDS)
+- 2026/09/08 - [抽中1張「爽賺250萬」 不敗教主喊+1！股民一看卻哭了 - ETtoday財經雲](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/3233523&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0oeFvzzzQTEOUZSyngA5p-)
+- 2026/09/08 - [抽中1張、現賺1張漢測公開申購9／10鳴槍市場關注的原因數字會說話 - 財訊](https://www.google.com/url?rct=j&sa=t&url=https://www.wealth.com.tw/articles/c5d23f2d-a19f-49fb-b24c-26d1e7ad1a49&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1wMWOPkQGKv9GBZ8yp_0VK)
+- 2026/09/08 - [獨家》中一張賺上百萬！興櫃股王漢測現增太香壽險公司忍不住出手了 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260907701712-430305&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw30_RNhgNT7e3Mt52Wc5n9y)
+- 2026/09/08 - [漢測9月下旬上櫃<b>掛牌</b>！<b>競拍</b>底價1800元上半年EPS衝21.5元 - 壹蘋新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260904/0FB1148C4ABE45A5A9AA13E01111753A&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw10T5fpy7qtX2EYljLqGhaq)
+- 2026/09/08 - [漢測承銷價每股2250元史上最貴9/16<b>抽籤</b>抽中一張翻倍賺 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6596419&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw22Qylasoop26oVsLYJ1Zbw)
+- 2026/09/08 - [漢測10日開始申購！上櫃承銷價2250元創史上新高抽中1張最高賺257萬 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25BC%25A2%25E6%25B8%25AC10%25E6%2597%25A5%25E9%2596%258B%25E5%25A7%258B%25E7%2594%25B3%25E8%25B3%25BC-%25E4%25B8%258A%25E6%25AB%2583%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B92250%25E5%2585%2583%25E5%2589%25B5%25E5%258F%25B2%25E4%25B8%258A%25E6%2596%25B0%25E9%25AB%2598-%25E6%258A%25BD%25E4%25B8%25AD1%25E5%25BC%25B5%25E6%259C%2580%25E9%25AB%2598%25E8%25B3%25BA257%25E8%2590%25AC-014500640.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw155GEgXQ3OTCpUyfdE-Syj)
+- 2026/09/08 - [抽中一張現賺245 萬！興櫃股王漢測(7856) 9/10 公開申購，該注意什麼？ | 鏈新聞ABMedia](https://www.google.com/url?rct=j&sa=t&url=https://abmedia.io/7856-public-subscription&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3KDjtZy8mIaQwCnbemCjj8)
+- 2026/09/08 - [股票<b>抽籤</b>買一送一？漢測(7856) 公開申購掀熱議！看懂新股定價機制與「破發」啟示](https://www.google.com/url?rct=j&sa=t&url=https://abmedia.io/7856-ipo-subscription-how-to-price-in&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1zhuTZ2UJ8o9_e0-2x2oe_)
+- 2026/09/08 - [漢測<b>抽籤</b>9/16登場！承銷價2250元創天價，中一張現賺250萬全攻略 - TOPONE Markets](https://www.google.com/url?rct=j&sa=t&url=https://www.top1markets.com/tw/news/hermens-6495-ipo-lottery-guide-fm26&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0wEm4lqvK6u45F_vqq8Swe)
+- 2026/09/07 - [史上最大紅包來了！ 抽中1張爽賺250萬這檔興櫃股王<b>抽籤</b>秀一次看 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1901064&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw163vHHikjfEPaO2m22VjPY)
+- 2026/09/07 - [抽中1張、現賺1張漢測公開申購9／10鳴槍市場關注的原因數字會說話 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260904700233-439901&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Q1mq8VUZYXkAk0Ba5_ntJ)
+- 2026/09/06 - [床的世界（2938）暫定承銷價18 元，你現在是想撿便宜還... - 股市爆料同學會](https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/bf013e89-fc09-4cad-976a-629ee2446aff&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3QrIWE4-eQ0eW-yKV7q-tN)
+- 2026/09/04 - [最強大紅包！這檔股票9/10開抽中1張現賺250萬元 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/money/4017324&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2n4kUmCMpOq7EHRJIggim6)
+- 2026/09/04 - [興櫃：漢測(7856)9月下旬<b>掛牌</b>上櫃 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2416099002%26PU%3D1002&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1zM2dLeDI4taR0CK8fOehc)
+- 2026/09/04 - [漢測承銷價每股2250元史上最貴9/16<b>抽籤</b>抽中一張翻倍賺｜新聞快訊 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a993e1d0a527338b64800d2&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Srt_Mnjg2Ycvz2kS9Tg2T)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/09/08 - [中信金豪砸41億搶漢測！旗下銀行、壽險聯手參與興櫃股王<b>競拍</b> - Business Insider Taiwan](https://www.google.com/url?rct=j&sa=t&url=https://www.businessinsider.tw/article/6801&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0IwYlYjqgmAjOSWsHcUz5A)
+- 2026/09/08 - [抽中1張「爽賺250萬」 不敗教主喊+1！股民一看卻哭了 - ETtoday財經雲](https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/3233523&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0oeFvzzzQTEOUZSyngA5p-)
+- 2026/09/08 - [漢測前8月營收年增125.94%，9月下旬上櫃，三大業務帶旺營運動能 - 財訊快報](https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlineNews/NewsContent.asp%3FarticleNo%3D14202609080078&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1rI3lGzVmlMZ3Nh-RrZ4EM)
 - 2026/09/08 - [床的世界上櫃IPO每股18元申購至8日潛在套利空間近24 - 旺得富理財網](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260907900527-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Uzr9m1GuUmhftOPCENty2)
 - 2026/09/08 - [獨家》中一張賺上百萬！興櫃股王漢測現增太香壽險公司忍不住出手了 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260907701712-430305&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw30_RNhgNT7e3Mt52Wc5n9y)
 - 2026/09/08 - [漢測8月營收年增125.94% - 財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20260908/index-78880299951452224003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2vfnZOk1JK0upo4vobAMOC)
@@ -19,8 +35,10 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/09/04 - [9/3興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/ZaRRGeQ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3dV-9sV6wkHLL6X-z0TUvd)
-- 2026/09/04 - [9/3興櫃公司持股轉讓明細](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D67ceca6e-9bfc-40a1-981b-9476959617a3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2CBRPqhJn5VDzKfToLGi89)
+- 2026/09/08 - [和亞智慧公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/EXrmZpQ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Kp_PiROv18MQenIu-hc4i)
+- 2026/09/08 - [【公告】和亞智慧辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%2592%258C%25E4%25BA%259E%25E6%2599%25BA%25E6%2585%25A7%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-103432659.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0dqcNTbWByVXTa9LVd4cBa)
+- 2026/09/08 - [和亞智慧公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D57c56cc4-4a76-461f-86ab-984d5cb6dcc7&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0O4-7UCggoZDWS-95fPhCo)
+- 2026/09/08 - [福壽：公司截至目前尚未收到泰山求償之相關訴訟文件或起訴狀 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dc4924432-f310-4263-ac6f-2e86e73d846b%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3GpFpWcPFn6qNUNWOtr7Z2)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
