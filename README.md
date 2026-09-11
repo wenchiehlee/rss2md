@@ -22,9 +22,6 @@
 <!-- _feedinvestment2_ start -->
 - 2026/09/10 - [9/9興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/KwVBNxg&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0nr7ZJBpOwVJf3uzVdpXIm)
 - 2026/09/10 - [9/9興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D8412855d-6095-4367-b5fd-a29f409b94c0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1k1D8bF-6nDrg7VjVGf8hn)
-- 2026/09/10 - [09月09日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2419291002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1ymEaFZ57JvHQy0pFWki7l)
-- 2026/09/10 - [和亞智慧公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/RBqznvm&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2c_cRbn3gCBuCgNOBh1F8u)
-- 2026/09/09 - [和亞智慧初上櫃<b>過額配售</b>300張，佔公開承銷數量比例13.33% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2592%258C%25E4%25BA%259E%25E6%2599%25BA%25E6%2585%25A7%25E5%2588%259D%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE300%25E5%25BC%25B5-%25E4%25BD%2594%25E5%2585%25AC%25E9%2596%258B%25E6%2589%25BF%25E9%258A%25B7%25E6%2595%25B8%25E9%2587%258F%25E6%25AF%2594%25E4%25BE%258B13-33-004300505.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2lQRjCDAqk6OU_Jpod2F84)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
