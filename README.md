@@ -9,9 +9,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/09/12 - [9月股票申購懶人包：漢測（7856）怎麼抽、要準備多少錢？光環、眾達-KY、盟立時程一次看](https://www.google.com/url?rct=j&sa=t&url=https://www.top1markets.com/tw/insights/stocks/stock-subscription-lottery-2026-september-hermes-testing&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2yP-Wv9kbWVoi-serIse3J)
-- 2026/09/11 - [興櫃股王漢測IPO <b>競拍</b>得標均價4272.7元超越鴻勁創新高｜新聞快訊 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6aa4106cb17ee736789f9bf6&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1cWKwqmfLP0fNCS1spxJBy)
-- 2026/09/11 - [抽中賺300萬！漢測首日14萬人搶抽凍結3223億 - Life 生活網](https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E6%258A%25BD%25E4%25B8%25AD%25E8%25B3%25BA300%25E8%2590%25AC-%25E6%25BC%25A2%25E6%25B8%25AC%25E9%25A6%2596%25E6%2597%25A514%25E8%2590%25AC%25E4%25BA%25BA%25E6%2590%25B6%25E6%258A%25BD%25E5%2587%258D%25E7%25B5%25903223%25E5%2584%2584-3146234&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Jlb6Bz8JemTnp0QtJrq0D)
+- 2026/09/13 - [抽中1張估賺303萬元！漢測首日湧14.32萬筆凍結3223億元破紀錄 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260912700051-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0FdHBqOOJ6m7lP6Qfw8uYj)
+- 2026/09/13 - [漢測申購首日吸金破3200 億！抽中得300 萬大紅包，法人以4200 元搶進 - 鏈新聞ABMedia](https://www.google.com/url?rct=j&sa=t&url=https://abmedia.io/7856-ipo-subscription-competitive-auction&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0C3ebKAFfvvJ3QBUPHfmqT)
+- 2026/09/12 - [一張潛在價差近300萬！漢測「超級紅包」14萬人搶還有2檔接力開抽| Newtalk | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/DRmK2k5&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw17U9IA9de4jLxT6KNL52LZ)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
