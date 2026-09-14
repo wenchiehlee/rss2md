@@ -9,9 +9,11 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/09/13 - [抽中1張估賺303萬元！漢測首日湧14.32萬筆凍結3223億元破紀錄 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260912700051-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0FdHBqOOJ6m7lP6Qfw8uYj)
-- 2026/09/13 - [漢測申購首日吸金破3200 億！抽中得300 萬大紅包，法人以4200 元搶進 - 鏈新聞ABMedia](https://www.google.com/url?rct=j&sa=t&url=https://abmedia.io/7856-ipo-subscription-competitive-auction&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0C3ebKAFfvvJ3QBUPHfmqT)
-- 2026/09/12 - [一張潛在價差近300萬！漢測「超級紅包」14萬人搶還有2檔接力開抽| Newtalk | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/DRmK2k5&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw17U9IA9de4jLxT6KNL52LZ)
+- 2026/09/15 - [興櫃股王漢測今最後一天申購！估將有32萬筆申購凍結資金7200億元 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9753761&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1soXG7AwTFk8uA-367lvP4)
+- 2026/09/15 - [漢測申購今截止！24萬筆卡位拚千張股票這天揭曉誰中籤 - Yahoo新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25BC%25A2%25E6%25B8%25AC%25E7%2594%25B3%25E8%25B3%25BC%25E4%25BB%258A%25E6%2588%25AA%25E6%25AD%25A2-24%25E8%2590%25AC%25E7%25AD%2586%25E5%258D%25A1%25E4%25BD%258D%25E6%258B%259A%25E5%258D%2583%25E5%25BC%25B5%25E8%2582%25A1%25E7%25A5%25A8-%25E9%2580%2599%25E5%25A4%25A9%25E6%258F%25AD%25E6%259B%2589%25E8%25AA%25B0%25E4%25B8%25AD%25E7%25B1%25A4-023300311.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw386YxfFy0yOVjj121nE9Md)
+- 2026/09/15 - [漢測(7856)<b>抽籤</b>估凍結9千億資金！申購量直衝40萬筆、中籤率不到0.3% - 今周刊](https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.com.tw/article/category/183008/post/202609140037/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1D7mHGv3zEEB9tv7394IV_)
+- 2026/09/15 - [漢測9月14日申購最後一天！須備225萬70元，<b>抽籤</b>、退款與<b>掛牌</b>時程一次看 - 蕃新聞](https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260914550984&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1FYDtv2JoDzvRNLRII2e0R)
+- 2026/09/14 - [漢測<b>抽籤</b>門檻225萬超夯！「反指標女神」借錢出手參戰了 - Life 生活網](https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E6%25BC%25A2%25E6%25B8%25AC%25E6%258A%25BD%25E7%25B1%25A4%25E9%2596%2580%25E6%25AA%25BB225%25E8%2590%25AC%25E8%25B6%2585%25E5%25A4%25AF-%25E5%258F%258D%25E6%258C%2587%25E6%25A8%2599%25E5%25A5%25B3%25E7%25A5%259E-%25E5%2580%259F%25E9%258C%25A2%25E5%2587%25BA%25E6%2589%258B%25E5%258F%2583%25E6%2588%25B0%25E4%25BA%2586-3148141&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw34qRBt-17-UqQ15arq-7Fz)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
