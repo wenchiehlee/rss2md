@@ -16,8 +16,10 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/09/10 - [9/9興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/KwVBNxg&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0nr7ZJBpOwVJf3uzVdpXIm)
-- 2026/09/10 - [9/9興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D8412855d-6095-4367-b5fd-a29f409b94c0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1k1D8bF-6nDrg7VjVGf8hn)
+- 2026/09/14 - [床的世界公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9mGa7Eg&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0oUFs28VRTJL5v8ffJNBr7)
+- 2026/09/14 - [床的世界公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25BA%258A%25E7%259A%2584%25E4%25B8%2596%25E7%2595%258C-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E5%2589%258D%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E6%2594%25B6%25E8%25B6%25B3%25E8%2582%25A1%25E6%25AC%25BE%25E6%259A%25A8%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E5%259F%25BA%25E6%25BA%2596%25E6%2597%25A5-073800577.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0PxJ34KO_pfItV24m2oHZV)
+- 2026/09/14 - [床的世界初上櫃<b>過額配售</b>300張，佔公開承銷股數比例13.07% - 股市爆料同學會 - 理財寶](https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/184589335&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1gU0ghHyIGIWiDHhu1G0IZ)
+- 2026/09/14 - [【公告】床的世界辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%25BA%258A%25E7%259A%2584%25E4%25B8%2596%25E7%2595%258C%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-074430765.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1E9AOFTiAX5NnJFhWu3dec)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
