@@ -2,13 +2,19 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/09/11 - [興櫃股王漢測公開申購10日起跑想賺百萬大紅包？新股<b>抽籤</b>你該知道的事 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260909701436-430201&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw22wuQspvoGTT2zPj2qo1Pa)
-- 2026/09/10 - [股票<b>抽籤</b>怎麼抽？漢測（7856）抽中一張潛賺約256萬元？報酬率100%以上？ 試算與3大風險](https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/lifeinternlin-ecc1965f-ace8-11f1-8289-7a773d3fd1aa&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1AIj7zc57_PrKoNz7cMCOa)
+- 2026/09/15 - [漢測<b>抽籤</b>爆量！凍結逾8,600億資金38萬多人瘋搶、中籤率僅0.27％ - 證券- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260915700840-430201&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw19rd0_Rc36qb5os_sIQMvK)
+- 2026/09/14 - [興櫃股王漢測IPO太香！中信銀標到價曝光！一張躺賺101.6萬- 金融- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260911701845-430301&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw00Vd2xsRZdHopZLT8Msv2_)
+- 2026/09/14 - [漢測申購首日吸金破3200 億！抽中得300 萬大紅包，法人以4200 元搶進 - 鏈新聞ABMedia](https://www.google.com/url?rct=j&sa=t&url=https://abmedia.io/7856-ipo-subscription-competitive-auction&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0C3ebKAFfvvJ3QBUPHfmqT)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/09/15 - [凍資8656億破紀錄！漢測（7856）38萬人搶1048張，中籤通知日是「這一天」 - 風傳媒](https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11164615&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1HyBo4quEyU396GOFHAEoA)
+- 2026/09/15 - [興櫃股王漢測凍結資金高達8656億中籤率僅0.27％ - Life 生活網](https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1%25E7%258E%258B%25E6%25BC%25A2%25E6%25B8%25AC%25E5%2587%258D%25E7%25B5%2590%25E8%25B3%2587%25E9%2587%2591%25E9%25AB%2598%25E9%2581%25948656%25E5%2584%2584-%25E4%25B8%25AD%25E7%25B1%25A4%25E7%258E%2587%25E5%2583%2585027-3149617&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2mCXJhcboTKQpcRJHPS1vW)
+- 2026/09/15 - [股民瘋搶！漢測申購凍資破8656億刷新台股紀錄中籤率僅0.27%](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260915/527C8FC814FE7564F89A3DCB00376F5D&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2zpLtlIsBWOzOwrEfJZKS1)
+- 2026/09/15 - [漢測（7856）<b>抽籤</b>中籤率僅0.27%！8656億凍資創紀錄，22日<b>掛牌</b>能賺多少？](https://www.google.com/url?rct=j&sa=t&url=https://www.top1markets.com/tw/news/han-test-7856-ipo-lottery-stock-analysis-fm26&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw07iVdsgwxiHoqTWC0j6Xhf)
+- 2026/09/15 - [漢測申購凍資8656億創紀錄中籤率0.27%抽中現賺逾250萬 - BigGo 財經](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com.tw/news/a393c5fd-62bd-4d00-99a5-6a447dab5698&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0LTllnl1e6BttM3t55EXtb)
 - 2026/09/15 - [漢測<b>抽籤</b>爆量！凍結逾8,600億資金38萬多人瘋搶、中籤率僅0.27％ - 證券- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260915700840-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw19rd0_Rc36qb5os_sIQMvK)
 - 2026/09/15 - [興櫃股王漢測今最後一天申購！估將有32萬筆申購凍結資金7200億元 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9753761&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1soXG7AwTFk8uA-367lvP4)
 - 2026/09/15 - [漢測申購今截止！24萬筆卡位拚千張股票這天揭曉誰中籤 - Yahoo新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25BC%25A2%25E6%25B8%25AC%25E7%2594%25B3%25E8%25B3%25BC%25E4%25BB%258A%25E6%2588%25AA%25E6%25AD%25A2-24%25E8%2590%25AC%25E7%25AD%2586%25E5%258D%25A1%25E4%25BD%258D%25E6%258B%259A%25E5%258D%2583%25E5%25BC%25B5%25E8%2582%25A1%25E7%25A5%25A8-%25E9%2580%2599%25E5%25A4%25A9%25E6%258F%25AD%25E6%259B%2589%25E8%25AA%25B0%25E4%25B8%25AD%25E7%25B1%25A4-023300311.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw386YxfFy0yOVjj121nE9Md)
@@ -21,10 +27,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/09/15 - [床的世界公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WBRLZ5L&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Qmcp3bKB0D-mtD4Pa04jl)
-- 2026/09/14 - [床的世界公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9mGa7Eg&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0oUFs28VRTJL5v8ffJNBr7)
-- 2026/09/14 - [床的世界公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25BA%258A%25E7%259A%2584%25E4%25B8%2596%25E7%2595%258C-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E5%2589%258D%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E6%2594%25B6%25E8%25B6%25B3%25E8%2582%25A1%25E6%25AC%25BE%25E6%259A%25A8%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E5%259F%25BA%25E6%25BA%2596%25E6%2597%25A5-073800577.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0PxJ34KO_pfItV24m2oHZV)
-- 2026/09/14 - [床的世界初上櫃<b>過額配售</b>300張，佔公開承銷股數比例13.07% - 股市爆料同學會 - 理財寶](https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/184589335&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1gU0ghHyIGIWiDHhu1G0IZ)
-- 2026/09/14 - [【公告】床的世界辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%25BA%258A%25E7%259A%2584%25E4%25B8%2596%25E7%2595%258C%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-074430765.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1E9AOFTiAX5NnJFhWu3dec)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
