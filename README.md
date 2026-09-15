@@ -20,6 +20,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/09/15 - [床的世界公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WBRLZ5L&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Qmcp3bKB0D-mtD4Pa04jl)
 - 2026/09/14 - [床的世界公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9mGa7Eg&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0oUFs28VRTJL5v8ffJNBr7)
 - 2026/09/14 - [床的世界公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25BA%258A%25E7%259A%2584%25E4%25B8%2596%25E7%2595%258C-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E5%2589%258D%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E6%2594%25B6%25E8%25B6%25B3%25E8%2582%25A1%25E6%25AC%25BE%25E6%259A%25A8%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E5%259F%25BA%25E6%25BA%2596%25E6%2597%25A5-073800577.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0PxJ34KO_pfItV24m2oHZV)
 - 2026/09/14 - [床的世界初上櫃<b>過額配售</b>300張，佔公開承銷股數比例13.07% - 股市爆料同學會 - 理財寶](https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/184589335&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1gU0ghHyIGIWiDHhu1G0IZ)
