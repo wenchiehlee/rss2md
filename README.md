@@ -15,12 +15,13 @@
 - 2026/09/15 - [股民瘋搶！漢測申購凍資破8656億刷新台股紀錄中籤率僅0.27%](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260915/527C8FC814FE7564F89A3DCB00376F5D&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2zpLtlIsBWOzOwrEfJZKS1)
 - 2026/09/15 - [漢測（7856）<b>抽籤</b>中籤率僅0.27%！8656億凍資創紀錄，22日<b>掛牌</b>能賺多少？](https://www.google.com/url?rct=j&sa=t&url=https://www.top1markets.com/tw/news/han-test-7856-ipo-lottery-stock-analysis-fm26&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw07iVdsgwxiHoqTWC0j6Xhf)
 - 2026/09/15 - [漢測申購凍資8656億創紀錄中籤率0.27%抽中現賺逾250萬 - BigGo 財經](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com.tw/news/a393c5fd-62bd-4d00-99a5-6a447dab5698&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0LTllnl1e6BttM3t55EXtb)
-- 2026/09/15 - [漢測<b>抽籤</b>爆量！凍結逾8,600億資金38萬多人瘋搶、中籤率僅0.27％ - 證券- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260915700840-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw19rd0_Rc36qb5os_sIQMvK)
-- 2026/09/15 - [漢測申購今截止！24萬筆卡位拚千張股票這天揭曉誰中籤| 三立新聞網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PG5aXEV&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2ABaln85xDU5M5ip35dHG3)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/09/16 - [9/15興櫃公司持股轉讓明細](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3Db6bdd903-4a8d-4215-802e-cfe5f8fd2da4%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3GRrVh5BkXQDeJ3vEEdxNc)
+- 2026/09/16 - [興櫃申報轉讓：09月15日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2421781002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0gxeE6CPLEi_N7BK47nAm5)
+- 2026/09/16 - [床的世界：公司股票9/16起轉上櫃買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/j7RN20g&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3g_nwlbDYHrQ9C3zD5XwOT)
 - 2026/09/15 - [床的世界公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WBRLZ5L&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Qmcp3bKB0D-mtD4Pa04jl)
 <!-- _feedinvestment2_ end -->
 
