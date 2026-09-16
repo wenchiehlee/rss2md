@@ -22,7 +22,6 @@
 - 2026/09/16 - [9/15興櫃公司持股轉讓明細](https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3Db6bdd903-4a8d-4215-802e-cfe5f8fd2da4%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3GRrVh5BkXQDeJ3vEEdxNc)
 - 2026/09/16 - [興櫃申報轉讓：09月15日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2421781002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0gxeE6CPLEi_N7BK47nAm5)
 - 2026/09/16 - [床的世界：公司股票9/16起轉上櫃買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/j7RN20g&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3g_nwlbDYHrQ9C3zD5XwOT)
-- 2026/09/15 - [床的世界公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WBRLZ5L&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Qmcp3bKB0D-mtD4Pa04jl)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
