@@ -10,11 +10,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/09/15 - [凍資8656億破紀錄！漢測（7856）38萬人搶1048張，中籤通知日是「這一天」 - 風傳媒](https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11164615&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1HyBo4quEyU396GOFHAEoA)
-- 2026/09/15 - [興櫃股王漢測凍結資金高達8656億中籤率僅0.27％ - Life 生活網](https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E8%2588%2588%25E6%25AB%2583%25E8%2582%25A1%25E7%258E%258B%25E6%25BC%25A2%25E6%25B8%25AC%25E5%2587%258D%25E7%25B5%2590%25E8%25B3%2587%25E9%2587%2591%25E9%25AB%2598%25E9%2581%25948656%25E5%2584%2584-%25E4%25B8%25AD%25E7%25B1%25A4%25E7%258E%2587%25E5%2583%2585027-3149617&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2mCXJhcboTKQpcRJHPS1vW)
-- 2026/09/15 - [股民瘋搶！漢測申購凍資破8656億刷新台股紀錄中籤率僅0.27%](https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260915/527C8FC814FE7564F89A3DCB00376F5D&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2zpLtlIsBWOzOwrEfJZKS1)
-- 2026/09/15 - [漢測（7856）<b>抽籤</b>中籤率僅0.27%！8656億凍資創紀錄，22日<b>掛牌</b>能賺多少？](https://www.google.com/url?rct=j&sa=t&url=https://www.top1markets.com/tw/news/han-test-7856-ipo-lottery-stock-analysis-fm26&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw07iVdsgwxiHoqTWC0j6Xhf)
-- 2026/09/15 - [漢測申購凍資8656億創紀錄中籤率0.27%抽中現賺逾250萬 - BigGo 財經](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com.tw/news/a393c5fd-62bd-4d00-99a5-6a447dab5698&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0LTllnl1e6BttM3t55EXtb)
+- 2026/09/16 - [幸運兒出爐！漢測申購35萬人搶抽、中籤率0.29% 抽到賺逾260萬| 櫃買動態| 證券| 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9757564&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3DezBCC50egXn_wCJQnOtA)
+- 2026/09/16 - [車用照明領導者儒億9月17日股票初次上櫃前<b>競拍</b>| 個股情報 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9757285&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Hkb_3YiHNqjg7KjxTuUVa)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
