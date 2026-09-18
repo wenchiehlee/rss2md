@@ -10,8 +10,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/09/16 - [幸運兒出爐！漢測申購35萬人搶抽、中籤率0.29% 抽到賺逾260萬| 櫃買動態| 證券| 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9757564&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3DezBCC50egXn_wCJQnOtA)
-- 2026/09/16 - [車用照明領導者儒億9月17日股票初次上櫃前<b>競拍</b>| 個股情報 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9757285&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1Hkb_3YiHNqjg7KjxTuUVa)
+- 2026/09/19 - [漢測9/22<b>掛牌</b>上櫃現增吸金215億元 - 財富自由](https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/kwjemv4dejpq&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2Dn_wkgiZxxUazHemTMKUd)
+- 2026/09/19 - [儒億（6604）即將<b>掛牌</b>上櫃，<b>競價拍賣</b>與公開承銷機制有何差別... - 股市爆料同學會](https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/a80422a7-bf31-41ee-bcc3-02f0707e8047&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1sEbLbwZ9IPLe-_sqfOOsP)
+- 2026/09/18 - [漢測9/22<b>掛牌</b>上櫃現增吸金215億元 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/amp/article/breakingnews/5578591&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3X9n3wCcOFwrDA3pMeb7BT)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
