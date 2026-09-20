@@ -10,9 +10,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/09/19 - [漢測9/22<b>掛牌</b>上櫃現增吸金215億元 - 財富自由](https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/kwjemv4dejpq&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2Dn_wkgiZxxUazHemTMKUd)
-- 2026/09/19 - [儒億（6604）即將<b>掛牌</b>上櫃，<b>競價拍賣</b>與公開承銷機制有何差別... - 股市爆料同學會](https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/a80422a7-bf31-41ee-bcc3-02f0707e8047&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1sEbLbwZ9IPLe-_sqfOOsP)
-- 2026/09/18 - [漢測9/22<b>掛牌</b>上櫃現增吸金215億元 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/amp/article/breakingnews/5578591&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3X9n3wCcOFwrDA3pMeb7BT)
+- 2026/09/20 - [興櫃股王漢測9月22日轉上櫃 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9765447%3Ffrom%3Dedn_newest_index&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0DvkqJEC1AQwucVA6macoB)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
