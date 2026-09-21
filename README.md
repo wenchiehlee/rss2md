@@ -15,10 +15,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/09/19 - [稜研科技*初上市<b>過額配售</b>100張，佔公開承銷數量比例2.96% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9mGQRjK&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1RobSmYCKnSVCmTQs_BXdl)
-- 2026/09/19 - [稜研科技* 本公司股票初次創新板上市現金增資收足股款暨增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/7NvkRe8&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2QIFugF3E-1zIGQD6w0T3p)
-- 2026/09/19 - [漢測初上櫃前現增案員工認購股款催繳期間為9/19~10/19 | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oqRVr5p&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3iuEALxcxq21hLqDnpvz4d)
-- 2026/09/19 - [討論牆| 稜研科技*初上市<b>過額配售</b>100張，佔公開承銷數量比例2.96% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/9mGQRjK&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1gOy7J5WXSPvZyPpq1nll2)
+- 2026/09/21 - [稜研科技* 9/22於臺灣創新板上市開始買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/GgNB03P&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2sdi6tlwd_jdLPGMThLtk1)
+- 2026/09/21 - [討論牆| 和亞智慧公告本公司辦理股票初次上櫃<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/DRmO08X&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw00xOXgr07KmoMcos7jxNth)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
