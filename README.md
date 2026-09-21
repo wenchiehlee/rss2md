@@ -11,7 +11,6 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2026/09/21 - [申購收破215億元！漢測22日正式上櫃<b>抽籤</b>凍結8656億創紀錄 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%2594%25B3%25E8%25B3%25BC%25E6%2594%25B6%25E7%25A0%25B4215%25E5%2584%2584%25E5%2585%2583-%25E6%25BC%25A2%25E6%25B8%25AC22%25E6%2597%25A5%25E6%25AD%25A3%25E5%25BC%258F%25E4%25B8%258A%25E6%25AB%2583-%25E6%258A%25BD%25E7%25B1%25A4%25E5%2587%258D%25E7%25B5%25908656%25E5%2584%2584%25E5%2589%25B5%25E7%25B4%2580%25E9%258C%2584-030000823.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw04CYMcEr-8R_gBlj4Y0brj)
-- 2026/09/20 - [興櫃股王漢測9月22日轉上櫃 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9765447%3Ffrom%3Dedn_newest_index&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0DvkqJEC1AQwucVA6macoB)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
