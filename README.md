@@ -18,8 +18,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/09/22 - [床的世界:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6613074&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Xtga53LL-BzENSs7Ns1ED)
-- 2026/09/21 - [稜研科技* 9/22於臺灣創新板上市開始買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/GgNB03P&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2sdi6tlwd_jdLPGMThLtk1)
-- 2026/09/21 - [討論牆| 和亞智慧公告本公司辦理股票初次上櫃<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/DRmO08X&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw00xOXgr07KmoMcos7jxNth)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
