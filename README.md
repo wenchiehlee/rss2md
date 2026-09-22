@@ -10,7 +10,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/09/21 - [申購收破215億元！漢測22日正式上櫃<b>抽籤</b>凍結8656億創紀錄 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%2594%25B3%25E8%25B3%25BC%25E6%2594%25B6%25E7%25A0%25B4215%25E5%2584%2584%25E5%2585%2583-%25E6%25BC%25A2%25E6%25B8%25AC22%25E6%2597%25A5%25E6%25AD%25A3%25E5%25BC%258F%25E4%25B8%258A%25E6%25AB%2583-%25E6%258A%25BD%25E7%25B1%25A4%25E5%2587%258D%25E7%25B5%25908656%25E5%2584%2584%25E5%2589%25B5%25E7%25B4%2580%25E9%258C%2584-030000823.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw04CYMcEr-8R_gBlj4Y0brj)
+- 2026/09/22 - [漢測今風光<b>掛牌</b>，以4400元開出，帶動半導體檢測股比價效應 - 鏈新聞ABMedia](https://www.google.com/url?rct=j&sa=t&url=https://abmedia.io/hermes-testing-solutions-ipo&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3Wf69AfDP_aBGyhYWn84Ty)
+- 2026/09/22 - [昔日連虧十年逆襲！漢測<b>掛牌</b>首日飆破4995元奪上櫃「三哥」 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/money/4025804&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1lMWFEqsid5eiyvS7TU73S)
+- 2026/09/22 - [漢測上櫃首日狂噴115%！一張現賺260萬4,850元躍台股第11高價股| 財經| Newtalk新聞](https://www.google.com/url?rct=j&sa=t&url=https://newtalk.tw/news/view/2026-09-22/1061201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw11PzSSHFj8qG0Np75bhKBH)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
