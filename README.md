@@ -2,9 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/09/15 - [漢測<b>抽籤</b>爆量！凍結逾8,600億資金38萬多人瘋搶、中籤率僅0.27％ - 證券- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260915700840-430201&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw19rd0_Rc36qb5os_sIQMvK)
-- 2026/09/14 - [興櫃股王漢測IPO太香！中信銀標到價曝光！一張躺賺101.6萬- 金融- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260911701845-430301&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw00Vd2xsRZdHopZLT8Msv2_)
-- 2026/09/14 - [漢測申購首日吸金破3200 億！抽中得300 萬大紅包，法人以4200 元搶進 - 鏈新聞ABMedia](https://www.google.com/url?rct=j&sa=t&url=https://abmedia.io/7856-ipo-subscription-competitive-auction&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0C3ebKAFfvvJ3QBUPHfmqT)
+- 2026/09/23 - [漢測9/22<b>掛牌</b>上櫃現增吸金215億元 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5578591&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Wk-qh9LnoOEAIjwsumGzX)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
@@ -12,15 +10,11 @@
 <!-- _feedinvestment1_1_ start -->
 - 2026/09/23 - [精華生醫9/29起<b>競拍</b>；深耕保健食品代工競爭利基 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D0bb34643-6d03-48ee-864c-f2bec8918f30&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1LlO7nNsMinBPd1sRbmarC)
 - 2026/09/23 - [精華生醫10/15<b>掛牌</b>承銷價55元 - 知新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/4E1868B163C8B728B76D146F9DD41412&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2pftgm-k9D_SvG_hDPXidb)
-- 2026/09/22 - [漢測今風光<b>掛牌</b>，以4400元開出，帶動半導體檢測股比價效應 - 鏈新聞ABMedia](https://www.google.com/url?rct=j&sa=t&url=https://abmedia.io/hermes-testing-solutions-ipo&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3Wf69AfDP_aBGyhYWn84Ty)
-- 2026/09/22 - [昔日連虧十年逆襲！漢測<b>掛牌</b>首日飆破4995元奪上櫃「三哥」 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/money/4025804&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1lMWFEqsid5eiyvS7TU73S)
-- 2026/09/22 - [漢測上櫃首日狂噴115%！一張現賺260萬4,850元躍台股第11高價股| 財經| Newtalk新聞](https://www.google.com/url?rct=j&sa=t&url=https://newtalk.tw/news/view/2026-09-22/1061201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw11PzSSHFj8qG0Np75bhKBH)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/09/23 - [床的世界初上櫃首五個營業日穩定價格操作結果：0股| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/MLBLRBw&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2sySnO2xNw5zgLa9WZl4A5)
-- 2026/09/22 - [床的世界:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6613074&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0Xtga53LL-BzENSs7Ns1ED)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
