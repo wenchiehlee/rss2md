@@ -11,8 +11,6 @@
 - 2026/09/24 - [精華生醫預計10/15<b>掛牌</b>| 個股情報| 股市 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9773859&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ne0k2nf2ADOmLI5D2UmC8)
 - 2026/09/24 - [精華生醫預計10/15<b>掛牌</b>| 集中市場| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5710/9773859&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ZHcX1ydRsDuTQegDZcG2B)
 - 2026/09/23 - [精華生醫9/29起<b>競拍</b>；深耕保健食品代工競爭利基 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25B2%25BE%25E8%258F%25AF%25E7%2594%259F%25E9%2586%25AB9-29%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E6%25B7%25B1%25E8%2580%2595%25E4%25BF%259D%25E5%2581%25A5%25E9%25A3%259F%25E5%2593%2581%25E4%25BB%25A3%25E5%25B7%25A5%25E7%25AB%25B6%25E7%2588%25AD%25E5%2588%25A9%25E5%259F%25BA-085700118.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2fyLVNdOWELX_sIcpFB26U)
-- 2026/09/23 - [精華生醫9/29起<b>競拍</b>；深耕保健食品代工競爭利基 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D0bb34643-6d03-48ee-864c-f2bec8918f30&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1LlO7nNsMinBPd1sRbmarC)
-- 2026/09/23 - [精華生醫10/15<b>掛牌</b>承銷價55元 - 知新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/4E1868B163C8B728B76D146F9DD41412&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2pftgm-k9D_SvG_hDPXidb)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
