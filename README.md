@@ -17,6 +17,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/09/24 - [床的世界(2938.TWO) 個股公告 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/2938/announcement&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1p7--fbUNNHUF4HyxZwGNi)
 - 2026/09/23 - [床的世界初上櫃首五個營業日穩定價格操作結果：0股| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/MLBLRBw&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2sySnO2xNw5zgLa9WZl4A5)
 <!-- _feedinvestment2_ end -->
 
