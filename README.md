@@ -8,6 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/09/27 - [【股票<b>競價拍賣</b>完全解析】<b>競拍</b>怎麼投標？和<b>抽籤</b>、詢價圈購差在哪一次看懂（2026最新）](https://www.google.com/url?rct=j&sa=t&url=https://pttstock.tw/stock-auction-bookbuilding/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0bpkinKYDELN9gxqcCUqwg)
 - 2026/09/26 - [精華生醫擬10/15上櫃<b>掛牌</b>膳食補充劑市場商機放大中 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/print/6615735&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1eRSG0B54NG9AmSctX3DMw)
 - 2026/09/26 - [精華生醫擬10/15上櫃<b>掛牌</b>膳食補充劑市場商機放大中 - Yahoo 財經](https://www.google.com/url?rct=j&sa=t&url=https://hk.finance.yahoo.com/news/%25E7%25B2%25BE%25E8%258F%25AF%25E7%2594%259F%25E9%2586%25AB%25E6%2593%25AC10-15%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C-%25E8%2586%25B3%25E9%25A3%259F%25E8%25A3%259C%25E5%2585%2585%25E5%258A%2591%25E5%25B8%2582%25E5%25A0%25B4%25E5%2595%2586%25E6%25A9%259F%25E6%2594%25BE%25E5%25A4%25A7%25E4%25B8%25AD-015400428.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3az6AFQ2OISOOAwXWoifuP)
 <!-- _feedinvestment1_1_ end -->
