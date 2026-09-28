@@ -2,7 +2,9 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/09/23 - [漢測9/22<b>掛牌</b>上櫃現增吸金215億元 - 自由財經](https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5578591&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1Wk-qh9LnoOEAIjwsumGzX)
+- 2026/09/24 - [《興櫃股》精華生醫29日起<b>競拍</b>10月15日<b>掛牌</b>上櫃 - 旺得富理財網- 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260924900074-420101&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0vBWj0wcZU6jTTaWsmA4fY)
+- 2026/09/24 - [精華生醫預計10/15<b>掛牌</b>| 個股情報| 股市 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9773859&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ne0k2nf2ADOmLI5D2UmC8)
+- 2026/09/24 - [精華生醫預計10/15<b>掛牌</b>| 集中市場| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5710/9773859&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0ZHcX1ydRsDuTQegDZcG2B)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
