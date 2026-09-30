@@ -15,6 +15,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/09/30 - [興櫃申報轉讓：09月29日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2425592002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1GW8f67PuJN8XBLvsaQ2Sc)
+- 2026/09/30 - [9/29興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/mWpQozw&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0r-PXMTJnsCgHbODlhrLN9)
+- 2026/09/30 - [9/29興櫃公司持股轉讓明細- 新聞 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Da2d727ee-abe2-4dd0-ab0b-3edbcfa666a4&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1tvfupgai8jjKqcsZQ5C6g)
 - 2026/09/29 - [威剛:公告本公司國內第九次無擔保轉換公司債轉換價格調整 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6617963&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw37Ut9fUtg4-ApgILrp43N-)
 - 2026/09/29 - [【公告】華擎董事會通過配合子公司東擎科技股份有限公司上市<b>過額配售</b>作業](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E8%258F%25AF%25E6%2593%258E%25E8%2591%25A3%25E4%25BA%258B%25E6%259C%2583%25E9%2580%259A%25E9%2581%258E%25E9%2585%258D%25E5%2590%2588%25E5%25AD%2590%25E5%2585%25AC%25E5%258F%25B8%25E6%259D%25B1%25E6%2593%258E%25E7%25A7%2591%25E6%258A%2580%25E8%2582%25A1%25E4%25BB%25BD%25E6%259C%2589%25E9%2599%2590%25E5%2585%25AC%25E5%258F%25B8%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E4%25BD%259C%25E6%25A5%25AD-073600836.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw34zVlKOBQXZD43D-O1OKF6)
 <!-- _feedinvestment2_ end -->
