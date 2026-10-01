@@ -10,16 +10,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/10/01 - [泰合10月20日上市<b>掛牌競拍</b>底價88元、BEQIA藥證授權雙進擊 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260930701307-430504&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2HK0rHcmTNRtOuACIfl6Vc)
-- 2026/10/01 - [泰合生技<b>競拍</b>底價88元| 個股情報| 股市 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9786778&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0x5RoRPxpknlVvgVIY1Te1)
-- 2026/10/01 - [《興櫃股》泰合10月2日起<b>競拍</b>20日<b>掛牌</b>上市](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20260930003794-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0KnLeZU0ezE1DkGhFCmJDs)
-- 2026/10/01 - [泰合生技<b>競拍</b>底價88元 - 國泰綜合證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20261001%26CSeqNO%3DE9786778&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1bOaX0QsNYoBiIzGsda0wN)
-- 2026/09/30 - [《興櫃股》泰合10月2日起<b>競拍</b>20日<b>掛牌</b>上市](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260930900505-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw21vyeZ6lj5a74GIq462nE3)
-- 2026/09/30 - [泰合10月20日<b>掛牌</b>上市<b>競拍</b>底價88元BEQIA 歐美取證授權雙引擎催動｜財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.wearn.com/c2116103.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2JUpCfbaTCDydoJ3-7-YoY)
-- 2026/09/30 - [泰合BEQIA歐美藥證倒數，10/2起<b>競拍</b>、底價88元，10/20<b>掛牌</b> - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25B3%25B0%25E5%2590%2588beqia%25E6%25AD%2590%25E7%25BE%258E%25E8%2597%25A5%25E8%25AD%2589%25E5%2580%2592%25E6%2595%25B8-10-2%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E5%25BA%2595%25E5%2583%25B988%25E5%2585%2583-10-072725438.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2nF3qhxIZM9W4TQlMzCEAC)
-- 2026/09/30 - [泰合10/20<b>掛牌</b>上市旗下BEQIA歐美取證倒數 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/id/6618799&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2Jz0seyemJMsSywHqTWJ0-)
-- 2026/09/30 - [泰合10月20日<b>掛牌</b>上市<b>競拍</b>底價88元BEQIA 歐美取證授權雙引擎催動 - 理財寶](https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/185026023&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0DUPySbBIHmR_U40xnxvLc)
-- 2026/09/30 - [泰合10月20日<b>掛牌</b>上市…<b>競拍</b>底價88元BEQIA歐美取證、授權雙引擎催動](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9786082%3Ffrom%3Dudn-relatednews_ch2&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1JjcyQO5hxnARk5YOXGjz9)
+- 2026/10/01 - [泰合<b>競拍</b>登場BEQIA歐美藥證倒數- 財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20261001/index-79079926932904224003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0bgI339dX9Bk7qR3CVHLws)
+- 2026/10/01 - [泰合5,100張<b>競拍</b>底價88元- 日報- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261001700270-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1pChMy-cx3bD6a9NrC1dQJ)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
