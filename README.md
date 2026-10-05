@@ -16,10 +16,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/10/03 - [儒億:公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6620443&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1QrtAoBbMLp13l0fkuDkVF)
-- 2026/10/03 - [[儒億6604.TW] 公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - BigGo 財經](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com.tw/news/twse_major_6604_1151002_151631&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0In1ITze_OxFvGl2AkbEoc)
-- 2026/10/03 - [討論牆| 儒億初上櫃<b>過額配售</b>100張，佔公開承銷數量比例7.94% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/DRjpB0B&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2o4CdTYKDStUgKVB1zQyjs)
-- 2026/10/02 - [討論牆| 儒億公告本公司辦理股票初次上櫃<b>過額配售</b>內容 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/VxplBQ1&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw23TCCfOjnkDt4vG9yQihGH)
+- 2026/10/05 - [儒億：公司股票10/6起轉上櫃買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Kw7XlJ0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3mzczgXi91y_XnxU9l5B6O)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
