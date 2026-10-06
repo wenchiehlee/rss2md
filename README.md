@@ -13,6 +13,7 @@
 - 2026/10/06 - [湧盛電機今起<b>競拍</b>底價55元10/22<b>掛牌</b>上櫃 - Yahoo 財經](https://www.google.com/url?rct=j&sa=t&url=https://hk.finance.yahoo.com/news/%25E6%25B9%25A7%25E7%259B%259B%25E9%259B%25BB%25E6%25A9%259F%25E4%25BB%258A%25E8%25B5%25B7%25E7%25AB%25B6%25E6%258B%258D-%25E5%25BA%2595%25E5%2583%25B955%25E5%2585%2583-10-22%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-020316872.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3HVnE4xVkWgDlbAC0viiTJ)
 - 2026/10/06 - [《經濟》湧盛今起<b>競拍</b>壓縮機自製比重突破5成 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261006700756-430102&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0Atz4mu5wbPv78iRQrgdnx)
 - 2026/10/06 - [湧盛預計10/22轉上櫃；H2營運表現料優於H1](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Dfb912d37-1248-4642-a934-38cf6eac9bcd&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2ItBbEIKXY3MK-sveoyicZ)
+- 2026/10/06 - [湧盛自製比重跨5成毛利結構持續升級 - PCHOME NEWS](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20261006/index-79122808256186224003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ta64LcwQPHFhISseoX4Rb)
 - 2026/10/06 - [湧盛電機今起<b>競拍</b>底價55元10/22<b>掛牌</b>上櫃](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6622506&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0dVz5kczroiLnFqC1Tqtro)
 <!-- _feedinvestment1_1_ end -->
 
