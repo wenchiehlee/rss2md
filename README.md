@@ -10,7 +10,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/10/06 - [湧盛自製比重跨5成毛利結構持續升級 - PCHOME NEWS](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20261006/index-79122808256186224003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3ta64LcwQPHFhISseoX4Rb)
+- 2026/10/07 - [抽中現賺6萬？東擎(7710)公開申購，股票<b>抽籤</b>該注意什麼？ - 鏈新聞](https://www.google.com/url?rct=j&sa=t&url=https://abmedia.io/7710-public-subscription&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1HJY2CwpQh3Jwnd6ZrYFyi)
+- 2026/10/07 - [湧盛電機今起<b>競拍</b>底價55元10/22<b>掛牌</b>上櫃 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/print/6622506&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2KadV9CndsCF8_zTThDDgl)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
