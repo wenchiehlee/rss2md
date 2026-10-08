@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Chekout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       
       # Feed: Investment 1
       - name: Fetch Investment Feed 1
