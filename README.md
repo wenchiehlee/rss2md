@@ -10,13 +10,14 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/10/08 - [連2年賺逾一個股本！湧盛壓縮機自製率破5成維修商機爆發 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1917901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw29Scxu0WifWm_r9J2EL8MF)
 - 2026/10/07 - [抽中現賺6萬？東擎(7710)公開申購，股票<b>抽籤</b>該注意什麼？ - 鏈新聞](https://www.google.com/url?rct=j&sa=t&url=https://abmedia.io/7710-public-subscription&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1HJY2CwpQh3Jwnd6ZrYFyi)
 - 2026/10/07 - [湧盛電機今起<b>競拍</b>底價55元10/22<b>掛牌</b>上櫃 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/print/6622506&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2KadV9CndsCF8_zTThDDgl)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/10/05 - [儒億：公司股票10/6起轉上櫃買賣| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Kw7XlJ0&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3mzczgXi91y_XnxU9l5B6O)
+- 2026/10/08 - [興櫃申報轉讓：10月07日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2429019002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3q0J1Nc88jh9e-VboM2CVo)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
