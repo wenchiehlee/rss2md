@@ -10,13 +10,14 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/10/08 - [特力屋(7867) 上市開放公開申購，股票<b>抽籤</b>該注意什麼？ | 鏈新聞ABMedia](https://www.google.com/url?rct=j&sa=t&url=https://abmedia.io/7867-public-subscription&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3UsffCSZ8xXrx8DcteuOFJ)
+- 2026/10/08 - [《興櫃股》藍新資訊<b>競拍</b>ing 預計10月23日<b>掛牌</b>上櫃](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20261008001847-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2u2nBLz9iPVQ_Yc4YVp0xR)
 - 2026/10/08 - [連2年賺逾一個股本！湧盛壓縮機自製率破5成維修商機爆發 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1917901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw29Scxu0WifWm_r9J2EL8MF)
-- 2026/10/07 - [抽中現賺6萬？東擎(7710)公開申購，股票<b>抽籤</b>該注意什麼？ - 鏈新聞](https://www.google.com/url?rct=j&sa=t&url=https://abmedia.io/7710-public-subscription&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1HJY2CwpQh3Jwnd6ZrYFyi)
-- 2026/10/07 - [湧盛電機今起<b>競拍</b>底價55元10/22<b>掛牌</b>上櫃 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/print/6622506&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2KadV9CndsCF8_zTThDDgl)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/10/08 - [10/7興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3De5ba6437-78f1-41de-8c9e-761315511cae&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0253q_VVYxR4nOO7HFMJ_L)
 - 2026/10/08 - [興櫃申報轉讓：10月07日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2429019002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3q0J1Nc88jh9e-VboM2CVo)
 <!-- _feedinvestment2_ end -->
 
