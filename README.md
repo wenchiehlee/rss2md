@@ -10,8 +10,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/10/08 - [特力屋(7867) 上市開放公開申購，股票<b>抽籤</b>該注意什麼？ | 鏈新聞ABMedia](https://www.google.com/url?rct=j&sa=t&url=https://abmedia.io/7867-public-subscription&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3UsffCSZ8xXrx8DcteuOFJ)
-- 2026/10/08 - [《興櫃股》藍新資訊<b>競拍</b>ing 預計10月23日<b>掛牌</b>上櫃](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20261008001847-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2u2nBLz9iPVQ_Yc4YVp0xR)
+- 2026/10/09 - [《興櫃股》特力屋10月13日~10月15日<b>競價拍賣</b>- 財經- 時報資訊 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20261009001316-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2N7mt6pOsAYOX2xHg7cYuX)
+- 2026/10/09 - [《興櫃股》特力屋10月13日~10月15日<b>競價拍賣</b> - 旺得富理財網](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20261009900045-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2tAXS9EJx1YOH4tFki_Rvw)
+- 2026/10/09 - [特力屋獲利續升溫10/13-10/15股票<b>競拍</b>](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20261009/index-79149702629025224003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1akSnY9Q9dcNhgI6tNsi1O)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
