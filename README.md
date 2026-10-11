@@ -10,6 +10,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/10/12 - [Q2淨利翻倍EPS衝1.54元！「這大廠」承銷價68元AI資服黑馬23日上櫃 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1919716&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2l0mQr81rYJMvU3_pctCWA)
 - 2026/10/11 - [Q2EPS衝1.54元藍新資訊承銷價68元！ - 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/amp/setn_1919716&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0EbfvIwxQgWwgD6YAmOxHg)
 - 2026/10/11 - [和碩孫公司東擎將<b>掛牌</b>！2檔新股紅包最高11.94萬元申購時程一次看](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9807070&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3zPzuVWPknmcZvVVSht2QS)
 <!-- _feedinvestment1_1_ end -->
