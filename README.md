@@ -10,9 +10,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/10/09 - [《興櫃股》特力屋10月13日~10月15日<b>競價拍賣</b>- 財經- 時報資訊 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20261009001316-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2N7mt6pOsAYOX2xHg7cYuX)
-- 2026/10/09 - [《興櫃股》特力屋10月13日~10月15日<b>競價拍賣</b> - 旺得富理財網](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20261009900045-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2tAXS9EJx1YOH4tFki_Rvw)
-- 2026/10/09 - [特力屋獲利續升溫10/13-10/15股票<b>競拍</b>](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20261009/index-79149702629025224003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1akSnY9Q9dcNhgI6tNsi1O)
+- 2026/10/11 - [Q2EPS衝1.54元藍新資訊承銷價68元！ - 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/amp/setn_1919716&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0EbfvIwxQgWwgD6YAmOxHg)
+- 2026/10/11 - [和碩孫公司東擎將<b>掛牌</b>！2檔新股紅包最高11.94萬元申購時程一次看](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9807070&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3zPzuVWPknmcZvVVSht2QS)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
