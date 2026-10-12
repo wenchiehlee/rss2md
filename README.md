@@ -10,12 +10,16 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/10/12 - [Q2淨利翻倍EPS衝1.54元！「這大廠」承銷價68元AI資服黑馬23日上櫃 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1919716&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2l0mQr81rYJMvU3_pctCWA)
+- 2026/10/12 - [漢測大跳水！「興櫃股王」跌破半年線<b>競拍</b>得標大戶淌血 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/money/4035129&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2u9QvqzAYIrHryiyWRVu46)
+- 2026/10/12 - [漢測跌停3835元<b>掛牌</b>新低！<b>競拍</b>大戶慘被套牢 - 東森財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://fnc.ebc.net.tw/fncnews/headline/220521&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0wRBtEu09mTU8Kqaotp3qh)
+- 2026/10/12 - [漢測跌停3835元<b>掛牌</b>新低！<b>競拍</b>大戶慘被套牢 - Yahoo新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25BC%25A2%25E6%25B8%25AC%25E8%25B7%258C%25E5%2581%259C3835%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C%25E6%2596%25B0%25E4%25BD%258E-%25E7%25AB%25B6%25E6%258B%258D%25E5%25A4%25A7%25E6%2588%25B6%25E6%2585%2598%25E8%25A2%25AB%25E5%25A5%2597%25E7%2589%25A2-143000478.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw11a0v5G0NgrJD0eE83UXQM)
+- 2026/10/12 - [搶搭老屋翻修大商機！特力屋<b>競拍</b>登場<b>競拍</b>底價38.43元規劃10月底<b>掛牌</b> - 蕃新聞](https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20261012374796&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0dONzLBnJU_RXvV24jVTKV)
+- 2026/10/12 - [搶搭老屋翻修大商機！特力屋<b>競拍</b>登場<b>競拍</b>底價38.43元規劃10月底<b>掛牌</b> - 中央社](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/446642&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0cKoLUE-olbivAU4Kh2gup)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/10/08 - [10/7興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3De5ba6437-78f1-41de-8c9e-761315511cae&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0253q_VVYxR4nOO7HFMJ_L)
+- 2026/10/12 - [討論牆| 和亞智慧初上櫃<b>過額配售</b>300張，佔公開承銷數量比例13.33% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/BE6jEeQ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0XEZvs8bQT_e1l7l3FynCe)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
