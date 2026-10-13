@@ -2,9 +2,14 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/10/07 - [泰合生技<b>競拍</b>底價88元| 個股情報| 股市 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9786778&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0x5RoRPxpknlVvgVIY1Te1)
-- 2026/10/06 - [湧盛電機今起<b>競拍</b>底價55元10/22<b>掛牌</b>上櫃](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6622506&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0dVz5kczroiLnFqC1Tqtro)
-- 2026/10/02 - [泰合(6467)<b>競拍競拍</b>底價88元每股承銷價105.6元BEQIA 2027年4月22日為FDA審核完成目標 ...](https://www.google.com/url?rct=j&sa=t&url=https://www.genetinfo.com/investment/featured/item/98337.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3-2lhFpQDCdCCkcWx6-9_B)
+- 2026/10/13 - [漢測大跳水！「興櫃股王」跌破半年線<b>競拍</b>得標大戶淌血 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/money/4035129&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2u9QvqzAYIrHryiyWRVu46)
+- 2026/10/13 - [特力屋獲利續升溫10/13-10/15股票<b>競拍</b>](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20261009/index-79149702629025224003.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1akSnY9Q9dcNhgI6tNsi1O)
+- 2026/10/13 - [《興櫃股》特力屋10月13日~10月15日<b>競價拍賣</b> - 旺得富理財網](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20261009900045-420101&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2tAXS9EJx1YOH4tFki_Rvw)
+- 2026/10/13 - [和暢連3年雙位數成長上櫃前成績單曝光 - 鏡週刊](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/amp/setn_1919786&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw03Uujfu-3NVf4kFHQt0RC9)
+- 2026/10/12 - [和暢股票上櫃10/13-10/15啟動<b>競拍</b>- 財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20261009/index-79149733619493224003.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0XkRAfOVVJzN2P3P_WeKLa)
+- 2026/10/12 - [搶搭老屋翻修大商機！特力屋<b>競拍</b>登場<b>競拍</b>底價38.43元規劃10月底<b>掛牌</b> - 蕃新聞](https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20261012374796&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0dONzLBnJU_RXvV24jVTKV)
+- 2026/10/12 - [搶搭老屋翻修大商機！特力屋<b>競拍</b>登場<b>競拍</b>底價38.43元規劃10月底<b>掛牌</b> - 中央社](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/446642&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0cKoLUE-olbivAU4Kh2gup)
+- 2026/10/12 - [連2年賺逾一個股本！湧盛壓縮機自製率破5成維修商機爆發 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1917901&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw29Scxu0WifWm_r9J2EL8MF)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
@@ -12,16 +17,12 @@
 <!-- _feedinvestment1_1_ start -->
 - 2026/10/13 - [和暢連續3年雙位數成長智慧辦公搶進財星500大企業 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261013700020-431201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2OdhRrcGLt4hEiP5UK5a0W)
 - 2026/10/13 - [和暢連3年雙位數成長上櫃前成績單曝光 - 鏡週刊](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/amp/setn_1919786&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw03Uujfu-3NVf4kFHQt0RC9)
-- 2026/10/12 - [漢測大跳水！「興櫃股王」跌破半年線<b>競拍</b>得標大戶淌血 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/money/4035129&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2u9QvqzAYIrHryiyWRVu46)
-- 2026/10/12 - [漢測跌停3835元<b>掛牌</b>新低！<b>競拍</b>大戶慘被套牢 - 東森財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://fnc.ebc.net.tw/fncnews/headline/220521&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0wRBtEu09mTU8Kqaotp3qh)
-- 2026/10/12 - [漢測跌停3835元<b>掛牌</b>新低！<b>競拍</b>大戶慘被套牢 - Yahoo新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25BC%25A2%25E6%25B8%25AC%25E8%25B7%258C%25E5%2581%259C3835%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C%25E6%2596%25B0%25E4%25BD%258E-%25E7%25AB%25B6%25E6%258B%258D%25E5%25A4%25A7%25E6%2588%25B6%25E6%2585%2598%25E8%25A2%25AB%25E5%25A5%2597%25E7%2589%25A2-143000478.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw11a0v5G0NgrJD0eE83UXQM)
-- 2026/10/12 - [搶搭老屋翻修大商機！特力屋<b>競拍</b>登場<b>競拍</b>底價38.43元規劃10月底<b>掛牌</b> - 蕃新聞](https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20261012374796&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0dONzLBnJU_RXvV24jVTKV)
-- 2026/10/12 - [搶搭老屋翻修大商機！特力屋<b>競拍</b>登場<b>競拍</b>底價38.43元規劃10月底<b>掛牌</b> - 中央社](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/446642&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0cKoLUE-olbivAU4Kh2gup)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/10/12 - [討論牆| 和亞智慧初上櫃<b>過額配售</b>300張，佔公開承銷數量比例13.33% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/BE6jEeQ&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0XEZvs8bQT_e1l7l3FynCe)
+- 2026/10/13 - [精華生醫初上櫃<b>過額配售</b>100張，佔公開承銷數量比例19.61% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25B2%25BE%25E8%258F%25AF%25E7%2594%259F%25E9%2586%25AB%25E5%2588%259D%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE100%25E5%25BC%25B5-%25E4%25BD%2594%25E5%2585%25AC%25E9%2596%258B%25E6%2589%25BF%25E9%258A%25B7%25E6%2595%25B8%25E9%2587%258F%25E6%25AF%2594%25E4%25BE%258B19-61-084800643.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3n_Es2Ap3h0l3SQVRu9vcU)
+- 2026/10/13 - [【公告】精華生醫辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E7%25B2%25BE%25E8%258F%25AF%25E7%2594%259F%25E9%2586%25AB%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-084508437.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3WIiqsJGsxL_fWEl7Bep_N)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
