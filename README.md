@@ -10,6 +10,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/10/13 - [和暢連續3年雙位數成長智慧辦公搶進財星500大企業 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261013700020-431201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2OdhRrcGLt4hEiP5UK5a0W)
+- 2026/10/13 - [和暢連3年雙位數成長上櫃前成績單曝光 - 鏡週刊](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/amp/setn_1919786&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw03Uujfu-3NVf4kFHQt0RC9)
 - 2026/10/12 - [漢測大跳水！「興櫃股王」跌破半年線<b>競拍</b>得標大戶淌血 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/money/4035129&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2u9QvqzAYIrHryiyWRVu46)
 - 2026/10/12 - [漢測跌停3835元<b>掛牌</b>新低！<b>競拍</b>大戶慘被套牢 - 東森財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://fnc.ebc.net.tw/fncnews/headline/220521&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0wRBtEu09mTU8Kqaotp3qh)
 - 2026/10/12 - [漢測跌停3835元<b>掛牌</b>新低！<b>競拍</b>大戶慘被套牢 - Yahoo新聞](https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25BC%25A2%25E6%25B8%25AC%25E8%25B7%258C%25E5%2581%259C3835%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C%25E6%2596%25B0%25E4%25BD%258E-%25E7%25AB%25B6%25E6%258B%258D%25E5%25A4%25A7%25E6%2588%25B6%25E6%2585%2598%25E8%25A2%25AB%25E5%25A5%2597%25E7%2589%25A2-143000478.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw11a0v5G0NgrJD0eE83UXQM)
