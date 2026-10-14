@@ -15,14 +15,17 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/10/13 - [和暢連續3年雙位數成長智慧辦公搶進財星500大企業 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261013700020-431201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2OdhRrcGLt4hEiP5UK5a0W)
-- 2026/10/13 - [和暢連3年雙位數成長上櫃前成績單曝光 - 鏡週刊](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/amp/setn_1919786&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw03Uujfu-3NVf4kFHQt0RC9)
+- 2026/10/14 - [8千億搶<b>抽籤</b>熱潮退燒！漢測上櫃20天跌停<b>競拍</b>大戶慘套牢 - Life 生活網](https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/8%25E5%258D%2583%25E5%2584%2584%25E6%2590%25B6%25E6%258A%25BD%25E7%25B1%25A4%25E7%2586%25B1%25E6%25BD%25AE%25E9%2580%2580%25E7%2587%2592-%25E6%25BC%25A2%25E6%25B8%25AC%25E4%25B8%258A%25E6%25AB%258320%25E5%25A4%25A9%25E8%25B7%258C%25E5%2581%259C-%25E7%25AB%25B6%25E6%258B%258D%25E5%25A4%25A7%25E6%2588%25B6%25E6%2585%2598%25E5%25A5%2597%25E7%2589%25A2-3178928&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2KG2HTLaeBFq9r4GTQnBpB)
+- 2026/10/14 - [8千億搶<b>抽籤</b>熱潮退燒！漢測上櫃20天跌停<b>競拍</b>大戶慘套牢 - 記者爆料網](https://www.google.com/url?rct=j&sa=t&url=https://new-reporter.com/news/281359/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw05-ZwZp-wATRak7IcvAqSP)
+- 2026/10/14 - [特力屋年接萬件裝修<b>掛牌</b>前成績單曝光！ - 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/setn_1921072/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0CW7tpsAOoxtghplUuV98a)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/10/14 - [精華生醫(7806)初上櫃<b>過額配售</b>100張，佔公開承銷數量比例19.61%](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D90697%26kind%3D21&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1gK5KNt5Eg-LmlyPdAQ955)
 - 2026/10/13 - [精華生醫初上櫃<b>過額配售</b>100張，佔公開承銷數量比例19.61% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25B2%25BE%25E8%258F%25AF%25E7%2594%259F%25E9%2586%25AB%25E5%2588%259D%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE100%25E5%25BC%25B5-%25E4%25BD%2594%25E5%2585%25AC%25E9%2596%258B%25E6%2589%25BF%25E9%258A%25B7%25E6%2595%25B8%25E9%2587%258F%25E6%25AF%2594%25E4%25BE%258B19-61-084800643.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3n_Es2Ap3h0l3SQVRu9vcU)
 - 2026/10/13 - [【公告】精華生醫辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E7%25B2%25BE%25E8%258F%25AF%25E7%2594%259F%25E9%2586%25AB%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-084508437.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3WIiqsJGsxL_fWEl7Bep_N)
+- 2026/10/13 - [精華生醫初上櫃<b>過額配售</b>100張，佔公開承銷數量比例19.61% - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D68f73bcb-1c5e-4374-842f-ff85b465d253&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3OtaqIb-CbqFZ4P5PRYnLi)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
