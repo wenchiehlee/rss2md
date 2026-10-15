@@ -15,6 +15,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/10/15 - [程曦資訊<b>競拍</b>均價68.23元，10/23以每股60元<b>掛牌</b>上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25A8%258B%25E6%259B%25A6%25E8%25B3%2587%25E8%25A8%258A%25E7%25AB%25B6%25E6%258B%258D%25E5%259D%2587%25E5%2583%25B968-23%25E5%2585%2583-10-23%25E4%25BB%25A5%25E6%25AF%258F%25E8%2582%25A160%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-030957533.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2Jq3sDFijOvAu-PM1ePU1F)
+- 2026/10/15 - [和暢上櫃<b>競拍</b>今截止去年獲利年增121.8％、營收創高 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261015700030-431201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0MK8_nTG5PqZV-WC4Bt-9h)
+- 2026/10/15 - [宏遠證券輔導和暢科技<b>競拍</b>今截止| 財富管理| 商情 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5636/9814711%3Ffrom%3Dedn_subcatelist_cate&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0eSgKl9qvN-wvYsta-gtlP)
 - 2026/10/15 - [程曦資訊23日<b>掛牌</b>上櫃<b>競拍</b>均價68.23元 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261015700282-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2JU4NkljaYwSkjMLhmPjmz)
 - 2026/10/14 - [程曦資訊完成<b>競拍</b>承銷價60元、10月23日<b>掛牌</b>上櫃 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9815164&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1wDF8ldDdOpiHcQDKqZl7D)
 - 2026/10/14 - [程曦資訊<b>競拍</b>完成公開申購價60元…預計10月23日<b>掛牌</b>上櫃 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9814701&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0JsbQqnJUVse7zsxmiFpiX)
@@ -26,8 +29,6 @@
 <!-- _feedinvestment2_ start -->
 - 2026/10/14 - [精華生醫公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PGzj0MR&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3m8iSrtTgWqkDy46MTZBn-)
 - 2026/10/14 - [精華生醫公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25B2%25BE%25E8%258F%25AF%25E7%2594%259F%25E9%2586%25AB-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E6%25B4%25BD%25E5%25AE%259A%25E4%25B8%258A%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3%25E9%2596%258B%25E5%25A7%258B%25E6%2597%25A5%25E4%25B8%25A6%25E8%2587%25AA%25E5%2590%258C%25E6%2597%25A5%25E8%25B5%25B7%25E7%25B5%2582%25E6%25AD%25A2%25E8%2588%2588%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3-090900347.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0bdOV2M3QTJAhCkg99h4Xj)
-- 2026/10/14 - [晟德買回庫藏股期間屆滿、共12436張，均價31.16元| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/ZapylL7&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1JOBo2imWZNWS65QdPyAJx)
-- 2026/10/13 - [討論牆| 精華生醫初上櫃<b>過額配售</b>100張，佔公開承銷數量比例19.61% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/WBpngPa&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1QgI6Z9uVnB3m0PUkACX5Z)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
