@@ -15,9 +15,11 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/10/14 - [8千億搶<b>抽籤</b>熱潮退燒！漢測上櫃20天跌停<b>競拍</b>大戶慘套牢 - Life 生活網](https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/8%25E5%258D%2583%25E5%2584%2584%25E6%2590%25B6%25E6%258A%25BD%25E7%25B1%25A4%25E7%2586%25B1%25E6%25BD%25AE%25E9%2580%2580%25E7%2587%2592-%25E6%25BC%25A2%25E6%25B8%25AC%25E4%25B8%258A%25E6%25AB%258320%25E5%25A4%25A9%25E8%25B7%258C%25E5%2581%259C-%25E7%25AB%25B6%25E6%258B%258D%25E5%25A4%25A7%25E6%2588%25B6%25E6%2585%2598%25E5%25A5%2597%25E7%2589%25A2-3178928&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2KG2HTLaeBFq9r4GTQnBpB)
-- 2026/10/14 - [8千億搶<b>抽籤</b>熱潮退燒！漢測上櫃20天跌停<b>競拍</b>大戶慘套牢 - 記者爆料網](https://www.google.com/url?rct=j&sa=t&url=https://new-reporter.com/news/281359/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw05-ZwZp-wATRak7IcvAqSP)
-- 2026/10/14 - [特力屋年接萬件裝修<b>掛牌</b>前成績單曝光！ - 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/setn_1921072/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0CW7tpsAOoxtghplUuV98a)
+- 2026/10/15 - [程曦資訊23日<b>掛牌</b>上櫃<b>競拍</b>均價68.23元 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261015700282-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2JU4NkljaYwSkjMLhmPjmz)
+- 2026/10/14 - [程曦資訊完成<b>競拍</b>承銷價60元、10月23日<b>掛牌</b>上櫃 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9815164&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1wDF8ldDdOpiHcQDKqZl7D)
+- 2026/10/14 - [程曦資訊<b>競拍</b>完成公開申購價60元…預計10月23日<b>掛牌</b>上櫃 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9814701&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0JsbQqnJUVse7zsxmiFpiX)
+- 2026/10/14 - [程曦資訊<b>競拍</b>完成公開申購價60元預計10月23日<b>掛牌</b>上櫃 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9814701&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2at3TYkXAVxkWjm5HQTDuZ)
+- 2026/10/14 - [6938藍新資訊完成<b>競拍</b>新股抽紅包倒數！申購至10月15日公開承銷價68元抽中有望每張賺逾萬元](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6630165&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2LFCjyudyoMIob19vzxF_V)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
@@ -25,9 +27,7 @@
 - 2026/10/14 - [精華生醫公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PGzj0MR&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3m8iSrtTgWqkDy46MTZBn-)
 - 2026/10/14 - [精華生醫公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25B2%25BE%25E8%258F%25AF%25E7%2594%259F%25E9%2586%25AB-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E6%25B4%25BD%25E5%25AE%259A%25E4%25B8%258A%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3%25E9%2596%258B%25E5%25A7%258B%25E6%2597%25A5%25E4%25B8%25A6%25E8%2587%25AA%25E5%2590%258C%25E6%2597%25A5%25E8%25B5%25B7%25E7%25B5%2582%25E6%25AD%25A2%25E8%2588%2588%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3-090900347.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0bdOV2M3QTJAhCkg99h4Xj)
 - 2026/10/14 - [晟德買回庫藏股期間屆滿、共12436張，均價31.16元| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/ZapylL7&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1JOBo2imWZNWS65QdPyAJx)
-- 2026/10/14 - [精華生醫(7806)初上櫃<b>過額配售</b>100張，佔公開承銷數量比例19.61%](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D90697%26kind%3D21&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1gK5KNt5Eg-LmlyPdAQ955)
 - 2026/10/13 - [討論牆| 精華生醫初上櫃<b>過額配售</b>100張，佔公開承銷數量比例19.61% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/WBpngPa&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1QgI6Z9uVnB3m0PUkACX5Z)
-- 2026/10/13 - [精華生醫初上櫃<b>過額配售</b>100張，佔公開承銷數量比例19.61% - 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D68f73bcb-1c5e-4374-842f-ff85b465d253&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3OtaqIb-CbqFZ4P5PRYnLi)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
