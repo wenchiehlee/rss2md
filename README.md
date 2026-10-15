@@ -27,8 +27,12 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/10/14 - [精華生醫公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PGzj0MR&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3m8iSrtTgWqkDy46MTZBn-)
-- 2026/10/14 - [精華生醫公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25B2%25BE%25E8%258F%25AF%25E7%2594%259F%25E9%2586%25AB-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E6%25B4%25BD%25E5%25AE%259A%25E4%25B8%258A%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3%25E9%2596%258B%25E5%25A7%258B%25E6%2597%25A5%25E4%25B8%25A6%25E8%2587%25AA%25E5%2590%258C%25E6%2597%25A5%25E8%25B5%25B7%25E7%25B5%2582%25E6%25AD%25A2%25E8%2588%2588%25E6%25AB%2583%25E8%25B2%25B7%25E8%25B3%25A3-090900347.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0bdOV2M3QTJAhCkg99h4Xj)
+- 2026/10/15 - [年程:公告本公司115年現金增資認股基準日及委託代收及存儲價款機構等相關事宜 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6631302&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3rrNOlTiljH8yk_75xYKzX)
+- 2026/10/15 - [大同精化:公告本公司115年9月份自結合併財務報告之負債比率 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6631309&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2l4pdfZkbcbox967v0rfaC)
+- 2026/10/15 - [儒億公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/1DP0elv&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1mmBbDjVAmlecRczpkFCxB)
+- 2026/10/15 - [泰合:公告本公司辦理股票初次上市<b>過額配售</b>內容 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6631391&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw05P2ZHactwxA0dkFHg5UXA)
+- 2026/10/15 - [泰合生技(6467)初上市<b>過額配售</b>319張，佔公開承銷數量比例5% - 環球生技月刊](https://www.google.com/url?rct=j&sa=t&url=https://news.gbimonthly.com/tw/invest/show.php%3Fnum%3D90750%26kind%3D21&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2MfwnAPhab2e9BxnKnBiCf)
+- 2026/10/15 - [泰合公告本公司辦理股票初次上市<b>過額配售</b>內容- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D1d24242b-0a23-4ea0-a21d-63bccd67d059%26c%3DMB00&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1CcrpgQB-EVm56rTCLe15F)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
