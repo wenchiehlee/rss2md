@@ -15,10 +15,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/10/15 - [程曦資訊<b>競拍</b>均價68.23元，10/23以每股60元<b>掛牌</b>上櫃 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25A8%258B%25E6%259B%25A6%25E8%25B3%2587%25E8%25A8%258A%25E7%25AB%25B6%25E6%258B%258D%25E5%259D%2587%25E5%2583%25B968-23%25E5%2585%2583-10-23%25E4%25BB%25A5%25E6%25AF%258F%25E8%2582%25A160%25E5%2585%2583%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E6%25AB%2583-030957533.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2Jq3sDFijOvAu-PM1ePU1F)
-- 2026/10/15 - [和暢上櫃<b>競拍</b>今截止去年獲利年增121.8％、營收創高 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261015700030-431201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0MK8_nTG5PqZV-WC4Bt-9h)
 - 2026/10/15 - [《興櫃股》程曦資訊23日<b>掛牌</b>上櫃<b>競拍</b>均價68.23元 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D6331384001%26PU%3D1002&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3bLwXh4Ejr39PIjFbpNVdQ)
-- 2026/10/15 - [宏遠證券輔導和暢科技<b>競拍</b>今截止| 財富管理| 商情 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5636/9814711%3Ffrom%3Dedn_subcatelist_cate&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0eSgKl9qvN-wvYsta-gtlP)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
