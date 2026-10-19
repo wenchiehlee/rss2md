@@ -20,10 +20,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/10/16 - [泰合公告本公司股票初次上市前現金增資收足股款暨現金增資基準日| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WBpWr5L&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3nCkI8x7Ilfe3Shnaq7A64)
-- 2026/10/16 - [泰合公告本公司股票初次上市前現金增資收足股款暨現金增資基準日 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25B3%25B0%25E5%2590%2588-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E5%2589%258D%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E6%2594%25B6%25E8%25B6%25B3%25E8%2582%25A1%25E6%25AC%25BE%25E6%259A%25A8%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E5%259F%25BA%25E6%25BA%2596%25E6%2597%25A5-074400815.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3xzPM44tgFw4ECSlPspM5T)
-- 2026/10/16 - [討論牆| 泰合初上市<b>過額配售</b>319張，佔公開承銷股數比例5% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/QwW61y3&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3n3u99OX-jS3JClZ-nzDJh)
-- 2026/10/16 - [泰合初上市<b>過額配售</b>319張，佔公開承銷股數比例5% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25B3%25B0%25E5%2590%2588%25E5%2588%259D%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE319%25E5%25BC%25B5-%25E4%25BD%2594%25E5%2585%25AC%25E9%2596%258B%25E6%2589%25BF%25E9%258A%25B7%25E8%2582%25A1%25E6%2595%25B8%25E6%25AF%2594%25E4%25BE%258B5-011200674.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1ROgbfw11j3Df5UTYJj0YA)
+- 2026/10/19 - [興櫃申報轉讓：10月16日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2432993002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw235TDKHDE3On5O0cZnQG5_)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
