@@ -15,11 +15,15 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/10/15 - [《興櫃股》程曦資訊23日<b>掛牌</b>上櫃<b>競拍</b>均價68.23元 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D6331384001%26PU%3D1002&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3bLwXh4Ejr39PIjFbpNVdQ)
+- 2026/10/20 - [特力屋、和暢科技IPO出師不利雙雙調降承銷價10／29上市櫃<b>掛牌</b>](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20261019900478-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3qMUjjL9fPIXzJ8P3_0RQ1)
+- 2026/10/20 - [特力屋、和暢科技IPO出師不利雙雙調降承銷價10／29上市櫃<b>掛牌</b> - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261019701383-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3CwvQHEFo5pu3BIaKEkIJ2)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/10/20 - [興櫃申報轉讓：10月19日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2433406002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3lloZh9mwnW3K-OOsUgb8t)
+- 2026/10/20 - [討論牆| 程曦資訊公告本公司辦理股票初次上櫃<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/j7prW0D&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2PJmt_e2k8jaIeVnZoNtMV)
+- 2026/10/20 - [【公告】湧盛辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%25B9%25A7%25E7%259B%259B%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-020541751.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2NB3OaoBirnsD7llwh-WKq)
 - 2026/10/19 - [美股指數期貨最新報價9:36 | MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/3N19QJr&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3xRapwsw0t9PtwkhucUxlM)
 - 2026/10/19 - [76101)近期達公布注意交易資訊標準，故公告相關訊息，以利投資人區別瞭解| 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6633482&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1-eB6xxlZmBmA7_1hwqJAd)
 - 2026/10/19 - [櫃買中心預計10/22舉辦湧盛上櫃掛牌典禮| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oqpvgGj&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1ZuyC8jUtRBGBShM-JW2n1)
@@ -31,10 +35,10 @@
 - 2026/10/19 - [仁新*:公告本公司股票面額由「新台幣10元」變更為「新台幣1元」，公告期間：115年8月5日至115 ...](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6633133&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0aDtBCo1kwgNCoyBkPs5F9)
 - 2026/10/19 - [沛爾生醫*-創公告本公司股票面額由「新台幣10元」變更為「新台幣0.5元」，公告期間：115年08月 ...](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/JPyoD2y&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0KNENlFLl7_ZS9PNdA0kDv)
 - 2026/10/19 - [程曦資訊公告本公司股票初次上櫃前現金增資員工認購股款催繳事宜 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25A8%258B%25E6%259B%25A6%25E8%25B3%2587%25E8%25A8%258A-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E5%2589%258D%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E5%2593%25A1%25E5%25B7%25A5%25E8%25AA%258D%25E8%25B3%25BC%25E8%2582%25A1%25E6%25AC%25BE%25E5%2582%25AC%25E7%25B9%25B3%25E4%25BA%258B%25E5%25AE%259C-090900493.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0IhGVuBNH3pTxx6UykvJHW)
+- 2026/10/19 - [討論牆| 湧盛初上櫃<b>過額配售</b>50張，佔公開承銷數量比例1.58% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/rmpM8Pe&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2XrFH6zPkI23Sctb6ZzWeK)
 - 2026/10/19 - [湧盛初上櫃<b>過額配售</b>50張，佔公開承銷數量比例1.58% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25B9%25A7%25E7%259B%259B%25E5%2588%259D%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE50%25E5%25BC%25B5-%25E4%25BD%2594%25E5%2585%25AC%25E9%2596%258B%25E6%2589%25BF%25E9%258A%25B7%25E6%2595%25B8%25E9%2587%258F%25E6%25AF%2594%25E4%25BE%258B1-58-014400570.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2w0S9J06yFUf8gyC_AYNhY)
 - 2026/10/19 - [湧盛初上櫃<b>過額配售</b>50張，佔公開承銷數量比例1.58% - 股市爆料同學會 - 理財寶](https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/186101693&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw02XHyv3NFBD5mRetb5Y622)
 - 2026/10/19 - [10/16興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Da572dd7b-3811-4707-ab9c-efba2c4a87c5&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3k_Eyzh6GLumJv3DKo-A6v)
-- 2026/10/19 - [興櫃申報轉讓：10月16日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2432993002%26PU%3D1002&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw235TDKHDE3On5O0cZnQG5_)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
