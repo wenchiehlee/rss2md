@@ -2,14 +2,10 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/10/13 - [漢測大跳水！「興櫃股王」跌破半年線<b>競拍</b>得標大戶淌血 - TVBS新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/money/4035129&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2u9QvqzAYIrHryiyWRVu46)
-- 2026/10/13 - [特力屋獲利續升溫10/13-10/15股票<b>競拍</b>](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20261009/index-79149702629025224003.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1akSnY9Q9dcNhgI6tNsi1O)
-- 2026/10/13 - [《興櫃股》特力屋10月13日~10月15日<b>競價拍賣</b> - 旺得富理財網](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20261009900045-420101&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2tAXS9EJx1YOH4tFki_Rvw)
-- 2026/10/13 - [和暢連3年雙位數成長上櫃前成績單曝光 - 鏡週刊](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/amp/setn_1919786&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw03Uujfu-3NVf4kFHQt0RC9)
-- 2026/10/12 - [和暢股票上櫃10/13-10/15啟動<b>競拍</b>- 財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20261009/index-79149733619493224003.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0XkRAfOVVJzN2P3P_WeKLa)
-- 2026/10/12 - [搶搭老屋翻修大商機！特力屋<b>競拍</b>登場<b>競拍</b>底價38.43元規劃10月底<b>掛牌</b> - 蕃新聞](https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20261012374796&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0dONzLBnJU_RXvV24jVTKV)
-- 2026/10/12 - [搶搭老屋翻修大商機！特力屋<b>競拍</b>登場<b>競拍</b>底價38.43元規劃10月底<b>掛牌</b> - 中央社](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/446642&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0cKoLUE-olbivAU4Kh2gup)
-- 2026/10/12 - [連2年賺逾一個股本！湧盛壓縮機自製率破5成維修商機爆發 - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1917901&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw29Scxu0WifWm_r9J2EL8MF)
+- 2026/10/20 - [特力屋、和暢科技IPO出師不利雙雙調降承銷價10／29上市櫃<b>掛牌</b> - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261019701383-430201&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3CwvQHEFo5pu3BIaKEkIJ2)
+- 2026/10/20 - [特力屋年接萬件裝修<b>掛牌</b>前成績單曝光！ - 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/setn_1921072&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw34kSRbZx-Tmw_XNs_k1wzt)
+- 2026/10/20 - [8千億搶<b>抽籤</b>熱潮退燒！漢測上櫃20天跌停<b>競拍</b>大戶慘套牢 - 行銷人](https://www.google.com/url?rct=j&sa=t&url=https://www.marketersgo.com/%25E5%25AA%2592%25E9%25AB%2594%25E6%2596%25B0%25E8%2581%259E/202610/8%25E5%258D%2583%25E5%2584%2584%25E6%2590%25B6%25E6%258A%25BD%25E7%25B1%25A4%25E7%2586%25B1%25E6%25BD%25AE%25E9%2580%2580%25E7%2587%2592%25EF%25BC%2581%25E6%25BC%25A2%25E6%25B8%25AC%25E4%25B8%258A%25E6%25AB%258320%25E5%25A4%25A9%25E8%25B7%258C%25E5%2581%259C%25E3%2580%2580%25E7%25AB%25B6%25E6%258B%258D%25E5%25A4%25A7/&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3RRzsAvwxw05SJygPS6g8r)
+- 2026/10/19 - [程曦資訊<b>競拍</b>完成公開申購價60元預計10月23日<b>掛牌</b>上櫃 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9814701&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2at3TYkXAVxkWjm5HQTDuZ)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
