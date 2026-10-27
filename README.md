@@ -17,7 +17,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/10/22 - [【公告】東擎科技辦理股票初次上市<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E6%259D%25B1%25E6%2593%258E%25E7%25A7%2591%25E6%258A%2580%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E5%25B8%2582%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-073804171.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0m5C3jDRoJluEcXGHtrw48)
+- 2026/10/27 - [【公告】和暢科技辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%2592%258C%25E6%259A%25A2%25E7%25A7%2591%25E6%258A%2580%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-073359404.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Nt6kB8Y_ZvXr01s5mNJ7z)
+- 2026/10/27 - [東擎科技(7710.TW) 相關新聞 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/quote/7710.TW/news&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2O5UdfSk38_sVYqyJvkTOP)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
