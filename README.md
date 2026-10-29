@@ -11,8 +11,17 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/10/20 - [特力屋、和暢科技IPO出師不利雙雙調降承銷價10／29上市櫃<b>掛牌</b>](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20261019900478-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3qMUjjL9fPIXzJ8P3_0RQ1)
-- 2026/10/20 - [特力屋、和暢科技IPO出師不利雙雙調降承銷價10／29上市櫃<b>掛牌</b> - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261019701383-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3CwvQHEFo5pu3BIaKEkIJ2)
+- 2026/10/29 - [騏億鑫10/30起<b>競拍</b>底價210元- 財經- 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202610/202610293095027.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1y9LYtlhxDBj22db9c28Sh)
+- 2026/10/29 - [《興櫃股》騏億鑫公開承銷時程出爐<b>競拍</b>3060張、暫定每股252元- 財經- 時報資訊](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20261029001966-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3EJE-fdodJ0kXHTapjlwjD)
+- 2026/10/29 - [騏億鑫上櫃前現增承銷價暫定252元<b>競拍</b>10/30起跑 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6640370&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2eExyGbVTXHRwrY1JHB7vN)
+- 2026/10/29 - [騏億鑫<b>競拍</b>底價、承銷價出爐<b>競拍</b>時間、公開申購時間一次看 - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261029700678-430201&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2IEvnCOU9CPGSdPCa2X6BS)
+- 2026/10/29 - [騏億鑫10月30日起<b>競拍</b>底價210元| 個股情報 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9844033&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1cU0NaRDGOs4EOerdXpuLP)
+- 2026/10/29 - [騏億鑫前三季營收年增逾七成上櫃前現增承銷啟動<b>競拍</b>底價每股210元- 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/story/20261029-10bus-162943&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2r6cYNYO3kMD36rPClrhz2)
+- 2026/10/29 - [騏億鑫前三季營收年增逾七成上櫃前現增承銷啟動<b>競拍</b>底價每股210元 - 鏡新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.mnews.tw/story/amp/mm-20261029-10bus-162943&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2npAkISvwFczkDitIwpC_Q)
+- 2026/10/29 - [騏億鑫上櫃前現增承銷價暫定252元<b>競拍</b>10/30起跑 - Yahoo 財經](https://www.google.com/url?rct=j&sa=t&url=https://hk.finance.yahoo.com/news/%25E9%25A8%258F%25E5%2584%2584%25E9%2591%25AB%25E4%25B8%258A%25E6%25AB%2583%25E5%2589%258D%25E7%258F%25BE%25E5%25A2%259E%25E6%2589%25BF%25E9%258A%25B7%25E5%2583%25B9%25E6%259A%25AB%25E5%25AE%259A252%25E5%2585%2583-%25E7%25AB%25B6%25E6%258B%258D10-30%25E8%25B5%25B7%25E8%25B7%2591-024723195.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw24oOzsTlqLYSVEia3TAZfg)
+- 2026/10/29 - [騏億鑫<b>競拍</b>登場營運爆發式成長- 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9844292%3Ffrom%3Dedn_newest_index&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw32MvHBPLVKuSRYkcn-3btW)
+- 2026/10/29 - [騏億鑫10/30起<b>競拍</b>底價210元](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5612/9844033&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw05I3x4InjPDKnXaAuEtJLK)
+- 2026/10/29 - [騏億鑫<b>競拍</b>登場，半導體擴廠潮推升營運衝- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/z/DJA/News/DJANewsDetail_6986AC06-817E-47A0-BFCB-BC694840037A.djhtm&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2BIqxSDQtGmztuOJrMsyci)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
