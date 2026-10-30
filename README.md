@@ -26,14 +26,8 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/10/28 - [特力屋公告本公司股票即將終止興櫃交易並轉至臺灣證券交易所上市交易 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/GgNv6yy&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw02Mil_PyMobHB5iZddcAtJ)
-- 2026/10/28 - [特力屋公告本公司辦理股票初次上市前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/LXeYwD2&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1knk5AqGk4uQMEMAiIhG0P)
-- 2026/10/28 - [和暢科技公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/nXprL5M&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1ic5upoUFQpXZkJLbaeQwF)
-- 2026/10/28 - [櫃買中心預計10/30舉辦和暢科技上櫃掛牌典禮| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/JPyMVRy&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3wPssaYk1AJdTl7dfRwXg8)
-- 2026/10/28 - [討論牆| 特力屋初上市<b>過額配售</b>1,377張，佔公開承銷數量比例15% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/1DP7YQp&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3fRXT5MQxfFtPVmaM3OS1N)
-- 2026/10/28 - [櫃買中心預計10/30舉辦和暢科技上櫃掛牌典禮 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25AB%2583%25E8%25B2%25B7%25E4%25B8%25AD%25E5%25BF%2583%25E9%25A0%2590%25E8%25A8%258810-30%25E8%2588%2589%25E8%25BE%25A6%25E5%2592%258C%25E6%259A%25A2%25E7%25A7%2591%25E6%258A%2580%25E4%25B8%258A%25E6%25AB%2583%25E6%258E%259B%25E7%2589%258C%25E5%2585%25B8%25E7%25A6%25AE-000400061.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1JvEvjuWh-hcYr1iaGx7z4)
-- 2026/10/28 - [和暢科技初上櫃<b>過額配售</b>150張，佔公開承銷數量比例3.36% | MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/x2ogWqw&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3uJiRbKM7vNgbCqhBagc4x)
-- 2026/10/27 - [討論牆| 和暢科技公告本公司辦理股票初次上櫃<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/OplvM3B&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2cBNAifKbd6vaHZcNG07YX)
+- 2026/10/30 - [泰合:本公司上市掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6642036&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2k5rb_Mm0Isilbg7VqCz8v)
+- 2026/10/30 - [泰合本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D3ed85264-c2a9-4ba4-b36e-1a30bd84b0b5&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw34Iyt-PY7o0bu3IaEe8THk)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
