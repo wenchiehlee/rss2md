@@ -24,8 +24,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/10/30 - [泰合:本公司上市掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6642036&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2k5rb_Mm0Isilbg7VqCz8v)
-- 2026/10/30 - [泰合本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D3ed85264-c2a9-4ba4-b36e-1a30bd84b0b5&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw34Iyt-PY7o0bu3IaEe8THk)
+- 2026/11/02 - [程曦資訊公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D246c4aac-01dc-44aa-a9bf-86f7101045df&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3LYTAXAmt6xBx2eSsAr76T)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
