@@ -2,28 +2,30 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/10/20 - [特力屋、和暢科技IPO出師不利雙雙調降承銷價10／29上市櫃<b>掛牌</b> - 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261019701383-430201&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3CwvQHEFo5pu3BIaKEkIJ2)
-- 2026/10/20 - [特力屋年接萬件裝修<b>掛牌</b>前成績單曝光！ - 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/setn_1921072&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw34kSRbZx-Tmw_XNs_k1wzt)
-- 2026/10/20 - [8千億搶<b>抽籤</b>熱潮退燒！漢測上櫃20天跌停<b>競拍</b>大戶慘套牢 - 行銷人](https://www.google.com/url?rct=j&sa=t&url=https://www.marketersgo.com/%25E5%25AA%2592%25E9%25AB%2594%25E6%2596%25B0%25E8%2581%259E/202610/8%25E5%258D%2583%25E5%2584%2584%25E6%2590%25B6%25E6%258A%25BD%25E7%25B1%25A4%25E7%2586%25B1%25E6%25BD%25AE%25E9%2580%2580%25E7%2587%2592%25EF%25BC%2581%25E6%25BC%25A2%25E6%25B8%25AC%25E4%25B8%258A%25E6%25AB%258320%25E5%25A4%25A9%25E8%25B7%258C%25E5%2581%259C%25E3%2580%2580%25E7%25AB%25B6%25E6%258B%258D%25E5%25A4%25A7/&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3RRzsAvwxw05SJygPS6g8r)
-- 2026/10/19 - [程曦資訊<b>競拍</b>完成公開申購價60元預計10月23日<b>掛牌</b>上櫃 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11074/9814701&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2at3TYkXAVxkWjm5HQTDuZ)
+- 2026/11/03 - [耐特預計11/19<b>掛牌</b>上市11/4<b>競拍</b>起跑底價62.5元 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6644228&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0hY44Wjn5Rojha-AbRf2F4)
+- 2026/11/03 - [半導體、BBU材料占比衝25%！耐特11月19日上市暫定承銷價80元- 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/amp/mirrordaily_95361&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3-4lQqVWbPOiRMNoHdFF3g)
+- 2026/11/03 - [騏億鑫<b>競拍</b>登場，半導體擴廠潮推升營運衝](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D6986ac06-817e-47a0-bfcb-bc694840037a&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1ePpcLNsLh6zUGH620vpGW)
+- 2026/11/03 - [耐特11月19日<b>掛牌</b>上市半導體與BBU雙引擎發威營收占比逾25% - 財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.wearn.com/c2137081.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1OpOYZUoGvyuRp5bKowA5M)
+- 2026/11/03 - [耐特11/4起辦理<b>競拍</b>底價每股62.5元- 財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/cna/20261102/index-17936146250236418003.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2fW45wXcV_b7W7Z-q6XZyt)
+- 2026/11/03 - [耐特預計11/19<b>掛牌</b>上市11/4<b>競拍</b>起跑底價62.5元 - TradingView](https://www.google.com/url?rct=j&sa=t&url=https://tw.tradingview.com/news/cnyes:fb35cbc50acdf:0/&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw06LfQ3haj0M3wu1nH5eQQ4)
+- 2026/11/03 - [耐特11月19日<b>掛牌</b>上市半導體與BBU雙引擎發威營收占比逾25% - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20261102%26CSeqNO%3DE9852521&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3cJzRbQLMMsiYLjlGx-F7m)
+- 2026/10/30 - [騏億鑫前三季營收年增逾七成上櫃前現增承銷啟動<b>競拍</b>底價每股210元- 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/story/20261029-10bus-162943&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2r6cYNYO3kMD36rPClrhz2)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/11/02 - [耐特11/4起辦理<b>競拍</b>底價每股62.5元- 財經 - 華視新聞網](https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/money/202611/202611023096519.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2i6HZ8uFjlrifUC5Dvj2kS)
-- 2026/11/02 - [耐特預計11/19<b>掛牌</b>上市11/4<b>競拍</b>起跑底價62.5元 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E8%2580%2590%25E7%2589%25B9%25E9%25A0%2590%25E8%25A8%258811-19%25E6%258E%259B%25E7%2589%258C%25E4%25B8%258A%25E5%25B8%2582-11-4%25E7%25AB%25B6%25E6%258B%258D%25E8%25B5%25B7%25E8%25B7%2591%25E5%25BA%2595%25E5%2583%25B962-5%25E5%2585%2583-124532301.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw11V0BeFsPoFAJMPOUjFVGx)
-- 2026/11/02 - [耐特11/4起辦理<b>競拍</b>底價每股62.5元| 證券| 中央社CNA](https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202611020227.aspx&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw353B1ZTEhhYIhH1GJ1BUqw)
-- 2026/11/02 - [耐特預計11/19<b>掛牌</b>上市11/4<b>競拍</b>起跑底價62.5元 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/id/6644228&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2pS8i7Qiy8mFeMntoPGtsD)
-- 2026/11/02 - [耐特11月19日<b>掛牌</b>上市半導體與BBU雙引擎發威營收占比逾25% | 個股情報 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7252/9852521&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0tMlvJCbTimcu-ni1OrWsA)
-- 2026/11/02 - [耐特11月19日<b>掛牌</b>上市半導體與BBU雙引擎發威營收占比逾25% - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20261102%26CSeqNO%3DE9852521&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3cJzRbQLMMsiYLjlGx-F7m)
-- 2026/11/02 - [耐特11/4起辦理<b>競拍</b>底價每股62.5元 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5612/9852516&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2VgNJpTRZx4bbjLrrzMjKY)
-- 2026/11/02 - [耐特11/4起辦理<b>競拍</b>底價每股62.5元 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5612/9852516%3Ffrom%3Dedn_newestlist_rank&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0u95C_LSlybbgciYn9e8DP)
-- 2026/11/02 - [準上市：半導體複合材料大廠耐特(8058)11月19日上市，暫定每股承銷價80元 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D2437288002%26PU%3D0009&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3XEdXfMyaNkE62M2qwy_RW)
+- 2026/11/03 - [耐特11／19<b>掛牌</b>上市- 證券．權證- 工商時報 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20261103000356-260206&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw37DnxkzqAHcyvGGmWxO5KA)
+- 2026/11/03 - [半導體、BBU材料占比衝25%！耐特11月19日上市暫定承銷價80元- 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/mirrordaily_95361&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw370HIXPGla-rleByRlD34A)
+- 2026/11/03 - [耐特11/19<b>掛牌</b>上市- 日報- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261103700243-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2kKe3e2V-ReJmt3oTKji7S)
+- 2026/11/03 - [耐特11月19日<b>掛牌</b>上市半導體與BBU雙引擎發威營收占比逾25% - 財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.wearn.com/c2137081.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1OpOYZUoGvyuRp5bKowA5M)
+- 2026/11/03 - [耐特預計11/19<b>掛牌</b>上市11/4<b>競拍</b>起跑底價62.5元 - TradingView](https://www.google.com/url?rct=j&sa=t&url=https://tw.tradingview.com/news/cnyes:fb35cbc50acdf:0/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw06LfQ3haj0M3wu1nH5eQQ4)
+- 2026/11/03 - [耐特19日<b>掛牌</b> - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec//News/nContent.aspx%3FNewsDate%3D20261103%26CSeqNO%3DE9852694&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1m_Ynj4EdrMbOsxElhgSYH)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/11/03 - [湧盛:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6645118&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1vPXf-BAh8NhAsQF467Ebl)
 - 2026/11/02 - [程曦資訊公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D246c4aac-01dc-44aa-a9bf-86f7101045df&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3LYTAXAmt6xBx2eSsAr76T)
 <!-- _feedinvestment2_ end -->
 
