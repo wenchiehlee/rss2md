@@ -22,9 +22,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/11/04 - [東擎科技本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D025256a4-333c-418d-b92a-baf2ba681961&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0KkHt3OeWJsS8xfCy3mOUY)
 - 2026/11/04 - [[藍新資訊6938.TW] 公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - BigGo 財經](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com.tw/news/twse_major_6938_1151103_163829&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3SGeDNekbkVUKNba9t3J0c)
 - 2026/11/03 - [藍新資訊公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D9b7a1e59-0024-4152-8be1-a1237d83ca6e&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3c6dbXt8ZlMrhPWJy6iqyy)
-- 2026/11/03 - [湧盛:公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6645118&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1vPXf-BAh8NhAsQF467Ebl)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
