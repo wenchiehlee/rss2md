@@ -15,6 +15,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/11/05 - [最新5檔股票<b>抽籤</b>出爐！半導體廠務工程騏億鑫（7848）抽中最高價差達5.6萬元 - 永豐金證券](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/hotstock/%25E6%259C%2580%25E6%2596%25B05%25E6%25AA%2594%25E8%2582%25A1%25E7%25A5%25A8%25E6%258A%25BD%25E7%25B1%25A4%25E5%2587%25BA%25E7%2588%2590-%25E5%258D%258A%25E5%25B0%258E%25E9%25AB%2594%25E5%25BB%25A0%25E5%258B%2599%25E5%25B7%25A5%25E7%25A8%258B%25E9%25A8%258F%25E5%2584%2584%25E9%2591%25AB-7848-%25E6%258A%25BD%25E4%25B8%25AD%25E6%259C%2580%25E9%25AB%2598%25E5%2583%25B9%25E5%25B7%25AE%25E9%2581%25945-6%25E8%2590%25AC%25E5%2585%2583-%25E5%259F%25BA%25E6%259C%25AC%25E9%259D%25A2-%25E7%2594%25B3%25E8%25B3%25BC%25E6%2599%2582%25E7%25A8%258B%25E5%25A0%25B1%25E4%25BD%25A0%25E7%259F%25A5-68ad2d7465ece25e7bf87c14&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw251jWSK6TKb-tVBuTubgNc)
 - 2026/11/04 - [高階材料商機爆發！耐特科技承銷價80元11月19日正式<b>掛牌</b> - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1932569&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw32hRQYrMBhPCUigQCnAeNd)
 - 2026/11/03 - [《興櫃股》耐特11/19<b>掛牌</b>上市 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D6346755001%26PU%3D1002&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1TUjNiDfxOn_Znsu1_A4Bg)
 - 2026/11/03 - [耐特11/4起辦理<b>競拍</b>底價每股62.5元|半導體|產業新聞 - IEK產業情報網](https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D7%26nsl_id%3D16203ee24a1e44158ecedbcb541bc995&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2M9k7qzkAq59C6ltYqBKQs)
@@ -23,8 +24,6 @@
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
 - 2026/11/04 - [東擎科技本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D025256a4-333c-418d-b92a-baf2ba681961&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0KkHt3OeWJsS8xfCy3mOUY)
-- 2026/11/04 - [[藍新資訊6938.TW] 公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - BigGo 財經](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com.tw/news/twse_major_6938_1151103_163829&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3SGeDNekbkVUKNba9t3J0c)
-- 2026/11/03 - [藍新資訊公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D9b7a1e59-0024-4152-8be1-a1237d83ca6e&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3c6dbXt8ZlMrhPWJy6iqyy)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
