@@ -16,14 +16,8 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2026/11/04 - [高階材料商機爆發！耐特科技承銷價80元11月19日正式<b>掛牌</b> - 三立iNEWS](https://www.google.com/url?rct=j&sa=t&url=https://inews.setn.com/news/1932569&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw32hRQYrMBhPCUigQCnAeNd)
-- 2026/11/03 - [耐特11／19<b>掛牌</b>上市- 證券．權證- 工商時報 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20261103000356-260206&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw37DnxkzqAHcyvGGmWxO5KA)
-- 2026/11/03 - [半導體、BBU材料占比衝25%！耐特11月19日上市暫定承銷價80元- 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/mirrordaily_95361&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw370HIXPGla-rleByRlD34A)
 - 2026/11/03 - [《興櫃股》耐特11/19<b>掛牌</b>上市 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx%3FSN%3D6346755001%26PU%3D1002&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1TUjNiDfxOn_Znsu1_A4Bg)
-- 2026/11/03 - [耐特11/19<b>掛牌</b>上市- 日報- 工商時報](https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261103700243-439901&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2kKe3e2V-ReJmt3oTKji7S)
 - 2026/11/03 - [耐特11/4起辦理<b>競拍</b>底價每股62.5元|半導體|產業新聞 - IEK產業情報網](https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D7%26nsl_id%3D16203ee24a1e44158ecedbcb541bc995&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2M9k7qzkAq59C6ltYqBKQs)
-- 2026/11/03 - [耐特11月19日<b>掛牌</b>上市半導體與BBU雙引擎發威營收占比逾25% - 財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.wearn.com/c2137081.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1OpOYZUoGvyuRp5bKowA5M)
-- 2026/11/03 - [耐特預計11/19<b>掛牌</b>上市11/4<b>競拍</b>起跑底價62.5元 - TradingView](https://www.google.com/url?rct=j&sa=t&url=https://tw.tradingview.com/news/cnyes:fb35cbc50acdf:0/&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw06LfQ3haj0M3wu1nH5eQQ4)
-- 2026/11/03 - [耐特19日<b>掛牌</b> - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec//News/nContent.aspx%3FNewsDate%3D20261103%26CSeqNO%3DE9852694&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1m_Ynj4EdrMbOsxElhgSYH)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
