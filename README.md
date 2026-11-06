@@ -20,7 +20,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/11/04 - [東擎科技本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D025256a4-333c-418d-b92a-baf2ba681961&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0KkHt3OeWJsS8xfCy3mOUY)
+- 2026/11/06 - [和暢科技公告本公司初次上櫃掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D57e080b6-fd9b-487d-92ff-6290abf43182%26c%3DMB06&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3cI-kFunEi-4N9xgE9zjIZ)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
