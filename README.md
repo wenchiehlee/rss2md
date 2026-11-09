@@ -15,7 +15,9 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/11/05 - [從5,000元殺到2,520元！漢測38萬人瘋搶變臉<b>競拍</b>大戶1張慘賠175萬- 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/story/20261105-185mon-193802&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw10st3LBDXaa0WHsHs4v4DO)
+- 2026/11/09 - [重電新兵來了！宏于電機暫定承銷價208元明年搶進北美AI 電力市場](https://www.google.com/url?rct=j&sa=t&url=https://news.wearn.com/c2142068.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2lQZUEkohEHrb5XNQynJs8)
+- 2026/11/09 - [重電新兵來了！宏于電機暫定承銷價208元明年搶進北美AI 電力市場 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7240/9867045&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw02FDN-P9MAquqrZ2wj_BHu)
+- 2026/11/09 - [重電新兵來了！宏于電機暫定承銷價208元明年搶進北美AI 電力市場](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5612/9867045&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ejv3A_oPdMWuqo-BCbDpC)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
