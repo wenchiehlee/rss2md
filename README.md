@@ -22,6 +22,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/11/10 - [興櫃申報轉讓：11月09日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2441794002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0imxFAzcGizdNMg877lUoy)
 - 2026/11/09 - [特力屋公告本公司上市掛牌首五個營業日穩定價格操作結果 - MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3D29dda09e-543e-4dc4-b5b8-416524c81dcf&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2XFR0NmJO9fBXp2lK3Pt3d)
 <!-- _feedinvestment2_ end -->
 
