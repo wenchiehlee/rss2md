@@ -15,9 +15,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/11/09 - [重電新兵來了！宏于電機暫定承銷價208元明年搶進北美AI 電力市場](https://www.google.com/url?rct=j&sa=t&url=https://news.wearn.com/c2142068.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2lQZUEkohEHrb5XNQynJs8)
-- 2026/11/09 - [重電新兵來了！宏于電機暫定承銷價208元明年搶進北美AI 電力市場 - 聯合新聞網](https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7240/9867045&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw02FDN-P9MAquqrZ2wj_BHu)
-- 2026/11/09 - [重電新兵來了！宏于電機暫定承銷價208元明年搶進北美AI 電力市場](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5612/9867045&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0ejv3A_oPdMWuqo-BCbDpC)
+- 2026/11/10 - [《興櫃股》宏于電機明起<b>競拍</b>底價180.87元 - 中時新聞網](https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20261110001443-260410&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw27H-UVakvBZm1OLvnABKvI)
+- 2026/11/10 - [《興櫃股》宏于電機明起<b>競拍</b>底價180.87元- 上市櫃 - 旺得富理財網](https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20261110900126-420101&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2BFwJKj0ZYSnESTQAJpjni)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
