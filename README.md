@@ -23,7 +23,6 @@
 <!-- _feedinvestment2_ start -->
 - 2026/11/10 - [11/9興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/3N11G0v&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3iPF0slTl8LOXtcYgUSxdf)
 - 2026/11/10 - [11/9興櫃公司持股轉讓明細](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D75c1a6fb-6b6a-4505-87e7-33737694d255&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw32CWrOSgCt2n8g1n2MyedF)
-- 2026/11/10 - [興櫃申報轉讓：11月09日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2441794002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0imxFAzcGizdNMg877lUoy)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
