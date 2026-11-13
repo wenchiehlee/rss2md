@@ -20,6 +20,10 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/11/12 - [騏億鑫前三季合併獲利4.36億元，每股稅後13.07元| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/7NGLmXk&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3uMD6R75YMGM16JxW4q2TB)
+- 2026/11/12 - [騏億鑫公告本公司新任公司治理主管| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/0MWqKll&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw05YEn3sDrYLeqJ4QSwUN_U)
+- 2026/11/12 - [6407 相互- 騏億鑫公告本公司辦理股票初次上櫃<b>過額配售</b>內容](https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/188586692&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3uSz56-s1v532w2h40-jc4)
+- 2026/11/12 - [【公告】騏億鑫辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E9%25A8%258F%25E5%2584%2584%25E9%2591%25AB%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-140242324.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3apdHXay_pEJ1Lt2E0h0A9)
 - 2026/11/12 - [討論牆| 海昌生技公告本公司辦理股票初次上櫃<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/nXKV36M&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3EQYxwiE2jeKDnOiLjwqIi)
 <!-- _feedinvestment2_ end -->
 
