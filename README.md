@@ -20,7 +20,9 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
+- 2026/11/13 - [騏億鑫公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Nv5qElG&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw20Z17MAj9k2Zm7oRXtspai)
 - 2026/11/13 - [騏億鑫初次上櫃<b>過額配售</b>100張，佔公開承銷數量比例2.61% - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%25A8%258F%25E5%2584%2584%25E9%2591%25AB%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE100%25E5%25BC%25B5-%25E4%25BD%2594%25E5%2585%25AC%25E9%2596%258B%25E6%2589%25BF%25E9%258A%25B7%25E6%2595%25B8%25E9%2587%258F%25E6%25AF%2594%25E4%25BE%258B2-61-011300541.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0mJD_itSr61OebqJfXHJ7B)
+- 2026/11/13 - [騏億鑫公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/5yv96Jy&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw17LuF3IxmKXVHw-Amd-8MN)
 - 2026/11/13 - [元太(補充11/6公告)本公司董事會通過擬參與永豐金融控股股份有限公司現金增資案](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/DRjOl0p&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2Q2Qx1l3IW3cqK5yfQo4Ci)
 - 2026/11/13 - [騏億鑫公告本公司辦理股票初次上櫃<b>過額配售</b>內容- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D2d9e5730-4b78-4e63-ae4a-5783a1edf841&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1mSxPtWjNqiHQC5CFk84Jy)
 - 2026/11/12 - [騏億鑫前三季合併獲利4.36億元，每股稅後13.07元| MoneyDJ理財網| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/7NGLmXk&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3uMD6R75YMGM16JxW4q2TB)
