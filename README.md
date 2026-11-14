@@ -2,14 +2,7 @@
 ## 掛牌 競拍 抽籤 
 
 <!-- _feedinvestment1_ start -->
-- 2026/11/03 - [耐特預計11/19<b>掛牌</b>上市11/4<b>競拍</b>起跑底價62.5元 - 鉅亨網](https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6644228&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0hY44Wjn5Rojha-AbRf2F4)
-- 2026/11/03 - [半導體、BBU材料占比衝25%！耐特11月19日上市暫定承銷價80元- 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/amp/mirrordaily_95361&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3-4lQqVWbPOiRMNoHdFF3g)
-- 2026/11/03 - [騏億鑫<b>競拍</b>登場，半導體擴廠潮推升營運衝](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D6986ac06-817e-47a0-bfcb-bc694840037a&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1ePpcLNsLh6zUGH620vpGW)
-- 2026/11/03 - [耐特11月19日<b>掛牌</b>上市半導體與BBU雙引擎發威營收占比逾25% - 財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.wearn.com/c2137081.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1OpOYZUoGvyuRp5bKowA5M)
-- 2026/11/03 - [耐特11/4起辦理<b>競拍</b>底價每股62.5元- 財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/cna/20261102/index-17936146250236418003.html&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2fW45wXcV_b7W7Z-q6XZyt)
-- 2026/11/03 - [耐特預計11/19<b>掛牌</b>上市11/4<b>競拍</b>起跑底價62.5元 - TradingView](https://www.google.com/url?rct=j&sa=t&url=https://tw.tradingview.com/news/cnyes:fb35cbc50acdf:0/&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw06LfQ3haj0M3wu1nH5eQQ4)
-- 2026/11/03 - [耐特11月19日<b>掛牌</b>上市半導體與BBU雙引擎發威營收占比逾25% - 國泰證券](https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20261102%26CSeqNO%3DE9852521&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3cJzRbQLMMsiYLjlGx-F7m)
-- 2026/10/30 - [騏億鑫前三季營收年增逾七成上櫃前現增承銷啟動<b>競拍</b>底價每股210元- 鏡週刊Mirror Media](https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/story/20261029-10bus-162943&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2r6cYNYO3kMD36rPClrhz2)
+- 2026/11/14 - [最新3檔股票<b>抽籤</b>出爐！其中智慧電力與能源系統整合廠宏于電機（7869）抽中最高價差達7萬 ...](https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/hotstock/%25E6%259C%2580%25E6%2596%25B03%25E6%25AA%2594%25E8%2582%25A1%25E7%25A5%25A8%25E6%258A%25BD%25E7%25B1%25A4%25E5%2587%25BA%25E7%2588%2590-%25E5%2585%25B6%25E4%25B8%25AD%25E6%2599%25BA%25E6%2585%25A7%25E9%259B%25BB%25E5%258A%259B%25E8%2588%2587%25E8%2583%25BD%25E6%25BA%2590%25E7%25B3%25BB%25E7%25B5%25B1%25E6%2595%25B4%25E5%2590%2588%25E5%25BB%25A0%25E5%25AE%258F%25E4%25BA%258E%25E9%259B%25BB%25E6%25A9%259F-7869-%25E6%258A%25BD%25E4%25B8%25AD%25E6%259C%2580%25E9%25AB%2598%25E5%2583%25B9%25E5%25B7%25AE%25E9%2581%25947%25E8%2590%25AC%25E4%25BB%25A5%25E4%25B8%258A-%25E9%2582%2584%25E6%259C%2589%25E7%25A2%25A9%25E7%25A6%25BE%25E8%2588%2587%25E5%25A4%25A9%25E4%25BA%258C%25E7%25A7%2591%25E6%258A%2580-%25E5%2580%258B%25E8%2582%25A1%25E5%259F%25BA%25E6%259C%25AC%25E9%259D%25A2-%25E7%2594%25B3%25E8%25B3%25BC%25E6%2599%2582%25E7%25A8%258B%25E5%25A0%25B1%25E4%25BD%25A0%25E7%259F%25A5-68ad2d7465ece25e7bf87c14&ct=ga&cd=CAIyIDQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3EQsh0TEbxOt6p4iEkN8nj)
 <!-- _feedinvestment1_ end -->
 
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
@@ -20,8 +13,7 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/11/13 - [騏億鑫公告本公司洽定上櫃買賣開始日並自同日起終止興櫃買賣 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Nv5qElG&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw20Z17MAj9k2Zm7oRXtspai)
-- 2026/11/13 - [騏億鑫公告本公司股票初次上櫃前現金增資收足股款暨現金增資基準日| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/5yv96Jy&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw17LuF3IxmKXVHw-Amd-8MN)
+- 2026/11/14 - [討論牆| 騏億鑫初次上櫃<b>過額配售</b>100張，佔公開承銷數量比例2.61% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/oqpBZRo&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1x7qKCXgpP0umbnjwNR0yr)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
