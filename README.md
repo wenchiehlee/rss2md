@@ -8,12 +8,18 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/11/15 - [抽中現賺8.5萬？宏于電機(7869)公開申購，股票<b>抽籤</b>該注意什麼？ - 鏈新聞](https://www.google.com/url?rct=j&sa=t&url=https://abmedia.io/7869-public-subscription&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2yv1rxfxH5IEBfiaoMUtTj)
+- 2026/11/20 - [騰勢競拍超額認購達2.42倍承銷價47.19元 - 自立晚報](https://www.google.com/url?rct=j&sa=t&url=https://www.idn.com.tw/news/news_content.aspx%3Fcatid%3D3%26catsid%3D1%26catdid%3D0%26artid%3D20261120kofang004&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3XvMVFy75gxUuwKWttW2RR)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/11/14 - [討論牆| 騏億鑫初次上櫃<b>過額配售</b>100張，佔公開承銷數量比例2.61% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/oqpBZRo&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1x7qKCXgpP0umbnjwNR0yr)
+- 2026/11/20 - [討論牆| 宏于電機公告本公司辦理股票初次上櫃<b>過額配售</b>內容| LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/eLp6nnK&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2DzvH0qQQZuYnojon0Pq7f)
+- 2026/11/20 - [討論牆| 宏于電機初上櫃<b>過額配售</b>225張，佔公開承銷數量比例9.76% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/2D9x66e&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw1f1sfAAT-Py2lt-o5ZNCig)
+- 2026/11/20 - [宏于電機公告本公司股票初次上櫃前現金增資員工認購股款催繳事宜 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AE%258F%25E4%25BA%258E%25E9%259B%25BB%25E6%25A9%259F-%25E5%2585%25AC%25E5%2591%258A%25E6%259C%25AC%25E5%2585%25AC%25E5%258F%25B8%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E5%2589%258D%25E7%258F%25BE%25E9%2587%2591%25E5%25A2%259E%25E8%25B3%2587%25E5%2593%25A1%25E5%25B7%25A5%25E8%25AA%258D%25E8%25B3%25BC%25E8%2582%25A1%25E6%25AC%25BE%25E5%2582%25AC%25E7%25B9%25B3%25E4%25BA%258B%25E5%25AE%259C-083400514.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2fFc7DLqQKygJbNXt8icVI)
+- 2026/11/20 - [【公告】宏于電機辦理股票初次上櫃<b>過額配售</b>內容 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2585%25AC%25E5%2591%258A-%25E5%25AE%258F%25E4%25BA%258E%25E9%259B%25BB%25E6%25A9%259F%25E8%25BE%25A6%25E7%2590%2586%25E8%2582%25A1%25E7%25A5%25A8%25E5%2588%259D%25E6%25AC%25A1%25E4%25B8%258A%25E6%25AB%2583%25E9%2581%258E%25E9%25A1%258D%25E9%2585%258D%25E5%2594%25AE%25E5%2585%25A7%25E5%25AE%25B9-090915305.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0jxIOe2-qywVp82qe9_DzO)
+- 2026/11/20 - [討論牆| 永悅健康初次創新板上市<b>過額配售</b>300張，佔公開承銷數量比例12.82% | LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/WBRm6eE&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2rCny18xAQm9iTmVK6Q1-V)
+- 2026/11/20 - [11/19興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D7d8e3a93-2a7f-4914-b9eb-7e658dc3ae9c&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3N_gKcEFtIjnkp3c1Geowc)
+- 2026/11/20 - [興櫃申報轉讓：11月19日興櫃公司董監事持股轉讓申報一覽表 - 富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2447865002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2v2K0Z-GIp9YcrSPmqI7j_)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
