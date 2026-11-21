@@ -8,6 +8,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/11/21 - [騰勢12月1日<b>掛牌</b>上櫃公開申購至週一、中籤溢價差約7% | 股匯投資 - NOWnews今日新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.nownews.com/news/6894268&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2cfNvimXwNIGKa98RDMa19)
+- 2026/11/21 - [騰勢週一前申購抽紅包中籤溢價差約7% - 財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/nownews/20261121/index-79523225595394207003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1xfmGSlQ45PvkhmJfmq2jr)
 - 2026/11/20 - [騰勢競拍超額認購達2.42倍承銷價47.19元 - 自立晚報](https://www.google.com/url?rct=j&sa=t&url=https://www.idn.com.tw/news/news_content.aspx%3Fcatid%3D3%26catsid%3D1%26catdid%3D0%26artid%3D20261120kofang004&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3XvMVFy75gxUuwKWttW2RR)
 <!-- _feedinvestment1_1_ end -->
 
