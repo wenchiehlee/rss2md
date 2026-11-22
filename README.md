@@ -9,8 +9,6 @@
 
 <!-- _feedinvestment1_1_ start -->
 - 2026/11/21 - [騰勢上櫃<b>競拍</b>超額認購2.42倍47.19元承銷價過關、12月1日<b>掛牌</b> - BigGo 財經](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com.tw/news/5f6947dd-0e21-41d4-901b-97c864cabb07&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0kWXOeYh6a6b9u-qg9ZC1I)
-- 2026/11/21 - [騰勢12月1日<b>掛牌</b>上櫃公開申購至週一、中籤溢價差約7% | 股匯投資 - NOWnews今日新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.nownews.com/news/6894268&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2cfNvimXwNIGKa98RDMa19)
-- 2026/11/21 - [騰勢週一前申購抽紅包中籤溢價差約7% - 財經新聞](https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/nownews/20261121/index-79523225595394207003.html&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw1xfmGSlQ45PvkhmJfmq2jr)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
