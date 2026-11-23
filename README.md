@@ -8,7 +8,7 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
-- 2026/11/21 - [騰勢上櫃<b>競拍</b>超額認購2.42倍47.19元承銷價過關、12月1日<b>掛牌</b> - BigGo 財經](https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com.tw/news/5f6947dd-0e21-41d4-901b-97c864cabb07&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw0kWXOeYh6a6b9u-qg9ZC1I)
+- 2026/11/22 - [<b>競拍</b>超額認購2.42倍！生技股騰勢12/1上櫃承銷價47.19元 - 知新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/1E8FD71AF5045B2EB7C0E528EA9A6B43&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2_dgi1WyW0Vr8GIhlKLOOv)
 <!-- _feedinvestment1_1_ end -->
 
 ## 過額配售 
