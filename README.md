@@ -8,6 +8,8 @@
 ## "掛牌" and ("抽籤" or "競拍" or "競價拍賣")
 
 <!-- _feedinvestment1_1_ start -->
+- 2026/11/24 - [騰勢<b>競拍</b>明天<b>抽籤</b>| 市場焦點| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5607/9897079&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw3NMrCaaTRY8QJtUXMDJGpV)
+- 2026/11/24 - [騰勢<b>競拍</b>明天<b>抽籤</b>| 市場焦點| 證券 - 經濟日報](https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5607/9897079&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2KJuBC498x5J9q5U3ZmeVw)
 - 2026/11/22 - [<b>競拍</b>超額認購2.42倍！生技股騰勢12/1上櫃承銷價47.19元 - 知新聞](https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/1E8FD71AF5045B2EB7C0E528EA9A6B43&ct=ga&cd=CAIyIjQxYmVhYTFmNmEwMzBlM2I6Y29tLnR3OnpoLVRXOlRXOkw&usg=AOvVaw2_dgi1WyW0Vr8GIhlKLOOv)
 <!-- _feedinvestment1_1_ end -->
 
