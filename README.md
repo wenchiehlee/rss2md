@@ -15,7 +15,10 @@
 
 ## 過額配售 
 <!-- _feedinvestment2_ start -->
-- 2026/11/24 - [宏于電機公告本公司初次上櫃前現金增資收足股款暨現金增資基準日| MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/gzp0RXm&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3Iyh_amCC4zwJ-F_vh_k5q)
+- 2026/11/25 - [11/24興櫃公司持股轉讓明細| MoneyDJ理財網 - LINE TODAY](https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/rmYE7gn&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2bTRPbdKkU0YL3FUfXGGMj)
+- 2026/11/25 - [11/24興櫃公司持股轉讓明細- 新聞- MoneyDJ理財網](https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D1ee54917-5c3f-415c-bd2c-ebd83124bf9d&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw3H_1L-nysIsjZOXSwrI7lQ)
+- 2026/11/25 - [11月24日興櫃公司董監事持股轉讓申報一覽表_富聯網](https://www.google.com/url?rct=j&sa=t&url=https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx%3FSN%3D2449452002%26PU%3D0010&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw0504WUuFBnA2A7sxRt88Xx)
+- 2026/11/25 - [11/24興櫃公司持股轉讓明細 - Yahoo股市](https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/11-24%25E8%2588%2588%25E6%25AB%2583%25E5%2585%25AC%25E5%258F%25B8%25E6%258C%2581%25E8%2582%25A1%25E8%25BD%2589%25E8%25AE%2593%25E6%2598%258E%25E7%25B4%25B0-002600984.html&ct=ga&cd=CAIyIDdhMWZmN2RkNDBhZjFjMzk6Y29tLnR3OnpoLVRXOlRX&usg=AOvVaw2tzd4ILLt-dJJcXpi5Sohe)
 <!-- _feedinvestment2_ end -->
 
 ## mkdocs-investment
